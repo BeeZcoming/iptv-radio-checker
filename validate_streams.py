@@ -269,7 +269,7 @@ async def main():
         write_m3u(os.path.join(OUTPUT_DIR, f"radio_{key}.m3u"), g["items"])
 
     # ---- 4. manifest ----
-    cdn_base = "https://cdn.jsdelivr.net/gh/REPLACE_USER/REPLACE_REPO@main/output"
+    cdn_base = "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output"
     manifest = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "tv": build_manifest("tv", tv_groups, cdn_base),
