@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1,2Day FM
+https://icecast1.sere.plus/2Day
+#EXTINF:-1,Bula FM
+https://icecast1.sere.plus/Bula
+#EXTINF:-1,FM 96
+https://n03-us2.rcs.revma.com/q8txpfyyay3vv?rj-ttl=5&rj-tok=AAABoYdWCpMAnffnvaD4Mp_VUw
+#EXTINF:-1,Gold FM
+https://icecast1.sere.plus/Gold
+#EXTINF:-1,Legend FM
+https://stream.rcs.revma.com/7wnnz47a303vv?ver=864684
+#EXTINF:-1,Life FM
+https://streams3.vision.org.au/fiji.aac
+#EXTINF:-1,Life Worship
+https://streams3.vision.org.au/worshipap.aac
+#EXTINF:-1,Radio Fiji One
+https://icecast1.sere.plus/RFOne
+#EXTINF:-1,Radio Fiji Two
+https://icecast1.sere.plus/RFTwo
+#EXTINF:-1,Radio mirchi Fiji
+https://icecast1.sere.plus/MirchiFiji
+#EXTINF:-1,Radio Navtarang
+https://stream.rcs.revma.com/5f56gd8a303vv
+#EXTINF:-1,Radio Sargam
+https://stream.rcs.revma.com/8a38ru8a303vv?ver=531608
+#EXTINF:-1,Viti FM
+https://stream.rcs.revma.com/3c11kc9a303vv

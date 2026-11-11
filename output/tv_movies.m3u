@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1,AVI Rewind (1080p)
+http://45.70.201.81:8000/play/a010/index.m3u8
+#EXTINF:-1,AXN Latin America Andes (1080p)
+http://181.78.8.199:8000/play/a0cu/index.m3u8
+#EXTINF:-1,AXN Poland (1080p)
+http://92.114.85.87:8015/play/a00f/index.m3u8
+#EXTINF:-1,Bollywood HD Russia (576p)
+https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
+#EXTINF:-1,Cine Western (France) (1080p)
+https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
+#EXTINF:-1,like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="Movies",Cine+
+http://777905.live.tvstitch.com/playlist.m3u8?master=567&source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2gzMy90cmFja3MtdjJhMS9tb25vLm0zdTg/bGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1MjM2MiZzdD12bmp2elZKY2JtUndKMkFzY1l0UWpR
+#EXTINF:-1,like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="Movies",Cine+ Hit
+http://777905.live.tvstitch.com/playlist.m3u8?master=539&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDAvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI3NDUmc3Q9cVZaQ3Vpd2l3UzEwLW1tMzEwMktDZw==
+#EXTINF:-1,like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="Movies",Cine+ Legend
+http://777905.live.tvstitch.com/playlist.m3u8?master=568&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMzQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI2Mzgmc3Q9RHdRc3AyN2l6V3J1dllqUEZ5aS1yUQ==
+#EXTINF:-1,CineLatino (720p)
+http://168.196.127.137:6001/play/a08o/index.m3u8
+#EXTINF:-1,City Eden KinoAction [Not 24/7]
+https://cityeden.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1,City Eden KinoArt [Not 24/7]
+https://cityeden.catcast.tv/content/38398/index.m3u8
+#EXTINF:-1,City Eden KinoAsia [Not 24/7]
+https://cityeden.catcast.tv/content/34393/index.m3u8
+#EXTINF:-1,City Eden KinoDetektiv [Not 24/7]
+https://cityeden.catcast.tv/content/41327/index.m3u8
+#EXTINF:-1,City Eden KinoDrama [Not 24/7]
+https://cityeden.catcast.tv/content/45269/index.m3u8
+#EXTINF:-1,City Eden KinoFantastika [Not 24/7]
+https://cityeden.catcast.tv/content/45268/index.m3u8
+#EXTINF:-1,City Eden KinoKlassika [Not 24/7]
+https://cityeden.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1,City Eden KinoKomediya [Not 24/7]
+https://cityeden.catcast.tv/content/41331/index.m3u8
+#EXTINF:-1,City Eden KinoMistika [Not 24/7]
+https://cityeden.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1,Claro Cinema (1080p)
+http://45.171.64.30:6060/play/a039/index.m3u8
+#EXTINF:-1,Colors Cineplex (576p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
+#EXTINF:-1,De Pelicula Plus (1080p)
+http://200.115.120.1:8000/play/ca030/index.m3u8
+#EXTINF:-1,Emotion L (1080p)
+https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8
+#EXTINF:-1,FILMBOX+ Action (720p)
+http://92.114.85.87:8008/play/a007/index.m3u8
+#EXTINF:-1,FILMBOX+ Comedy (720p)
+http://92.114.85.87:8008/play/a009/index.m3u8
+#EXTINF:-1,FILMBOX+ Emotion (720p)
+http://92.114.85.87:8008/play/a008/index.m3u8
+#EXTINF:-1,FILMBOX+ Festival Poland
+http://92.114.85.87:8018/play/a009/index.m3u8
+#EXTINF:-1,FILMBOX+ Hits (576i)
+http://92.114.85.87:8008/play/a00a/index.m3u8
+#EXTINF:-1,GREAT! movies (1080p)
+https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
+#EXTINF:-1,GREAT! romance (1080p)
+https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
+#EXTINF:-1,Kino 1 (Russia) [Not 24/7]
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1,MovieSphere AU (1080p)
+https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
+#EXTINF:-1,MovieSphere Gold WFXT (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
+#EXTINF:-1,MultiPremier (1080p)
+http://168.196.127.137:6001/play/a08n/index.m3u8
+#EXTINF:-1,Nash Kinopokaz HD (576p)
+http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
+#EXTINF:-1,NEW K.MOVIES (1080p)
+https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_id=newid_343&tp=samsung_tvplus
+#EXTINF:-1,Nolly Africa (1080p)
+https://amg02784-amg02784c2-amgplt0002.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02784-amg02784c2-amgplt0002/playlist.m3u8
+#EXTINF:-1,ON Movies (720p)
+https://freem3u.xyz/api/live/play.m3u8?vid=181
+#EXTINF:-1,ScreamIN (1080p)
+https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
+#EXTINF:-1,Sundance TV (Poland) (576i)
+http://92.114.85.87:8003/play/a004/index.m3u8
+#EXTINF:-1,TV 21 International (576p)
+http://46.53.200.153:7777/play/TV-21M/index.m3u8
+#EXTINF:-1,like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="Movies",Viasat Kino World
+http://777905.live.tvstitch.com/playlist.m3u8?master=102&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDgvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk5NDcmc3Q9N3ROblpCZy02WTBka1RuekRIZjU0QQ==
+#EXTINF:-1,viju TV1000 (576p)
+http://46.53.200.153:7777/play/TV_1000/index.m3u8
+#EXTINF:-1,viju TV1000 action (576p)
+http://46.53.200.153:7777/play/a01h/index.m3u8
+#EXTINF:-1,viju TV1000 novella HD (1080p)
+http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8
+#EXTINF:-1,viju TV1000 russkoe (576p)
+http://46.53.200.153:7777/play/a01g/index.m3u8
+#EXTINF:-1,viju+ Megahit HD (1080p)
+http://46.53.200.153:7777/play/Viju_Megahit_HD/index.m3u8
+#EXTINF:-1,viju+ Premiere HD (1080p)
+http://46.53.200.153:7777/play/Viju_Premiere/index.m3u8
+#EXTINF:-1,Zee Cinema APAC (720p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8

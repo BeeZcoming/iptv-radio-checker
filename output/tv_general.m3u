@@ -1,0 +1,325 @@
+#EXTM3U
+#EXTINF:-1,50 Canale
+https://load-balancer.azotosolutions.com/cdnedge37/canale50/playlist.m3u8
+#EXTINF:-1,ABC KITV (720p)
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/c4067ddc-0e67-4928-b7ec-624481f721a6.m3u8
+#EXTINF:-1,ABC KMGH-TV (720p)
+https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
+#EXTINF:-1,ABC KXXV (720p)
+https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8
+#EXTINF:-1,ABC WFTV (720p)
+https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/amg00327-coxmediagroup-wftvbreaking-ono/playlist.m3u8
+#EXTINF:-1,ABC WSOC-TV (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8
+#EXTINF:-1,Afroturk TV (1080p)
+https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8
+#EXTINF:-1,Aire de Santa Fe (1080p)
+https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8
+#EXTINF:-1,Altas TV (1080p)
+https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8
+#EXTINF:-1,America Internacional (720p)
+https://api-ott.americatv.com.pe/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=whaletv&tag_id=139913&app_name=Whale+TV%2B&app_store=Browser&ic=IAB1&url=&wtv_channel_id=0470&content_id=&content_genre=News&content_title=&content_series=&content_season=&content_episode=&language=&dur=&rating=12%2B&content_producer_name=OTTera_AmericaTV_AmericaTelevision&content_categories=IAB19-29%2CIAB12&content_custom_1_param=OTTera&content_custom_2_param=F%2CM&content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54%2C55-59&tv_language=&device_make=&tv_vendor=&brand_name=&device_model=&tv_model=&gdpr=1&gdpr_consent=&did=&ua=&ip=&dnt=&lmt=&coppa=0&us_privacy=1YNN&min_dur=5&max_dur=30&cb=&h=&w=&content_livestream=1&placement=1&ap=1&mute=0&skip=0&ads.gdpr=0
+#EXTINF:-1,Antofagasta TV (1080p)
+https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
+#EXTINF:-1,AT5
+https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1,Azteca 7 (1080p)
+http://187.245.231.226:8000/play/a0uz/index.m3u8
+#EXTINF:-1,Azteca Honduras (720p)
+https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
+#EXTINF:-1,Belarus-1 (1080p)
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/playlist.m3u8
+#EXTINF:-1,Belarus-1 HD (1080p)
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
+#EXTINF:-1,Belarus-4 Gomel
+https://live.dc.beltelecom.by/trkgomel/trkgomel.stream/playlist.m3u8
+#EXTINF:-1,Belarus-4 Vitebsk (1080p)
+https://ngtrk.dc.beltelecom.by/vtv/bt4.stream/playlist.m3u8
+#EXTINF:-1,Bio Bio TV (1080p)
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
+#EXTINF:-1,Blu Radio (720p)
+https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
+#EXTINF:-1,Bolivia TV (1080p)
+http://190.181.61.93:8000/play/a001/index.m3u8
+#EXTINF:-1,Bug-TV (1080p)
+http://46.53.200.153:7777/play/Bug_TV_HD/index.m3u8
+#EXTINF:-1,Canal 1 (Colombia) (1080p)
+http://190.109.2.92:8000/play/a010/index.m3u8
+#EXTINF:-1,Canal 3 (Guatemala) (720p)
+http://181.119.177.253:8000/play/a03o/index.m3u8
+#EXTINF:-1,Canal 4 (Costa Rica) (720p)
+http://45.186.106.207:8000/play/a09t/index.m3u8
+#EXTINF:-1,Canal 5 (Mexico) XET-TDT (1080p)
+http://45.5.118.152:8000/play/a03i/index.m3u8
+#EXTINF:-1,Canal 7 (720p)
+http://181.119.177.253:8000/play/a03n/index.m3u8
+#EXTINF:-1,Canal 7 TeleValencia (576p)
+https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
+#EXTINF:-1,Canal 8 (720p) [Not 24/7]
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1,Canal 8 Sincelejo (720p)
+http://181.78.21.38:8000/play/a0df/index.m3u8
+#EXTINF:-1,Canal 11 (Costa Rica) (720p)
+http://45.5.117.188:8000/play/a02w/index.m3u8
+#EXTINF:-1,Canal 11 (Honduras) (1080p) [Not 24/7]
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
+#EXTINF:-1,Canal 12 (Nicaragua) (576p)
+http://45.228.234.9:8000/play/a06s/index.m3u8
+#EXTINF:-1,Canal 13 (Guatemala) (720p)
+http://168.196.127.137:6001/play/a064/index.m3u8
+#EXTINF:-1,Canal 56 Quiero TV (720p)
+http://45.5.118.152:8000/play/a08z/index.m3u8
+#EXTINF:-1,Canal Institucional (1080p)
+http://190.61.47.54:8000/play/a00v/index.m3u8
+#EXTINF:-1,Canal RCN (1080p)
+http://38.134.250.110:8000/play/a00i/index.m3u8
+#EXTINF:-1,Canal TRO (1080p)
+http://138.94.3.106:8000/play/a07i/index.m3u8
+#EXTINF:-1,Caracol HD2 (1080p)
+http://181.78.14.26:4000/play/a00d/index.m3u8
+#EXTINF:-1,Caracol Internacional (1080p)
+http://45.5.117.57:8200/play/a0e9/index.m3u8
+#EXTINF:-1,Cay TV (720p)
+https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
+#EXTINF:-1,CBS KIRO-TV (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreaking-ono/playlist.m3u8
+#EXTINF:-1,CBS KWTV-DT (720p) [Not 24/7]
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e48409e7-672d-42f2-b5e0-ebb6744b0425.m3u8
+#EXTINF:-1,CBS KZTV (720p)
+https://content.uplynk.com/channel/d1f868588ae5476dadaeff450170a183.m3u8
+#EXTINF:-1,CBS WHIO-TV (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-whiobreaking-ono/playlist.m3u8
+#EXTINF:-1,CBS WJAX-TV (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8
+#EXTINF:-1,CDN (480p)
+http://187.245.231.226:8000/play/a0ss/index.m3u8
+#EXTINF:-1,CNC Medellin (1080p)
+http://138.94.3.106:8000/play/a02o/index.m3u8
+#EXTINF:-1,Comercio TV (1080p)
+http://45.70.201.81:8000/play/a014/index.m3u8
+#EXTINF:-1,Decima TV (720p)
+https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8
+#EXTINF:-1,Distrito TV (1080p)
+https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
+#EXTINF:-1,DTV Den Bosch (1080p)
+https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv2&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1,DTV Maashorst (1080p)
+https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv3&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1,DTV Oss & Bernheze (1080p)
+https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv1&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1,Durangaldeko Telebista (576p)
+https://nlb2-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8
+#EXTINF:-1,Ecuavisa Guayaquil (1080p) [Not 24/7]
+https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
+#EXTINF:-1,Energia TV (720p) [Not 24/7]
+https://sincerecloud.stream/loadbalancer/public/actMdyoE.m3u8
+#EXTINF:-1,Enlace Television (1080p)
+http://181.78.12.119:16123/play/ch33/index.m3u8
+#EXTINF:-1,ETV (Estonia) (720p)
+https://sb.err.ee/live/etv.m3u8
+#EXTINF:-1,Fokus TV
+http://92.114.85.87:8018/play/a00i/index.m3u8
+#EXTINF:-1,Fox (United States) KDFW (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8
+#EXTINF:-1,Fox (United States) KRIV (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kriv-lgus/playlist.m3u8
+#EXTINF:-1,Fox (United States) KSAZ-TV (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ksaz-lgus/playlist.m3u8
+#EXTINF:-1,Fox (United States) KTBC (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ktbc-lgus/playlist.m3u8
+#EXTINF:-1,Fox (United States) KTTV (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8
+#EXTINF:-1,Fox (United States) WFTX-TV (720p)
+https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8
+#EXTINF:-1,Fox (United States) WFXT (1080p) [Geo-blocked]
+https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8
+#EXTINF:-1,Fox (United States) WHBQ-TV (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8
+#EXTINF:-1,Fox (United States) WITI (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist.m3u8
+#EXTINF:-1,Fox (United States) WJBK (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8
+#EXTINF:-1,Fox (United States) WNYW (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
+#EXTINF:-1,Fox (United States) WTTG (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8
+#EXTINF:-1,Fox (United States) WTVT (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8
+#EXTINF:-1,Fox (United States) WTXF-TV (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8
+#EXTINF:-1,Galavision West (720p)
+http://200.115.120.1:8000/play/ca128/index.m3u8
+#EXTINF:-1,Globovision (576p)
+http://181.78.8.199:8000/play/a09k/index.m3u8
+#EXTINF:-1,Guada TV (720p) [Not 24/7]
+https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8
+#EXTINF:-1,HLKJ-DTV (720p) [Not 24/7]
+http://123.140.197.22/stream/1/play.m3u8
+#EXTINF:-1,hr-fernsehen (1080p)
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:-1,Hunan Economy Channel
+https://p8.vzan.com/slowlive/415983998730568937/live.m3u8
+#EXTINF:-1,IVC (480p)
+http://200.59.191.177:8000/play/a00j/index.m3u8
+#EXTINF:-1,Jeevan TV (576p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/JeevanTV.m3u8
+#EXTINF:-1,Kanal 32 (720p) [Not 24/7]
+https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8
+#EXTINF:-1,Kanal 33 (720p) [Not 24/7]
+https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8
+#EXTINF:-1,Kocaeli TV (1080p)
+https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8
+#EXTINF:-1,Kuban 24 SD [Geo-blocked]
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
+#EXTINF:-1,La Metro TV (1080p)
+https://jireh-8-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8
+#EXTINF:-1,Latele (1080p)
+http://190.128.214.97:64333/play/a03i/index.m3u8
+#EXTINF:-1,Latina Podcast (720p)
+https://redirector.rudo.video/hls-video/plus226/latina4/latina4.smil/playlist.m3u8
+#EXTINF:-1,Line TV (720p) [Not 24/7]
+https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8
+#EXTINF:-1,like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="General",Lux TV (1080p)
+http://777905.live.tvstitch.com/stream.m3u8?channel=431&m=aHR0cHM6Ly9obHMtY2RuMS5keXZ5YXBwLmNvbS9sdXgtdHYvdmlkZW8ubTN1OD90b2tlbj1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKamFHRnVibVZzWDJsa0lqbzBNekVzSW1Ob1lXNXVaV3hmYm1GdFpTSTZJa3hWV0NCVVZpSXNJbWx3SWpvaU1UYzRMakV6Tmk0ME1pNHlNakFpTENKamIzVnVkSEo1SWpvaVZXdHlZV2x1WlNJc0luVnpaWEpmYVdRaU9tNTFiR3dzSW5WelpYSmZjR2h2Ym1VaU9tNTFiR3dzSW5WelpYSmZjbTlzWlhNaU9sdGRMQ0p3Y205bWFXeGxYMmxrSWpwdWRXeHNMQ0p6WlhOemFXOXVYMmxrSWpvaU56ZGpabVUzTkdJdE1USmtaQzAwTTJSbExXSmtNVGt0WVRKaFptUmtabUUwT0RWaElpd2laVzUyYVhKdmJtMWxiblFpT2lKd2NtOWtkV04wYVc5dUlpd2ljR3hoZEdadmNtMGlPaUpFWlhOcmRHOXdJaXdpZFhObGNsOWhaMlZ1ZENJNklrMXZlbWxzYkdGY0x6VXVNQ0FvVjJsdVpHOTNjeUJPVkNBeE1DNHdPeUJYYVc0Mk5Ec2dlRFkwS1NCQmNIQnNaVmRsWWt0cGRGd3ZOVE0zTGpNMklDaExTRlJOVEN3Z2JHbHJaU0JIWldOcmJ5a2dRMmh5YjIxbFhDOHhOVEl1TUM0d0xqQWdVMkZtWVhKcFhDODFNemN1TXpZaUxDSmxlSEFpT2pFM09EZ3hOekk0TnpOOS5GV2NmZDBhOV93dEVONmozWS1GaFNFYzFjbV9uamh1VVZmWjhiZzVLcG84
+#EXTINF:-1,MC (1080p)
+http://168.196.127.137:6001/play/a070/index.m3u8
+#EXTINF:-1,Mega TV (United States) WSBS-TV (1080p)
+https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
+#EXTINF:-1,MNT WFLD (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8
+#EXTINF:-1,Monumental TV (1080p)
+http://190.128.214.97:64333/play/a046/index.m3u8
+#EXTINF:-1,MTurk TV (1080p)
+https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
+#EXTINF:-1,NBC KRIS-TV (1080p)
+https://content.uplynk.com/channel/e72660594b7a4182982af1690609683d.m3u8
+#EXTINF:-1,NBC KSHB-TV (720p)
+https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8
+#EXTINF:-1,NBC WJAR (1080p)
+https://pubads.g.doubleclick.net/ssai/event/kpannrCBQ5KwdV3Hag3Wog/master.m3u8
+#EXTINF:-1,NBC WPTV-TV (720p)
+https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8
+#EXTINF:-1,NBC WPXI (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8
+#EXTINF:-1,NDR Fernsehen International (720p)
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+#EXTINF:-1,NET TV (1080p)
+http://45.226.205.96:48000/play/a09p/index.m3u8
+#EXTINF:-1,noa4 Hamburg (1080p)
+https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:-1,noa4 Norderstedt (1080p)
+https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:-1,like Gecko) Chrome/154.0.0.0 Safari/537.36" group-title="General",Nouvelle Caledonie 1ere (1080p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouvelle-caledonie-1ere.m3u8
+#EXTINF:-1,NovgorOblTV [Geo-blocked]
+https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
+#EXTINF:-1,Nowa TV (1080p)
+http://92.114.85.87:8001/play/a013/index.m3u8
+#EXTINF:-1,NTK 21 [Geo-blocked]
+https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
+#EXTINF:-1,Nuestra Tele Internacional (1080p)
+http://45.173.231.22:8000/play/a0cr/index.m3u8
+#EXTINF:-1,Omega Channel (576i)
+https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
+#EXTINF:-1,Paravision
+http://45.170.130.224:8000/play/a032/index.m3u8?hls
+#EXTINF:-1,Raajje TV
+https://raajjetv.yarr-myn.workers.dev/RaajjeTv.m3u8
+#EXTINF:-1,Radio Sines (720p) [Geo-blocked]
+https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8
+#EXTINF:-1,Radio y Television Marti (720p)
+https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
+#EXTINF:-1,Rapid TV (480p)
+https://stream-hls.castr-cdn.com/6a05a899db0ebd344a759542/live_9655bc604f8211f19e748901a3f596d0/index.m3u8
+#EXTINF:-1,RCN HD2 (1080p)
+http://181.78.14.26:4000/play/a07m/index.m3u8
+#EXTINF:-1,Red Uno (1080p)
+http://190.181.61.93:8000/play/a002/index.m3u8
+#EXTINF:-1,Red Uno La Paz (1080p)
+http://190.181.61.93:8000/play/a003/index.m3u8
+#EXTINF:-1,Regional TV Yaguaron (1080p)
+http://190.128.214.97:64333/play/a05o/index.m3u8
+#EXTINF:-1,RNE para todos (720p)
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8
+#EXTINF:-1,RTP (Bolivia) (1080p)
+http://190.181.61.93:8000/play/a00n/index.m3u8
+#EXTINF:-1,Rumbo Minero TV (1080p)
+http://45.70.201.81:8000/play/a018/index.m3u8
+#EXTINF:-1,STV (Belarus) HD (720p)
+https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+#EXTINF:-1,Super Polsat
+http://92.114.85.87:8004/play/a00c/index.m3u8
+#EXTINF:-1,SUR TV Itapua
+http://45.170.130.224:8000/play/a036/index.m3u8?hls
+#EXTINF:-1,T18 (1080p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
+#EXTINF:-1,Teleangol (720p)
+https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3u8
+#EXTINF:-1,Telefe (1080p)
+http://45.173.231.22:8000/play/a053/index.m3u8
+#EXTINF:-1,Telefuturo (Paraguay) (1080p)
+http://158.172.217.18:8000/play/a0ns/index.m3u8
+#EXTINF:-1,Teleislas (720p)
+http://190.61.47.54:8000/play/a015/index.m3u8
+#EXTINF:-1,Telemedellin (1080p)
+http://181.78.82.130:8000/play/a0ru/index.m3u8
+#EXTINF:-1,Telemedios Canal 8 (1080p) [Not 24/7]
+https://hls.tvabierta.net/hls/008.m3u8
+#EXTINF:-1,Telemundo West (720p)
+http://45.5.117.57:8900/play/a058/index.m3u8
+#EXTINF:-1,Telemundo Internacional (1080p)
+http://45.173.231.22:8000/play/a01h/index.m3u8
+#EXTINF:-1,Teletica 7 (1080p)
+http://190.61.101.11:7050/play/a07t/index.m3u8
+#EXTINF:-1,Televen (1080p)
+http://38.134.250.110:8000/play/a02i/index.m3u8
+#EXTINF:-1,Television Tarapoto (1080p)
+http://45.5.57.58:8000/play/a038/index.m3u8
+#EXTINF:-1,TMC HD (1080p) [Geo-blocked]
+http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8
+#EXTINF:-1,Trece (Colombia) (1080p)
+http://190.60.46.228:8888/play/a030/index.m3u8
+#EXTINF:-1,TV Aire (1080p)
+http://190.128.214.97:64333/play/a05y/index.m3u8
+#EXTINF:-1,TV FANB (576p)
+http://200.59.191.177:8000/play/a0le/index.m3u8
+#EXTINF:-1,TV Peru (1080p)
+http://181.224.200.5:2277/play/a0dx/index.m3u8
+#EXTINF:-1,TV+ (1080p)
+https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
+#EXTINF:-1,TVB Vietnam (1080p)
+https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
+#EXTINF:-1,TVI (720p)
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8
+#EXTINF:-1,TVU (1080p)
+https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
+#EXTINF:-1,Unitel (Bolivia) (1080p)
+http://190.181.61.93:8000/play/1909/index.m3u8
+#EXTINF:-1,V+ TVI (720p)
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/vmaistvi.m3u8
+#EXTINF:-1,Venevision (576p)
+http://181.78.8.199:8000/play/a0if/index.m3u8
+#EXTINF:-1,WDR Fernsehen Aachen (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
+#EXTINF:-1,WDR Fernsehen Bielefeld (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8
+#EXTINF:-1,WDR Fernsehen Bonn (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8
+#EXTINF:-1,WDR Fernsehen Dortmund (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8
+#EXTINF:-1,WDR Fernsehen Duisburg (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8
+#EXTINF:-1,WDR Fernsehen Dusseldorf (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8
+#EXTINF:-1,WDR Fernsehen Essen (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8
+#EXTINF:-1,WDR Fernsehen Munster (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8
+#EXTINF:-1,WDR Fernsehen Siegen (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8
+#EXTINF:-1,WDR Fernsehen Wuppertal (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8
+#EXTINF:-1,Wedo TV Amor (1080p)
+https://amg00735-videosolutions-amg00735c15-wedotv-eu-1915.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamor-wedotveu/playlist.m3u8
+#EXTINF:-1,YOY International (576p)
+https://gist.githubusercontent.com/iptvonlinetv/8a6b2f12e5e968537378f1245cea02c9/raw/78bf84476f8e24cc8ea9d5ac24855078c61b18db/udp305.575.530:3030.m3u8

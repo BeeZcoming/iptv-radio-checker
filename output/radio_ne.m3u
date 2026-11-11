@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,Muziekknallers 
+https://server-28.stream-server.nl/stream/RadioHitgolficeCast
+#EXTINF:-1,Radio BLAU Leipzig (trocken 320kbps)
+http://icecast.radioblau.de:8000/blau_320_dry
+#EXTINF:-1,Wadata Radio 107.4 Niamey
+http://stream.zeno.fm/1y2c3qbgbchvv

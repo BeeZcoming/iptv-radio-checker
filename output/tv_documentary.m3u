@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1,Animal Planet Latin America (1080p)
+http://190.128.214.97:64333/play/a01n/index.m3u8
+#EXTINF:-1,CCTV-9 (576i)
+https://xykt-fix.github.io/Y77.m3u8
+#EXTINF:-1,Court TV (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+#EXTINF:-1,History (Poland) (576i)
+http://92.114.85.87:8015/play/a00c/index.m3u8
+#EXTINF:-1,History Asia (720p)
+https://freem3u.xyz/api/live/play.m3u8?vid=9856
+#EXTINF:-1,History TV18 HD (1080p) [Geo-blocked]
+https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
+#EXTINF:-1,INWILD (1080p)
+https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
+#EXTINF:-1,Love Pets (1080p)
+https://amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsungse/playlist.m3u8
+#EXTINF:-1,Love The Planet (1080p)
+https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8
+#EXTINF:-1,MagellanTV Now (1080p)
+https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8
+#EXTINF:-1,National Geographic (Poland) (576i)
+http://92.114.85.87:8006/play/a00a/index.m3u8
+#EXTINF:-1,NatureTime AU (1080p)
+https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
+#EXTINF:-1,Polsat Viasat Explore
+http://92.114.85.87:8014/play/a00g/index.m3u8
+#EXTINF:-1,Polsat Viasat Nature
+http://92.114.85.87:8016/play/a004/index.m3u8
+#EXTINF:-1,like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="Documentary",Viasat History (Ukraine)
+http://777905.live.tvstitch.com/playlist.m3u8?master=78&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ==
+#EXTINF:-1,viju Explore (576p)
+http://46.53.200.153:7777/play/a01i/index.m3u8
+#EXTINF:-1,viju History (576p)
+http://46.53.200.153:7777/play/a01j/index.m3u8
+#EXTINF:-1,viju Nature (576p)
+http://46.53.200.153:7777/play/a01k/index.m3u8
+#EXTINF:-1,Wedo Big Stories (1080p)
+https://amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv/playlist/amg00735-videosolutionsa-wedobigdocs-ono/playlist.m3u8

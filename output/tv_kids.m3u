@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1,13 Kids (1080p)
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
+#EXTINF:-1,123TV (480p)
+http://200.59.191.177:8000/play/a0lb/index.m3u8
+#EXTINF:-1,BabyFirst Spanish (1080p)
+http://168.196.127.137:6001/play/a06j/index.m3u8
+#EXTINF:-1,CBeebies (Poland) (576p)
+http://92.114.85.87:8017/play/a004/index.m3u8
+#EXTINF:-1,Chikitoonz (1080p)
+http://45.70.201.81:8000/play/a00p/index.m3u8
+#EXTINF:-1,Discovery Kids Latin America (1080p)
+http://181.224.200.5:2277/play/a00o/index.m3u8
+#EXTINF:-1,Discovery Kids Latin America Chile (1080p)
+http://38.224.231.176:8000/play/a01j/index.m3u8
+#EXTINF:-1,FMH Kids (720p)
+http://38.87.224.19:2220/play/a03u/index.m3u8
+#EXTINF:-1,Nick Jr. (Poland) (576i)
+http://92.114.85.87:8013/play/a004/index.m3u8
+#EXTINF:-1,NickToons 90s [Geo-blocked]
+https://i.mjh.nz/.r/10-nicktoons-90s.m3u8
+#EXTINF:-1,Nicktoons (Poland) (576i)
+http://92.114.85.87:8013/play/a008/index.m3u8
+#EXTINF:-1,ON BiBi (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=178
+#EXTINF:-1,ON Kids (720p)
+https://freem3u.xyz/api/live/play.m3u8?vid=179
+#EXTINF:-1,Pakapaka (1080p)
+http://138.59.227.20:8000/play/a05t/index.m3u8
+#EXTINF:-1,Polsat JimJam (576i)
+http://92.114.85.87:8014/play/a00d/index.m3u8
+#EXTINF:-1,Tiny Pop (1080p)
+https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8
+#EXTINF:-1,Tom Sings TV (1080p)
+https://vodcdn.bamboo-cloud.com/livehls/6af043956f49ecefd30d7fd4/master.m3u8
+#EXTINF:-1,ToonGoggles (720p)
+https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8

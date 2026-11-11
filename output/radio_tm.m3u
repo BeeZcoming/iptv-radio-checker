@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,Alaşehir Damar FM
+http://178.32.4.127:8358/;
+#EXTINF:-1,Hayatmix
+http://hayatmix.net/;yayin.mp3/;
+#EXTINF:-1,Tv24
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+#EXTINF:-1,Uğur Öztürk
+https://eu8.fastcast4u.com/proxy/ugur4129?mp=/1

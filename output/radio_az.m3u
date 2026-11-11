@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1,Anti Radio
+https://stream.antiradio.net/listen/anti_radio/mp3
+#EXTINF:-1,Anti Radio
+https://stream.antiradio.net/radio/8000/mp3
+#EXTINF:-1,Araz fm 103.3
+http://s39.myradiostream.com/5458/listen.mp3
+#EXTINF:-1,Araz fm 103.3
+https://s14.myradiostream.com/30454/listen.mp3
+#EXTINF:-1,Araz Supermarket Radio
+http://5.191.241.101:8000/arazmarket
+#EXTINF:-1,Asan Radio
+http://94.20.74.206:4448/stream1
+#EXTINF:-1,ASAN Radio
+https://play.asanradio.az/
+#EXTINF:-1,AutoLife Azerbaijan
+https://radio.autoliferadio.com:8005/radio
+#EXTINF:-1,AutoLife Radio Azerbaijan
+http://radio.autoliferadio.com:8090/radio
+#EXTINF:-1,AVTO FM
+http://5.191.241.101:8000/avtofm
+#EXTINF:-1,Baku Jazz Radio
+https://a9.asurahosting.com/listen/bakujazzredio/radio.mp3
+#EXTINF:-1,Bravo Supermarket Radio
+http://5.191.241.101:8000/bravo
+#EXTINF:-1,Dalga fm 92.5
+https://live.dinle.az/dalgafm
+#EXTINF:-1,İctimai Radio – 90 FM
+https://stream.itv.az/rtmp:/radio/playlist.m3u8
+#EXTINF:-1,Kepez FM
+http://85.132.78.122:3344/now
+#EXTINF:-1,KN Music TV
+https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Max tv Azerbaycan
+https://cdn4.yayin.com.tr/maxtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Media FM Classic
+https://icecast.livetv.az/mediafm
+#EXTINF:-1,Media fm jazz
+http://icecast.livetv.az/mediajazz
+#EXTINF:-1,Media FM Mugam
+http://icecast.livetv.az/mediamugam
+#EXTINF:-1,Media FM Relax
+http://icecast.livetv.az/mediarelax
+#EXTINF:-1,NAZ RADIO
+https://s2.myradiostream.com/5286/listen.mp3
+#EXTINF:-1,PlanetFM 88.7
+https://live.dinle.az/planetfm
+#EXTINF:-1,Radio Enerji 101.1 FM
+https://icecast.livetv.az/antennfm
+#EXTINF:-1,Rahat Supermarket Radio
+http://5.191.241.101:8000/rahatmarket
+#EXTINF:-1,Real FM 107
+http://94.20.137.130:8995/realfm?n=1ae9db9ce6bdfe42937a
+#EXTINF:-1,Sağlam Radio
+https://s24.myradiostream.com/:17446/listen.mp3?nocache=1717082000
+#EXTINF:-1,TMB 100.5
+http://s39.myradiostream.com:5458/
+#EXTINF:-1,Vintage Radio Azerbaijan
+https://trucker.autoliferadio.com:1045/stream
+#EXTINF:-1,Xezer FM
+https://s40.myradiostream.com/:22546/listen.mp3?
+#EXTINF:-1,Yurd FM
+https://icecast.livetv.az/yurdfm
+#EXTINF:-1,Yurd fm
+http://icecast.livetv.az/yurdfm

@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,HSE (1080p)
+https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
+#EXTINF:-1,HSE Extra (1080p)
+https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
+#EXTINF:-1,HSE Trend (576p)
+https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
+#EXTINF:-1,TSC (720p)
+https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8

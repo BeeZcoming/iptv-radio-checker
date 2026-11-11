@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,City Eden MedZdrav [Not 24/7]
+https://cityeden.catcast.tv/content/47519/index.m3u8
+#EXTINF:-1,Class TV Moda (1080p)
+https://www.dailymotion.com/cdn/live/video/x98rt88.m3u8?sec=3FZxZQeceI08NWbQwAxAKdpdnH8gYPtFSg2hr2m8v11-0gQsz2FldP--C6DTACA-
+#EXTINF:-1,Fortuna TV (720p)
+https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
+#EXTINF:-1,HGTV Latin America (1080p)
+http://38.87.224.19:2220/play/a01p/index.m3u8
+#EXTINF:-1,Hogar TV (1080p)
+http://190.61.47.54:8000/play/a01n/index.m3u8
+#EXTINF:-1,INFAST (1080p)
+https://amg00861-terninternation-lifestyle-samsungau-kdlyy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungau/playlist.m3u8
+#EXTINF:-1,NDTV Good Times (1080p)
+https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
+#EXTINF:-1,ON Life (720p)
+https://freem3u.xyz/api/live/play.m3u8?vid=188
+#EXTINF:-1,ON Style TV (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=184

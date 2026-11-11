@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1,13T (720p)
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+#EXTINF:-1,48 Hours (1080p)
+https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
+#EXTINF:-1,AMC Series Latin America (1080p)
+http://45.171.64.30:6060/play/a005/index.m3u8
+#EXTINF:-1,Are We There Yet? (1080p)
+https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8
+#EXTINF:-1,AXN Black (Poland) (576i)
+http://92.114.85.87:8014/play/a00h/index.m3u8
+#EXTINF:-1,Az Corazon (720p)
+http://200.115.120.1:8000/play/ca020/index.m3u8
+#EXTINF:-1,City Eden TeleNovella [Not 24/7]
+https://cityeden.catcast.tv/content/46209/index.m3u8
+#EXTINF:-1,CTV Dla Ciebie TV
+http://90.183.52.46:4000/play/a065/index.m3u8
+#EXTINF:-1,Deal or No Deal (1080p)
+https://amg00627-banijaygroup-dealornodeal-samsungau-si7xg.amagi.tv/playlist/amg00627-banijaygroup-dealornodeal-samsungau/playlist.m3u8
+#EXTINF:-1,Dog the Bounty Hunter UK (1080p)
+https://amg00276-amg00276c11-rakuten-uk-3446.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-dogthebountyhunterall-rakutenuk/playlist.m3u8
+#EXTINF:-1,Fear Factor (1080p)
+https://amg00627-banijaygroup-fearfactor-samsungau-9vdod.amagi.tv/playlist/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8
+#EXTINF:-1,Frequence Novelas (1080p)
+https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
+#EXTINF:-1,HauntTV (1080p)
+https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8
+#EXTINF:-1,Judge Nosey (1080p)
+https://amg00514-noseybaxterllc-realnosey-cineverse-tqbpv.amagi.tv/playlist/amg00514-noseybaxterllc-realnosey-cineverse/playlist.m3u8
+#EXTINF:-1,McLeod's Daughters (1080p)
+https://amg00627-amg00627c5-samsung-nz-2807.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mcleodsdaughters-samsungnz/playlist.m3u8
+#EXTINF:-1,Mythbusters (1080p)
+https://d2bog959vw5xq.cloudfront.net/playlist/amg00627-banijayfast-mythbusters-samsungau/playlist.m3u8
+#EXTINF:-1,Novelisima (1080p)
+http://138.59.177.78:9999/play/a0gg/index.m3u8
+#EXTINF:-1,ON Cine
+https://freem3u.xyz/api/live/play.m3u8?vid=176
+#EXTINF:-1,Polsat Seriale HD (1080i)
+http://92.114.85.87:8014/play/a00a/index.m3u8
+#EXTINF:-1,Saphire (1080p)
+http://46.53.200.153:7777/play/Sapfir_HD/index.m3u8
+#EXTINF:-1,Survivor (1080p)
+https://amg00627-amg00627c16-samsung-nz-2811.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungnz/playlist.m3u8
+#EXTINF:-1,TNT Novelas (1080p)
+http://158.172.155.130:8000/play/a0at/index.m3u8
+#EXTINF:-1,TNT Novelas Colombia (1080p)
+http://190.61.47.54:8000/play/a02f/index.m3u8
+#EXTINF:-1,TVE Star (576p)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
+#EXTINF:-1,TVE Star HD (1080p)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
+#EXTINF:-1,TVI Ficcao (720p)
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8
+#EXTINF:-1,Viasat Epic Drama Poland (1080p)
+http://92.114.85.87:8001/play/a00x/index.m3u8
+#EXTINF:-1,viju TV1000 romantica HD (1080p)
+http://46.53.200.153:7777/play/Viju_Drama/index.m3u8
+#EXTINF:-1,viju+ Serial HD (1080p)
+http://46.53.200.153:7777/play/Viju_Serial_HD/index.m3u8

@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,KCBS 조선중앙방송
+https://stream.intchoson.com/kcbs/main_stream.m3u8
+#EXTINF:-1,Pyongyang
+https://listen7.myradio24.com/69366
+#EXTINF:-1,Pyongyang FM Radio
+http://myradio24.org/69366
+#EXTINF:-1,Voice of Chongro
+https://stream.zeno.fm/oldwnjuma3duv
+#EXTINF:-1,Voice of Korea 조선의 소리 방송
+https://stream.intchoson.com/vok/main_stream.m3u8
+#EXTINF:-1,Голос Корей
+https://listen4.myradio24.com/60315
+#EXTINF:-1,평양FM105.2
+http://listen7.myradio24.com/69366

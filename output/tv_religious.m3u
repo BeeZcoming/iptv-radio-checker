@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1,3ABN Latino (1080p)
+http://138.59.177.78:9999/play/a0a3/index.m3u8
+#EXTINF:-1,ABN Afghanistan (540p)
+https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8
+#EXTINF:-1,ABN Africa (480p)
+https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
+#EXTINF:-1,ABN China (720p)
+https://mediaserver.abnvideos.com/streams/abnchina.m3u8
+#EXTINF:-1,ABN TV India (540p)
+https://mediaserver.abnvideos.com/streams/abntvindia.m3u8
+#EXTINF:-1,ABN Urdu (540p)
+https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
+#EXTINF:-1,ABNsat (720p)
+https://mediaserver.abnvideos.com/streams/abnsat.m3u8
+#EXTINF:-1,Al Wafa Tarim (720p)
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
+#EXTINF:-1,Amigos TV Chiquimula (1080p)
+http://45.166.93.156:9999/play/a0j2/index.m3u8
+#EXTINF:-1,Ando TV (1080p)
+http://play.kankanlive.com/live/1711956137852982.m3u8
+#EXTINF:-1,BeitolAbbas TV Channel (720p)
+https://live.beitolabbas.tv/live/beitolabbastv.m3u8
+#EXTINF:-1,Canal Telesantiago (1080p)
+https://stream.canaltelesantiago.com:8000/play/TELESANTIAGO/index.m3u8
+#EXTINF:-1,Ch4Teen Documentary (1080p)
+https://ch14.tv/live/ch4teendoc/playlist.m3u8
+#EXTINF:-1,Daystar TV WSLF-LD (720p)
+https://content.uplynk.com/channel/1992858a34c3423dbdad491d07ae6f75.m3u8
+#EXTINF:-1,DG:TV (1080p)
+https://mdn.dg.church/673ac57a073a4-1/index.m3u8
+#EXTINF:-1,Enlace (1080p)
+http://45.5.117.57:8999/play/a01c/index.m3u8
+#EXTINF:-1,ESNE TV (720p)
+http://168.196.127.137:6001/play/a071/index.m3u8
+#EXTINF:-1,GNN TV (1080p)
+https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/live.m3u8
+#EXTINF:-1,Gospel Truth TV (1080p)
+https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/manifest.m3u8
+#EXTINF:-1,Hidabroot (1080p)
+https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
+#EXTINF:-1,It's Supernatural! Network (1080p)
+https://content.uplynk.com/channel/b880a791bf95426d917a509e0c44796a.m3u8
+#EXTINF:-1,Marjaeyat TV Arabic (1080p)
+https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8
+#EXTINF:-1,Marjaeyat TV English (1080p)
+https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8
+#EXTINF:-1,Marjaeyat TV Persian (240p) [Not 24/7]
+https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8
+#EXTINF:-1,Middle East TV (1080p)
+https://content.uplynk.com/channel/9d35b73c264946d5945db6cdff26336e.m3u8
+#EXTINF:-1,MTA1 World (720p)
+https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
+#EXTINF:-1,Pent TV (720p)
+https://playlist.dacast.com/live/a72117af-d78e-7ffe-7c12-1af6cd4a8483-live-42172a86-494b-a866-498f-dbaff4b5e3c0/master.m3u8
+#EXTINF:-1,Rhema TV (1080p)
+http://45.171.64.30:6060/play/a04k/index.m3u8
+#EXTINF:-1,TLN Media Chicago (720p)
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/cb165faa-41c9-42ad-83ee-ad5ca9fb927c.m3u8
+#EXTINF:-1,TLN Media San Francisco (720p)
+https://fuel-streaming-prod01.fuelmedia.io/v1/sem/b29d27bb-88af-42d1-937a-5bdf76b71c17.m3u8
+#EXTINF:-1,Trece (Spain) (576p)
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8

@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,TeleNostalgia (1080p)
+http://38.134.250.110:8000/play/a01q/index.m3u8
+#EXTINF:-1,TVN3 (1080p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+#EXTINF:-1,Westerns 4U (1080p)
+http://181.224.255.210:8001/play/a0rq/index.m3u8

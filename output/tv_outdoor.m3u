@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,Agricultura TV (1080p)
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8
+#EXTINF:-1,Agro TV (Romania) (360p) [Not 24/7]
+https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
+#EXTINF:-1,AKC TV (1080p)
+https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
+#EXTINF:-1,El Mundo del Campo (1080p)
+http://181.78.21.38:8000/play/a040/index.m3u8
+#EXTINF:-1,Outdoor Channel (1080p)
+https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8
+#EXTINF:-1,Outdoor Channel Vietnam (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=216
+#EXTINF:-1,Productiva TV (1080p)
+http://190.128.214.97:64333/play/a04i/index.m3u8
+#EXTINF:-1,TVAgro (1080p)
+http://190.61.47.54:8000/play/a01k/index.m3u8

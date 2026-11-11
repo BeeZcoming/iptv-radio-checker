@@ -1,0 +1,135 @@
+#EXTM3U
+#EXTINF:-1,4 Fun Dance
+http://92.114.85.87:8018/play/a00k/index.m3u8
+#EXTINF:-1,9X Jhakaas (1080p)
+https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
+#EXTINF:-1,9X Tashan (1080p)
+https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
+#EXTINF:-1,13 Festival (1080p)
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+#EXTINF:-1,Allegro HD (1080p)
+http://158.172.155.130:8000/play/a0dn/index.m3u8
+#EXTINF:-1,Atomic Academy TV (480p)
+https://atomic.streamnet.ro/academia.m3u8
+#EXTINF:-1,Atomic TV (360p)
+https://atomic.streamnet.ro/atomictv.m3u8
+#EXTINF:-1,Bandamax (1080p)
+http://181.78.106.127:5000/play/ca064/index.m3u8
+#EXTINF:-1,City Eden Birma Play [Not 24/7]
+https://cityeden.catcast.tv/content/34364/index.m3u8
+#EXTINF:-1,City Eden Classic Music [Not 24/7]
+https://cityeden.catcast.tv/content/47400/index.m3u8
+#EXTINF:-1,City Eden Play [Not 24/7]
+https://cityeden.catcast.tv/content/34100/index.m3u8
+#EXTINF:-1,City Eden Sirtaki TV [Not 24/7]
+https://cityeden.catcast.tv/content/46421/index.m3u8
+#EXTINF:-1,CKNO-FM (616p)
+https://videostream.jpbgdigital.com/NOWTV.m3u8
+#EXTINF:-1,Cool FM 98.9 (720p)
+https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8
+#EXTINF:-1,Corazon TV (720p)
+http://181.79.86.130:8000/play/a05d/index.m3u8
+#EXTINF:-1,Dance Television (1080p)
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:-1,DASDING 90.8 (720p)
+https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
+#EXTINF:-1,Disco Polo Music (1080p)
+http://92.114.85.87:8014/play/a007/index.m3u8
+#EXTINF:-1,E40 (1080p)
+https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:-1,Eska Rock TV (1080p)
+http://92.114.85.87:8016/play/a005/index.m3u8
+#EXTINF:-1,Eska TV (1080p)
+http://92.114.85.87:8018/play/a00h/index.m3u8
+#EXTINF:-1,Eska TV Extra (1080p)
+http://92.114.85.87:8016/play/a008/index.m3u8
+#EXTINF:-1,Europa Plus TV Belarus (576p)
+http://46.53.200.153:7777/play/EuropaPlus/index.m3u8
+#EXTINF:-1,HTV (720p)
+http://45.171.64.30:6060/play/a012/index.m3u8
+#EXTINF:-1,La 100 (1080p)
+https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
+#EXTINF:-1,La Clave (720p)
+https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
+#EXTINF:-1,Live Music Channel HD (1080p)
+http://46.53.200.153:7777/play/Live_music_channel/index.m3u8
+#EXTINF:-1,mfm (1080p)
+https://hms.pfs.gdn/hms/v1/broadcast/hlmvmp2hfriode891/playlist.m3u8
+#EXTINF:-1,Mi Musica Hits (720p)
+http://38.188.186.47:4000/play/a04n/index.m3u8
+#EXTINF:-1,Mi Musica Popular (1080p)
+http://45.226.205.96:48000/play/a0f8/index.m3u8
+#EXTINF:-1,Mi Musica Reggaeton (1080p)
+http://181.78.12.119:16123/play/ch53/index.m3u8
+#EXTINF:-1,Mi Musica Salsa (1080p)
+http://181.78.12.119:16123/play/ch55/index.m3u8
+#EXTINF:-1,MusicTop (1080p)
+http://190.128.214.97:64333/play/a06o/index.m3u8
+#EXTINF:-1,Muzyka 1 [Not 24/7]
+https://kino-1.catcast.tv/content/37745/index.m3u8
+#EXTINF:-1,Muzyka Kino [Not 24/7]
+https://kino-1.catcast.tv/content/37739/index.m3u8
+#EXTINF:-1,NEW K-POP (1080p)
+https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus
+#EXTINF:-1,Now 90s00s (1080p)
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
+#EXTINF:-1,ON Music (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=185
+#EXTINF:-1,One TV (720p) [Not 24/7]
+https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
+#EXTINF:-1,OneFM (720p) [Not 24/7]
+https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8
+#EXTINF:-1,Pauta (1080p)
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/playlist.m3u8
+#EXTINF:-1,Polsat Music (1080p)
+http://92.114.85.87:8001/play/a00z/index.m3u8
+#EXTINF:-1,Quiero Musica en mi Idioma (1080p)
+http://158.172.155.130:8000/play/a00a/index.m3u8
+#EXTINF:-1,Qwest TV (1080p)
+https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
+#EXTINF:-1,Qwest TV Jazz & Beyond (1080p)
+https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/playlist/samsungau-qwestjazz-samsungtv/playlist.m3u8
+#EXTINF:-1,Radio Duna (720p)
+https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8
+#EXTINF:-1,Radio Pudahuel (720p)
+https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
+#EXTINF:-1,Radiola TV (1080p)
+http://158.172.217.18:8000/play/a01k/index.m3u8
+#EXTINF:-1,Ranchenato TV (1080p)
+http://181.78.12.119:16123/play/ch15/index.m3u8
+#EXTINF:-1,Rock & Pop (1080p)
+http://190.128.214.97:64333/play/a032/index.m3u8
+#EXTINF:-1,Rumba TV (1080p)
+http://38.134.250.110:8000/play/a01p/index.m3u8
+#EXTINF:-1,Shanson TV SD (576p)
+http://46.53.200.153:7777/play/Shanson_TV/index.m3u8
+#EXTINF:-1,Slager Muzika
+https://stream-23.mazana.tv/slagrmuzika.m3u8s
+#EXTINF:-1,Slager Original
+https://stream-13.mazana.tv/slagroriginal.m3u8s
+#EXTINF:-1,Star 101 FM (720p) [Not 24/7]
+https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8
+#EXTINF:-1,Super TV (Romania) (576p)
+http://iptv.supertv.ro:8000/play/a001/index.m3u8
+#EXTINF:-1,Teleangol Radio (720p)
+https://pantera1-100gb-cl-movistar.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8
+#EXTINF:-1,Top Latino TV
+http://38.87.224.20:2220/play/a02b/index.m3u8
+#EXTINF:-1,Trace Brazuca HD (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
+#EXTINF:-1,VAM TV (720p)
+https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8
+#EXTINF:-1,VM Latino (1080p)
+http://45.163.139.42:8000/play/a03d/index.m3u8
+#EXTINF:-1,VOX Music TV (1080p)
+http://92.114.85.87:8016/play/a00a/index.m3u8
+#EXTINF:-1,X 102.7 FM (720p)
+https://live2.tensila.com/onair-v-1.xfm1027/hls/master.m3u8
+#EXTINF:-1,XITE Hits UK (1080p)
+https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
+#EXTINF:-1,YRF Music (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1,Zoom (India) (720p)
+https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+#EXTINF:-1,Zoom (India) Nepal (720p)
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
