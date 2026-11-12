@@ -9,8 +9,6 @@ http://icecast.365net.is:8000/orbApparatid.aac
 http://icecast.365net.is:8000/orbbylgjan.aac
 #EXTINF:-1,Country Bylgjan
 http://icecast.365net.is:8000/orbFmExtra.aac
-#EXTINF:-1,Estuary FM
-https://89-126-248-183.sslip.io:9443/estuary
 #EXTINF:-1,Flashback 60s
 https://ice-11.spilarinn.is/60flashback
 #EXTINF:-1,Fred Film Radio-26 Íslenska

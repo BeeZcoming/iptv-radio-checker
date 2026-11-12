@@ -58,7 +58,7 @@ http://live-icy.gss.dr.dk/A/A03H.mp3
 #EXTINF:-1,DR P1
 http://live-icy.dr.dk/A/A03H.mp3
 #EXTINF:-1,DR P1 (AAC)
-https://drliveradio1.akamaized.net/hls/live/2097651/p1/masterab.m3u8
+https://drliveradio2.akamaized.net/hls/live/2118698/p1/masterab.m3u8
 #EXTINF:-1,DR P2
 http://live-icy.gss.dr.dk/A/A04H.mp3
 #EXTINF:-1,DR P2
@@ -176,7 +176,7 @@ http://live-icy.gss.dr.dk/A/A29H.mp3
 #EXTINF:-1,DR P6 BEAT
 http://live-icy.dr.dk/A/A29H.mp3
 #EXTINF:-1,DR P6 BEAT (AAC)
-https://drliveradio1.akamaized.net/hls/live/2097651/p6beat/masterab.m3u8
+https://drliveradio2.akamaized.net/hls/live/2118698/p6/masterab.m3u8
 #EXTINF:-1,DR P8 JAZZ
 http://live-icy.dr.dk/A/A22H.mp3
 #EXTINF:-1,DR P8 Jazz
@@ -184,7 +184,7 @@ http://live-icy.dr.dk/A/A22H.mp3
 #EXTINF:-1,DR P8 Jazz
 http://live-icy.gss.dr.dk/A/A22H.mp3
 #EXTINF:-1,DR P8 JAZZ (AAC)
-https://drliveradio1.akamaized.net/hls/live/2097651/p8jazz/masterab.m3u8
+https://drliveradio2.akamaized.net/hls/live/2118698/p8/masterab.m3u8
 #EXTINF:-1,DR P8 Jazz (AAC)
 https://drliveradio2.akamaized.net/hls/live/2118698/p8/playlist-320000.m3u8
 #EXTINF:-1,DR Ramasjang/Ultra Radio
@@ -255,6 +255,10 @@ https://live-bauerdk.sharp-stream.com/nova_dk_mp3
 https://live-bauerdk.sharp-stream.com/DK_HQ_RP11.aac
 #EXTINF:-1,NyhedsTjek.dk
 https://a12.asurahosting.com/listen/nyhedstjek.dk/radio.mp3
+#EXTINF:-1,PartyFM
+http://stream.partyfm.dk/Party320/
+#EXTINF:-1,Partyfm 
+http://stream1.partyfm.dk/Party320
 #EXTINF:-1,PartyRadio.pro
 https://stream.partyradio.pro/listen/partyradio/stream
 #EXTINF:-1,Plantland Radio
@@ -289,8 +293,6 @@ https://radioserver.dk/alfasilk
 https://radioserver.dk/alfaskive
 #EXTINF:-1,Radio Alfa Viborg
 https://radioserver.dk/alfaviborg
-#EXTINF:-1,Radio ALR
-http://streamer.radio.co/s6a9beb92e/listen
 #EXTINF:-1,Radio Boost
 http://6434.cloudrad.io:8066/;
 #EXTINF:-1,Radio Denmark FM

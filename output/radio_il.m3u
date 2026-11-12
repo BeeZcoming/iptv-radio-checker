@@ -111,6 +111,8 @@ https://cdna.streamgates.net/RadioNas/Live-Audio/icecast.audio
 https://www.radioking.com/play/radio-qualita
 #EXTINF:-1,Radio Sahar
 https://live.ecast.co.il/stream/sahar/stream
+#EXTINF:-1,RADIO TIKVA
+https://stream10.vestaradio.com/radiotikva
 #EXTINF:-1,RadioPlus
 http://s3.yesstreaming.net:7049/stream
 #EXTINF:-1,Radios 100FM
@@ -201,6 +203,8 @@ https://stream.timbr.music/live
 https://icecast.live/up2dance
 #EXTINF:-1,yStream
 https://ystream.live/ystream-mp3
+#EXTINF:-1,Ze Rock Radio
+https://icecast.live/proxy/zerock/zerock
 #EXTINF:-1,Мессианское радио Орэну
 https://listen7.myradio24.com/orenu
 #EXTINF:-1,אקו eco 99fm

@@ -475,8 +475,6 @@ http://stream3.radio88.hu:8500/;stream
 http://stream.radioantritt.hu:8000/Antritt
 #EXTINF:-1,Rádió Bézs
 http://195.210.29.82:8001/bezs
-#EXTINF:-1,Rádió Bézs 2
-http://195.210.29.82:8002/bezs2
 #EXTINF:-1,Rádió Comedy
 https://a7.asurahosting.com:8430/radio.mp3
 #EXTINF:-1,Rádió Comedy
@@ -575,8 +573,6 @@ http://195.56.193.129:8100/;stream/1
 https://sunshine2.stream.composeit.hu/sunshine
 #EXTINF:-1,SunshineFM DANCE
 https://sunshine3.stream.composeit.hu/sunshine
-#EXTINF:-1,SunshineFM Debrecen
-https://sundeb.stream.composeit.hu/SunshineDebrecen
 #EXTINF:-1,SunshineFM Nyíregyháza
 https://sunshine1.stream.composeit.hu/sunshine
 #EXTINF:-1,Super DJ Radio

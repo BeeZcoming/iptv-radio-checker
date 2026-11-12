@@ -41,6 +41,8 @@ https://stream.radiaura.net/station-2ab200ee-b166-415a-b8df-7b20c6a37ff9
 https://rds3.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8
 #EXTINF:-1,Radio Aspen Paraguay
 https://tigocloud.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8?k=cab33b6f9bb8d7e340d2a8ce8d4476e4576ce92fbc993b81666e7db795dc1da7&exp=1664206557
+#EXTINF:-1,RADIO CAAPUCU FM 91.7
+http://radio.host.com.py:9452/;
 #EXTINF:-1,Radio Capital 101.7 FM
 http://ic2489.c1788.fastserv.com/stream
 #EXTINF:-1,Radio Cerro Cora 91.5 FM
@@ -49,8 +51,6 @@ http://135.181.103.10:8018/stream
 https://tigocloud.desdeparaguay.net/mov1330/mov1330.stream/chunklist_w1397196983.m3u8
 #EXTINF:-1,Radio Concierto 89.1
 https://radio.host.com.py/9572/stream
-#EXTINF:-1,Radio Conquistador 89.1 FM
-https://tigocloud.desdeparaguay.net/movconquistador/movconquistador.stream/chunklist_w1215257311.m3u8
 #EXTINF:-1,Radio Digital 88.5 Fm Paraguay 
 http://streaming.camaronhosting.com:8036/
 #EXTINF:-1,Radio Disney Paraguay FM 96.5
@@ -100,4 +100,4 @@ http://tigocloud.desdeparaguay.net/movsinfronteras/movsinfronteras.stream/playli
 #EXTINF:-1,super radio
 https://c32.radioboss.fm:8139/stream
 #EXTINF:-1,Tereré Mix Paraguay 
-https://stream-286.surfernetwork.com/a0z8gjrlucluv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhMHo4Z2pybHVjbHV2IiwiaG9zdCI6InN0cmVhbS0yODYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkpOaUFuMnVlUUdtdUphU2VFWlc1WnciLCJpYXQiOjE3OTQwMDYyMjgsImV4cCI6MTc5NDAwNjI4OH0.dBF1ogtDMXDixPWlgb-WTpNT8aNn2BIQXmXltU7KRIQ
+https://stream-286.surfernetwork.com/a0z8gjrlucluv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhMHo4Z2pybHVjbHV2IiwiaG9zdCI6InN0cmVhbS0yODYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjRuZlhmeWpBU0lLeFduR3RkRHNXcGciLCJpYXQiOjE3OTQ0MzkyOTYsImV4cCI6MTc5NDQzOTM1Nn0.kbs4t5aa1-7qGncqrTRNbp5wLBNIhtwR0JpeG1rbkT8

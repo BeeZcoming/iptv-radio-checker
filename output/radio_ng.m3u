@@ -77,8 +77,6 @@ http://stream.zeno.fm/ta1fke6sz1zuv
 https://radio.interspacemusic.com/stream.mp3
 #EXTINF:-1,KCity Radio
 https://radio.gotright.net/radio/8010/radio.mp3
-#EXTINF:-1,LagosJump Radio
-https://radio.lagosjumpradio.com/listen/lagosjump_radio/radio.mp3
 #EXTINF:-1,Magic FM
 https://radio.ifastekpanel.com:1565/stream
 #EXTINF:-1,MajorFM
@@ -110,7 +108,7 @@ https://stream.zeno.fm/tvqvamkwe5zuv
 #EXTINF:-1,RCCG Central Parish Radio
 https://s2.radio.co/s82911d13a/low
 #EXTINF:-1,RFI Haoussa
-http://rfihaoussa96k.ice.infomaniak.ch/rfihaoussa-96k.mp3
+http://live02.rfi.fr/rfihaoussa-96k.mp3
 #EXTINF:-1,Rhythm 93.7 FM Lagos
 https://rhythmfmlagos-atunwadigital.streamguys1.com/rhythmfmlagos
 #EXTINF:-1,Softlife Afrofusion Radio
@@ -119,6 +117,8 @@ https://a10.asurahosting.com:7540/radio.mp3
 https://edge.mixlr.com/channel/cfeki
 #EXTINF:-1,Splash FM Abeokuta
 https://stream.zeno.fm/m9x6zr5trp8uv
+#EXTINF:-1,Sports Radio Brila FM
+https://atunwadigital.streamguys1.com/brilafm
 #EXTINF:-1,Tatafo FM
 https://pro06.caster.fm:8050/radio
 #EXTINF:-1,Trove Radio Station

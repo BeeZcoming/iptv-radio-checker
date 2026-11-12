@@ -9,6 +9,8 @@ https://s17.ssl-stream.com/proxy/brightstar?mp=/stream
 https://camerhits.com/icecast/stream
 #EXTINF:-1,Camp Joy Revival Radio
 https://stream.campjoycameroon.org/live
+#EXTINF:-1,CHRISTRADIO Yaoundé
+https://stream-285.surfernetwork.com/gtb3znv0h2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJndGIzem52MGgyenV2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImhXQjZBTlJVU1ppSWxCM0NmdzQ1Z2ciLCJpYXQiOjE3OTQzMzM3MTEsImV4cCI6MTc5NDMzMzc3MX0.RMy6bX4BdwXjLGpq9I8rvf_sv_wZnIg8SErXWkXcSWg
 #EXTINF:-1,City FM
 https://stream.zeno.fm/5fvvyvybabetv
 #EXTINF:-1,CRTV 237 Webradio
@@ -51,8 +53,6 @@ https://s41.myradiostream.com:39496/listen.mp3
 https://listen.radioking.com/radio/820431/stream/889416
 #EXTINF:-1,Mmuock Community Radio
 https://a7.asurahosting.com/listen/mmuock_community_radio_/radio.mp3
-#EXTINF:-1,Peña Mundi FM
-https://stream.zeno.fm/15k8hpd4fm0uv
 #EXTINF:-1,Protestant Voice Radio
 https://stream.zeno.fm/ksvcx4vdulsuv
 #EXTINF:-1,Radio Ar-Rissala FM
@@ -91,8 +91,6 @@ https://stream.zeno.fm/8ggdk1wbtc9uv
 https://listen.radioking.com/radio/445556/stream/500072
 #EXTINF:-1,Season Radio
 https://stream.zeno.fm/rvilzsnnjdutv
-#EXTINF:-1,Sky FM Nguti
-https://streams.radio.co/s87e0ba465/listen
 #EXTINF:-1,Teste lolo
 https://stream.zeno.fm/rtsgsmf34k0uv
 #EXTINF:-1,Truth FM 93.2

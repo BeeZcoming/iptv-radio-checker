@@ -19,8 +19,6 @@ https://s1.slotex.pl/shoutcast/7102/stream
 https://myradio24.org/2455
 #EXTINF:-1,Affi Radio
 https://affiradio.pl/listen/radio-browser/stream.mp3
-#EXTINF:-1,AH.FM: #1 for Electronic Dance Music
-http://fr.ah.fm/mobile
 #EXTINF:-1,Akademickie Radio LUZ
 https://stream.radioluz.pl:8443/luz_hifi.mp3?1744349689809
 #EXTINF:-1,Akademickie Radio LUZ
@@ -114,7 +112,7 @@ https://ch01.cdn.eurozet.pl/CHILAD.mp3?t=1709721264195?redirected=01
 #EXTINF:-1,Chillout Radio
 http://panel.nadaje.com:9004/
 #EXTINF:-1,Cmp3
-http://s.radiocmp3.eu/djset
+http://s.radiocmp3.eu/stream128
 #EXTINF:-1,CoSTa's Ambient Radio
 https://pc.costa-server.info.pl:11020/listen/costas_ambient_radio/radio.mp3
 #EXTINF:-1,CYBERStacja
@@ -196,7 +194,7 @@ http://ic1.smcdn.pl/2250-1.mp3
 #EXTINF:-1,ESKA POZNAŃ 
 https://ic2.smcdn.pl/2140-1.aac
 #EXTINF:-1,ESKA ROCK
-http://n04-eu1.rcs.revma.com/1nnezw8qz7zuv
+http://n08-eu2.rcs.revma.com/1nnezw8qz7zuv
 #EXTINF:-1,ESKA ROCK
 https://ic2.smcdn.pl/5380-1.mp3#ESKA_ROCK
 #EXTINF:-1,ESKA ROCK
@@ -247,6 +245,8 @@ http://zt01.cdn.eurozet.pl/zet-old.mp3?redirected=01
 https://s3.slotex.pl:7150/stream
 #EXTINF:-1,Idź Pod Prąd FM
 http://idzpodprad.out.airtime.pro:8000/idzpodprad_a
+#EXTINF:-1,Informatics Productions Radio
+http://radio.lttstore.pl:8000/radio
 #EXTINF:-1,Internetowe Radio Skoczow
 https://azuracast.radio.skoczow.pl/listen/radior1/radio.mp3
 #EXTINF:-1,Italo4you
@@ -500,7 +500,7 @@ https://stream12.hosterion.pl/stream/akademickieradiocentrum
 #EXTINF:-1,Radio Chrystusa Króla
 http://radiochrystusakrola.pl:8080/;stream.mp3
 #EXTINF:-1,Radio Chrześcijanin
-http://s1.slotex.pl:7002/mountpoint
+https://stream20.hosterion.pl:8588/mountpoint
 #EXTINF:-1,Radio Chrzescijanin - 2
 http://s1.slotex.pl:7002/;
 #EXTINF:-1,Radio Chrześcijanin (Jakość dźwięku (MP3))
@@ -525,6 +525,8 @@ http://maggie.torontocast.com:8100/stream/3/
 https://radiodht.com/stream_main/
 #EXTINF:-1,Radio DHT (Pepis)
 https://radiodht.com/stream_pepis/
+#EXTINF:-1,Radio Dimash
+http://29327.live.streamtheworld.com/SAM02AAC364_SC
 #EXTINF:-1,Radio Disco Party - Club
 https://s3.slotex.pl/shoutcast/7354/stream
 #EXTINF:-1,Radio Disco Party - Disco Impreza
@@ -958,9 +960,9 @@ http://195.150.20.7/2000
 #EXTINF:-1,Radio RMF - 80s Disco
 http://31.192.216.10/80SDISCO
 #EXTINF:-1,Radio RMF Classic
-https://rs203-krk-cyfronet.rmfstream.pl/rmf_classic
+http://31.192.216.3/rmf_classic
 #EXTINF:-1,Radio RMF FM
-http://31.192.216.4/rmf_fm
+https://rs101-krk-cyfronet.rmfstream.pl/rmf_fm
 #EXTINF:-1,Radio RMF Hard and Heavy
 https://rs201-krk-cyfronet.rmfstream.pl/HARDHEAVY?listenerid=22faa5bd029362874d207dd68f5e4954&awparams=companionAds%3Atrue&aw_0_1st.version=1.1.4%3Ahtml5&aw_0_1st.playerid=RMF_Player_JS_P&aw_0_1st.skey=1649088434&aw_0_req.gdpr=false&aw_0_req.userConsentV2=CPW7rKhPW7rKhFKACAPLCHCgAAAAAEPAAB5YAAARTAJMNS8gC7EscGRaNKoUQIwrCQqgUAFFAMLREYAODgp2VgEuoAWACAVARgRAgxBRgwCAAQCAJCIgJACwQCIAiAAAAgARgIQAETAILACwMAgAFANCxACgAECQgyOCo5TAgIkWiglsrEEoK9hTCAMssAKBRGRUACJAgAWBkJCwcxwBICXCyQJMELxACMAA.YAAAD4AAAAAA&aw_0_1st.playerid=RMF_Player_JS_P&aw_0_1st.rmf_disable_preroll=true
 #EXTINF:-1,Radio RMF Hard and Heavy
@@ -1127,6 +1129,8 @@ http://zetkid-01.cdn.eurozet.pl:8434/listen.pls
 https://zt06.cdn.eurozet.pl/ZETLOV.mp3?t=1709719922445?redirected=06
 #EXTINF:-1,Radio Zet na Rower -om
 https://zt06.cdn.eurozet.pl/ZETNAR.mp3?t=1709720397160?redirected=06
+#EXTINF:-1,Radio ZET na Święta
+https://zt06.cdn.eurozet.pl/ZETSWI.mp3
 #EXTINF:-1,Radio Ziemi Wieluńskiej 
 http://stream2.nadaje.com:8022/;stream
 #EXTINF:-1,Radio Zlote Przeboje Wroclaw
@@ -1232,7 +1236,7 @@ https://rs6-krk2.rmfstream.pl/rmf_4
 #EXTINF:-1,RMF 5 Lagodne Przeboje
 http://31.192.216.8/RMF5
 #EXTINF:-1,RMF 5 Lagodne Przeboje
-https://rs102-krk-cyfronet.rmfstream.pl/rmf_5
+https://rs103-krk-cyfronet.rmfstream.pl/rmf_5
 #EXTINF:-1,RMF 5 Lagodne Przeboje + FAKTY
 http://31.192.216.8/RMF5F
 #EXTINF:-1,RMF 50s
@@ -1246,7 +1250,7 @@ http://195.150.20.9/80S
 #EXTINF:-1,RMF 80s + FAKTY
 http://195.150.20.9/80SF
 #EXTINF:-1,RMF 80s disco
-https://rs201-krk-cyfronet.rmfstream.pl/rmf_80s_disco
+http://217.74.72.6/rmf_80s_disco
 #EXTINF:-1,RMF 80s Disco
 http://195.150.20.9/80SDISCO
 #EXTINF:-1,RMF 80s Disco + FAKTY
@@ -1256,7 +1260,7 @@ http://31.192.216.7/90S
 #EXTINF:-1,RMF 90s + FAKTY
 http://31.192.216.7/90SF
 #EXTINF:-1,RMF 90s dance
-https://rs103-krk.rmfstream.pl/rmf_90s_dance
+https://rs101-krk-cyfronet.rmfstream.pl/rmf_90s_dance
 #EXTINF:-1,RMF 90s Dance
 http://195.150.20.7/90SDANCE
 #EXTINF:-1,RMF 90s Dance + FAKTY
@@ -1268,7 +1272,7 @@ http://195.150.20.7/ALTERNATYWAF
 #EXTINF:-1,RMF Ballady
 http://195.150.20.7/NOSTALGIA
 #EXTINF:-1,Rmf Ballady
-https://rs101-krk.rmfstream.pl/rmf_nostalgia
+https://rs203-krk.rmfstream.pl/rmf_nostalgia
 #EXTINF:-1,RMF Ballady + FAKTY
 http://195.150.20.7/NOSTALGIAF
 #EXTINF:-1,RMF Blues
@@ -1282,7 +1286,7 @@ http://31.192.216.8/BRAVOF
 #EXTINF:-1,RMF Chillout
 http://31.192.216.8/CHILLOUT
 #EXTINF:-1,RMF Chillout
-https://rs102-krk-cyfronet.rmfstream.pl/rmf_chillout
+https://rs101-krk.rmfstream.pl/rmf_chillout
 #EXTINF:-1,RMF Chillout + FAKTY
 http://31.192.216.8/CHILLOUTF
 #EXTINF:-1,RMF Chopin + FAKTY
@@ -1296,7 +1300,7 @@ http://31.192.216.8/RMFCLASSIC48
 #EXTINF:-1,RMF Classic Rock
 https://rs201-krk.rmfstream.pl/rmf_classic_rock
 #EXTINF:-1,RMF Club
-https://rs101-krk-cyfronet.rmfstream.pl/rmf_club
+https://rs203-krk-cyfronet.rmfstream.pl/rmf_club
 #EXTINF:-1,RMF Club
 http://31.192.216.7/CLUB
 #EXTINF:-1,RMF Club + FAKTY
@@ -1306,13 +1310,13 @@ http://rmfstream1.interia.pl:8000/rmf_dance
 #EXTINF:-1,RMF Dance
 http://31.192.216.10/DANCE
 #EXTINF:-1,RMF Dance
-https://rs201-krk-cyfronet.rmfstream.pl/rmf_dance
+https://rs201-krk.rmfstream.pl/rmf_dance
 #EXTINF:-1,RMF Dance + FAKTY
 http://31.192.216.10/DANCEF
 #EXTINF:-1,RMF DANCE FAKTY
 http://195.150.20.7/rmf_dance_f
 #EXTINF:-1,RMF Disco polo
-https://rs202-krk.rmfstream.pl/rmf_disco_polo
+https://rs101-krk.rmfstream.pl/rmf_disco_polo
 #EXTINF:-1,RMF Dla dzieci
 http://195.150.20.8/BABY
 #EXTINF:-1,RMF Dla dzieci + FAKTY
@@ -1362,7 +1366,7 @@ http://31.192.216.7/KOLEDY
 #EXTINF:-1,RMF Koledy + FAKTY
 http://31.192.216.7/KOLEDYF
 #EXTINF:-1,RMF Latino
-https://rs101-krk.rmfstream.pl/rmf_latino
+https://rs101-krk-cyfronet.rmfstream.pl/rmf_latino
 #EXTINF:-1,RMF MAXX
 https://rs9-krk2-cyfronet.rmfstream.pl/RMFMAXXX48
 #EXTINF:-1,RMF MAXX
@@ -1380,7 +1384,7 @@ https://rs103-krk-cyfronet.rmfstream.pl/MAXXXPOZ
 #EXTINF:-1,RMF MAXX ŚLĄSK
 https://rs202-krk-cyfronet.rmfstream.pl/MAXXXSLK?aw_0_req.gdpr=true&aw_0_req.userConsentV2=CPwKwZzPwKwZzFKACAPLDNCsAP_AAEPAAB5YJitX_H__bW9r8f7_aft0eY1P9_j77uQxBhfJk-4F3LvW-JwX52E5NF36tqoKmR4Eu3LBIUNlHNHUTVmwaokVryHsak2cpTNKJ6BEkHMRM2dYCF5rmxtjeQKY5_p_d3fx2D-t_dv839z3z81Xn3dZf--0-PCdU5-9Dfn9fRfb-9IP9_78v8v8_9_rk2_eT13_79_7_D9-f_87_WCYoBJhqXEAXYEDITaBhFCiBGFYQEUCgAAAEgaICAFwYFOiMAn1gMgBQigCOCAEMAKMiAQAAAQBIRABIEWCAACAQCAAEACAQCAAgYABQAWAgEAAIDoGKYUACgWECRAREKYEJUCQQEtlQglBdIaYQBVlgBQCI2CgARAACKwABAWLgGCJASoSCBLqDaAAAgAQCiVCsQSemgAUEjZagAAA.YAAAD4AAAAAA&aw_0_1st.playerid=RMF_Player_JS_P&aw_0_1st.rmf_disable_preroll=false
 #EXTINF:-1,RMF Maxx Włocławek
-https://rs203-krk-cyfronet.rmfstream.pl/rmf_maxxx_wlc
+https://rs202-krk-cyfronet.rmfstream.pl/rmf_maxxx_wlc
 #EXTINF:-1,RMF MAXXX 99.7 Pomorze
 https://rs202-krk-cyfronet.rmfstream.pl/rmf_maxxx?aw_0_1st.playerid=RMF_TuneIn&skey=1616600473
 #EXTINF:-1,RMF MAXXX Hop bec
@@ -1394,15 +1398,15 @@ https://rs102-krk.rmfstream.pl/MAXXXKRA
 #EXTINF:-1,RMF MAXXX KROSNO 
 http://rs6-krk2.rmfstream.pl/rmf_maxxx_ksn
 #EXTINF:-1,RMF MAXXX Mazowsze
-https://rs201-krk-cyfronet.rmfstream.pl/rmf_maxxx_cie
+https://rs202-krk.rmfstream.pl/rmf_maxxx_cie
 #EXTINF:-1,RMF MAXXX Szczecin
 http://217.74.72.10/rmf_maxxx_szc
 #EXTINF:-1,RMF Muzyka Klasyczna
-https://rs103-krk.rmfstream.pl/rmf_muzyka_klasyczna
+https://rs102-krk.rmfstream.pl/rmf_muzyka_klasyczna
 #EXTINF:-1,RMF Muzyka_Filmowa
-https://rs102-krk.rmfstream.pl/rmf_muzyka_filmowa
+https://rs203-krk.rmfstream.pl/rmf_muzyka_filmowa
 #EXTINF:-1,RMF Najwieksze Polskie Przeboje
-https://rs201-krk-cyfronet.rmfstream.pl/npp_rmf_on
+http://195.150.20.5/npp_rmf_on
 #EXTINF:-1,RMF Niezapomniane melodie
 http://31.192.216.10/NIEZAPOMNIANEMELODIE
 #EXTINF:-1,RMF Niezapomniane melodie + FAKTY
@@ -1414,21 +1418,21 @@ https://rs203-krk-cyfronet.rmfstream.pl/rmf_party
 #EXTINF:-1,RMF Party + FAKTY
 http://195.150.20.7/PARTYF
 #EXTINF:-1,RMF Piosenka Filmowa
-https://rs202-krk-cyfronet.rmfstream.pl/rmf_piosenka_filmowa
+https://rs103-krk.rmfstream.pl/rmf_piosenka_filmowa
 #EXTINF:-1,RMF PIOSENKA FILMOWA
 http://217.74.72.10/rmf_piosenka_filmowa
 #EXTINF:-1,RMF Piosenka literacka
-https://rs102-krk.rmfstream.pl/rmf_piosenka_literacka
+https://rs201-krk-cyfronet.rmfstream.pl/rmf_piosenka_literacka
 #EXTINF:-1,RMF Piosenka literacka
 http://31.192.216.7/PIOSENKALITERACKA
 #EXTINF:-1,RMF Piosenka literacka + FAKTY
 http://31.192.216.7/PIOSENKALITERACKAF
 #EXTINF:-1,RMF Pobudka
-https://rs201-krk-cyfronet.rmfstream.pl/rmf_pobudka
+http://195.150.20.244/rmf_pobudka
 #EXTINF:-1,RMF Polska Alternatywa
 http://195.150.20.7/POLSKAALTERNATYWA
 #EXTINF:-1,RMF Polska prywatka
-https://rs202-krk-cyfronet.rmfstream.pl/rmf_polska_prywatka
+https://rs203-krk.rmfstream.pl/rmf_polska_prywatka
 #EXTINF:-1,RMF Polski Hip Hop
 http://217.74.72.10/rmf_trend_sounds
 #EXTINF:-1,RMF Polski Rock
@@ -1450,7 +1454,7 @@ http://31.192.216.10/PRZEBOJROKU
 #EXTINF:-1,RMF Przeboj roku + FAKTY
 http://31.192.216.10/PRZEBOJROKUF
 #EXTINF:-1,RMF Relaks
-https://rs103-krk.rmfstream.pl/rmf_relaks
+https://rs201-krk-cyfronet.rmfstream.pl/rmf_relaks
 #EXTINF:-1,RMF Relaks
 http://31.192.216.8/RELAKS
 #EXTINF:-1,RMF Relaks + FAKTY
@@ -1464,7 +1468,7 @@ http://195.150.20.8/ROCKPROGRESYWNY
 #EXTINF:-1,RMF Rock Progresywny + FAKTY
 http://195.150.20.8/ROCKPROGRESYWNYF
 #EXTINF:-1,RMF Sloneczne Przeboje
-https://rs103-krk.rmfstream.pl/rmf_sloneczne_przeboje
+https://rs101-krk.rmfstream.pl/rmf_sloneczne_przeboje
 #EXTINF:-1,RMF Sloneczne Przeboje
 http://195.150.20.8/SPRZEBOJE
 #EXTINF:-1,RMF Sloneczne Przeboje + FAKTY
@@ -1478,7 +1482,7 @@ http://31.192.216.8/SJAZZF
 #EXTINF:-1,RMF Styl
 http://31.192.216.7/STYL
 #EXTINF:-1,RMF Styl
-https://rs103-krk-cyfronet.rmfstream.pl/rmf_styl
+https://rs203-krk-cyfronet.rmfstream.pl/rmf_styl
 #EXTINF:-1,RMF Styl + FAKTY
 http://31.192.216.7/STYLF
 #EXTINF:-1,RMF Swieta
@@ -1516,7 +1520,7 @@ http://195.150.20.8/RMF3
 #EXTINF:-1,rmfa classic
 http://195.150.20.242:8000/rmf_classic
 #EXTINF:-1,RMFmaxx
-https://rs202-krk-cyfronet.rmfstream.pl/rmf_maxxx
+https://rs203-krk-cyfronet.rmfstream.pl/rmf_maxxx
 #EXTINF:-1,RMI Euro Disco
 https://ams-pioneer02.dedicateware.com:2655/stream
 #EXTINF:-1,Rock Radio
@@ -1676,7 +1680,7 @@ https://zt.cdn.eurozet.pl/ZETPL1.mp3
 #EXTINF:-1,ZET Pop Rock
 https://zt.cdn.eurozet.pl/ZETPRK.mp3
 #EXTINF:-1,Zet Radio
-http://redir.atmcdn.pl/sc/o2/Eurozet/live/audio.livx
+http://redir.atmcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5
 #EXTINF:-1,ZET Same Hity
 https://zt.cdn.eurozet.pl/ZETHIT.mp3
 #EXTINF:-1,Zloteprzeboje

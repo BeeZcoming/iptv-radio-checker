@@ -186,7 +186,7 @@ http://ice.abradio.cz/cernahora64.mp3
 #EXTINF:-1,Hitrádio Černá Hora 128
 http://ice.abradio.cz/cernahora128.mp3
 #EXTINF:-1,Hitrádio City 93.7 FM
-http://29083.live.streamtheworld.com:3690/HITRADIO_CITY_PRAHA_SC
+http://25503.live.streamtheworld.com:3690/HITRADIO_CITY_PRAHA_SC
 #EXTINF:-1,Hitrádio City Brno
 http://ice.abradio.cz/magicbrno128.mp3
 #EXTINF:-1,hitradio City zona Lasky
@@ -381,6 +381,8 @@ https://mediaservice.radioorlicko.cz/stream192.mp3
 http://icecast9.play.cz/radio-ostravan-256.mp3
 #EXTINF:-1,Radio Otava
 https://radiootava.trefcon.cz:8889/radio.mp3
+#EXTINF:-1,Rádio Písnička
+https://stream.slagr-radio.cz/pisnicka
 #EXTINF:-1,Rádio Pohádka
 https://ice3.radia.cz/pohadka128.mp3
 #EXTINF:-1,Rádio pohádka
@@ -426,7 +428,7 @@ https://icecast6.play.cz/radio-xaver.aac
 #EXTINF:-1,RADIO.IPIP.CZ: Cherry80
 https://icecast.beatzone.cz/radio/8630/cherry.mp3
 #EXTINF:-1,RADIO1
-http://icecast2.play.cz/radio1-64.mp3
+http://icecast6.play.cz/radio1-128.mp3
 #EXTINF:-1,Radio7
 http://icecast8.play.cz/radio7-32aac
 #EXTINF:-1,RadioParty.pl
@@ -455,8 +457,6 @@ http://ice.abradio.cz/rockzabava128.mp3
 https://icecast5.play.cz/rockzone.mp3
 #EXTINF:-1,Samson
 http://icecast2.play.cz:8000/samsonfm128aac
-#EXTINF:-1,SeeJay Radio
-http://icecast6.play.cz/seejay128.mp3
 #EXTINF:-1,Shinto
 https://s49.myradiostream.com/8142/listen.mp3
 #EXTINF:-1,Signál Rádio

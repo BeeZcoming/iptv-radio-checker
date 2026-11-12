@@ -128,7 +128,7 @@ http://stream.zeno.fm/0k6va3rg8rhvv
 #EXTINF:-1,rpw
 https://radiostream.pl/tuba140-1.mp3
 #EXTINF:-1,rrr
-https://mdstrm.com/audio/67d2a8685ae4234de49e40f6/live.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_CORUNA.mp3
 #EXTINF:-1,RTVS
 http://icecast.stv.livebox.sk/slovensko_128.mp3
 #EXTINF:-1,selah
@@ -139,6 +139,8 @@ https://radio95.radioca.st/stream/1/
 https://simulatorfm.stream:8025/320Kbps
 #EXTINF:-1,sunnah radio 
 http://andromeda.shoutca.st:8189/stream
+#EXTINF:-1,sunshine-live fokus
+http://stream.sunshine-live.de/focus/mp3-128/stream.sunshine-live.de/
 #EXTINF:-1,syaivo
 http://stream.ntktv.ua/syaivo.mp3
 #EXTINF:-1,Veronika

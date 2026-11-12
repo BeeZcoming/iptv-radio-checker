@@ -157,6 +157,8 @@ https://mpc2.mediacp.eu:8214/stream
 https://extra.mediacp.eu/stream/RadioParada,o.z.
 #EXTINF:-1,Rádio Pyramída
 https://icecast.stv.livebox.sk/klasika_128.mp3
+#EXTINF:-1,Rádio Rebeca
+https://mpc2.mediacp.eu:8200/rebecaweb
 #EXTINF:-1,Rádio Regina Západ
 https://icecast.stv.livebox.sk/regina-ba_128.mp3
 #EXTINF:-1,Rádio Relax International

@@ -155,12 +155,8 @@ https://radio.laktasiturizam.org/live
 https://s8.iqstreaming.com:8044/stream
 #EXTINF:-1,Radio M
 http://www.team-data.ba:8030/stream/
-#EXTINF:-1,RADIO M CAFE
-https://team-data.ba:9032//;
 #EXTINF:-1,Radio M Cafe
 https://team-data.ba:9032/play?sid=1&t=1781439858301
-#EXTINF:-1,Radio M plus
-https://team-data.ba:10000/stream
 #EXTINF:-1,Radio Magic
 http://stream.iradio.pro:8034/radiomagic
 #EXTINF:-1,Radio Magic Milići

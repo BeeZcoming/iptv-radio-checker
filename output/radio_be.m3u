@@ -4,7 +4,7 @@ https://stream.bruce-radio.be/bruce-classic-rock
 #EXTINF:-1, Radio RGR Dance Rotselaar, Be
 https://stream2.rgrfm.be/
 #EXTINF:-1,"name": "'undefined' -> 'AFN 360 Benelux'",
-http://25603.live.streamtheworld.com:3690/AFNE_BLX_SC
+http://27793.live.streamtheworld.com:3690/AFNE_BLX_SC
 #EXTINF:-1,1 Belgian On Demand Radio
 http://bodr.ddns.net:9052/;
 #EXTINF:-1,100,5
@@ -97,8 +97,6 @@ http://radios.rtbf.be/classic21-128.mp3
 http://www.clubfmserver.be:8000/radioclubfm.mp3
 #EXTINF:-1,Contact MAX
 https://contactmax.ice.infomaniak.ch/contactmax-192.mp3
-#EXTINF:-1,DAX FM RADIO
-http://master.shoutcast.com:8000/dax-fm
 #EXTINF:-1,De Geluidsfabriek
 https://s5.radio.co/s4674a3b1c/listen
 #EXTINF:-1,De Jukebox
@@ -156,7 +154,7 @@ https://onair.goldfm.be:8000/stream
 #EXTINF:-1,Gold FM
 http://stream.goldfm.be:1061/station.mp3
 #EXTINF:-1,Goldies Radio
-http://goldiesradio.radioca.st:8565/stream
+http://eu1.reliastream.com:7064/stream
 #EXTINF:-1,Gothville radio 
 http://streams.radio.co/s62583474c/listen
 #EXTINF:-1,Grand Prix Radio
@@ -249,8 +247,6 @@ https://quincy.torontocast.com:3195/stream
 http://stream.laclassica.be:8023/stream2
 #EXTINF:-1,La Classica
 http://stream.laclassica.be:8023/stream
-#EXTINF:-1,La Première - Bruxelles
-http://radios.rtbf.be/laprem1erebxl-128.mp3
 #EXTINF:-1,Lehabs Radio
 https://stream.zeno.fm/v4ney0hn5z3uv
 #EXTINF:-1,LN Radio
@@ -385,6 +381,12 @@ https://stream.radio700.eu/radio700-live/mp3-192?ref=radiobrowser
 https://clubfmserver.be/accent.mp3
 #EXTINF:-1,Radio Accent
 https://www.clubfmserver.be/accent.mp3
+#EXTINF:-1,Radio Air Libre
+https://streaming.domainepublic.net/radioairlibre.ogg
+#EXTINF:-1,Radio Air Libre
+http://streaming.domainepublic.net:8000/radioairlibre.mp3
+#EXTINF:-1,Radio Air Libre
+http://streaming.domainepublic.net:8000/radioairlibre.ogg
 #EXTINF:-1,Radio AKTIEF!
 http://www.clubfmserver.be:8000/aktief.mp3
 #EXTINF:-1,Radio Alma Brux 101.9FM
@@ -511,6 +513,8 @@ https://icecast.movemedia.be/opsinjoor
 http://s39.myradiostream.com:14494/listen.mp3
 #EXTINF:-1,Radio Paloma  Poppel,be
 http://ex52.voordeligstreamen.nl/8054/stream
+#EXTINF:-1,Radio Panik
+https://streaming.domainepublic.net/radiopanik.ogg
 #EXTINF:-1,Radio Paradise 
 https://phoebe.streamerr.co:3445/stream
 #EXTINF:-1,Radio Park FM
@@ -523,6 +527,8 @@ https://stream.radioparkies.com/listen/parkies/stream.mp3
 http://live.radiostudio.be/plus
 #EXTINF:-1,Radio Quartz
 http://manager2.streaming-ingenierie.fr:8026/;stream.mp3
+#EXTINF:-1,radio qui chifel
+http://5.39.80.55:8000/
 #EXTINF:-1,Radio Rand
 http://s44.myradiostream.com:8612/listen.m4a
 #EXTINF:-1,Radio Reflex
@@ -615,14 +621,62 @@ http://streams.movemedia.eu:8440/
 http://server7.radio-streams.net:8157/stream
 #EXTINF:-1,Rowyna Music (nw.strm)
 https://server7.radio-streams.net/proxy/rowynamu/stream
+#EXTINF:-1,RTBF - Musiq3 Baroque
+https://radios.rtbf.be/wr-m3-baroque-128.mp3
 #EXTINF:-1,RTBF Classic 21
-http://radio.rtbf.be/c21/aac-128/fl
-#EXTINF:-1,RTBF Mix
-http://radio.rtbf.be/mix/aac-128/fl
+https://radios.rtbf.be/classic21-64.aac
+#EXTINF:-1,RTBF Classic 21
+https://radios.rtbf.be/classic21-128.mp3
+#EXTINF:-1,RTBF Classic 21 - 60's
+https://radios.rtbf.be/wr-c21-60-128.mp3
+#EXTINF:-1,RTBF Classic 21 - 80's
+https://radios.rtbf.be/wr-c21-80-128.mp3
+#EXTINF:-1,RTBF Classic 21 - 90's
+https://radios.rtbf.be/wr-c21-90-128.mp3
+#EXTINF:-1,RTBF Classic 21 - Live
+https://radios.rtbf.be/wr-c21-live-128.mp3
+#EXTINF:-1,RTBF Classic 21 - Metal
+https://radios.rtbf.be/wr-c21-metal-128.mp3
+#EXTINF:-1,RTBF Classic 21 - Reggae
+https://radios.rtbf.be/wr-eventradio-128.mp3
+#EXTINF:-1,RTBF Classic 21 - Route 66
+https://radios.rtbf.be/wr-c21-route66-128.mp3
+#EXTINF:-1,RTBF Classic 21 - Soul Power
+https://radios.rtbf.be/wr-c21-soul-128.mp3
+#EXTINF:-1,RTBF Classic 21 - Underground
+https://radios.rtbf.be/wr-c21-underground-128.mp3
+#EXTINF:-1,RTBF Jam.
+https://radios.rtbf.be/jam-128.mp3
+#EXTINF:-1,RTBF La Première
+https://redbeemedia.streamabc.net/redbm-lapremiere-aac-128-7561067
+#EXTINF:-1,RTBF La Première
+https://radios.rtbf.be/laprem1ere-64.aac
+#EXTINF:-1,RTBF Musiq3
+https://radios.rtbf.be/musiq3-128.aac
+#EXTINF:-1,RTBF Pure FM
+https://radios.rtbf.be/pure-64.aac
+#EXTINF:-1,RTBF Tarmac
+https://radios.rtbf.be/tarmac-128.mp3
+#EXTINF:-1,RTBF Viva+
+https://radios.rtbf.be/vivaplus-128.mp3
+#EXTINF:-1,RTBF VivaCité Bruxelles
+https://radios.rtbf.be/vivabxl-64.aac
+#EXTINF:-1,RTBF VivaCité Charleroi
+https://radios.rtbf.be/vivacharleroi-64.aac
+#EXTINF:-1,RTBF VivaCité Hainaut
+https://radios.rtbf.be/vivahainaut-64.aac
+#EXTINF:-1,RTBF Vivacité Liège
+https://redbeemedia.streamabc.net/redbm-vivaliege-aac-128-4751338
+#EXTINF:-1,RTBF VivaCité Liège
+https://radios.rtbf.be/vivaliege-64.aac
+#EXTINF:-1,RTBF VivaCité Luxembourg
+https://radios.rtbf.be/vivalux-64.aac
+#EXTINF:-1,RTBF VivaCité Namur & Brabant Wallon
+https://radios.rtbf.be/vivanamurbw-64.aac
 #EXTINF:-1,scorpio
 https://stream.radioscorpio.be/stream
 #EXTINF:-1,Slow Radio
-http://stream2.slowradio.com/
+http://stream1.slowradio.com/
 #EXTINF:-1,Smart Radio City
 https://live.smartradio.city/listen/city/radio.mp3
 #EXTINF:-1,Sport FM Hoeselt
@@ -801,8 +855,6 @@ https://icecast-qmusicbe-cdp.triple-it.nl/willy.mp3
 http://stream.wradio.es:9000/;stream/1
 #EXTINF:-1,XBeat
 https://radio.xbeat.org/stream1
-#EXTINF:-1,YOLO - Life is like a dance
-https://streamingv2.shoutcast.com/yolo-life-is-like-a-dance
 #EXTINF:-1,YOUFM 106.9 Mons, be
 http://youfm.ice.infomaniak.ch/youfm-96
 #EXTINF:-1,Zen Garden (myNoise Radio)

@@ -23,6 +23,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CLASICA_1065AA
 https://radio.forensedigital.gt:8020/stream
 #EXTINF:-1,Criollisima GT
 https://radio.forensedigital.gt:8060/stream
+#EXTINF:-1,Dinámica 89.9 FM
+https://cloudstream2032.conectarhosting.com/8312/stream
 #EXTINF:-1,Emaús Radio
 https://sh2.radioonlinehd.com:8141/;
 #EXTINF:-1,Emisoras Unidas 89.7
@@ -45,8 +47,6 @@ https://radiostreamingaac.com:8562/solarjutiapa
 https://stream.zeno.fm/1g9cduy10bruv
 #EXTINF:-1,Exa FM Guatemala
 https://stream.zeno.fm/czdkk32qduhvv
-#EXTINF:-1,Felicidad Stereo
-http://radio.produccionescasaverde.com:8720/stream
 #EXTINF:-1,FeLove Biblia en Quiché
 http://radio.produccionescasaverde.com:8788/autodj
 #EXTINF:-1,FeLove Clásica
@@ -77,8 +77,6 @@ https://server.radiogs.net:7042/;
 https://vivo.miradio.in/8110/stream
 #EXTINF:-1,Mas Musica-92-5 FM
 https://s4.radio.co/s42a526595/listen
-#EXTINF:-1,Metropolis Antigua
-https://polaris.hostingnica.net:7010/stream
 #EXTINF:-1,Mía 93.7 Guatemala
 https://playerservices.streamtheworld.com/api/livestream-redirect/MIAAAC.aac
 #EXTINF:-1,MUSIQUERA
@@ -93,8 +91,6 @@ https://ss.redradios.net:8046/stream
 http://juventudpalabramiel.org:8000/radio
 #EXTINF:-1,Radio 107 Exito - 107.1 FM
 http://play10.tikast.com:8159/stream
-#EXTINF:-1,Radio Activa 95.1 FM. En linea católica 
-https://sh4.radioonlinehd.com:8557/stream
 #EXTINF:-1,Radio Amiga 93.3 FM
 http://radiolatina.live:8072/;
 #EXTINF:-1,Radio Cultural TGN

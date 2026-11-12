@@ -21,10 +21,6 @@ https://m.axradio.net/stream.mp3
 http://radio.bestfm.ua/bestfm
 #EXTINF:-1,Blues & Rock Radio
 http://stream.laut.fm/bluesrock
-#EXTINF:-1,Brokenbeats
-https://brokenbeats.net/stream/aac
-#EXTINF:-1,Brokenbeats
-https://stream.brokenbeats.net/tune
 #EXTINF:-1,Classic Radio
 http://online.classicradio.ua/ClassicRadio_HD
 #EXTINF:-1,Classic Radio
@@ -41,8 +37,6 @@ https://drdio.studio/stream/live.mp3
 https://listen1.myradio24.com/nazarik
 #EXTINF:-1,EQVE Radio - Экве Радио
 http://listen1.myradio24.com/nazarik
-#EXTINF:-1,Europa Plus
-https://s5.radioforge.com:7908/live?n=77357
 #EXTINF:-1,FM 1 Перше Радіо
 http://195.138.81.134:8000/radio1-256
 #EXTINF:-1,FM Disco Melody
@@ -160,7 +154,7 @@ https://online.radiojazz.ua/RadioJazz_Christmas_HD
 #EXTINF:-1,Radio Jazz Cover
 https://online.radiojazz.ua/RadioJazz_Cover_HD
 #EXTINF:-1,Radio Jazz FM
-http://online.radiojazz.ua/RadioJazz_Live
+http://online.radiojazz.ua/RadioJazz_Christmas_Live
 #EXTINF:-1,Radio Jazz FM Ukraine
 http://online.radiojazz.ua/RadioJazz
 #EXTINF:-1,Radio Jazz Gold FM
@@ -277,8 +271,6 @@ http://51.83.132.157/128
 https://listen7.myradio24.com/ulyublene
 #EXTINF:-1,URC Radio
 https://streamer.radio.co/sdff2fd6a8/listen
-#EXTINF:-1,Wolf Music Radio
-https://a3.asurahosting.com/listen/wolf_music_radio/radio.mp3
 #EXTINF:-1,Worship
 https://radio.dobreff.com/worship.mp3
 #EXTINF:-1,X Radio
@@ -375,8 +367,6 @@ http://radio.moa.org.ua/Friday
 https://live.1tv.od.ua/radio/stream/icecast.audio
 #EXTINF:-1,Подільське
 https://podilske.com:8013/p-radio
-#EXTINF:-1,Просто Radi.O (Київ)
-http://85.238.113.60:8000/PRK128
 #EXTINF:-1,Прямий FM
 https://cast.mediaonline.net.ua/prmfm320
 #EXTINF:-1,Радио НВ

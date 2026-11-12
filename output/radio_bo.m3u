@@ -46,7 +46,7 @@ https://cast6.asurahosting.com/proxy/irfradio/stream
 #EXTINF:-1,Radio Ciudad
 http://streamingenbolivia.com/8002/stream
 #EXTINF:-1,Radio Constelación
-https://stream-289.surfernetwork.com/ks1tsgndvp8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrczF0c2duZHZwOHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImJoVDNmeU9GUWx1aS13TDBuSjVTZGciLCJpYXQiOjE3OTQwMTExMzAsImV4cCI6MTc5NDAxMTE5MH0.91s5grOipiTHYb7CdXBkbJuZAsPFYrj5qBFe6lC3rwI
+https://stream-289.surfernetwork.com/ks1tsgndvp8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrczF0c2duZHZwOHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImYwd2hpMWt1U19lUDFhS3pGd0pIdWciLCJpYXQiOjE3OTQ0NTM4OTYsImV4cCI6MTc5NDQ1Mzk1Nn0.fWd_P62kPRUbbzIen3BHyD5I6uo8KtnGz0EA1f4coPs
 #EXTINF:-1,Radio Cumbia 90s
 https://emiteradio.com/proxy/cumbia90s?mp=/stream
 #EXTINF:-1,Radio Disney - La Paz FM 102.7
@@ -69,14 +69,14 @@ https://usa13.fastcast4u.com/proxy/fideslapaz?mp=/1
 https://usa14.fastcast4u.com/proxy/fidestarija?mp=/1
 #EXTINF:-1,Radio Folklorica Uyuni
 https://emiteradio.com/proxy/uyuni?mp=/stream
+#EXTINF:-1,Radio Gigante Bolivia
+https://cloudstream2032.conectarhosting.com:7311/;
 #EXTINF:-1,Radio Horizontes 93.1
 https://ares.disfrutaenlared.com:9060/
 #EXTINF:-1,Radio Kollasuyo FM
 https://azura2.bitstreaming.net:8000/radio128.aac
 #EXTINF:-1,RADIO MARIA BOLIVIA
 http://dreamsiteradiocp4.com:8022/stream
-#EXTINF:-1,Radio Mega Rurrenabaque
-https://live.turadiotv.com/8030/stream
 #EXTINF:-1,Radio Oldies - Red Uyuni
 https://emiteradio.com/proxy/clasicosingles?mp=/stream
 #EXTINF:-1,Radio Oueblo
@@ -91,6 +91,8 @@ https://stream.zeno.fm/uhw8478m208uv
 https://cast6.asurahosting.com/proxy/radiost4/stream
 #EXTINF:-1,Radio Ritmo 97.3 FM
 https://azura1.bitstreaming.net/listen/radio_ritmo/radio.aac
+#EXTINF:-1,Radio San Gabriel AM 620
+https://usa3.fastcast4u.com/proxy/sangabrielam/stream;
 #EXTINF:-1,Radio San Rafael 92.5 FM
 https://guri.tepuyserver.net:7098/stream
 #EXTINF:-1,Radio Sol Poder de Dios
@@ -117,7 +119,5 @@ https://stream.zeno.fm/gli54dgn5kwuv
 https://stream.zeno.fm/nplf6hpufi5uv
 #EXTINF:-1,Universal FM 106.9
 https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8
-#EXTINF:-1,ZetaxWorld Radio 
-https://radio.zetaxworld.xyz/stream.mp3
 #EXTINF:-1,ZoyTV RADIO
 https://icepool.silvacast.com/GAYFM.mp3

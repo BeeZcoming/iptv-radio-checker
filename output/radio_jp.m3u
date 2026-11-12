@@ -4,7 +4,7 @@ https://stream.laut.fm/kamakura
 #EXTINF:-1,83.4MHz FMSETAGAYA
 https://fmsetagaya834.out.airtime.pro/fmsetagaya834_a
 #EXTINF:-1,A Radio for ACG & others
-https://hkradio.myaddr.io/listen/new_radio/radio.mp3
+https://hkradio.myaddr.io/listen/new_radio/radio.aac
 #EXTINF:-1,AFN GO TOKYO
 http://18433.live.streamtheworld.com/AFNP_TKO_SC
 #EXTINF:-1,All Classical New Releases
@@ -89,14 +89,14 @@ https://justplay.stream.laut.fm/justplay
 http://158.69.227.214:8137/stream
 #EXTINF:-1,Listen.Moe JPop Vorbis
 https://listen.moe/stream
-#EXTINF:-1,Miku Radio
-https://miku.fm/listen/miku/mp3-320
 #EXTINF:-1,MILCpod
 https://radio.milradio.info:9000/milcpod.m3u8
 #EXTINF:-1,Moon Mission Recordings
 http://uk5.internet-radio.com:8306/
 #EXTINF:-1,Moon Mission Recordings, Tokyo Deep and Electronic
 https://uk5.internet-radio.com/proxy/mmr?mp=/stream;
+#EXTINF:-1,Neko-Network Radio: Anime/Japanese
+http://listen.nekonetwork.moe:8400/anime.mp3
 #EXTINF:-1,NFRS Radio
 https://securestreams.autopo.st:2592/stream?t=1769818665235
 #EXTINF:-1,NHK WORLD RADIO
@@ -141,6 +141,10 @@ http://radio.plaza.one/hls
 http://radio.plaza.one/ogg_low
 #EXTINF:-1,Nightwave Plaza OPUS 96
 http://radio.plaza.one/opus
+#EXTINF:-1,Nonstop Casiopea
+https://nonstopcasiopea.radioca.st/
+#EXTINF:-1,Nonstop Casiopea
+https://nonstopcasiopea.radioca.st/;
 #EXTINF:-1,Opening Radio
 http://stream.zeno.fm/tza2ayy47qruv
 #EXTINF:-1,Oreo Chii

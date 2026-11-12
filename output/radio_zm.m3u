@@ -55,6 +55,8 @@ https://ec4.yesstreaming.net:2015/stream
 https://stream.zeno.fm/k2ryd9apkxhvv
 #EXTINF:-1,ITT Radio 90.9 FM
 https://s2.myradiostream.com:8938/stream
+#EXTINF:-1,iWave FM Radio
+https://s47.myradiostream.com/9934/listen.mp3
 #EXTINF:-1,Joy FM Zambia
 https://stream.zeno.fm/17vmi8zjtt3vv
 #EXTINF:-1,Kanele 97.7 FM
@@ -77,6 +79,8 @@ https://stream.zeno.fm/vgxdljgyufxuv
 https://stream.zeno.fm/8ad6degwy7zuv
 #EXTINF:-1,Megarock FM
 https://stream.zeno.fm/xedhxnxtff9uv
+#EXTINF:-1,Metro 94.5 FM Zambia
+https://s24.myradiostream.com:15422/;;
 #EXTINF:-1,Mphangwe FM 88.9
 https://ec4.yesstreaming.net:1925/stream
 #EXTINF:-1,Mwandi Community Radio Station
@@ -123,8 +127,6 @@ https://ec4.yesstreaming.net:2525/stream
 https://stream.zeno.fm/lyo8ib0tzxbtv
 #EXTINF:-1,Sky FM Zambia
 https://stream.zeno.fm/7s554b67schvv
-#EXTINF:-1,Smooth 90.1fm
-https://s25.myradiostream.com/15172/listen.mp3
 #EXTINF:-1,Spice FM 91.1 Kabwe
 http://live.rcast.net:8768/;stream.mp3
 #EXTINF:-1,Sun Fm Zambia

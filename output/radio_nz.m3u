@@ -167,6 +167,8 @@ https://stream.mixfm.nz/
 https://mediaworks.streamguys1.com/more-tga-high_icy
 #EXTINF:-1,More FM - Nelson
 https://mediaworks.streamguys1.com/more-nsn-high_icy
+#EXTINF:-1,More FM Canterbury
+https://mediaworks.streamguys1.com/more-chc-high_icy
 #EXTINF:-1,More FM Waikato
 https://mediaworks.streamguys1.com/more-ham-high_icy
 #EXTINF:-1,Mountainside FM
@@ -221,8 +223,6 @@ https://live.accessmedia.nz/PlanetFM.stream/playlist.m3u8
 https://c16.radioboss.fm:8262/stream?1652324863134
 #EXTINF:-1,Power Hit FM 87.8 - Christchurch, NZ
 http://listen.powerhitfm.co.nz:16100/stream
-#EXTINF:-1,Puketapu Radio 
-https://a.tunzilla.com/http://usa3.fastcast4u.com:1892/;
 #EXTINF:-1,RadiJohan
 http://69.30.214.54:13740/;?type=http&nocache=1708209708?0.5747864581171453
 #EXTINF:-1,Radio - X
@@ -253,6 +253,8 @@ https://live.accessmedia.nz/Kidnappers.stream/playlist.m3u8
 https://live.accessmedia.nz/Kidnappers.stream_aac/playlist.m3u8
 #EXTINF:-1,Radio one 91 fm 
 https://play.r1.co.nz/live
+#EXTINF:-1,RADIO PANJABI
+https://s20.reliastream.com/stream/8134
 #EXTINF:-1,Radio Robotic
 https://stream.zeno.fm/x4hneey2vwzuv
 #EXTINF:-1,Radio Robotic
@@ -261,6 +263,8 @@ https://stream.zeno.fm/rhscse2a41zuv
 http://radiosamoa.stream.broadcast.co.nz:8000/rsamoa48k
 #EXTINF:-1,Radio Sangeet Masti
 https://servidor19-4.brlogic.com:7304/live?source=website
+#EXTINF:-1,Radio Southland
+https://live.accessmedia.nz/Southland.stream/chunklist_w1501837953.m3u8
 #EXTINF:-1,Radio Spice (Auckland, New Zealand)
 http://stream9.broadcast.co.nz:8000/radiospicewebsiteaudio.mp3
 #EXTINF:-1,Radio Te Aroha 88FM
@@ -397,6 +401,8 @@ http://radio.wanderingsheep.tv:8012/hopealive
 http://stream2.nrgkits.co.nz:5000/wcrfm
 #EXTINF:-1,Wellington Access Radio
 https://live.accessmedia.nz/Wellington.stream/playlist.m3u8
+#EXTINF:-1,West FM Swing Radio
+http://westfm.freeddns.org:8000/westfm
 #EXTINF:-1,World FM Tawa 88.2
 http://www.worldfm.co.nz:8882/worldfm.aac
 #EXTINF:-1,XS80s

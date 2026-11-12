@@ -55,6 +55,8 @@ https://stream.zeno.fm/m1krtxpk11zuv
 https://cast1.my-control-panel.com/proxy/ahaliafm/stream
 #EXTINF:-1,AIR Alwar
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio153/playlist.m3u8
+#EXTINF:-1,AIR bhopal
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio212/chunklist.m3u8
 #EXTINF:-1,AIR Bhuj
 http://117.254.199.9:8081/source
 #EXTINF:-1,AIR Coimbatore AM 999 Khz
@@ -73,6 +75,8 @@ https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio057/hlspbaudio05764k
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio031/playlist.m3u8
 #EXTINF:-1,AIR FM Rainbow Delhi
 https://d3r9rhourdc02u.cloudfront.net/assets/radio/airdelhi02/air002_Auto.m3u8
+#EXTINF:-1,AIR Indore
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio212/playlist.m3u8
 #EXTINF:-1,AIR Jeypore
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio112/playlist.m3u8
 #EXTINF:-1,Air Karaikal
@@ -161,6 +165,8 @@ https://radio.wavespb.com/live/8362d532bd498fd0/8362d532bd498fd0.m3u8
 https://radio.wavespb.com/live/deae7120a205bfff/deae7120a205bfff.m3u8
 #EXTINF:-1,akashvanikarnataka
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio030/hlspbaudio030_Auto.m3u8
+#EXTINF:-1,All India Radio Air Assamese
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio133/playlist.m3u8
 #EXTINF:-1,All India Radio AIR Punjabi 
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio138/chunklist.m3u8
 #EXTINF:-1,All India Radio Neighbourhood Service 1
@@ -209,8 +215,6 @@ https://stream-175.surfernetwork.com/ozta21if4wiuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzd
 https://stream.ap9fm.in/radio/8000/radio.mp3
 #EXTINF:-1,AR RADIO
 https://free.rcast.net/200660
-#EXTINF:-1,AR Rahman Radio
-https://psrlive2.listenon.in/arr?ah=0e81749e37789e5fb8c290926ce87e3f
 #EXTINF:-1,AR Rahman Radio
 http://psrweb1.listenon.in/arr?station=arrahmanradio
 #EXTINF:-1,Arijit Singh
@@ -381,6 +385,8 @@ https://stream-159.zeno.fm/dubvcz3rkrhvv?zs=aVDxKzveQw22WcHIuNRafQ
 https://stream.zeno.fm/r4znzpvskchvv
 #EXTINF:-1,Classic Radio Bhakti Sangeet 
 https://stream.zeno.fm/epylmeu4zf7vv
+#EXTINF:-1,Club Asia Radio
+https://s3.citrus3.com:8320/stream
 #EXTINF:-1,clubmirchi
 https://mirchiplaylive.akamaized.net/hls/live/2036929-b/MUM/CLUBMI_Auto.m3u8
 #EXTINF:-1,CNBC-TV18
@@ -429,6 +435,8 @@ https://ice8.securenetsystems.net/EASY96?type=.mp3
 https://ice7.securenetsystems.net/WWTR?
 #EXTINF:-1,enteradio
 https://cast1.my-control-panel.com/proxy/enteradio/stream
+#EXTINF:-1,Estar Odia
+https://stream-150.zeno.fm/vx5rgf16q98uv?zs=tR7JZL39TRSY845wVVrdnA
 #EXTINF:-1,evergreen-tamil-radio
 https://stream.zeno.fm/2fhh49f3zf8uv
 #EXTINF:-1,eye-tamil-radio
@@ -545,8 +553,6 @@ http://radio2.sikhnet.com:8038/live
 https://c13.radioboss.fm:8552/healerradio
 #EXTINF:-1,Highrise Dedicated Audio Stream
 http://92.118.206.166:30238/stream
-#EXTINF:-1,Highrise Dedicated Audio Stream
-http://2.56.246.128:30289/stream
 #EXTINF:-1,himalradio
 https://streaming.webhostnepal.com/8020/stream
 #EXTINF:-1,Hindi Gold Radio
@@ -577,12 +583,6 @@ https://stream.radiotreetal.com/listen
 https://ice2.securenetsystems.net/HUMSAFAR
 #EXTINF:-1,ibctamil
 https://rbx2.hnux.com/http://10454.cloudrad.io:6176/;stream.mp3
-#EXTINF:-1,Ilayaraja Lite Radio
-https://psrlive2.listenon.in/irlite?ah=0e81749e37789e5fb8c290926ce87e3f
-#EXTINF:-1,Ilayaraja Radio
-https://psrlive2.listenon.in/ir?ah=0e81749e37789e5fb8c290926ce87e3f
-#EXTINF:-1,Ilayaraja Super Beats Radio
-https://psrlive2.listenon.in/irbeat?ah=0e81749e37789e5fb8c290926ce87e3f
 #EXTINF:-1,ilctamil
 https://stream.zeno.fm/vewxk5336qzuv
 #EXTINF:-1,imaifm
@@ -609,10 +609,14 @@ https://cp1.hostcrate.com/8910/stream
 http://176.9.7.145:8183/jagatradio
 #EXTINF:-1,Jaipur radio
 https://streamasiacdn.atc-labs.com/jaipurradio.aac
+#EXTINF:-1,Janadhwani Kannada
+https://d3n2o48cmfppr2.cloudfront.net/svymradio.m3u8
 #EXTINF:-1,JANVANI 90.8 FM
 https://radiosavre.com:8060/radio.mp3
 #EXTINF:-1,Jap Radio
 http://stream.zeno.fm/r3m0whh0kxquv
+#EXTINF:-1,JAVA MASTIKHOR 
+https://javamastikhor.duckdns.org/live
 #EXTINF:-1,Jay Jagannath
 https://stream.zeno.fm/xm5ezmsj7efuv
 #EXTINF:-1,jcbroadcast
@@ -647,8 +651,6 @@ https://stream.zeno.fm/60ef4p33vxquv
 https://radiosavre.com:8020/radio.mp3
 #EXTINF:-1,kannadahits
 https://stream.zeno.fm/68snnbug8rhvv
-#EXTINF:-1,Kannadasan Radio
-https://psrlive2.listenon.in/kavi?station=kaviyarasarradio
 #EXTINF:-1,kathiravanfm
 https://kathiravanfm-prabak78.radioca.st/stream
 #EXTINF:-1,Kishore Kumar Radio 
@@ -767,8 +769,6 @@ http://stream.zeno.fm/t2ekq8zsgtzuv
 https://stream.zeno.fm/p5ny63td1d0uv
 #EXTINF:-1,Mohammed Rafi
 https://stream.zeno.fm/6yqvumgfxtzuv
-#EXTINF:-1,Mohan Radio
-https://psrlive4.listenon.in/mohan?station=mohanradio
 #EXTINF:-1,mohanhits
 https://stream.zeno.fm/wkqvzsg1238uv
 #EXTINF:-1,Mohanlal hits
@@ -1061,6 +1061,8 @@ http://sp14.instainternet.com:8248/stream
 https://servidor19-4.brlogic.com:7002/live
 #EXTINF:-1,Radio Sangwari
 https://servidor19.brlogic.com:7002/live
+#EXTINF:-1,RADIO SANSKAR
+https://mehramedia.com:9318/stream.mp3
 #EXTINF:-1,Radio Sanskrit Bharati
 https://stream.zeno.fm/c0adewsyw8quv
 #EXTINF:-1,Radio Saptarang
@@ -1111,8 +1113,6 @@ https://c7.radioboss.fm:18052/stream
 https://stream.voxx.pro/radio/8260/radio.mp3
 #EXTINF:-1,radiocentral
 https://casper.radioca.st/stream
-#EXTINF:-1,radiodil
-https://us3.streamingpulse.com/ssl/radiodil2
 #EXTINF:-1,radiofaza
 https://radiocast.cr8tive-digital.com/radiofaza
 #EXTINF:-1,radiogirmit
@@ -1185,8 +1185,6 @@ https://stream.zeno.fm/du9443htcfhvv
 https://s3.radio.co/sadfae7495/listen
 #EXTINF:-1,Roq Raw Radio
 https://mystation.micast.media/radio/8090/radio.mp3
-#EXTINF:-1,S Janaki
-https://psrlive2.listenon.in/janaki?station=janakiradio
 #EXTINF:-1,Sabras Radio
 https://radio.canstream.co.uk:8025/live.mp3
 #EXTINF:-1,sahara-fm
@@ -1269,8 +1267,6 @@ https://usa19.fastcast4u.com/swiss
 https://radio.mbconline.xyz/hls/tallfm.m3u8
 #EXTINF:-1,Taj 92.3 FM
 https://ice66.securenetsystems.net/TAJ
-#EXTINF:-1,Tamil 80's Radio
-https://psrlive2.listenon.in/80?station=tamil80shitsradio
 #EXTINF:-1,Tamil_Murasam FM
 https://tamilmurasam.radioca.st/live
 #EXTINF:-1,tamil-2021-latest-hits
@@ -1335,8 +1331,6 @@ https://usa9.fastcast4u.com/proxy/thentamilfm?mp=/;
 https://radio.shaivam.org/listen/thiruneriya-thamizhosai/radio.mp3
 #EXTINF:-1,time-fm
 https://neramfm.com:8000/stream
-#EXTINF:-1,TMS Radio
-https://psrlive2.listenon.in/tms?station=tmsradio
 #EXTINF:-1,TORi Live Radio
 http://173.203.133.187:9700/;
 #EXTINF:-1,TORi-Live-8000
@@ -1399,8 +1393,6 @@ https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8
 https://radio.wavespb.com/live/0beac8e921bbfdbb/0beac8e921bbfdbb.m3u8
 #EXTINF:-1,Vividh Bharti Mumbai
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio011/hlspbaudio011_Auto.m3u8
-#EXTINF:-1,Vividh Bharti Pune
-https://d1tmej9eu7kw5c.cloudfront.net/7b3a089ab67dcf3c/7b3a089ab67dcf3c.m3u8
 #EXTINF:-1,vividh-bharati-chennai
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio024/chunklist.m3u8
 #EXTINF:-1,vividhbharathitamil

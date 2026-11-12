@@ -4,15 +4,15 @@ https://stream.capecoastradio.co.za/listen/cape_coast_radio/radio.mp3?
 #EXTINF:-1,5FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/5FMAAC.aac
 #EXTINF:-1,702 Johannesburg
-http://29335.live.streamtheworld.com:3690/FM702_SC
+http://28573.live.streamtheworld.com/FM702_SC
 #EXTINF:-1,919
 https://edge.iono.fm/xice/112_low.aac
 #EXTINF:-1,94.7
-http://27913.live.streamtheworld.com:3690/FM947AAC_SC
+http://22343.live.streamtheworld.com/FM947AAC_SC
 #EXTINF:-1,94.7 Highveld Stereo
 https://playerservices.streamtheworld.com/api/livestream-redirect/FM947_SC
 #EXTINF:-1,947
-http://22733.live.streamtheworld.com:3690/FM947_SC
+http://28513.live.streamtheworld.com:3690/FM947_SC
 #EXTINF:-1,African Praise Radio
 https://usa3.fastcast4u.com/proxy/africanpraiserad?mp=/1
 #EXTINF:-1,Afrobeat N1 FM
@@ -54,7 +54,7 @@ https://radio.burgstudio.co.za:8000/radio.mp3
 #EXTINF:-1,Bush Radio
 https://zas4.ndx.co.za:9100/stream
 #EXTINF:-1,Cape Talk
-http://14203.live.streamtheworld.com/CAPE_TALK_SC
+http://25553.live.streamtheworld.com/CAPE_TALK_SC
 #EXTINF:-1,Cape Talk 567
 https://27863.live.streamtheworld.com/CAPE_TALKAAC_SC?dist=CapeTalkWeb&pname=TDSdk
 #EXTINF:-1,Cape Town Classic
@@ -145,6 +145,8 @@ https://edge.iono.fm/xice/51_high.aac
 https://stream.zeno.fm/yfr50tzge0hvv
 #EXTINF:-1,Kakarela FM
 https://stream.zeno.fm/845opvifkhytv
+#EXTINF:-1,Kaleidoscope Online
+https://superagent-269bfe30.base44.app/functions/kaleidoscopeRadio?go=stream
 #EXTINF:-1,Kariega Online Radio
 https://stream.zeno.fm/uoscm48onclvv
 #EXTINF:-1,KASIE FM
@@ -197,6 +199,8 @@ http://148.251.43.149:8134/stream
 https://vm65162.streamerr.co/listen/megazone_bollywood_/radio.mp3
 #EXTINF:-1,Megazone South
 https://vm65162.streamerr.co/listen/megazone_south/radio.mp3
+#EXTINF:-1,MERAFONG 360 ONLINE RADIO
+https://sv2.famcast.co.za/stream/merafong?t=1769529345666
 #EXTINF:-1,Metro FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/METROFMAAC.aac
 #EXTINF:-1,MFM
@@ -230,7 +234,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/PHALAPHALAAAC.
 #EXTINF:-1,Pitch Radio
 http://stream.zeno.fm/etw8vx9knm0uv
 #EXTINF:-1,Plaas Radio - Rad's Vibes
-https://radio.eclipse-streaming.co.za/listen/plaas_radio/radio.mp3
+https://radio.eclipse-streaming.co.za/hls/plaas_radio/live.m3u8
 #EXTINF:-1,Power 98.7
 https://edge.iono.fm/xice/65_medium.aac
 #EXTINF:-1,Pretoria FM

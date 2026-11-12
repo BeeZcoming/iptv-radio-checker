@@ -96,7 +96,7 @@ https://rr5100.globalhost1.com/8260/stream
 #EXTINF:-1,Modelo 97.7 FM
 https://usa3.lhdserver.es:8197/stream
 #EXTINF:-1,Música para ver llover
-https://stream-287.surfernetwork.com/8ekvqc5urfhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4ZWt2cWM1dXJmaHZ2IiwiaG9zdCI6InN0cmVhbS0yODcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InBhcmtTY2VfU2o2ZlUwMTcwNXR5ZnciLCJpYXQiOjE3OTM5NDc0OTAsImV4cCI6MTc5Mzk0NzU1MH0.UIG-XiZrdPppASXqkH7dRm0hwsP4cdhwJFTibER-1To
+https://stream-287.surfernetwork.com/8ekvqc5urfhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4ZWt2cWM1dXJmaHZ2IiwiaG9zdCI6InN0cmVhbS0yODcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjVRb3NSb3o1UlB1WnFhTWprZXI5OFEiLCJpYXQiOjE3OTQ0NTMxNDMsImV4cCI6MTc5NDQ1MzIwM30.7SOR2VvvPy3ZOpoqZqJ8xIMqGyoAPp36UBxWwTJd1wE
 #EXTINF:-1,No es merengue es una merengazo
 https://stream.zeno.fm/twem5wa0k0hvv
 #EXTINF:-1,Oro Verde
@@ -127,6 +127,8 @@ https://streamingecuador.com:7030/stream?1657848016283
 http://190.57.161.179:8000/stream
 #EXTINF:-1,Radio Andina
 https://grupomundodigital.com:8580/stream
+#EXTINF:-1,RADIO ANTENA SUR 89.5FM (LA SEñAL DE ORO DESDE PONCE ENRIQUEZ(
+https://grupomundodigital.com:8504/antenashd
 #EXTINF:-1,Radio Armonía 100.1 FM
 https://radiohdstreaming.com/radio/8040/armonia
 #EXTINF:-1,Radio Atenas
@@ -147,8 +149,6 @@ https://canelaradio.makrodigital.com/stream/canelaradiocuenca
 https://canelaradio.makrodigital.com/stream/canelaradiochimborazo
 #EXTINF:-1,Radio Canela El Oro 100.7 FM
 https://canelaradio.makrodigital.com/stream/canelaradiomachala
-#EXTINF:-1,Radio Canela Guayas 90.5 FM
-https://canelaradio.makrodigital.com/stream/canelaradioguayaquil
 #EXTINF:-1,Radio Canela Imbabura 92.7 FM
 https://canelaradio.makrodigital.com/stream/canelaradioibarra
 #EXTINF:-1,Radio Canela Manabí 102.5 FM
@@ -241,6 +241,8 @@ https://streamingecuador.net:8078/RadioRumba
 http://5.135.183.124:8153/stream
 #EXTINF:-1,Radio Son De Manta 93.3 FM
 http://grupomundodigital.com:8649/live
+#EXTINF:-1,Radio Sucumbíos 105.3 FM
+http://aler.org:8000/radiosucumbios.mp3
 #EXTINF:-1,Radio Super Sol - 96.3 FM
 https://streamingecuador.com:8002/radiosupersol
 #EXTINF:-1,Radio Tambo Mix
@@ -274,9 +276,9 @@ http://stream.zeno.fm/pb4351gw438uv
 #EXTINF:-1,RCS. Quito Stereo
 http://stream.zeno.fm/p6dy80yt6s8uv
 #EXTINF:-1,Rockeando con Reguetón 
-https://stream-204.surfernetwork.com/ck2uqw2dgphvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjazJ1cXcyZGdwaHZ2IiwiaG9zdCI6InN0cmVhbS0yMDQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjdNdXc3cnBvVHBTMUV3MUs4M1hOV1EiLCJpYXQiOjE3OTM5MzgzMjIsImV4cCI6MTc5MzkzODM4Mn0.9UZWVCbPAPNXkXC5mX_7n4MkZ8e-oJ55pOXgko5TiBw
+https://stream-284.surfernetwork.com/ck2uqw2dgphvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjazJ1cXcyZGdwaHZ2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InBDMHRKMWdmUmlpTDJ4T2VJdFcxN0EiLCJpYXQiOjE3OTQ0NjIyODAsImV4cCI6MTc5NDQ2MjM0MH0.8rGZrkT6QEQHtnJlrQTjtOcCx00VIVlTO4v8rOOeEfU
 #EXTINF:-1,Rosate con bachata
-https://stream-281.surfernetwork.com/uagzy1yc5uhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1YWd6eTF5YzV1aHZ2IiwiaG9zdCI6InN0cmVhbS0yODEuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjBFSV9vQVpBVEtHc0VBX3J3T0RrZlEiLCJpYXQiOjE3OTM5NDk3NTcsImV4cCI6MTc5Mzk0OTgxN30.yJdWIGTlnxbBPejAre1ZXxcIVLseydSl_SkNh8LF3AY
+https://stream-281.surfernetwork.com/uagzy1yc5uhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1YWd6eTF5YzV1aHZ2IiwiaG9zdCI6InN0cmVhbS0yODEuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InVQbHpFMlpEU3hxaHBsNlMwSnJlVGciLCJpYXQiOjE3OTQ0NjkyNTYsImV4cCI6MTc5NDQ2OTMxNn0.Ih2_LmBOGIk8-xxdEjGmc6ckE08YyutBNKWQ9DiOBf0
 #EXTINF:-1,RTP 96.5 FM
 https://streamingecuador.net:8167/radiotropicana
 #EXTINF:-1,RVT Satelital 91.5 FM

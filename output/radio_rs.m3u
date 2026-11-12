@@ -257,6 +257,8 @@ https://az-de-01.worldradiobeat.com/listen/originalfastradio/live
 https://az-de-01.worldradiobeat.com:8000/live
 #EXTINF:-1,Pannon Rádió
 http://stream2.nmih.hu:4120/live.mp3
+#EXTINF:-1,Pink sr
+https://edge9.pink.rs/pinkstream
 #EXTINF:-1,Play
 http://stream.playradio.rs:8001/play.aac
 #EXTINF:-1,PLAY radio
@@ -594,7 +596,7 @@ https://live.rtvvrnjackabanja.com/rvb.mp3
 #EXTINF:-1,Radio Zelengrad - Milwaukee - USA
 http://usa5.fastcast4u.com:16276/;stream.nsv
 #EXTINF:-1,RADIO.D59B
-http://n08.radiojar.com/gn6dqzhf9mzuv
+http://n01.radiojar.com/gn6dqzhf9mzuv
 #EXTINF:-1,Red radio Beograd
 https://stream.redradio.rs/sid=1
 #EXTINF:-1,Resavski radio
@@ -603,6 +605,10 @@ https://e3.radiomorava.rs/radio/8010/resavskiradio128.mp3
 https://stream.zeno.fm/sq0b3qx5ztzuv
 #EXTINF:-1,Retro Plus FM 80s
 https://stream.zeno.fm/qz4m0f6w768uv
+#EXTINF:-1,rock beograd
+https://edge9.pink.rs/rockstream
+#EXTINF:-1,Rock Radio Beograd 
+https://edge9.pink.rs/rockstream/
 #EXTINF:-1,RSG Party time
 https://stream.rsg.rs/partytime/
 #EXTINF:-1,RSG Relax

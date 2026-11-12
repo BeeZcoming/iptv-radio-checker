@@ -90,7 +90,7 @@ https://default.benficaplay.cdn.videokit.cloud/out/v1/benficaplay-default/benfic
 #EXTINF:-1,Cantinho dos Emigrantes
 https://cast.redewt.net:9825/stream
 #EXTINF:-1,Caria - Rádio Natal 
-https://stream-177.surfernetwork.com/zb5w8yybqxhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6YjV3OHl5YnF4aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjZrUDhON2VuUlg2Ni1faUtTWFl0TUEiLCJpYXQiOjE3OTM5Njk0NjYsImV4cCI6MTc5Mzk2OTUyNn0.JMrtI7cn-8Pxodxgyti763bdTccXTO-ZMl0RhT8ftJo
+https://stream-177.surfernetwork.com/zb5w8yybqxhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6YjV3OHl5YnF4aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Im5TbzJvY2h0UzB1Y192bjUzV1FZelEiLCJpYXQiOjE3OTQ0NTYzMTEsImV4cCI6MTc5NDQ1NjM3MX0.-wGR_xS8VpF1bfgMocJUkF6tPcujw37zX7GZPJoUT2E
 #EXTINF:-1,Cascais FM 105.4
 https://play.radioregional.pt:8220/stream/2/;/stream.mp3
 #EXTINF:-1,Cidade FM
@@ -158,7 +158,7 @@ https://stream-icy.bauermedia.pt/m80soul.aac
 #EXTINF:-1,M80 Rádio (AAC)
 https://stream-icy.bauermedia.pt/m80.aac
 #EXTINF:-1,Mega Hits
-http://22353.live.streamtheworld.com:3690/MEGA_HITS_SC
+http://22713.live.streamtheworld.com:3690/MEGA_HITS_SC
 #EXTINF:-1,Mega Hits - Lisboa
 http://playerservices.streamtheworld.com/api/livestream-redirect/MEGA_HITS_SC
 #EXTINF:-1,MetalON - The Heavy
@@ -173,6 +173,8 @@ https://radio.streemlion.com:4515/stream
 https://radio.msfsradio.com/listen/msfs/radio.mp3
 #EXTINF:-1,NiTfm
 https://sp0.redeaudio.com/8028/stream/
+#EXTINF:-1,NOITE FM
+https://servidor.noite.pt:9002/stream
 #EXTINF:-1,novecinco3cinco
 https://centova.radio.com.pt/proxy/522?mp=/stream&1715267171
 #EXTINF:-1,NTR - Network Radio
@@ -381,8 +383,6 @@ https://radiometalon.com/listen/radio_metal_on_the_heavy/radio.mp3
 https://radiometalon.com/listen/radio_metal_on_the_thrasher/radio.mp3
 #EXTINF:-1,Radio Metal On: Toxic
 https://radiometalon.com/listen/radio_metal_on_toxic/radio.mp3
-#EXTINF:-1,Rádio Miróbriga
-https://rs2.ptservidor.com/proxy/paulo1?mp=/stream?type=.mp3
 #EXTINF:-1,Rádio Miudos
 http://109.71.41.6:8020/live
 #EXTINF:-1,Rádio Montalegre
@@ -423,6 +423,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADORAAC.
 https://onbouge.eu/flux/onbouge.mp3
 #EXTINF:-1,Rádio OnBouge Português
 https://onbouge.eu/flux/onbouge-pt.mp3
+#EXTINF:-1,Rádio Onda Azul
+https://ecmanager4.pro-fhi.net:1540/stream
 #EXTINF:-1,Rádio Onda Viva
 http://centova.radio.com.pt:9524/;
 #EXTINF:-1,Rádio Ondas do Lima
@@ -478,7 +480,7 @@ https://nl.digitalrm.pt:8030/stream?1671017145140=
 #EXTINF:-1,Radio Renascença
 https://22593.live.streamtheworld.com/RADIO_RENASCENCAAAC.aac
 #EXTINF:-1,Rádio Renascença
-http://29339.live.streamtheworld.com/RADIO_RENASCENCA_SC
+http://28513.live.streamtheworld.com:3690/RADIO_RENASCENCA_SC
 #EXTINF:-1,Rádio Renascença
 http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA.mp3
 #EXTINF:-1,Rádio Riba-Távora
@@ -597,8 +599,6 @@ https://radiocast.rtp.pt/antena380a.mp3
 https://radiocast.rtp.pt/antena3madeira80a.mp3
 #EXTINF:-1,RTP Mundo
 https://streaming-live.rtp.pt/liveradio/rdpint80a/chunklist_DVR.m3u
-#EXTINF:-1,RUA FM
-https://centova.radio.com.pt/proxy/037?mp=/stream
 #EXTINF:-1,RUC Rádio Universidade de Coimbra
 http://stream.ruc.pt/high
 #EXTINF:-1,Sempre NOAR

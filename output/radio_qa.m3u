@@ -17,6 +17,10 @@ https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1,Qabayan Radio 94.3 FM (FLAC)
 https://c2.radioboss.fm:8478/live
+#EXTINF:-1,Qatar Radio
+https://live.kwikmotion.com/qmcqatarradiolive/qatarradio/playlist.m3u8
+#EXTINF:-1,QBS Radio 97.5
+https://live.kwikmotion.com/qmcqbsradiolive/qbsradio/playlist.m3u8
 #EXTINF:-1,Radio Olive 106.3
 https://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063AAC.aac
 #EXTINF:-1,Radio Olive 106.3 - Jiyo Bindass

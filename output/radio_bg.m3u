@@ -379,6 +379,8 @@ http://g5.turbohost.eu:8004/stream
 https://s8.yesstreaming.net:17051/autodj
 #EXTINF:-1,Radio K2
 http://stream.radiok2.bg:8000/rk2
+#EXTINF:-1,Radio K2
+http://stream.radiok2.bg:8000/rk2
 #EXTINF:-1,radio kesarevo 
 https://ssl22.radyotelekom.com/8136/stream
 #EXTINF:-1,Radio Lagoshevtsi

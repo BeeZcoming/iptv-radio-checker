@@ -91,6 +91,8 @@ https://inter.lannaradio.com/radio/8000/radio.mp3
 https://lcdn.mcot.net/RadioLive/smil:fm1005_live.smil/playlist.m3u8
 #EXTINF:-1,MCOT Chumphon (Amphoe Lang Suan) FM 104.75
 https://lb-media.mcot.net/RegionRadio/ChumphonLangsuan.stream_aac/playlist.m3u8
+#EXTINF:-1,MCOT Loei FM 100.00
+https://lb-media.mcot.net/RegionRadio/Loei.stream_aac/playlist.m3u8
 #EXTINF:-1,Mommaemradio
 http://112.121.150.133:9386/autodj
 #EXTINF:-1,Mommaemradio

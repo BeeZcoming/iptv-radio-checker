@@ -259,6 +259,8 @@ http://1.34.23.16:8080/broadwavehigh.mp3
 https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8
 #EXTINF:-1,苗栗客家文化廣播電台
 http://test.taiwan-radio.tw:8000/ML.FM91.7
+#EXTINF:-1,苗栗正義電台
+http://211.20.119.103:8081/
 #EXTINF:-1,華聲1台 AM1152
 http://43.254.16.40:8000/TP.AM1152
 #EXTINF:-1,華聲2台 AM1224

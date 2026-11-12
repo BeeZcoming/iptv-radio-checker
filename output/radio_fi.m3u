@@ -114,7 +114,7 @@ http://hear.fi:8000/hear.mp3
 #EXTINF:-1,Radio Helsinki
 https://stream.radiohelsinki.fi/stream
 #EXTINF:-1,Radio Helsinki 98,5 Mhz
-https://tunein-ondemand.cdnstream1.com/multi_bump_sonic_pre_pre.mp3?aw_0_1st.playerid=LogitechSqueeze&aw_0_1st.skey=1793939723&aw_0_1st.abtest=&partnerId=LogitechSqueeze&aw_0_1st.stationId=s97243&aw_0_1st.premium=false&source=TuneIn&aw_0_req.gdpr=true&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g22&aw_0_1st.class=music&aw_0_1st.ads_partner_alias=ce.LogitechSqueezebox&aw_0_azn.planguage=en%2cfi&aw_0_1st.is_ondemand=false&aw_0_1st.topicId=na&aw_0_1st.bandId=2&delivery=1
+https://stream.radiohelsinki.fi/stream
 #EXTINF:-1,Radio Kaakko
 https://wr2.downtime.fi/kaakko.mp3
 #EXTINF:-1,Radio KAAKKO

@@ -9,6 +9,8 @@ https://live.kwikmotion.com/syriatvlive/syriatv_audio/playlist.m3u8
 http://edge.mixlr.com/channel/qtgru
 #EXTINF:-1,Asima Online Radio
 http://asima.out.airtime.pro:8000/asima_a
+#EXTINF:-1,Damascus Radio إذاعة دمشق
+https://stream.damasradio.fm/radio
 #EXTINF:-1,denge cudi
 https://denge-cudi.stream.laut.fm/denge-cudi?pl=m3u
 #EXTINF:-1,Emaar FM Radio

@@ -59,6 +59,8 @@ https://stream2.datacenter.by/dushevnoe
 http://stream1.euroradio.fm:8000/euroradio1?seed=1493710910
 #EXTINF:-1,Еўрарадыё BY
 http://stream1.euroradio.fm:8000/euroradio1
+#EXTINF:-1,Компас FM 102,5
+https://radio.mil.by/live
 #EXTINF:-1,Легенды FM
 http://live.legendy.by:8000/legendyfm
 #EXTINF:-1,Мелодии Века 96.2fm

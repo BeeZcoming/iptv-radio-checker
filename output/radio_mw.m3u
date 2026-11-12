@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Amaryllis E-Radio
-https://s4.radio.co/s40c05d6b1/low
 #EXTINF:-1,Beyond FM
 https://stream-151.zeno.fm/3g0hr9czuhhvv
 #EXTINF:-1,Blantyre Synod Radio
@@ -57,8 +55,6 @@ https://host2.streamafrica.net/listen/mzati_radio/radio.mp3
 https://servidor19.brlogic.com:7168/live
 #EXTINF:-1,Ngale FM
 https://stream.zeno.fm/tfualr61tqvvv
-#EXTINF:-1,Nkhoma Synod Radio
-http://cast1.asurahosting.com:7347/live
 #EXTINF:-1,Nthanda Times
 https://stream.zeno.fm/azvru1b7vlatv
 #EXTINF:-1,Police FM
@@ -89,6 +85,8 @@ https://stream.zeno.fm/3g3e4rfktuhvv
 https://host2.streamafrica.net/listen/twr_malawi/radio.mp3
 #EXTINF:-1,Umunthu FM
 https://play.streamafrica.net/umunthu
+#EXTINF:-1,UWALA Radio
+https://servidor22.brlogic.com:7078/live
 #EXTINF:-1,Voice of Livingstonia (VoL)
 https://play.streamafrica.net/vol
 #EXTINF:-1,Yetu Community Radio

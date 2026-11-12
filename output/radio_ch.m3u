@@ -2,7 +2,7 @@
 #EXTINF:-1, Radio Bern RaBe (HD Stream)
 http://stream.rabe.ch/livestream/rabe-hd.mp3
 #EXTINF:-1,[1337 4M813N7] RADIO.MASCHINENGEIST.ORG Deep Field Transmissions
-http://stream.radio.maschinengeist.org:8000/13374m813n7.192k.mp3
+https://stream.radio.maschinengeist.org:8000/13374m813n7.192k.mp3
 #EXTINF:-1,1.FM - A List 80s
 http://strm112.1.fm/back280s_mobile_mp3
 #EXTINF:-1,1.FM - Absolute 70's Pop Radio
@@ -180,7 +180,7 @@ http://strm112.1.fm/ajazz_mobile_mp3
 #EXTINF:-1,Agaune Radio
 https://stream.zeno.fm/0r0xa792kwzuv
 #EXTINF:-1,Ahuga laut.fm
-http://ahuga.stream.laut.fm/ahuga?uuid=bfe2e2fd-1e43-9f01-2ffe-80faeed99982&t302=2026-11-07_01-12-03
+http://stream.laut.fm/ahuga
 #EXTINF:-1,All time Urban Gospel
 https://strm112.1.fm/gospel_mobile_mp3
 #EXTINF:-1,Alti Radio
@@ -236,7 +236,7 @@ https://listen.radioking.com/radio/453296/stream/508976
 #EXTINF:-1,Electro Radio
 http://stream.radiojar.com/fkyxx4q35k0uv
 #EXTINF:-1,Electrons Libres
-https://listen.radioking.com/radio/427889/stream/481502
+https://listen.radioking.com/radio/427889/stream/481505
 #EXTINF:-1,electroradio.fm
 http://n05.radiojar.com/fkyxx4q35k0uv
 #EXTINF:-1,Energy Basel (NRJ)
@@ -302,7 +302,7 @@ https://jamesfm.ice.infomaniak.ch/jamesfm.mp3
 #EXTINF:-1,Jazz Black Music
 http://jazzblackmusic.ice.infomaniak.ch/jazzblackmusic-high.aac
 #EXTINF:-1,Jazz Radio
-http://broadcast.infomaniak.ch/jazzlounge-high.mp3
+http://jazzlounge.ice.infomaniak.ch/jazzlounge-high.mp3
 #EXTINF:-1,Jazz Radio Lounge
 http://jazzlounge.ice.infomaniak.ch/jazzlounge-high.aac
 #EXTINF:-1,Jukebox - Nonstop Music
@@ -481,16 +481,10 @@ http://stream.radio1.ch/128k.m3u
 https://stream.radio1.ch/128k
 #EXTINF:-1,Radio 1 Zürich
 https://stream.radio1.ch/128k?utm_source=chatgpt.com
-#EXTINF:-1,Radio 24
-https://stream.streambase.ch/radio24/mp3-192/direct/
 #EXTINF:-1,Radio 2Go
 https://uksoutha.streaming.broadcast.radio/radio2go
 #EXTINF:-1,Radio 2Go
 https://uksoutha.streaming.broadcast.radio:15830/radio2go
-#EXTINF:-1,Radio 32
-https://stream.streambase.ch/radio32/mp3-192/chmedia-today-web
-#EXTINF:-1,Radio 32 Goldies
-https://stream.streambase.ch/r32goldies/mp3-192/direct/
 #EXTINF:-1,Radio 3FACH
 https://stream01.3fach.ch/live
 #EXTINF:-1,Radio 3FACH
@@ -606,7 +600,7 @@ https://play.radioking.io/radio-rocher/429886
 #EXTINF:-1,Radio Rocket
 https://i9.streams.ovh/sc/radioroc/stream
 #EXTINF:-1,RADIO ROTATION
-http://radio-rotation.stream.laut.fm/radio-rotation?uuid=8d9aa62e-a555-6095-d524-55dc95fef0ed&t302=2026-11-06_15-40-55
+http://radio-rotation.stream.laut.fm/radio-rotation?t302=2026-11-12_04-46-19&uuid=d721ac5a-2c6c-df19-d5d6-4a3f1a2eafe7
 #EXTINF:-1,Radio RTR
 http://stream.srg-ssr.ch/srgssr/rr/aac/96
 #EXTINF:-1,Radio Rumantsch
@@ -815,6 +809,8 @@ https://radiofresh.ice.infomaniak.ch/radiofresh.aac
 http://radiofribourg.ice.infomaniak.ch/radiofribourg-high.mp3
 #EXTINF:-1,Radiopolis
 http://rs01.swissnwx.ch:20080/stream
+#EXTINF:-1,RadioPungis
+https://radio.second-hands.org/listen/radiopungis/radio.mp3
 #EXTINF:-1,RadioSouvenir.com
 http://radio12.pro-fhi.net/radio/9136/stream
 #EXTINF:-1,Radioswiss 
@@ -947,6 +943,8 @@ http://stream.srg-ssr.ch/m/regi_zh_sh/aacp_96
 http://stream.srg-ssr.ch/srgssr/srf3/aac/192
 #EXTINF:-1,SRF4
 https://stream.srg-ssr.ch/srgssr/srf4news/mp3/128
+#EXTINF:-1,Sunshine Radio (Switzerland)
+https://stream.streambase.ch/rsunshine/mp3-192/chmedia-radio-web/1699795900047_8633080
 #EXTINF:-1,Superyachtradio
 https://stream.radio.co/s43a403d3a/listen
 #EXTINF:-1,Swiss Country Radio
@@ -964,7 +962,7 @@ http://stream.srg-ssr.ch/m/rsp/mp3_128
 #EXTINF:-1,SWISSCLASSICA ITALIA
 http://stream.srg-ssr.ch/srgssr/rsc_it/mp3/128
 #EXTINF:-1,SwissGroove
-http://relay1.swissgroove.ch/
+http://relay2.swissgroove.ch/
 #EXTINF:-1,Symphoniya Wave
 https://symphoniyawave.ice.infomaniak.ch/symphoniyawave-128.aac
 #EXTINF:-1,Symphoniya Wave — Symphoniya.com
