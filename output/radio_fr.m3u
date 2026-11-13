@@ -809,12 +809,6 @@ http://radio12.pro-fhi.net/flux-tspwbswh/stream
 https://kathy.torontocast.com:1825/stream
 #EXTINF:-1,CINEMUSIC Radio
 https://listen.radioking.com/radio/422/stream/62785
-#EXTINF:-1,Clapas Chanson
-https://stream.radioclapas.fr/listen/clapas_chanson/radio.mp3
-#EXTINF:-1,Clapas Jazz
-https://stream.radioclapas.fr/listen/clapas_jazz/radio.mp3
-#EXTINF:-1,Clapas Rock
-https://stream.radioclapas.fr/listen/clapas_rock/radio.mp3
 #EXTINF:-1,Classic FM
 http://classicfm.ice.infomaniak.ch/classic-fm.mp3
 #EXTINF:-1,Classic FM France
@@ -861,32 +855,6 @@ https://stream10.vestaradio.com/COTEVIBES
 https://www.radioking.com/play/couleurs-jazz/216016
 #EXTINF:-1,CouleursJAZZ
 https://listen.radioking.com/radio/127546/stream/167344
-#EXTINF:-1,CP2077 - 30 PRINCIPALES 106.9
-http://82.65.103.36:8000/30-principales
-#EXTINF:-1,CP2077 - Body Heat Radio 98.7
-http://82.65.103.36:8000/body-heat
-#EXTINF:-1,CP2077 - Dark Star 107.5
-http://82.65.103.36:8000/dark-star
-#EXTINF:-1,CP2077 - Growl FM 89.7
-http://82.65.103.36:8000/growl-fm
-#EXTINF:-1,CP2077 - Impulse 99.9
-http://82.65.103.36:8000/impulse
-#EXTINF:-1,CP2077 - Morro Rock Radio 107.3
-http://82.65.103.36:8000/morro-rock
-#EXTINF:-1,CP2077 - Pacific Dreams 88.9
-http://82.65.103.36:8000/pacific-dreams
-#EXTINF:-1,CP2077 - Radio PEBKAC 103.5
-http://82.65.103.36:8000/radio-pebkac
-#EXTINF:-1,CP2077 - Radio Vexelstrom 89.3
-http://82.65.103.36:8000/radio-vexelstrom
-#EXTINF:-1,CP2077 - Ritual FM 96.1
-http://82.65.103.36:8000/ritual-fm
-#EXTINF:-1,CP2077 - Royal Blue Radio 91.9
-http://82.65.103.36:8000/royal-blue
-#EXTINF:-1,CP2077 - Samizdat Radio 95.2
-http://82.65.103.36:8000/samizdat
-#EXTINF:-1,CP2077 - The Dirge 101.9
-http://82.65.103.36:8000/the-dirge
 #EXTINF:-1,CPC Scene Radio
 https://a1.asurahosting.com/listen/cpc_scene_radio/radio.mp3
 #EXTINF:-1,Crazy Radio
@@ -1029,8 +997,6 @@ https://elise.wanastream.com:25000/;stream.nsv
 http://ellebore.ice.infomaniak.ch/ellebore-high.aac
 #EXTINF:-1,Energy Classics rap us
 https://streaming.nrjaudio.fm/oupn23bgddr9
-#EXTINF:-1,EnjoyStation
-https://www.enjoystation.fr/stream.mp3?1793532659800
 #EXTINF:-1,Entre Nous Radio
 https://play.radioking.io/entre-nous-radio
 #EXTINF:-1,Espace Club
@@ -1647,8 +1613,6 @@ http://frequencek.ice.infomaniak.ch/frequencek-64.aac
 http://frequencek.ice.infomaniak.ch/frequencek-128
 #EXTINF:-1,Frequence Luz
 https://stream-ssl.radios-arra.fr:8443/frequenceluz
-#EXTINF:-1,Fréquence Mutine
-http://icecast.infini.fr:8000/mutine
 #EXTINF:-1,Frequence Paris Plurielle FPP
 https://direct.rfpp.net/fpp.mp3
 #EXTINF:-1,Fréquence Plus
@@ -1683,8 +1647,6 @@ https://icecast.funradio.fr/fun-1-44-128
 http://icecast.funradio.fr/fun-1-44-128?listen=webCwsBCggNCQgLDQUGBAcGBg
 #EXTINF:-1,FunAdos
 https://funados.ice.infomaniak.ch/funados.mp3
-#EXTINF:-1,Funk Machine Radio 69.9
-http://82.65.103.36:8000/funk-machine
 #EXTINF:-1,FunkaGroove
 https://radio12.pro-fhi.net/radio/9063/stream.mp3?1786626461441
 #EXTINF:-1,FunVibe
@@ -2349,6 +2311,10 @@ https://jazz-wr02.ice.infomaniak.ch/jazz-wr02-128.mp3
 http://jzr-wr19.ice.infomaniak.ch/jzr-wr19-128.mp3
 #EXTINF:-1,Jecrois Radio
 http://jecroisradio.stream.laut.fm/jecroisradio
+#EXTINF:-1,JM Classiks
+https://jm-radio.fr/flux/classiks?t=1794496313891
+#EXTINF:-1,JM Radio
+https://jm-radio.fr/flux/jmradio?t=1794495911634
 #EXTINF:-1,Jordanne FM Corrèze
 https://live.jordannefm.fr/JFM-COR-WEB.mp3
 #EXTINF:-1,Jordanne FM Mauriac
@@ -2369,6 +2335,8 @@ https://streams.dez.ovh/listen/chillofi/radio.mp3
 http://kernews.ice.infomaniak.ch:8000/kernews-128.mp3
 #EXTINF:-1,KFM
 http://10191.go2stream.fr:8000/stream
+#EXTINF:-1,KickDrum
+https://kickdrum.internal-server.work/radio.mp3
 #EXTINF:-1,Kif Radio
 http://eagle.streemlion.com:4168/stream
 #EXTINF:-1,King Dub Radio
@@ -2679,8 +2647,6 @@ https://stream2.madein80.live/listen/madein80/play.mp3
 https://madein80.leswebradios.fr/
 #EXTINF:-1,MadmoiZelle.com
 http://www.radioking.com/play/madmoizelle
-#EXTINF:-1,Magenta Station 87.7
-http://82.65.103.36:8000/magenta-station
 #EXTINF:-1,Magic radio
 http://mp3.magic-radio.net/flac
 #EXTINF:-1,Magic radio
@@ -2767,8 +2733,6 @@ http://stream.mcquack.net/276/index.m3u8
 http://mfmwr-005.ice.infomaniak.ch/mfmwr-005.mp3
 #EXTINF:-1,Micros Rebelles
 https://diff.micros-rebelles.fr/web192.mp3
-#EXTINF:-1,Midnight Sunset
-https://samcloud.spacial.com/api/listen?sid=72535&m=sc
 #EXTINF:-1,Millénium Radio
 http://listen.radioking.com/radio/154186/stream/194791
 #EXTINF:-1,Milo Radio
@@ -3495,6 +3459,8 @@ https://streaming.nrjaudio.fm/ouycap36zcw2
 https://streaming.nrjaudio.fm/ounu8iqn5eyc
 #EXTINF:-1,NRJ Rap US
 https://streaming.nrjaudio.fm/ouw84bsk6j4d
+#EXTINF:-1,NRJ Reggae
+https://streaming.nrjaudio.fm/ou5e7virv93h
 #EXTINF:-1,NRJ Reggaeton
 https://streaming.nrjaudio.fm/ou8vs6gk7oiu
 #EXTINF:-1,NRJ Reggaeton Fever
@@ -3823,8 +3789,6 @@ https://publichealthradioar.ice.infomaniak.ch/publichealthradioar-128.mp3
 https://publichealthradiode.ice.infomaniak.ch/publichealthradiode-128.mp3
 #EXTINF:-1,Public Health Radio Espanol
 https://publichealthradioes.ice.infomaniak.ch/publichealthradioes-128.mp3
-#EXTINF:-1,Public Health Radio Italiano
-https://publichealthradioit.ice.infomaniak.ch/publichealthradioit-128.mp3
 #EXTINF:-1,Public Health Radio Polish
 https://publichealthradiopl.ice.infomaniak.ch/publichealthradiopl-128.mp3
 #EXTINF:-1,Public Health Radio Portugues
@@ -3957,8 +3921,6 @@ https://listen.radioking.com/radio/552908/stream/612230
 https://stream.rcvfm.fr:8000/barbouillots-192k.mp3
 #EXTINF:-1,Radio Bartas
 https://stream-ssl.radios-arra.fr:8443/radiobartas
-#EXTINF:-1,Radio Bazarnaom
-http://str20.creacast.com/bazarnaom
 #EXTINF:-1,Radio Belle Vue
 http://www.radiobellevue.fr:8000/hd
 #EXTINF:-1,Radio Bellevue
@@ -4041,8 +4003,6 @@ https://listen.radioking.com/radio/669715/stream/733765
 http://rocket.streamradio.fr:8010/stream
 #EXTINF:-1,Radio City
 https://live.smartradio.city/listen/city/radio.mp3?t=1788082690629
-#EXTINF:-1,Radio Clapas - Culture & Citoyenneté - 93.5 Montpellier
-https://stations.radioclapas.fr/radio/8130/radio.mp3
 #EXTINF:-1,Radio Classique
 https://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3
 #EXTINF:-1,Radio Classique (France)
@@ -4085,8 +4045,6 @@ https://radiodance.streamingmedia.it/fr.aac
 https://sd-151888.dedibox.fr/proxy/radiodelasave/rdls
 #EXTINF:-1,Radio de Noël 
 https://stream1.jupinfo.fr:8443/radiodenoel
-#EXTINF:-1,Radio de Noël 
-https://live1.jupinfo.fr:8443/radiodenoel
 #EXTINF:-1,Radio Deep Space
 https://radionetwork.freeboxos.fr/deepspace?type=http&src=direct
 #EXTINF:-1,Radio Déjà Vu
@@ -4133,8 +4091,6 @@ http://radioemotion.ice.infomaniak.ch/radioemotion-128.mp3
 http://str0.creacast.com/rec
 #EXTINF:-1,Radio Entre 2 Mers
 https://remradio.ice.infomaniak.ch/remradio-aac-128.aac
-#EXTINF:-1,Radio Escapades
-http://stream.radios-arra.fr:8000/radioescapades
 #EXTINF:-1,Radio Espace
 http://radioespace.ice.infomaniak.ch/radioespace-high.aac
 #EXTINF:-1,Radio Espace
@@ -4199,8 +4155,6 @@ https://radio4.pro-fhi.net/live/RadioFRESH?t=1788083035038
 http://icy-zurich.mpbnl.nl/radiofuego
 #EXTINF:-1,Radio Fuego
 https://n12a-eu.rcs.revma.com/dapwbz2befcwv
-#EXTINF:-1,Radio Fuori Campo
-https://listen.radioking.com/radio/397948/stream/449947
 #EXTINF:-1,RADIO FUSION
 https://stunnel2.cyber-streaming.com:9276/stream?type=http&nocache=27045
 #EXTINF:-1,Radio Fuze
@@ -4243,6 +4197,8 @@ https://live.aurafm.org/Radio-Gresivaudan-Chambery
 http://stream.radios-arra.fr:8000/rgo
 #EXTINF:-1,Radio Grille Ouverte
 http://stream.radios-arra.fr:8000/rgo#.mp3
+#EXTINF:-1,Radio GTJ
+http://ca.publicssl.net:8006/
 #EXTINF:-1,Radio Gué Mozot
 https://stream.radioguemozot.eu/live
 #EXTINF:-1,Radio Heavy Metal
@@ -4345,6 +4301,8 @@ https://radiomirrorpark.duckdns.org/stream
 https://mne.out.airtime.pro/mne_a?_ga=2.59663087.358046361.1684134157-1016725617.1666622794
 #EXTINF:-1,Radio MODUL
 http://icecast.radiomodul.fr:8000/modul.aac
+#EXTINF:-1,Radio Monaco Mix DJ
+http://streaming503.radionomy.com/radio-monaco-mixdj
 #EXTINF:-1,Radio Mont Blanc
 https://radiomontblanc1.ice.infomaniak.ch/radiomontblanc1-128.mp3
 #EXTINF:-1,Radio Mont-Blanc
@@ -4427,8 +4385,6 @@ http://rocket.streamradio.fr:8190/stream
 http://radiopaysdegueret.ice.infomaniak.ch/radiopaysdegueret.mp3
 #EXTINF:-1,Radio Peinard
 http://str2.creacast.com/radio_peinard
-#EXTINF:-1,Radio PFM
-https://diff.radiopfm.com/flux.mp3
 #EXTINF:-1,Radio Phénix
 http://live.radio-campus.org:8000/caen.mp3
 #EXTINF:-1,Radio Pikez !
@@ -4643,6 +4599,8 @@ http://welsass.fr/play
 https://237.185.153.160.host.secureserver.net/proxy/radioyan1/stream
 #EXTINF:-1,Radio Zaï Zaï
 https://listen.radioking.com/radio/204667/stream/247420
+#EXTINF:-1,Radio Zig Zag - Pays de Romans
+https://zig.syndicastream.fr:8443/stream
 #EXTINF:-1,Radio Zinzine
 https://stream.radiozinzine.org:8443/zinzine-aac
 #EXTINF:-1,Radio Zinzine
@@ -4781,16 +4739,10 @@ https://replaynewssport.ice.infomaniak.ch/replaynewssport-128.mp3
 https://replaynewsstory.ice.infomaniak.ch/replaynewsstory-128.mp3
 #EXTINF:-1,Retro Souvenirs Radio
 https://listen.radioking.com/radio/108/stream/890
-#EXTINF:-1,RFI Afrique
-http://live02.rfi.fr/rfiafrique-64.mp3
 #EXTINF:-1,RFI Anglais - English
 http://live02.rfi.fr/rfienanglais-64.mp3
-#EXTINF:-1,RFI Monde
-http://live02.rfi.fr/rfimonde-64.mp3
 #EXTINF:-1,RFI Musique
 http://rfimusiquemonde64k.ice.infomaniak.ch/rfimusiquemonde-64k.mp3
-#EXTINF:-1,RFI Musique
-http://live02.rfi.fr/rfimusiquemonde-96k.mp3
 #EXTINF:-1,RFI Persian
 http://live02.rfi.fr/rfienpersan-64k.mp3
 #EXTINF:-1,RFI Portugais
@@ -4929,6 +4881,8 @@ https://player.rockenfolie.com/
 https://l.rootslegacy.fr/mp3test
 #EXTINF:-1,Roots Legacy Radio
 https://l.rootslegacy.fr/;
+#EXTINF:-1,RPH Radio
+https://stream10.vestaradio.com/RPH52
 #EXTINF:-1,RPL Radio 99.0 Lille
 https://listen.radioking.com/radio/2966/stream/9128
 #EXTINF:-1,RSB (Radio Sainte Baume)
@@ -5336,6 +5290,8 @@ http://virginradio.ice.infomaniak.ch/virgin-radio.mp3
 http://vir-wr02.ice.infomaniak.ch/vir-wr02.mp3
 #EXTINF:-1,VIRGIN FRANCE 80
 http://virage-rock-80.ice.infomaniak.ch/virage-rock-80.mp3
+#EXTINF:-1,Virgin Radio FR
+http://virginradio.ice.infomaniak.ch/virgin-radio.aac
 #EXTINF:-1,VIRGIN RADIO METAL
 http://virage-radio-metal.ice.infomaniak.ch/virage-radio-metal.mp3
 #EXTINF:-1,Virgin Radio Metal

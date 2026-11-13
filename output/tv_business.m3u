@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,30A Investment Pitch (720p)
+https://30a-tv.com/feeds/xodglobal/30atv.m3u8
 #EXTINF:-1,Bloomberg TV Asia (720p)
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1,Bloomberg TV Asia Live Event (720p)

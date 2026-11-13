@@ -35,8 +35,6 @@ https://listen.usuarios.space/ecuatorialfm/
 https://27423.live.streamtheworld.com/ECUADORAAC.aac
 #EXTINF:-1,Expresiun FM 102.9
 https://usa3.lhdserver.es:8031/stream
-#EXTINF:-1,FB Radio 105.7 FM
-https://streamingecuador.com:7032/stream
 #EXTINF:-1,Flama Plus 104.5 FM
 https://streaming.viphosting.cl/8286/stream?ver=541539
 #EXTINF:-1,FM MUNDO 98.1 FM
@@ -63,6 +61,8 @@ https://sp.dattavolt.com/8052/stream
 http://stream.zeno.fm/529kmm15gv8uv
 #EXTINF:-1,La Dinastia FM
 http://stream.zeno.fm/204egk2n5ehvv
+#EXTINF:-1,La M3G4
+http://gradio.net:8000/lam3g4
 #EXTINF:-1,La Main Street (Radios Ecuador Online)
 https://radiolatina.info/9930/stream
 #EXTINF:-1,La Nueva Unica
@@ -109,8 +109,6 @@ https://radio.pitazoinicial.com/stream
 https://streamingecuador.net:8008/radioplayfm
 #EXTINF:-1,Play Radio Online
 https://stream.zeno.fm/thjs0ijturotv
-#EXTINF:-1,PM RADIO Quevedo 
-https://as100.globalhost1.com/8010/stream
 #EXTINF:-1,Pon salsa y todo norte
 https://stream.zeno.fm/eft72w1vrnhvv
 #EXTINF:-1,R.S.N. La Indestructible
@@ -149,6 +147,8 @@ https://canelaradio.makrodigital.com/stream/canelaradiocuenca
 https://canelaradio.makrodigital.com/stream/canelaradiochimborazo
 #EXTINF:-1,Radio Canela El Oro 100.7 FM
 https://canelaradio.makrodigital.com/stream/canelaradiomachala
+#EXTINF:-1,Radio Canela Guayas 90.5 FM
+https://canelaradio.makrodigital.com/stream/canelaradioguayaquil
 #EXTINF:-1,Radio Canela Imbabura 92.7 FM
 https://canelaradio.makrodigital.com/stream/canelaradioibarra
 #EXTINF:-1,Radio Canela Manabí 102.5 FM
@@ -181,6 +181,8 @@ https://streamingecuador.net:8135/radioelite
 https://streamingecuador.net:8135/radioelite
 #EXTINF:-1,Radio Eres
 https://sv70.ecuaradiotv.net:8000/eres933
+#EXTINF:-1,Radio Evolución 107.7 FM
+https://stream.gradio.net/evolucion
 #EXTINF:-1,radio favorita 98.3 fm 
 https://streamingecuador.com/stream/radiofavorita/stream
 #EXTINF:-1,Radio Gaviota 105.1 FM

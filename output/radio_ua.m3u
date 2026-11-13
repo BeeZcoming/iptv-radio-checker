@@ -260,7 +260,7 @@ https://online.z-polus.info/hq
 #EXTINF:-1,TRANCE IS STAR RADIO
 https://myradio24.org/tisradio
 #EXTINF:-1,Trans World Radio Ukraine
-https://radio.eclipse-streaming.co.za/listen/transworldradioukraine/TWR-ukraine_48.m4a
+http://iceantstats.eclipse-streaming.co.za/TWR-ukraine.mp3
 #EXTINF:-1,True Black Metal Radio
 https://trueblackmetalradio.com:8000/radio
 #EXTINF:-1,True Black Metal Radio
@@ -271,6 +271,8 @@ http://51.83.132.157/128
 https://listen7.myradio24.com/ulyublene
 #EXTINF:-1,URC Radio
 https://streamer.radio.co/sdff2fd6a8/listen
+#EXTINF:-1,Wolf Music Radio
+https://a3.asurahosting.com/listen/wolf_music_radio/radio.mp3
 #EXTINF:-1,Worship
 https://radio.dobreff.com/worship.mp3
 #EXTINF:-1,X Radio
@@ -305,8 +307,6 @@ https://hromadske.radio/radio_https_upstream
 http://91.218.212.67:8000/stream-ps-hi
 #EXTINF:-1,Гуляй Радіо
 https://online.radioplayer.ua/GuliayRadio
-#EXTINF:-1,Єден радіо
-http://31.128.79.192:8000/live
 #EXTINF:-1,Єдині новини
 https://online-news.radioplayer.ua/RadioNews
 #EXTINF:-1,Жидачів FM
@@ -367,6 +367,8 @@ http://radio.moa.org.ua/Friday
 https://live.1tv.od.ua/radio/stream/icecast.audio
 #EXTINF:-1,Подільське
 https://podilske.com:8013/p-radio
+#EXTINF:-1,Просто Radi.O (Київ)
+http://85.238.113.60:8000/PRK128
 #EXTINF:-1,Прямий FM
 https://cast.mediaonline.net.ua/prmfm320
 #EXTINF:-1,Радио НВ

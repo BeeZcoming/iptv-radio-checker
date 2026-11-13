@@ -155,6 +155,8 @@ https://stream.player.arrow.nl/arrowcr
 http://caster05.streampakket.com:9056/stream
 #EXTINF:-1,AudioMaze Radio
 https://s81.radiolize.com:8000/radio.mp3
+#EXTINF:-1,Avalon Radio
+http://92.108.104.148:8000/live
 #EXTINF:-1,Baars Classic Rock
 https://stream.iceradio.nl/baarsclassicrock
 #EXTINF:-1,Baars classic Rock
@@ -275,22 +277,22 @@ https://caster04.streampakket.com/proxy/8031/stream
 https://i2.cdn.jetstre.am:8000/sz=RCOLiveWebradio=mp3-192?token=574b9ab1904fb5420aa2eaeae31feff2&time=6703887c
 #EXTINF:-1,Concertzender - De Gehoorde Stilte
 http://streams.greenhost.nl:8080/gehoordestilte
-#EXTINF:-1,Concertzender Baroque
-http://streams.greenhost.nl:8080/barok
-#EXTINF:-1,Concertzender Filmmuziek
-http://streams.greenhost.nl:8080/film
+#EXTINF:-1,Concertzender - Hard Bop
+http://streams.greenhost.nl:8080/hardbop
 #EXTINF:-1,Concertzender Folk it!
 http://streams.greenhost.nl:8080/folkit
 #EXTINF:-1,Concertzender Jazz
 http://streams.greenhost.nl:8080/jazz
+#EXTINF:-1,Concertzender Jazznotjazz
+http://streams.greenhost.nl:8080/jazznotjazz
 #EXTINF:-1,ConcertZender Klassieke Muziek
 http://streams.greenhost.nl:8080/klassiek
 #EXTINF:-1,Concertzender Oude Muziek
 http://streams.greenhost.nl:8080/oudemuziek
+#EXTINF:-1,Concertzender Radiophonics
+http://streams.greenhost.nl:8080/radiophonics
 #EXTINF:-1,Concertzender Solta a Franga
 http://streams.greenhost.nl:8080/slotaafranga
-#EXTINF:-1,Concertzender Utrecht Muziek
-http://streams.greenhost.nl:8080/vredenburg
 #EXTINF:-1,Concertzender Wereldmuziek
 http://streams.greenhost.nl:8080/wereldmuziek
 #EXTINF:-1,Concertzender X-Rated
@@ -317,6 +319,8 @@ https://radio.d-tales.nl/listen/dtalesradio/radio-hq.aac
 http://solid1.streamupsolutions.com:8041/d2bs
 #EXTINF:-1,Dance FM Amsterdam
 https://streams.dancefm.net/mix
+#EXTINF:-1,Dance Radio 1
+https://onair7.xdevel.com/proxy/xautocloud_xzyu_2675?mp=/;1/
 #EXTINF:-1,Dance Radio Amsterdam
 https://icecast.bytesheep.net/danceradio.mp3
 #EXTINF:-1,DANCE.FM :: The Beat of Amsterdam ::
@@ -469,8 +473,6 @@ https://radio.foundtreasures.online/listen/found_treasures/radio.mp3
 https://radio.foundtreasures.online/listen/found_treasures/radio.mp3
 #EXTINF:-1,FoutFM
 https://caster.hosting078.nl/foutfm
-#EXTINF:-1,Freak Radio NL
-http://streaming.shoutcast.com/freakradio
 #EXTINF:-1,Freak31
 http://stream.freak31.com:8322/
 #EXTINF:-1,Free Musi Radio
@@ -489,6 +491,8 @@ https://a8.asurahosting.com:7890/radio.mp3
 http://server-26.stream-server.nl:8652/stream
 #EXTINF:-1,Fryslan Strijders - Piratenhits op volle toeren
 https://streambeheer.fryslanstrijders.nl/proxy/fryslanstrijders/stream
+#EXTINF:-1,Funky Jazzradio
+http://funky-jazzmusic.kaspermusic.nl:8000/live
 #EXTINF:-1,Funky Uncle FM
 https://funkyunclefm.net/stream
 #EXTINF:-1,FunX
@@ -595,14 +599,10 @@ https://stream.hallokidsradio.nl/hallokids
 https://server-10.rcgoldserver.nl/listen/happy_oldies/radio320.mp3
 #EXTINF:-1,Happy Rock Radio Caroline 259
 https://happy.rcgoldserver.nl/listen/classic_rock/radio320.mp3
-#EXTINF:-1,happy.radio (NL)
-https://stream.happy.radio:8000/192
 #EXTINF:-1,Hardcore Power Radio
 https://hardcorepower.beheerstream.nl/8012/stream
 #EXTINF:-1,Hardcore Power Radio (2nd server)
 https://loa.beheerstream.nl:8012/stream
-#EXTINF:-1,Hardcore Radio
-http://shoutcast1.hardcoreradio.nl/
 #EXTINF:-1,Harder.fm
 https://stream.home.halewijnen.nl/listen/harder.fm/mp3
 #EXTINF:-1,Hardrock
@@ -637,8 +637,6 @@ https://loa.beheerstream.nl:8112/stream
 https://loa.beheerstream.nl:8018/stream
 #EXTINF:-1,HitRadio1.nl
 https://everestcast.live-streams.nl:8556/stream
-#EXTINF:-1,hitspowerfm 
-http://everestcastprohostingbudget.nl:3940/stream
 #EXTINF:-1,Hitstream FM
 https://stream.streamhits.nl/stream/1/
 #EXTINF:-1,Hitzzz das radio
@@ -651,8 +649,6 @@ https://solid41.streamupsolutions.com/proxy/toyfkozk?mp=/stream
 https://caster.hosting078.nl:1405/stream
 #EXTINF:-1,HollandHitNL
 https://stream.hollandhit.nl/stream1
-#EXTINF:-1,Hollands Op Zijn Best
-https://mediaserv33.live-streams.nl:8009/stream
 #EXTINF:-1,Hollands Palet
 http://mediaserv74.live-streams.nl:8061/stream
 #EXTINF:-1,HoornRadio
@@ -695,6 +691,10 @@ http://server-10.stream-server.nl:8564/stream
 http://mediaserv38.live-streams.nl:8029/low
 #EXTINF:-1,Ijsselstreekradio
 http://mediaserv38.live-streams.nl:8029/radio
+#EXTINF:-1,Impact Radio
+http://www.kippingmultimediaal.nl:8000/impactweb
+#EXTINF:-1,Impact Radio
+http://kippingmultimediaal.nl:8000/impactweb
 #EXTINF:-1,Indie XL !
 http://server-23.stream-server.nl:8438/;listen.pls_
 #EXTINF:-1,IndieXL
@@ -830,7 +830,7 @@ https://25243.live.streamtheworld.com/KINK_90S_SC
 #EXTINF:-1,KINK CLASSICS
 http://25233.live.streamtheworld.com/KINK_DNA_SC
 #EXTINF:-1,KINK Distortion
-https://22323.live.streamtheworld.com/KINK_DISTORTION_SC
+https://29033.live.streamtheworld.com/KINK_DISTORTION_SC
 #EXTINF:-1,KINK DISTORTION
 https://25233.live.streamtheworld.com/KINK_DISTORTIONAAC_SC
 #EXTINF:-1,KINK DNA
@@ -851,6 +851,8 @@ https://server-67.stream-server.nl:8784/stream
 https://mcp-1.streampanel.nl:8020/kxclassics_mp3
 #EXTINF:-1,L-FM - De gezelligste zender van Brabant
 https://stream.l-fm.nl:8443/;
+#EXTINF:-1,L.O.V.E. (Lokale Omroep Volendam Edam)
+https://nlpo.stream.vip/rtvlove/mp3-192/nlpo.stream.vip/
 #EXTINF:-1,L.O.V.E. (Lokale Omroep Volendam Edam) DAB
 https://webstream.rtvlove.nl/DAB-RTVLOVE
 #EXTINF:-1,L1 Plat-eweg
@@ -863,6 +865,8 @@ https://d34pj260kw1xmk.cloudfront.net/icecast/l1/L11Alaaf
 https://a1.asurahosting.com/listen/lachende_piraat/radio.mp3
 #EXTINF:-1,Langstraat FM
 https://mediaserv74.live-streams.nl/proxy/langstraatfm/stream
+#EXTINF:-1,Langstraat FM
+https://nlpo.stream.vip/langstra/mp3-192/nlpo.stream.vip/
 #EXTINF:-1,Langstraat NL
 https://mediaserv74.live-streams.nl/proxy/langstraatnl/stream
 #EXTINF:-1,Laser 101 - 101.1 FM Philipsburg
@@ -871,6 +875,8 @@ http://201.220.14.41:8060/channel7.mp3
 https://stream.layzer.nl/layzer.mp3
 #EXTINF:-1,Lega-c
 https://ssl.lega-c.nl/proxy/legacy/stream
+#EXTINF:-1,Leuk FM
+https://nlpo.stream.vip/leukfm/mp3-192/nlpo.stream.vip/
 #EXTINF:-1,Libertas Music Radio
 https://radio.libertas.music/listen/libertas_music_radio/radio.mp3
 #EXTINF:-1,Lichtstad Radio
@@ -1568,7 +1574,7 @@ https://radiostream.omroephw.nl/
 #EXTINF:-1,Radio Holland Online
 https://stream.radiohollandonline.com/
 #EXTINF:-1,Radio Holland Online
-http://stream.radiohollandonline.nl/
+http://stream3.radiohollandonline.nl/
 #EXTINF:-1,Radio Hulchul
 https://everestcast.live-streams.nl:18015/stream
 #EXTINF:-1,Radio Hulchul
@@ -1721,6 +1727,8 @@ http://whsh4u-server.com:11100/transcoder2
 https://mcp-2.mm-stream.nl:8017/stream
 #EXTINF:-1,Radio WORM
 https://origin.streamnerd.nl/worm/worm/icecast.audio
+#EXTINF:-1,Radio Zuyd
+http://radiozuyd.shoutcaststream.com:8199/stream
 #EXTINF:-1,Radio-Goldenwave 
 http://mscp3.live-streams.nl:8070/radio
 #EXTINF:-1,Radio-Goldenwave
@@ -1936,7 +1944,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIOAAC.aac
 #EXTINF:-1,Sky Radio 80's Hits
 http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR04.mp3
 #EXTINF:-1,Sky Radio 90's Hits
-http://22603.live.streamtheworld.com:80/SRGSTR05.mp3
+http://29093.live.streamtheworld.com:80/SRGSTR05.mp3
 #EXTINF:-1,Sky Radio Christmas
 http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR08.mp3
 #EXTINF:-1,Sky Radio Hits

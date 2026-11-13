@@ -43,8 +43,6 @@ https://stream.zenolive.com/d5mn12bchkeuv
 http://103.246.184.62:1935/noice_kisfm/kisfm/chunklist.m3u8
 #EXTINF:-1,97.0 Radio City
 https://cast1.asurahosting.com/proxy/richar16/stream
-#EXTINF:-1,99.5 Global Fm Bahamas 
-http://ice64.securenetsystems.net/GLOBALBS
 #EXTINF:-1,Akaboozi 87.9 FM
 http://162.244.80.52:8732/stream
 #EXTINF:-1,Bantu Radio
@@ -97,8 +95,6 @@ http://stream.zeno.fm/orioba9siustv
 http://stream.zeno.fm/zupkzgrj4dauv
 #EXTINF:-1,Christian fm
 http://stream.dar.fm/27203
-#EXTINF:-1,Christian life radio 
-https://ice64.securenetsystems.net/CLR1MP3
 #EXTINF:-1,Christian music channel 
 http://streaming.live365.com/a08828
 #EXTINF:-1,Christmas choir
@@ -113,8 +109,6 @@ http://listen.181fm.com/181-80scountry_128k.mp3
 https://stream-159.zeno.fm/vyxwdk08apxtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2eXh3ZGswOGFweHR2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Imt4VUtoZGRnU0dLRGdSc0NkOE1CRHciLCJpYXQiOjE
 #EXTINF:-1,Dema Gospel Promotions (MP3)
 http://stream.zeno.fm/m96foqqk7bxuv
-#EXTINF:-1,Dove Radio 
-https://ice64.securenetsystems.net/DOVEMAIN
 #EXTINF:-1,DW News
 https://dw.audiostream.io/dw/1027/mp3/64/dw08
 #EXTINF:-1,East Africa Radio 
@@ -149,12 +143,8 @@ http://stream.zeno.fm/rdf0qac95p8uv
 http://stream.zeno.fm/6s8719ctbphvv
 #EXTINF:-1,Infinity Radio
 https://radio.legenduganda.com/live
-#EXTINF:-1,Isaiah Fm
-https://ice66.securenetsystems.net/FFBN?playSessionID=8D29A2B7-D966-0B14-AFCD7A340AFA6C15
 #EXTINF:-1,ISLANDS FM
 http://radio.canstream.co.uk:8040/live.mp3
-#EXTINF:-1,Jembe Fm
-https://cast3.asurahosting.com/proxy/jembemed/stream
 #EXTINF:-1,Jewish music channel 
 https://stream.jewishmusicstream.com:8000/
 #EXTINF:-1,Joy hits channel 

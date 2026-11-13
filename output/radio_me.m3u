@@ -3,6 +3,8 @@
 https://54house.fm:9013/stream
 #EXTINF:-1,Antena M
 http://radioservis.me:8010/antenamlive
+#EXTINF:-1,Arena Radio
+https://radio.elmag.me/arena.mp3
 #EXTINF:-1,Boka News
 http://bokanews.me:8000/source?1734500086794
 #EXTINF:-1,Bruškin
@@ -11,6 +13,12 @@ https://player.radiobruskin.me/proxy/radiobruskin/stream
 http://eu7.fastcast4u.com:6166/;
 #EXTINF:-1,Drugačija Radio Stanica
 https://eu2.fastcast4u.com/proxy/mic0?mp=/stream
+#EXTINF:-1,El Radio Podgorica
+https://radio.elmag.me/el.mp3
+#EXTINF:-1,Mag radio
+http://radio.elmag.me/mag.mp3
+#EXTINF:-1,Novi Elmag radio
+http://radio.elmag.me/elmag.mp3
 #EXTINF:-1,Play Radio MNE Balkan
 https://stream.playradio.me:8443/balkan.mp3
 #EXTINF:-1,Play Radio MNE Party
@@ -35,6 +43,24 @@ https://c8.radioboss.fm:18199/stream
 http://78.129.228.187:8007/stream
 #EXTINF:-1,Radio D plus
 https://radiodplus.radioca.st/xstream
+#EXTINF:-1,Radio Elmag Caffe
+https://radio.elmag.me/cafe.mp3
+#EXTINF:-1,Radio Elmag Evergreen
+https://radio.elmag.me/evergreen.mp3
+#EXTINF:-1,Radio Elmag Folk Gold
+https://radio.elmag.me/folkgold.mp3
+#EXTINF:-1,Radio Elmag Izvorne i Starogradske
+https://radio.elmag.me/izvorne.mp3
+#EXTINF:-1,Radio Elmag Kids
+https://radio.elmag.me/kids.mp3
+#EXTINF:-1,Radio Elmag Love
+https://radio.elmag.me/love.mp3
+#EXTINF:-1,Radio Elmag Nostalgija
+https://radio.elmag.me/nostalgija.mp3
+#EXTINF:-1,Radio Elmag Party
+https://radio.elmag.me/party.mp3
+#EXTINF:-1,Radio Elmag Pop Rock EX YU
+https://radio.elmag.me/poprock.mp3
 #EXTINF:-1,Radio Fatih
 https://radioservis.me/radio/8070/radiofatih?1702660538716
 #EXTINF:-1,Radio Kotor

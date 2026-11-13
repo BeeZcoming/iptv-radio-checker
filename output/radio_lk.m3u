@@ -27,6 +27,8 @@ https://radio.lotustechnologieslk.net:2020/stream/hirufmgarden/stream/1/
 https://radio.lotustechnologieslk.net:2020/stream/hirufmgarden?1707015384
 #EXTINF:-1,Isai FM Tamil
 https://stream.tamilocean.com/isailive/
+#EXTINF:-1,Isira TNL
+http://124.43.10.122:8080/live
 #EXTINF:-1,Jothi FM
 https://radio-station.hadawatha.lk/listen/jothi-fm/radio.mp3
 #EXTINF:-1,Kandurata Sevaya Kandy
@@ -67,6 +69,8 @@ https://stream.zeno.fm/fz1quc2fzacuv
 https://stream.zeno.fm/n86me57rzv8uv
 #EXTINF:-1,Rajarata Sewaya
 http://220.247.227.20:8000/rajaratastream
+#EXTINF:-1,Ran FM
+https://a3.asurahosting.com/listen/ranfm/radio.mp3
 #EXTINF:-1,Rangiri Sri Lanka
 https://rangiri.radioca.st/stream
 #EXTINF:-1,Real Radio Sri Lanka 97.1

@@ -69,8 +69,6 @@ http://45.228.234.9:8000/play/a06s/index.m3u8
 http://168.196.127.137:6001/play/a064/index.m3u8
 #EXTINF:-1,Canal 56 Quiero TV (720p)
 http://45.5.118.152:8000/play/a08z/index.m3u8
-#EXTINF:-1,Canal C del Zulia (1080p)
-https://calm-forest-3478.cristianbracho904.workers.dev/live/index.m3u8
 #EXTINF:-1,Canal Institucional (1080p)
 http://190.61.47.54:8000/play/a00v/index.m3u8
 #EXTINF:-1,Canal RCN (1080p)
@@ -99,8 +97,6 @@ http://187.245.231.226:8000/play/a0ss/index.m3u8
 http://138.94.3.106:8000/play/a02o/index.m3u8
 #EXTINF:-1,Comercio TV (1080p)
 http://45.70.201.81:8000/play/a014/index.m3u8
-#EXTINF:-1,Cooperativa (720p)
-https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
 #EXTINF:-1,Decima TV (720p)
 https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8
 #EXTINF:-1,Distrito TV (1080p)
@@ -235,8 +231,6 @@ https://raajjetv.yarr-myn.workers.dev/RaajjeTv.m3u8
 https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8
 #EXTINF:-1,Radio y Television Marti (720p)
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
-#EXTINF:-1,Rapid TV (480p)
-https://stream-hls.castr-cdn.com/6a05a899db0ebd344a759542/live_9655bc604f8211f19e748901a3f596d0/index.m3u8
 #EXTINF:-1,RCN HD2 (1080p)
 http://181.78.14.26:4000/play/a07m/index.m3u8
 #EXTINF:-1,Red Uno (1080p)
@@ -277,8 +271,6 @@ http://45.5.117.57:8900/play/a058/index.m3u8
 http://45.173.231.22:8000/play/a01h/index.m3u8
 #EXTINF:-1,Teletica 7 (1080p)
 http://190.61.101.11:7050/play/a07t/index.m3u8
-#EXTINF:-1,Televen (1080p)
-http://38.134.250.110:8000/play/a02i/index.m3u8
 #EXTINF:-1,Television Tarapoto (1080p)
 http://45.5.57.58:8000/play/a038/index.m3u8
 #EXTINF:-1,TMC HD (1080p) [Geo-blocked]
@@ -287,6 +279,8 @@ http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8
 http://190.60.46.228:8888/play/a030/index.m3u8
 #EXTINF:-1,TV1.KG (1080p)
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+#EXTINF:-1,TV Aire (1080p)
+http://190.128.214.97:64333/play/a05y/index.m3u8
 #EXTINF:-1,TV FANB (576p)
 http://200.59.191.177:8000/play/a0le/index.m3u8
 #EXTINF:-1,TV Peru (1080p)

@@ -97,6 +97,8 @@ https://listen.radioking.com/radio/152170/stream/192625
 https://cast5.my-control-panel.com/proxy/tripoli1/stream
 #EXTINF:-1,Matrix FM 103.5 Lebanon
 https://play.matrixfmlebanon.com:8003/;stream.mp3
+#EXTINF:-1,Mazaj Music 98.7 FM
+https://cast1.soundcast.ca:8443/mazaj
 #EXTINF:-1,Metal FM Lebanon
 https://stream.zeno.fm/yyiy8r5gcfpvv
 #EXTINF:-1,Middle East Radio International
@@ -173,8 +175,6 @@ https://l3.itworkscdn.net/itwaudio/9030/stream/
 http://audiostreaming.itworkscdn.com:9018/stream
 #EXTINF:-1,Sawt El Nagham
 https://stream.zeno.fm/66sfwug4ag0uv
-#EXTINF:-1,Sawt El Shaeb
-https://audio.osina.cloud:9320/stream
 #EXTINF:-1,Star LB FM Arabic Remix
 https://stream.zeno.fm/5u91z7t3afhvv
 #EXTINF:-1,Star Radio Official

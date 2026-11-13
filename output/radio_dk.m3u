@@ -293,6 +293,8 @@ https://radioserver.dk/alfasilk
 https://radioserver.dk/alfaskive
 #EXTINF:-1,Radio Alfa Viborg
 https://radioserver.dk/alfaviborg
+#EXTINF:-1,Radio ALR
+http://streamer.radio.co/s6a9beb92e/listen
 #EXTINF:-1,Radio Boost
 http://6434.cloudrad.io:8066/;
 #EXTINF:-1,Radio Denmark FM
@@ -375,8 +377,6 @@ https://netradio.vlr.dk/vlr8d
 https://netradio.vlr.dk/popup2
 #EXTINF:-1,Radio4
 http://netradio.radio4.dk/radio4
-#EXTINF:-1,RadioFLR
-http://play.radioflr.dk:9000/stream
 #EXTINF:-1,Rar
 http://techno-low.rautemusik.fm/
 #EXTINF:-1,Retro Millennium
@@ -411,6 +411,10 @@ https://tangocopenhagen.stream.laut.fm/tangocopenhagen?t302=2021-01-15_18-47-40&
 http://listen.technobase.fm/tunein-aacplus-pls
 #EXTINF:-1,TechnoBase.FM - MP3 192k
 http://listen.technobase.fm/tunein-mp3-pls
+#EXTINF:-1,The Lake Radio
+http://hyades.shoutca.st:8627/stream
+#EXTINF:-1,The Lake Radio
+http://hyades.shoutca.st:8627/
 #EXTINF:-1,The Voice
 http://live-bauerdk.sharp-stream.com/voice128.mp3
 #EXTINF:-1,UMLANDO Radio

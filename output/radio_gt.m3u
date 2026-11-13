@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,180Retroradio
+https://sonicpanel.1000hosting.com/8160/stream
 #EXTINF:-1,90.1 FM Ministerios Revelación (Radio Sulamita)
 https://stm.newvoxlive.net:7298/;
 #EXTINF:-1,94.9 FM
@@ -35,6 +37,8 @@ https://stream.zeno.fm/3tfg0vng9ueuv
 https://stream.zeno.fm/0zashcvc9zquv
 #EXTINF:-1,Estéreo Alegre 101.5 FM
 https://stream.zeno.fm/597dgr66e2zuv
+#EXTINF:-1,Estéreo Gerardi 107.9 FM
+https://aler.org:8445/gerardi.mp3
 #EXTINF:-1,Estéreo Santa Sion
 https://radio015.gt.gt/radio/8000/live.mp3
 #EXTINF:-1,Estéreo Solar 104.9 FM
@@ -47,6 +51,8 @@ https://radiostreamingaac.com:8562/solarjutiapa
 https://stream.zeno.fm/1g9cduy10bruv
 #EXTINF:-1,Exa FM Guatemala
 https://stream.zeno.fm/czdkk32qduhvv
+#EXTINF:-1,Felicidad Stereo
+http://radio.produccionescasaverde.com:8720/stream
 #EXTINF:-1,FeLove Biblia en Quiché
 http://radio.produccionescasaverde.com:8788/autodj
 #EXTINF:-1,FeLove Clásica

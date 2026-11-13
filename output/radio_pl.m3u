@@ -6,7 +6,7 @@ http://ic1.smcdn.pl/1510-1.mp3
 #EXTINF:-1,24Dubstep.pl || CalmFlow
 https://stream.24dubstep.pl/listen/chillstep/mp3_normal
 #EXTINF:-1,24Dubstep.pl || DropZone Radio
-https://stream.24dubstep.pl/listen/dubstep/mp3_normal
+https://stream.24dubstep.pl/listen/dubstep/mp3_low
 #EXTINF:-1,24Dubstep.pl || DropZone Radio
 https://stream.24dubstep.pl/radio/8000/mp3_normal
 #EXTINF:-1,357
@@ -415,6 +415,8 @@ http://stream4.nadaje.com:8578/poznan
 https://stream13.polskieradio.pl/pr3/pr3.sdp/chunklist_w476233979.m3u8
 #EXTINF:-1,PR KIEROWCÓW 
 https://stream10.polskieradio.pl/prk/rdk.sdp/playlist.m3u8
+#EXTINF:-1,PR PRZEBOJE PRL
+https://mpantusa-danidi01.radioca.st/id1
 #EXTINF:-1,PR TRÓJKA 
 https://stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8
 #EXTINF:-1,Przystan
@@ -809,6 +811,8 @@ https://c30.radioboss.fm:8615/stream
 http://107i5.fm/
 #EXTINF:-1,Radio Nestolatki
 https://s1.slotex.pl/shoutcast/7306/stream
+#EXTINF:-1,Radio Niepokalanów
+https://stream.rcs.revma.com/p1ty3x8nh72vv
 #EXTINF:-1,Radio Nowej Generacji
 https://s1.slotex.pl/shoutcast/7488/stream
 #EXTINF:-1,Radio Nowy Świat
@@ -1492,7 +1496,7 @@ http://195.150.20.7/SWIETAF
 #EXTINF:-1,RMF Szanty
 http://217.74.72.11/SZANTY
 #EXTINF:-1,Rmf Szanty
-https://rs201-krk-cyfronet.rmfstream.pl/rmf_szanty
+http://31.192.216.5/rmf_szanty
 #EXTINF:-1,RMF TOP2
 https://rs103-krk.rmfstream.pl/TOP2
 #EXTINF:-1,RMF TOP3
@@ -1555,6 +1559,8 @@ https://bcast.vigormultimedia.com:48888/sjcompl64aac
 http://s1.slotex.pl:7494/
 #EXTINF:-1,Spinacz
 http://cinemamovies.pl:8563/
+#EXTINF:-1,Stacja EsaidFM
+https://smartstream.myautodj.com:8092/stream
 #EXTINF:-1,Strefa FM
 http://play.strefa.fm:8000/strefa.mp3
 #EXTINF:-1,Studenckie Radio Żak Politechniki Łódzkiej

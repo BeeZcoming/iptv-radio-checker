@@ -201,6 +201,8 @@ https://s41.radiolize.com/radio/8140/radio.mp3
 https://radio.truth.fm:8000/hungary
 #EXTINF:-1,Enying FM Hungary
 http://radioe.net:8080/efm_hd
+#EXTINF:-1,Euphonic Moments Radio
+https://radio.euphonicmoments.com/listen/euphonic-moments/Euphonicmoments_radio256kbps.mp3
 #EXTINF:-1,Európa Rádió Miskolc
 https://europaradio.hu/miskolc
 #EXTINF:-1,Ez az a nap! rádió
@@ -489,8 +491,6 @@ http://radioe.net:8080/efm_high
 https://s03.diazol.hu:35112/mobil.aac
 #EXTINF:-1,Rádió ICE
 https://streaming4u.synology.me:8444/ice
-#EXTINF:-1,RADIO INSIDE
-https://radioinside.eu/live.mp3
 #EXTINF:-1,RADIO MARIA HUNGARY
 http://dreamsiteradiocp.com:8032/stream
 #EXTINF:-1,Rádió Most
@@ -561,8 +561,6 @@ http://188.165.11.30:7000/
 http://s01.diazol.hu:10050/spweb1.mp3
 #EXTINF:-1,StreamX Radio
 https://radio.streamxradio.live/listen/streamx_radio/radio.mp3
-#EXTINF:-1,StreamX Radio
-https://a5.asurahosting.com:8830/radio.mp3
 #EXTINF:-1,Sunshine Dance
 http://195.56.193.129:8120/;stream/1?icy=http
 #EXTINF:-1,Sunshine FM
@@ -573,6 +571,8 @@ http://195.56.193.129:8100/;stream/1
 https://sunshine2.stream.composeit.hu/sunshine
 #EXTINF:-1,SunshineFM DANCE
 https://sunshine3.stream.composeit.hu/sunshine
+#EXTINF:-1,SunshineFM Debrecen
+https://sundeb.stream.composeit.hu/SunshineDebrecen
 #EXTINF:-1,SunshineFM Nyíregyháza
 https://sunshine1.stream.composeit.hu/sunshine
 #EXTINF:-1,Super DJ Radio

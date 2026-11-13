@@ -87,10 +87,6 @@ https://c11.radioboss.fm:18303/stream
 http://streamingcontrol.com:8500/;
 #EXTINF:-1,Radio Soda Stereo 105.3 FM
 http://streaming.rcs.com.sv/proxy/soda/stream
-#EXTINF:-1,Radio Sonora 104.5 FM
-http://190.5.147.67:8000/radiosonora
-#EXTINF:-1,Radio Sonora 104.5 FM
-http://190.5.147.67:8000/radiosonora
 #EXTINF:-1,Radio Supra 90.5 FM
 https://stream-52.zeno.fm/cpoqmejvb7ftv?zs=r9mYF1zHSD-C0In5SO_XUg
 #EXTINF:-1,Radio Verdad 95.7 FM
@@ -107,6 +103,8 @@ http://158.69.200.1:8022/stream
 http://streaming.rcs.com.sv/proxy/super/stream
 #EXTINF:-1,Taylor Swift Radio
 https://stream.zeno.fm/xiothj9jrxfvv
+#EXTINF:-1,Vox FM
+https://cast3.asurahosting.com/proxy/gabriel/stream
 #EXTINF:-1,Xtremevibes
 https://c17.radioboss.fm:8162/stream
 #EXTINF:-1,YXY 105.7

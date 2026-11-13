@@ -447,6 +447,8 @@ http://rfe21.akacast.akamaistream.net/7/751/437779/v1/ibb.akacast.akamaistream.n
 http://ice.abradio.cz/rockmax256.mp3
 #EXTINF:-1,Rock Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_RADIO_128.mp3
+#EXTINF:-1,Rock Radio - Legend of Rock
+https://ice2.radia.cz/legends_of_rock_128.aac
 #EXTINF:-1,Rock rádio – CZ Rock
 https://ice2.radia.cz/rockzabava128.aac
 #EXTINF:-1,Rock Rádio Šumava

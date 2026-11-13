@@ -89,6 +89,8 @@ https://justplay.stream.laut.fm/justplay
 http://158.69.227.214:8137/stream
 #EXTINF:-1,Listen.Moe JPop Vorbis
 https://listen.moe/stream
+#EXTINF:-1,Miku Radio
+https://miku.fm/listen/miku/mp3-128
 #EXTINF:-1,MILCpod
 https://radio.milradio.info:9000/milcpod.m3u8
 #EXTINF:-1,Moon Mission Recordings
@@ -200,8 +202,6 @@ http://gyusyabu.ddo.jp:8000/;stream.mp3
 #EXTINF:-1,Retro PC Game Music Streaming Radio for Gyusyabu
 http://gyusyabu.ddo.jp:8000/
 #EXTINF:-1,Retro-Ko Radio
-https://radio.retroko.com/listen/retroko/radio.mp3
-#EXTINF:-1,Retro-Ko radio
 http://165.232.155.175/listen/retroko/radio.mp3
 #EXTINF:-1,Shonan Beach FM 78.9
 http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a

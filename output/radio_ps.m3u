@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,Ajyal - Palestine
 https://streamer.mada.ps:8208/ajyal
+#EXTINF:-1,Amen24
+https://rstream.hadara.ps/proxy/amen24/stream
 #EXTINF:-1,CAMP Radio
 https://listen.camp:9000/campradio.ogg
 #EXTINF:-1,Quran Radio Station-Nablus

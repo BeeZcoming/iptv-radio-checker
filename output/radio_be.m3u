@@ -97,6 +97,8 @@ http://radios.rtbf.be/classic21-128.mp3
 http://www.clubfmserver.be:8000/radioclubfm.mp3
 #EXTINF:-1,Contact MAX
 https://contactmax.ice.infomaniak.ch/contactmax-192.mp3
+#EXTINF:-1,DAX FM RADIO
+http://master.shoutcast.com:8000/dax-fm
 #EXTINF:-1,De Geluidsfabriek
 https://s5.radio.co/s4674a3b1c/listen
 #EXTINF:-1,De Jukebox
@@ -247,6 +249,8 @@ https://quincy.torontocast.com:3195/stream
 http://stream.laclassica.be:8023/stream2
 #EXTINF:-1,La Classica
 http://stream.laclassica.be:8023/stream
+#EXTINF:-1,La Première - Bruxelles
+http://radios.rtbf.be/laprem1erebxl-128.mp3
 #EXTINF:-1,Lehabs Radio
 https://stream.zeno.fm/v4ney0hn5z3uv
 #EXTINF:-1,LN Radio
@@ -279,8 +283,6 @@ http://mooiradio.live-streams.nl/
 http://play.mooyzo.be/mooyzo.mp3
 #EXTINF:-1,MOOYZO (MP3)
 https://play.mooyzo.be/mooyzo.mp3
-#EXTINF:-1,MUSI.BE
-http://45.13.239.248/listen/musi/radio.mp3
 #EXTINF:-1,Musiq3 Jazz RTBF
 https://radios.rtbf.be/wr-m3-jazz-128.mp3
 #EXTINF:-1,MyNoise Drone Zone
@@ -373,6 +375,8 @@ http://serverkw.quran-uni.com:8238/;*.mp3
 http://listen.openstream.co/4628/audio
 #EXTINF:-1,Radio 100%
 http://live2.radiostudio.be:8000/pros
+#EXTINF:-1,Radio 2 Bene Bene
+http://icecast.vrtcdn.be/radio2_benebene-high.mp3
 #EXTINF:-1,Radio 4910
 https://radio7.pro-fhi.net:19073/stream.mp3
 #EXTINF:-1,Radio 700
@@ -762,7 +766,7 @@ http://ec5.yesstreaming.net:3430/stream
 #EXTINF:-1,Turkuaz FM 107.8 Seraing, be
 http://stream.lfmradio.be/turkuaz
 #EXTINF:-1,ULTRASON
-http://ultrason.ice.infomaniak.ch/ultrason-high.mp3
+http://broadcast.infomaniak.ch/ultrason-high.mp3
 #EXTINF:-1,Up Radio
 http://upradio.ovh:8054/up-low
 #EXTINF:-1,urgent.fm
@@ -855,6 +859,8 @@ https://icecast-qmusicbe-cdp.triple-it.nl/willy.mp3
 http://stream.wradio.es:9000/;stream/1
 #EXTINF:-1,XBeat
 https://radio.xbeat.org/stream1
+#EXTINF:-1,YOLO - Life is like a dance
+https://streamingv2.shoutcast.com/yolo-life-is-like-a-dance
 #EXTINF:-1,YOUFM 106.9 Mons, be
 http://youfm.ice.infomaniak.ch/youfm-96
 #EXTINF:-1,Zen Garden (myNoise Radio)

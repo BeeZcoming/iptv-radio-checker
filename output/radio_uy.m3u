@@ -11,6 +11,8 @@ https://970universal-3.nty.uy/
 https://streaming3.hostingmontevideo.com/8064/stream
 #EXTINF:-1,Alfa FM 96.3
 http://radioonline.netgate.com.uy:8000/alfafm
+#EXTINF:-1,Amatista FM 90.7
+http://usa15.ciudaddigital.com.uy:8044/AmatistaFM
 #EXTINF:-1,America FM
 http://emisiones.com.uy:8118/america
 #EXTINF:-1,ARAPEY (AM 1450)
@@ -213,8 +215,12 @@ https://medios.ciudaddigital.com.uy:18052/PatriaAM
 https://comodin.uy/radio/8000/320.mp3
 #EXTINF:-1,Radio Pipí Cucú (128 kbps)
 https://comodin.uy/radio/8000/128.mp3
+#EXTINF:-1,Radio Pop en Español
+https://radio-render-ey3i.onrender.com/stream
 #EXTINF:-1,Radio Prado Sur
 https://usa2.fastcast4u.com/proxy/wqzjjais?mp=/;
+#EXTINF:-1,Radio Río Branco
+https://medios.ciudaddigital.com.uy:18164/RioBranco
 #EXTINF:-1,Radio Rivera CX144 AM 1440
 http://usa15.ciudaddigital.com.uy:8060/RiveraAM
 #EXTINF:-1,Radio San Carlos

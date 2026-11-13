@@ -62,7 +62,7 @@ https://www.myipcast.com/radio/adriatic
 #EXTINF:-1,AFN 360 Aviano
 http://27913.live.streamtheworld.com:3690/AFNE_AVN_SC
 #EXTINF:-1,AFN 360 Naples
-http://23623.live.streamtheworld.com/AFNE_NAP_SC
+http://25443.live.streamtheworld.com:3690/AFNE_NAP_SC
 #EXTINF:-1,AFN 360 Sigonella
 http://29345.live.streamtheworld.com:3690/AFNE_SIG_SC
 #EXTINF:-1,AFN 360 Vicenza
@@ -99,8 +99,6 @@ https://artofmusic.radioca.st/stream/1/
 https://sr6.inmystream.it/proxy/artofmusic?mp=/stream
 #EXTINF:-1,ART RADIO LARIANO
 https://dreamsiteradiocp3.com/proxy/artradio?mp=/stream
-#EXTINF:-1,Astarbene
-https://astarbeneradio.out.airtime.pro/astarbeneradio_a
 #EXTINF:-1,Babboleo Suono
 https://stream.rcs.revma.com/sv2hu8qqv6bwv
 #EXTINF:-1,Ballando Web Radio
@@ -727,6 +725,8 @@ http://5.39.82.157:8054/steam/
 https://streaming.poliradio.it/hq
 #EXTINF:-1,Pop Prisma
 https://radio.celodex.com/stream/pop_prisma.mp3
+#EXTINF:-1,PopWave Web Radio
+https://cast1.asurahosting.com/proxy/michelep/stream
 #EXTINF:-1,Power 927
 http://91.121.104.139:1602/
 #EXTINF:-1,POWER 927 AM Milano
@@ -992,7 +992,7 @@ https://onair.armisa.it/listen/armisa/radio.mp3
 #EXTINF:-1,Radio Arya
 https://radioarya.it/listen/radio_arya/radio.mp3
 #EXTINF:-1,Radio Ascoli
-http://ice09.fluidstream.net/fluid0909.mp3?FLID=E
+http://ice05.fluidstream.net/fluid0507.aac?FLID=E
 #EXTINF:-1,Radio Asiago
 http://onair18.xdevel.com:8136/;
 #EXTINF:-1,Radio Aurora
@@ -1087,6 +1087,8 @@ https://radiobussola24.radioca.st/stream
 http://intercast.max73.ovh:9030/stream
 #EXTINF:-1,Radio C1 inBlu
 http://nr5.newradio.it:8659/stream
+#EXTINF:-1,Radio Cafè
+https://geminione.it/proxy/test/;
 #EXTINF:-1,Radio Calabria 27
 https://stream.zeno.fm/rtndtqysyq5tv
 #EXTINF:-1,Radio California
@@ -1143,8 +1145,6 @@ http://ice17.fluidstream.net/conselve.mp3?FLID=6
 https://radiocentovittoria-fellini.radioca.st/;
 #EXTINF:-1,Radio Centrale
 http://ice03.fluidstream.net/fluid03_9090.aac
-#EXTINF:-1,Radio Centrale - Montorio al Vomano
-https://s1.forstream.it:8070/radiocentrale.mp3
 #EXTINF:-1,Radio Centro Idea
 https://ssl.audio1.meway.tv/proxy/radiocentroidea?mp=/stream
 #EXTINF:-1,Radio Centro Suono
@@ -1235,10 +1235,6 @@ http://stream.laut.fm/radiocontactitaly
 https://radiocontactitaly.stream.laut.fm/radiocontactitaly
 #EXTINF:-1,Radio Contact Italy -Funky Soul Disco
 https://stream.laut.fm/radiocontactitaly
-#EXTINF:-1,Radio Coop
-http://uk1.streamingpulse.com:7013/live
-#EXTINF:-1,Radio Cooperativa Padova right
-https://de4.streamingpulse.com/ssl/7013
 #EXTINF:-1,Radio Core de Roma
 https://sr14.inmystream.it:8210/stream
 #EXTINF:-1,Radio Cortina
@@ -1439,8 +1435,6 @@ https://radiofresh.radioca.st/stream
 https://live.radioftt.org/stream
 #EXTINF:-1,Radio Furgoncino
 https://stream.radiojar.com/sf65dpxy9vzuv
-#EXTINF:-1,Radio Fusion Italia
-https://www.shoutcastitalia.com/proxy/fusion?mp=/stream
 #EXTINF:-1,Radio Futura Station
 https://nr14.newradio.it:8767/stream?ext=.mp3
 #EXTINF:-1,Radio Gaga Channel
@@ -1663,8 +1657,6 @@ http://streaminglattemiele.lemcloud.net:12200/lemsicilia2.mp3
 https://ice09.fluidstream.net/lm_cagliari.mp3?FLID=8
 #EXTINF:-1,Radio LatteMiele Rete Sud
 http://streaminglattemiele.lemcloud.net:12200/lembasilicata2.mp3
-#EXTINF:-1,Radio LatteMiele Taranto
-https://s9.webradio-hosting.com/proxy/radiolat/stream
 #EXTINF:-1,Radio Laziale 
 https://router.xdevel.com/video5s975363-2398/stream/playlist.m3u8
 #EXTINF:-1,Radio Laziale 88.100 FM
@@ -1711,8 +1703,6 @@ https://nrf1.newradio.it:10334/stream
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2odance/radiom2odance/master_ma.m3u8
 #EXTINF:-1,Radio Mach 5
 http://94.23.6.107:8183/stream
-#EXTINF:-1,Radio Macomer Centrale
-https://usa1-vn.mixstream.net/:8014/listen.mp3
 #EXTINF:-1,Radio Magenta
 http://94.23.6.107:8038/stream
 #EXTINF:-1,Radio Mambassa
@@ -1881,10 +1871,6 @@ http://nr9.newradio.it:9199/stream
 https://rn1.fluidstream.eu/rn1.mp3
 #EXTINF:-1,Radio Number One
 https://rn1.fluidstream.eu/rn1.aac
-#EXTINF:-1,Radio Nuoro Centrale
-http://onair15.xdevel.com:8048/;stream.mp3
-#EXTINF:-1,Radio Nuoro Centrale
-http://onair15.xdevel.com:8048/;stream/1.mp3
 #EXTINF:-1,Radio Nuova
 http://ice05.fluidstream.net/fluid0504.aac?FLID=E
 #EXTINF:-1,Radio Nuova Macerata
@@ -1953,8 +1939,6 @@ https://sphera.fluidstream.eu/rpd_history.mp3
 https://sphera.fluidstream.eu/rpd_hita.mp3
 #EXTINF:-1,Radio Paestum
 http://radiopaestum.no-ip.biz:8150/;
-#EXTINF:-1,Radio Palermo Lido
-http://nr1.newradio.it:9289/stream
 #EXTINF:-1,Radio Panda
 https://nrf1.newradio.it:8080/10392/stream
 #EXTINF:-1,Radio Parma
@@ -2035,6 +2019,8 @@ http://shoutcast.streamingmedia.it:7158/stream
 https://rprecisa.radioca.st/radioprecisa
 #EXTINF:-1,Radio Pret a Porter
 https://onair7.xdevel.com/proxy/xautocloud_ammg_1275?mp=/;1/
+#EXTINF:-1,Radio PRL
+http://distorzi.radioca.st:8144/stream
 #EXTINF:-1,Radio Proposta
 http://s3.mediastreaming.it:7034/;
 #EXTINF:-1,RADIO PROPOSTA AOSTA
@@ -2272,7 +2258,7 @@ http://nr9.newradio.it:9630/stream
 #EXTINF:-1,Radio Studio Due
 https://studioduecen.radioca.st/;
 #EXTINF:-1,Radio Studio Emme
-http://ice09.fluidstream.net/fluid0901.aac?FLID=6
+http://ice05.fluidstream.net/fluid0505.mp3?FLID=6
 #EXTINF:-1,Radio Studio Nord
 https://nr6.newradio.it:19104/;
 #EXTINF:-1,Radio Studio Nord 80 Energia
@@ -2447,6 +2433,8 @@ http://stream.mandragola.com/radiozainet
 https://stream1.xdevel.com/audio0s975884-460/stream/icecast.audio
 #EXTINF:-1,Radio Zeppelin
 https://radiozeppelin.servemp3.com/stream
+#EXTINF:-1,Radio Zeta
+https://streamingv2.shoutcast.com/radio-zeta_48.aac
 #EXTINF:-1,Radio Zoe
 http://nr6.newradio.it:9427/stream
 #EXTINF:-1,RADIO ZOUK EMOTION
@@ -2465,8 +2453,6 @@ https://nr7.newradio.it/proxy/radiosol?mp=/stream
 https://onair7.xdevel.com/proxy/xautocloud_hgil_2336?mp=/;1/
 #EXTINF:-1,Radioattiva Nontantola
 http://51.254.76.66:8040/stream
-#EXTINF:-1,RadioAttivaInformazione
-https://radioattiva.duckdns.org/hls/radioattivainformazione/live.m3u8
 #EXTINF:-1,Radioattività
 https://nr5.newradio.it/proxy/finmedia?mp=/stream
 #EXTINF:-1,radiobiblia.online
@@ -2477,8 +2463,6 @@ https://sr6.inmystream.it/proxy/claudio/stream
 http://stream.laut.fm/radiogaia
 #EXTINF:-1,RADIOGAMMA5
 https://ice05.fluidstream.net/fluid0510.mp3
-#EXTINF:-1,RadiogrAMma
-https://stream.radiospore.oziosi.org:8003/zirudela.ogg?n=84fd45ac00e0d8b39c6f
 #EXTINF:-1,RadioGs
 https://stream.zeno.fm/f384h3c0r98uv
 #EXTINF:-1,Radiolina
@@ -2499,8 +2483,6 @@ https://sr6.inmystream.it/proxy/rrshout?mp=/stream
 https://stream3.xdevel.com/audio0s975522-197/stream/icecast.audio
 #EXTINF:-1,Radiorizzonti inBlu
 http://stream.radiorizzonti.com/orizzonti
-#EXTINF:-1,radioscintillablog
-https://dreamsiteradiocp3.com/proxy/radioscintilla?mp=/
 #EXTINF:-1,RADIOSPEAKER.IT
 https://nr5.newradio.it/proxy/webradfest?mp=/stream2
 #EXTINF:-1,RadiostART
@@ -2579,6 +2561,8 @@ https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S35942484
 https://tgrcampania-live.akamaized.net/hls/live/2025562/tgrcampania/tgrcampania/playlist.m3u8
 #EXTINF:-1,Ram Power 102.7
 https://stream.ram.radio/audio/ram.stream_aac64/chunklist.m3u8
+#EXTINF:-1,Rasta Nation Radio
+https://a8.asurahosting.com/listen/bex_beat_radio/radio.mp3
 #EXTINF:-1,Ratio Frinquello
 http://nl1.streamingpulse.com:8046/stream
 #EXTINF:-1,RBC Grosseto
@@ -2588,7 +2572,7 @@ https://mars.streamerr.co/8068/;
 #EXTINF:-1,RCS Bisceglie
 https://nr6.newradio.it:19463/stream
 #EXTINF:-1,RCS Napoli
-http://ice12.fluidstream.net/fluid1201.mp3
+http://ice09.fluidstream.net/fluid0905.aac
 #EXTINF:-1,RCS Radio Camaldoli Stereo
 http://ice09.fluidstream.net/fluid9114.aac
 #EXTINF:-1,RCS Story
@@ -2617,8 +2601,6 @@ https://stream.rds.radio/audio/rds.stream_aac/chunklist.m3u8
 https://stream.rds.radio/audio/rds.stream_aac/playlist.m3u8
 #EXTINF:-1,RDS 100% Grandi Successi
 https://stream.rds.radio/audio/rds.stream_aac64/chunklist.m3u8
-#EXTINF:-1,RDS Avola
-https://be.server89.com:10989/stream.mp3
 #EXTINF:-1,RDS Next
 https://stream.rds.radio/audio/rdsnext.stream_aac/playlist.m3u8
 #EXTINF:-1,RDS Relax
@@ -2769,10 +2751,22 @@ https://nr8.newradio.it:19556/;
 https://stream.rcast.net/210096
 #EXTINF:-1,RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_audio.m3u8
+#EXTINF:-1,RTL 102.5 - Groove
+https://streamingv2.shoutcast.com/rtl-1025-broandsis
+#EXTINF:-1,RTL 102.5 [Mobile 48kbps]
+https://streamingv2.shoutcast.com/rtl-1025_48.aac
 #EXTINF:-1,RTL 102.5 Best
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/fYNIdrsfP3xC/playlist_audio.m3u8
+#EXTINF:-1,RTL 102.5 Best
+https://streamingv2.shoutcast.com/rtl-1025-best
+#EXTINF:-1,RTL 102.5 Best [Mobile 48kbps]
+https://streamingv2.shoutcast.com/rtl-1025-best_48.aac
+#EXTINF:-1,RTL 102.5 Bro & Sis [Mobile 48kbps]
+https://streamingv2.shoutcast.com/rtl-1025-broandsis_48.aac
 #EXTINF:-1,RTL 102.5 Disco
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/Sz3kCA55PrRh/playlist_audio.m3u8
+#EXTINF:-1,RTL 102.5 Disco [Mobile 48kbps]
+https://streamingv2.shoutcast.com/rtl-1025-doc_48.aac
 #EXTINF:-1,RTL 102.5 news
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/aJMOUBAFc2Bc/playlist_audio.m3u8
 #EXTINF:-1,RTR 99 Canale Pooh
@@ -2837,10 +2831,6 @@ https://listen.soulradio.it/it
 https://stream10.xdevel.com/audio3s975559-2094/stream/icecast.audio
 #EXTINF:-1,Spazio Radio
 http://s3.mediastreaming.it:7190/;stream.mp3
-#EXTINF:-1,Spore
-https://stream.radiospore.oziosi.org:8003/spore.ogg
-#EXTINF:-1,Spore LQ
-http://upstream.radiospore.oziosi.org:8000/spore_LQ.ogg
 #EXTINF:-1,Stadtradio Meran
 http://94.23.66.155:9250/srmhigh
 #EXTINF:-1,Station Italy
@@ -2899,6 +2889,8 @@ http://nr11.newradio.it:9180/stream
 https://nr1.newradio.it:19180/stream
 #EXTINF:-1,Te Ador Radio
 https://sonicpanel.namehost.ro:1260/stream
+#EXTINF:-1,Tele Carnevale International
+https://a3.asurahosting.com/listen/tele_carnevale_international/radio.mp3
 #EXTINF:-1,Tele Radio Stereo
 http://trsw.inmystream.info:8068/;stream.mp3
 #EXTINF:-1,Tele Radio Valle Camonica

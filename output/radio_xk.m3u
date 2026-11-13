@@ -5,8 +5,6 @@ http://cfm.albaservers.com:8010/
 https://stream.glamradio.fm:8443/glamradio
 #EXTINF:-1,KLAN Kosova FM
 http://s4.radio.co/sd1d1904dc/listen
-#EXTINF:-1,Radio Dukagjini
-http://s6.voscast.com:8824/;stream.mp3
 #EXTINF:-1,Radio K4 Shqip
 http://fm.radiokfor.com:8080/;
 #EXTINF:-1,Radio Kosova 1

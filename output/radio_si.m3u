@@ -135,8 +135,6 @@ https://live.radio.si/Maxi?t=1722577989752
 http://live2.infonetmedia.si:8000/Maxi
 #EXTINF:-1,Radio METEOR .si
 https://stream.radiometeor.si/listen/meteor/live.mp3
-#EXTINF:-1,Radio METEOR .si
-http://stream.radiometeor.si/listen/meteor/live.aac
 #EXTINF:-1,Radio Mister Deejay
 http://stream.mister-deejay.com:9008/;
 #EXTINF:-1,Radio MMR

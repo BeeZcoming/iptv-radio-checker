@@ -5,8 +5,6 @@ https://sc.host-live.com:8150/stream
 https://radio.atlantidafm903.com:8020/atlantida_radio.mp3
 #EXTINF:-1,Big Radio Bolivia
 http://stream.zeno.fm/cb4zhgss538uv
-#EXTINF:-1,Clásica 100.3 Cochabamba
-http://radios.istbolivia.com:9976/;
 #EXTINF:-1,Classica FM
 http://classicafm.scbbs.net:8000/;?type=http&nocache=839969
 #EXTINF:-1,Classica FM
@@ -69,6 +67,8 @@ https://usa13.fastcast4u.com/proxy/fideslapaz?mp=/1
 https://usa14.fastcast4u.com/proxy/fidestarija?mp=/1
 #EXTINF:-1,Radio Folklorica Uyuni
 https://emiteradio.com/proxy/uyuni?mp=/stream
+#EXTINF:-1,RADIO FRONTERA FM 100.3 MHz
+https://stream.inliveserver.com:2020/8140/stream
 #EXTINF:-1,Radio Gigante Bolivia
 https://cloudstream2032.conectarhosting.com:7311/;
 #EXTINF:-1,Radio Horizontes 93.1
@@ -119,5 +119,7 @@ https://stream.zeno.fm/gli54dgn5kwuv
 https://stream.zeno.fm/nplf6hpufi5uv
 #EXTINF:-1,Universal FM 106.9
 https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8
+#EXTINF:-1,ZetaxWorld Radio 
+https://radio.zetaxworld.xyz/stream.mp3
 #EXTINF:-1,ZoyTV RADIO
 https://icepool.silvacast.com/GAYFM.mp3

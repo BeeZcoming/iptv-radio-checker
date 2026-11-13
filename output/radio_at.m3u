@@ -233,8 +233,6 @@ https://edge16.stream.maxfive.com/max5-joelive
 https://edge01.stream.maxfive.com/max5-joelive?aggregator=maxfive-homepage
 #EXTINF:-1,KroneHit Digital
 http://onair-ha1.krone.at/kronehit1058.mp3
-#EXTINF:-1,Kronehit Hardstyle
-https://kronehit.streamabc.net/50-fschannel2-aac-128-1016557
 #EXTINF:-1,KroneHit Radio
 http://onair-ha1.krone.at/kronehit64.aac
 #EXTINF:-1,KroneHit Radio
@@ -243,6 +241,24 @@ http://onair-ha1.krone.at/kronehit.aac
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1,LCR Radio
 https://streaming.radio.co/sba5c95896/listen
+#EXTINF:-1,Life Radio
+http://stream1.liferadio.at/
+#EXTINF:-1,Life Radio 80er
+https://stream.liferadio.at/80er/mp3-192/stream.liferadio.at/
+#EXTINF:-1,Life Radio 90er
+http://stream3.liferadio.at/;
+#EXTINF:-1,Life Radio Chill Out
+https://stream8.liferadio.at/
+#EXTINF:-1,Life Radio Chill Out Hits
+https://stream.liferadio.at/chillout/mp3-192/stream.liferadio.at/
+#EXTINF:-1,Life Radio Classic Rock 
+https://stream11.liferadio.at/
+#EXTINF:-1,Life Radio ClassicRock
+https://stream.liferadio.at/clrock/mp3-192/stream.liferadio.at/
+#EXTINF:-1,Life Radio Greatest Hits
+https://stream.liferadio.at/greatest-hits/mp3-192/stream.liferadio.at/
+#EXTINF:-1,Life Radio Sommersongs
+https://stream.liferadio.at/sommer/mp3-192/stream.liferadio.at/
 #EXTINF:-1,Life Radio Tirol
 http://stream.liferadio.tirol/live/aac-256/SHQ
 #EXTINF:-1,Life Radio Tirol
@@ -519,6 +535,8 @@ https://s1.bcmsol.ro/8002/stream
 https://edge68.streamonkey.net/antschlager-live
 #EXTINF:-1,Sinfonia Radio - Sinfonia Technica
 https://sinfonia.ruthner.at/radio
+#EXTINF:-1,Sinfonia Technica – Rewiring Classics Radio
+https://sinfonia-technica.com/radio
 #EXTINF:-1,Sinnfunk
 https://radio.sinnfunk.live/listen/sinnfunk/radio.mp3
 #EXTINF:-1,Soundportal

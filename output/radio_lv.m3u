@@ -128,7 +128,7 @@ http://radioenergy.lv:9000/;stream.mp3
 #EXTINF:-1,Radio ENERGY.LV
 http://radio2.radioenergy.lv:9000/
 #EXTINF:-1,Radio ENERGY.LV - Russian
-http://radio2.radioenergy.lv:9000/
+http://radio1.radioenergy.lv:8000/
 #EXTINF:-1,Radio Liepāja
 https://stream.radioliepaja.lv/live/playlist.m3u8
 #EXTINF:-1,RADIO MARIA LATVIA

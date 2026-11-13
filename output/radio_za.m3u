@@ -19,8 +19,6 @@ https://usa3.fastcast4u.com/proxy/africanpraiserad?mp=/1
 https://streamer.radio.co/s919e54210/listen
 #EXTINF:-1,afrobeat radio
 https://broadcast.icast.world/listen/afrobeatradio/radio.mp3
-#EXTINF:-1,AFROBEATS FM
-https://audio.afrobeatsfm.com:8443/;
 #EXTINF:-1,AGANANG FM
 https://streaming.fabrik.fm/aganangfm/echocast/audio/low/index.m3u8?session_id=1pbxzwxy1RWaVFv&device_id=Q7fauplH
 #EXTINF:-1,Al Husnaa Quran Radio
@@ -43,6 +41,8 @@ https://cp-1.owh.radio.br/listen/owh_s35468/radio-mp3
 http://bokradio.highquality.radiostream.co.za/
 #EXTINF:-1,Bok Radio
 https://bokradio.highquality.radiostream.co.za/
+#EXTINF:-1,Bosveld Stereo
+https://radio.eclipse-streaming.co.za/listen/bosveldstereo/Bosveld64k
 #EXTINF:-1,Bosveld Stereo
 http://capeant.antfarm.co.za:8000/Bosveld
 #EXTINF:-1,BOX : Chillwave
@@ -199,8 +199,6 @@ http://148.251.43.149:8134/stream
 https://vm65162.streamerr.co/listen/megazone_bollywood_/radio.mp3
 #EXTINF:-1,Megazone South
 https://vm65162.streamerr.co/listen/megazone_south/radio.mp3
-#EXTINF:-1,MERAFONG 360 ONLINE RADIO
-https://sv2.famcast.co.za/stream/merafong?t=1769529345666
 #EXTINF:-1,Metro FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/METROFMAAC.aac
 #EXTINF:-1,MFM
@@ -305,8 +303,6 @@ http://stream.zeno.fm/k8cqvwu2za0uv
 http://capeant.antfarm.co.za:1935/salaam/salaam.stream/chunklist_w1196116988.m3u8
 #EXTINF:-1,salaammedia
 https://iceant.antfarm.co.za/Salaam
-#EXTINF:-1,SekhukhuneFM
-https://edge.iono.fm/xice/301_low.aac
 #EXTINF:-1,SFM Streek Radio
 http://capeant.antfarm.co.za:8000/SFM
 #EXTINF:-1,Simply Making Success Radio

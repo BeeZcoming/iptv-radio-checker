@@ -431,6 +431,8 @@ http://uzivo4.radiopingvin.com:8187/domaci1
 https://s1.skeletor.rs/podrinje
 #EXTINF:-1,Radio Podrinje Loznica
 http://s1.skeletor.rs:8000/podrinje
+#EXTINF:-1,Radio Požega 94.7
+https://radio.dukahosting.com:7033/
 #EXTINF:-1,Radio Razbibriga
 http://213.239.205.210:8001/stream
 #EXTINF:-1,Radio Ritam Srca
@@ -559,8 +561,6 @@ http://160.153.245.85:8000/
 https://radio.dukahosting.com/8344/stream
 #EXTINF:-1,Radio Srce Krajine
 https://srv.mediastriming.com/8330/stream
-#EXTINF:-1,Radio Sremac 102.7
-https://mpc2.mediacp.eu:8282/sremac
 #EXTINF:-1,Radio Stara Čaršija
 http://radio.dukahosting.com:8026/;
 #EXTINF:-1,Radio Starcevo
@@ -671,6 +671,8 @@ https://s1.skeletor.rs/yueco
 https://yuradio.ipradio.rs:9036/;
 #EXTINF:-1,Zeleni Radio
 https://zeleniradio.zelenidogovor.org/listen/zeleni_radio/radio.mp3
+#EXTINF:-1,Zlatiborski 106 Kosjerić
+http://213.239.205.210:8082/stream
 #EXTINF:-1,Zrenjanin 103.6
 https://radio.dukahosting.com:7031/stream
 #EXTINF:-1,Блок Радио (Blok Radio)

@@ -11,8 +11,6 @@ http://08.stmip.net:10028/;;
 https://stream.zeno.fm/d91bup73pf9uv
 #EXTINF:-1,LAC - Luanda Antena Comercial
 http://live.paineldj.com.br:8662/live
-#EXTINF:-1,Platina FM
-https://stream.zeno.fm/bckqpsxrqv8uv
 #EXTINF:-1,Rádio 8000
 https://stream1.svrdedicado.org:7020/stream
 #EXTINF:-1,Rádio Adventus
@@ -63,6 +61,8 @@ https://stream1.svrdedicado.org:7175/;
 https://stream-179.surfernetwork.com/l4feq7zw5d2uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJsNGZlcTd6dzVkMnV2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjcyM2l6R0daUW5HcDA4MEcxOFNnenciLCJpYXQiOjE3OTQzMjE3NjcsImV4cCI6MTc5NDMyMTgyN30.ywMUkh5n6vmtyI5fL-XKTGkjISI2BGPvPZE2Z4JhHeE
 #EXTINF:-1,Rádio Lunda Norte
 https://paineldj6.com.br:20114/stream
+#EXTINF:-1,Rádio Lunda Sul
+https://paineldj6.com.br:20115/stream
 #EXTINF:-1,Rádio Mais Benguela 96.3 FM
 https://radios.justweb.pt/8046/stream
 #EXTINF:-1,Rádio Mais Huambo
@@ -79,10 +79,14 @@ https://stream-radio-marginal-by.newsgen.io/rmlive.mp3
 https://dreamsiteradiocp5.com/proxy/rmangola?mp=/stream
 #EXTINF:-1,Rádio MFM
 https://centova87.instainternet.com/proxy/radiomfm?mp=/live
+#EXTINF:-1,Rádio Morena Comercial
+https://stream-179.surfernetwork.com/yda95lbllawtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5ZGE5NWxibGxhd3R2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjNUS0UwNUdaU3VLaDZVR3l1cmZsTGciLCJpYXQiOjE3OTQyNzIyMzcsImV4cCI6MTc5NDI3MjI5N30.mNYw84VnYh0y1c5FUa7guAWjliR7Vxk3DaTgRKrhTqk
 #EXTINF:-1,Radio Nacional de Angola - Canal A
 https://paineldj5.com.br:20087/stream
 #EXTINF:-1,Rádio Nacional de Angola - Rádio 5
 https://paineldj5.com.br:20088/stream
+#EXTINF:-1,Rádio Namibe
+https://paineldj6.com.br:20118/stream
 #EXTINF:-1,Rádio Nosso Tempo
 https://ssl.srvstm.com:6756/NossoTempo
 #EXTINF:-1,Rádio Nova 102.5 FM

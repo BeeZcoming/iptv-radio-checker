@@ -133,6 +133,10 @@ https://stream.radiogbg.se:8050/relay4
 https://streaming.943.se/radiogold
 #EXTINF:-1,Radio Haninge Direkt
 http://213.115.49.175:1157/;
+#EXTINF:-1,Radio Hope
+https://s2.radio.co/sfbf5f5b85/listen
+#EXTINF:-1,Radio Hope
+http://s2.radio.co/sfbf5f5b85/listen
 #EXTINF:-1,Radio Laholm
 http://stream.zeno.fm/tf8vczzxrg0uv
 #EXTINF:-1,Radio Nacka 

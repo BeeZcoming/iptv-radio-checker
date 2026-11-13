@@ -317,10 +317,6 @@ https://listen7.myradio24.com/artcity
 https://listen7.myradio24.com/artcity
 #EXTINF:-1,ASMR
 https://live.lofiradio.ru/asmr_mp3_320
-#EXTINF:-1,Atm FM
-http://station-sound.ru:8000/pt-2?85341000
-#EXTINF:-1,Atm.Fm
-http://station-sound.ru:8000/pt-2
 #EXTINF:-1,atmoradio
 http://listen10.myradio24.com/atmo
 #EXTINF:-1,Atmosfera
@@ -1025,6 +1021,8 @@ https://stream5.radiogoose.ru/listen/hypertechno/play
 https://grandfm.ru:8005/radio
 #EXTINF:-1,GRELLA
 https://listen6.myradio24.com/grella
+#EXTINF:-1,GTF
+https://stream.gtfinstrumental.com/stream
 #EXTINF:-1,Guf
 https://stream.pcradio.ru/Guf-hi
 #EXTINF:-1,Guitar Jazz
@@ -1331,8 +1329,6 @@ http://188.246.233.137:8000/stream
 http://play.sas-media.ru/play_256
 #EXTINF:-1,Nostalgie FM Makhachkala
 https://nostalgie.dagfm.ru/
-#EXTINF:-1,NOVOE - Novosibirsk
-https://online2.gkvr.ru:8000/novoe_nsb_64.aac
 #EXTINF:-1,NRJ Russia
 https://srv02.gpmradio.ru:8443/stream/air/aac/64/99
 #EXTINF:-1,NRJ Туапсе 105.0 FM
@@ -1609,8 +1605,6 @@ http://live.radio7.su:9000/radio7_128
 https://myradio24.org/98107
 #EXTINF:-1,Radio AI FM
 https://radio.aifm.su/listen/aifm/radio.mp3
-#EXTINF:-1,Radio Alisa
-https://listen8.myradio24.com/alisa
 #EXTINF:-1,Radio AnimKLATU
 https://animklatu.stream.laut.fm/animklatu?uuid=7dea1a18-73ff-7ba5-9738-d631df5fb2e7&t302=2026-11-12_01-19-32
 #EXTINF:-1,Radio Anonymous
@@ -2235,8 +2229,6 @@ http://radio.kamchatkalive.ru:8103/chillout
 https://radio.kamchatkalive.ru:8103/chillout
 #EXTINF:-1,Radio Kontur
 https://misato.ru-hoster.com:8029/stream
-#EXTINF:-1,Radio KULT
-https://online.radio.moe/listen/radiokult/radio.mp3
 #EXTINF:-1,Radio Kuray
 http://av.bimradio.ru:8066/kurai_mp3
 #EXTINF:-1,Radio M00 Dark Ambient
@@ -2433,6 +2425,8 @@ http://spb.radioshock.ru/radioshock
 https://spb.radioshock.ru/radioshock64
 #EXTINF:-1,Radio Sibir
 https://stream.radiosibir.ru:8093/om2
+#EXTINF:-1,Radio Sol FM
+http://solfm.ru:8000/online128
 #EXTINF:-1,Radio Sova
 https://evcast.mediacp.eu:1965/stream
 #EXTINF:-1,Radio SPB1
@@ -3009,8 +3003,6 @@ http://185.20.226.222:8000/brezhnev
 https://listen9.myradio24.com/traveller
 #EXTINF:-1,Бурлеск FM
 http://burlesquefm.ru:8000/radio
-#EXTINF:-1,Буряад FM Улан-Удэ
-https://buryadfm.hostingradio.ru:8018/buryadfm128.mp3
 #EXTINF:-1,Бутырка
 https://stream03.pcradio.app/Butirka-hi
 #EXTINF:-1,Быть Добру! 
@@ -3201,6 +3193,8 @@ http://listen7.myradio24.com/76923
 http://radio90s.stream.laut.fm/radio90s?uuid=50da1c01-124b-6441-9c6a-04ef3eff0467&t302=2026-11-12_04-28-09
 #EXTINF:-1,ДИСКОТЕКА 90-Х
 https://radiorecord.hostingradio.ru/sd9096.aacp?0968d4a7
+#EXTINF:-1,Доброе старое радио
+http://91.189.162.134:8008/;stream
 #EXTINF:-1,Дождь ТВ (Звук)
 https://wl.tvrain.tv/transcode/ses_audio_only/playlist.m3u8
 #EXTINF:-1,дорожное радио (Dorognoe Radio)
@@ -3599,8 +3593,6 @@ http://nashe1.hostingradio.ru/nashepunks.mp3
 https://radioice.neizvestniy-geniy.ru/live256
 #EXTINF:-1,Неслабое
 https://listen6.myradio24.com/neslaboe
-#EXTINF:-1,Неслучайное Радио
-http://aska.ru-hoster.com:8006/stream
 #EXTINF:-1,Нестандарт (aac • 64)
 https://listen.radionestandart.ru:8200/64.aac
 #EXTINF:-1,Несуществующая Радиостанция
@@ -3633,8 +3625,6 @@ https://listen8.myradio24.com/71400
 http://stream1.hostingradio.ru:8010/19_mp3_128
 #EXTINF:-1,Ночной звонок
 https://listen7.myradio24.com/74828
-#EXTINF:-1,Ноябрьск 24 
-https://noyabrsk24.ru:8443/live.mp3
 #EXTINF:-1,НХА
 https://radio.4m3.ru/listen/nha/radio.mp3
 #EXTINF:-1,ОГОНËК
@@ -3695,6 +3685,8 @@ https://icecast-ext.dimfm.ru/portal
 https://online.priboyfm.ru/
 #EXTINF:-1,Прибой
 http://77.232.167.247:1007/admin
+#EXTINF:-1,Привет 
+http://62.16.41.97:8000/radioprivet
 #EXTINF:-1,Приморская Волна 90.0 FM
 http://inhold.org:8000/primvolna-ussuriysk
 #EXTINF:-1,Провинция
@@ -3739,8 +3731,6 @@ http://onair.lipetskfm.ru:8000/radio7_lipetsk
 http://radio7server.streamr.ru:8040/radio7256.mp3
 #EXTINF:-1,Радио 7 на семи холмах - Настроение счастья
 https://radio7.hostingradio.ru:8040/radio7_happiness64.aacp
-#EXTINF:-1,Радио 7 Нижний Новгород 100.0 FM
-https://online2.gkvr.ru:8000/radio7_nno_64.aac
 #EXTINF:-1,Радио ASMR - Массаж для ваших ушей!😍
 http://live.lofiradio.ru:8000/asmr_mp3_320
 #EXTINF:-1,Радио Capital-ФМ
@@ -3779,6 +3769,8 @@ https://nashe2.hostingradio.ru/ultra-128.mp3
 http://nashe1.hostingradio.ru/ultra-192.mp3
 #EXTINF:-1,Радио Алания Владикавказ 104.5 FM
 http://vgtrk15.hostingradio.ru:8011/vgtrk15128.mp3
+#EXTINF:-1,радио Алтай 
+http://146.158.96.114:8000/radio
 #EXTINF:-1,радио АЛЬФА
 https://stream2.alfafm.ru/alfa_mp3
 #EXTINF:-1,Радио Ангелов
@@ -3897,6 +3889,8 @@ http://online.radio-megapolis.ru:8000/megapolis
 http://online.radio-megapolis.ru:8000/megapolis_mp3
 #EXTINF:-1,Радио Мегаполис Самара 103.6 FM
 http://online2.radio-megapolis.ru:8000/megapolis
+#EXTINF:-1,Радио Мелодия
+http://stream64.melodiafm.spb.ru:8000/melodia64
 #EXTINF:-1,Радио Мелодия Воронеж 106.8 FM
 http://icecast.mediaalliance.cdnvideo.ru/mediaalliance
 #EXTINF:-1,Радио МИР
@@ -4186,6 +4180,8 @@ http://icecast.vgtrk.cdnvideo.ru/rrzonam_aac_32kbps
 http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_128kbps
 #EXTINF:-1,Радио России (Radio Russia)
 http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_64kbps
+#EXTINF:-1,Радио России / ГТРК "Орел"
+https://vestiorel.ru/radio-rossii
 #EXTINF:-1,Радио России Абакан 91.0 FM
 http://s0.radioheart.ru:8000/RR
 #EXTINF:-1,Радио России Анадырь
@@ -4307,6 +4303,8 @@ http://icecast-vgtrk.cdnvideo.ru/unost_mp3_192kbps
 https://icecast-vgtrk.cdnvideo.ru/unost_mp3_192kbps
 #EXTINF:-1,Радио333
 https://listen1.myradio24.com/63361
+#EXTINF:-1,Радиоканал Мелодия
+http://stream128.melodiafm.spb.ru:8000/melodia128
 #EXTINF:-1,РадиоКанск
 https://azura-cast.radiokansk.ru/listen/radiokansk/live
 #EXTINF:-1,РадиоЛАМПА.FM
@@ -4708,10 +4706,10 @@ http://xn--80aibovgem6j.xn--p1ai:8000/live256
 #EXTINF:-1,Юрий Шатунов Радио 
 https://stream03.pcradio.app/Jurij_Shatunov-hi
 #EXTINF:-1,ЯН-ФМ Anime
-http://animklatu.stream.laut.fm/animklatu?uuid=c941499c-5661-95af-35d1-c98ca1f3fc64&t302=2026-11-06_15-21-35
+http://animklatu.stream.laut.fm/animklatu?t302=2026-11-12_10-26-48&uuid=de69cda7-c1dc-361c-4ac2-386420ab440e
 #EXTINF:-1,ЯН-ФМ Trance
-https://anilibria.stream.laut.fm/anilibria?uuid=ef30097b-b184-2632-5582-bcb443fe8054&t302=2026-11-06_06-21-27
+https://anilibria.stream.laut.fm/anilibria?uuid=29a87a7b-ccad-27a2-3918-bd5072867014&t302=2026-11-12_10-26-46
 #EXTINF:-1,ЯН.ФМ Диско 90х РФ
-https://radio90s.stream.laut.fm/radio90s?uuid=44c82db0-1bef-ec32-4cef-311c70ac8688&t302=2026-11-06_19-20-28
+https://radio90s.stream.laut.fm/radio90s?uuid=3b4dbb8d-10b1-ba00-c4a9-36c5a565058f&t302=2026-11-12_10-43-25
 #EXTINF:-1,Ярус
 https://radio3.4m3.ru/listen/yarus/radio.mp3

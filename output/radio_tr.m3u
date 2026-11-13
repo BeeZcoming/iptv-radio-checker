@@ -99,6 +99,8 @@ https://barisfm.ozelip.com:9588/stream
 https://yayin2.canliyayin.org:9350/stream?/;stream.mp3
 #EXTINF:-1,BATI RADYO
 https://sslyayin.netyayin.net:10902/
+#EXTINF:-1,BAU RADYO
+https://ssl120.radyotelekom.com.tr/8106/stream.mp4
 #EXTINF:-1,Bayram FM
 https://sslyayin.netyayin.net:10962/320.mp3
 #EXTINF:-1,Bayram FM
@@ -287,6 +289,8 @@ https://yayin2.canliyayin.org:10910/stream?
 https://radyo.yayin.com.tr:8012/
 #EXTINF:-1,Erzincan Cem Radyo
 https://erzincan.80.yayin.com.tr/stream
+#EXTINF:-1,ERZİNCAN FM
+https://sslyayin.netyayin.net:10943/
 #EXTINF:-1,Erzincan Nostalji Radyo 
 https://erzincannostalji.ozelip.com/8238/stream
 #EXTINF:-1,Esas radyo
@@ -985,8 +989,6 @@ https://moondigitaledge.radyotvonline.net/muzeyyen/playlist.m3u8
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_MYDONOSE128AAC.aac?/;stream.mp3
 #EXTINF:-1,Radyo Nebi
 https://anadolu.liderhost.com.tr/9006/stream
-#EXTINF:-1,RADYO NEŞE
-https://radyo.yayindakiler.com:2042/
 #EXTINF:-1,RADYO NET
 https://sslyayin.netyayin.net:8068/
 #EXTINF:-1,RADYO NEVŞEHİR
@@ -1133,6 +1135,8 @@ http://stream.radiojar.com/tamm1f7kk48uv
 https://stream.radiojar.com/tamm1f7kk48uv
 #EXTINF:-1,Slow Turk
 https://radyo.duhnet.tv/ak_dtvh_slowturk
+#EXTINF:-1,SOFT RADYO
+https://radyo.softradyo.com/1140/stream
 #EXTINF:-1,ST Endüstri Radyo
 https://endustriradyo.radyotvonline.net/endustriradyo
 #EXTINF:-1,Standart.fm
@@ -1157,8 +1161,6 @@ https://sslyayin.netyayin.net:6065/
 https://stream.pcradio.ru/tarkan-hi
 #EXTINF:-1,Tarsus FM
 https://tarsusfm.80.yayin.com.tr//stream
-#EXTINF:-1,Tempo FM 101.5
-https://live.radyo.in/8062/stream
 #EXTINF:-1,Teos FM
 https://dinle2.teosfm.com:8358/0
 #EXTINF:-1,Tezene
@@ -1264,9 +1266,11 @@ http://29103.live.streamtheworld.com/VIRGIN_RADIO_SC
 #EXTINF:-1,Virgin Radio Türkiye
 http://29344.live.streamtheworld.com:3690/VIRGIN_RADIOAAC_SC
 #EXTINF:-1,Virgin Radio Türkiye
-http://25443.live.streamtheworld.com:3690/VIRGIN_RADIO_SC
+http://25503.live.streamtheworld.com:3690/VIRGIN_RADIO_SC
 #EXTINF:-1,VİRGİN RADYO
 https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIO_ITUNES.mp3
+#EXTINF:-1,Vitamin FM 88.4
+https://ip.vitaminfm.com:8190/stream
 #EXTINF:-1,VİZYON NOSTALJİ
 https://stream.netradyom.com/radio/7090/radio.mp3/;
 #EXTINF:-1,WORLD HİTS

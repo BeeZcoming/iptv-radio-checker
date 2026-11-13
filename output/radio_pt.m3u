@@ -217,6 +217,8 @@ http://proic1.evspt.com/radar_aac
 https://stream.zeno.fm/77r7ufhaz98uv
 #EXTINF:-1,Rádio Algoritmo
 https://jagsilva.com/stream
+#EXTINF:-1,Rádio Altitude FM
+http://centova.radios.pt:9034/;
 #EXTINF:-1,Rádio Alto Minho
 https://ec2.yesstreaming.net:3705/stream
 #EXTINF:-1,Rádio Amália
@@ -305,6 +307,8 @@ http://centova.radio.com.pt:8467/;
 http://centova.radio.com.pt:8551/;
 #EXTINF:-1,Rádio Dom Bosco FM
 https://stream.streamaudio.de:8000/radio-dom-bosco-fm
+#EXTINF:-1,Rádio Douro Nacional
+https://sp0.redeaudio.com/9796/stream
 #EXTINF:-1,Rádio Elmo
 http://centova.radio.com.pt:8463/;
 #EXTINF:-1,Rádio Elvas

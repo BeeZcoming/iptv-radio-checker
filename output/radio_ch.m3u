@@ -229,6 +229,8 @@ https://countryradioswitzerland.ice.infomaniak.ch/crs-128.mp3
 http://stream.countryradio.ch/crs-128.mp3
 #EXTINF:-1,DBC radio
 http://dbc.ice.infomaniak.ch/dbc-96.mp3?1775297507656
+#EXTINF:-1,Depeche Mode
+https://soundtouch.tailb8e360.ts.net:8443/radio.mp3
 #EXTINF:-1,DIKS ДИКС 
 https://icecast.correctiv.net/sacharow
 #EXTINF:-1,Dream Sequence
@@ -457,14 +459,6 @@ http://philae.shoutca.st:9019/stream
 https://stream.srg-ssr.ch/m/rsp/mp3_128
 #EXTINF:-1,Provoda.ch LEGACY MP3
 https://station.waveradio.org/provodach.mp3?irqlzgjdlfohjixsouex
-#EXTINF:-1,Public Domain Classical
-http://relay.publicdomainradio.org/classical.mp3
-#EXTINF:-1,Public Domain Swiss Schlager
-http://relay.publicdomainradio.org/swiss_schlager.mp3
-#EXTINF:-1,publicdomainproject   classic
-http://relay.publicdomainproject.org/classical.mp3
-#EXTINF:-1,publicdomainproject  swing jazz
-http://relay.publicdomainradio.org/jazz_swing.mp3
 #EXTINF:-1,PureGlow Radio
 https://pureglowradio.ice.infomaniak.ch/pureglowradio.mp3
 #EXTINF:-1,QUEER RADIO
@@ -491,12 +485,6 @@ https://stream01.3fach.ch/live
 http://stream01.3fach.ch:8001/live
 #EXTINF:-1,Radio Alta
 https://transmiss.ion.ovh/listen/alta/radio.mp3
-#EXTINF:-1,Radio Argovia
-https://stream.streambase.ch/argovia/mp3-192/direct/
-#EXTINF:-1,Radio Argovia
-https://stream.streambase.ch/argovia/mp3-192/radiobrowser/
-#EXTINF:-1,Radio Argovia Hit Mix
-https://stream.streambase.ch/hitmix/mp3-192/direct/
 #EXTINF:-1,Radio Barix AAC
 http://barix.streamguys.net/barix_aacp
 #EXTINF:-1,Radio Basilisk
@@ -573,8 +561,6 @@ https://munot.ch-central-4.streaming.deliver.media/munot_mp3_128
 https://radio-munot.api.radiosphere.io/channels/channel-demo/stream.mp3?quality=4
 #EXTINF:-1,Radio neue Hoffnung (RNH)
 https://s5.radio.co/seeece1f6b/listen
-#EXTINF:-1,Radio Niesen
-http://server31677.streamplus.de:10074/stream.mp3
 #EXTINF:-1,Radio Onyx
 http://nr4.newradio.it:9432/stream
 #EXTINF:-1,Radio Orbital ch
@@ -779,10 +765,6 @@ https://radiotop.ice.infomaniak.ch/radiotop96.aac
 https://radiovintage.ice.infomaniak.ch/radiovintage-128.mp3?ua=RADIO%20VINTAGE%20-%20audio%20player%201
 #EXTINF:-1,Radio Vostok
 http://radiovostok.ice.infomaniak.ch/radiovostok.aac
-#EXTINF:-1,Radio X Basel (MP3 Stream)
-http://mp3.radiox.ch:8000/standard.mp3
-#EXTINF:-1,Radio X Basel (OGG Stream)
-http://mp3.radiox.ch:8000/standard.ogg
 #EXTINF:-1,Radio Zuerich Nord: Musikbox
 https://bayern.streampanel.cloud:11145/stream
 #EXTINF:-1,Radio Zuerisee
@@ -815,8 +797,6 @@ https://radio.second-hands.org/listen/radiopungis/radio.mp3
 http://radio12.pro-fhi.net/radio/9136/stream
 #EXTINF:-1,Radioswiss 
 http://stream.laut.fm/radioswiss
-#EXTINF:-1,radiox.ch
-https://mp3.radiox.ch/standard.ogg
 #EXTINF:-1,RCM La radio 13 étoiles 
 https://listen.radioking.com/radio/873226/stream/943281
 #EXTINF:-1,Redline Radio 
