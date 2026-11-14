@@ -39,6 +39,8 @@ http://maggie.torontocast.com:8110/stream
 https://shoutcast.finestfm.fi/stream/1/:80/;stream
 #EXTINF:-1,Global Export FM
 https://radio.globalexport.ee/stream.mp3
+#EXTINF:-1,Hardcore Predictor FM
+https://azura.hpsbassline.club/listen/hardcore_predictorfm/radio.mp3
 #EXTINF:-1,Hitmix Estonia
 https://stream.hitmix.ee:8443/HIT_320
 #EXTINF:-1,HITS RADIO ESTONIA

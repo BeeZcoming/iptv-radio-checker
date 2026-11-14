@@ -135,42 +135,8 @@ http://stream.89.0rtl.de/club-edm/mp3-256
 http://stream.89.0rtl.de/deutsch-rap/mp3-256
 #EXTINF:-1,89.0 RTL - Workout
 http://stream.89.0rtl.de/workout/mp3-256
-#EXTINF:-1,90s90s Clubhits
-http://regiocast.streamabc.net/regc-90s90smain4920117-aacplus-64-9187460?sABC=6ns55241%230%236q8s7o7o3p7411o9n0871834qs5r90so%23fgernzf.90f90f.qr&aw_0_1st.playerid=streams.90s90s.de&amsparams=playerid:streams.90s90s.de;skey:1794462273
-#EXTINF:-1,90s90s Dance
-http://regiocast.streamabc.net/regc-90s90seurodance7558633-mp3-192-3419489?sABC=6ns56024%230%236q8s7o7o3p7411o9n0871834qs5r90so%23fgernzf.90f90f.qr&aw_0_1st.playerid=streams.90s90s.de&amsparams=playerid:streams.90s90s.de;skey:1794465828
-#EXTINF:-1,90s90s Sommerhits
-http://regiocast.streamabc.net/regc-90s90ssommerhits7739935-mp3-192-4515340?sABC=6ns587oq%230%236q8s7o7o3p7411o9n0871834qs5r90so%23fgernzf.90f90f.qr&aw_0_1st.playerid=streams.90s90s.de&amsparams=playerid:streams.90s90s.de;skey:1794475965
 #EXTINF:-1,92.9 Radio Muelheim
 https://edge07.streamonkey.net/wf-radiomuelheim
-#EXTINF:-1,93,6 JAM FM 2010er
-http://stream.jam.fm/2010er/mp3-192
-#EXTINF:-1,93,6 JAM FM 90er
-http://stream.jam.fm/90er/mp3-192
-#EXTINF:-1,93,6 JAM FM Black Label
-http://stream.jam.fm/jamfm-bl/mp3-192
-#EXTINF:-1,93,6 JAM FM Charts
-http://stream.jam.fm/charts/mp3-192
-#EXTINF:-1,93,6 JAM FM Chill
-http://stream.jam.fm/chill/mp3-192
-#EXTINF:-1,93,6 JAM FM DJ Cooper
-http://stream.jam.fm/djcooper/mp3-192
-#EXTINF:-1,93,6 JAM FM Elektro
-http://stream.jam.fm/elektro/mp3-192
-#EXTINF:-1,93,6 JAM FM Live
-http://stream.jam.fm/jamfm-live/mp3-192
-#EXTINF:-1,93,6 JAM FM New Music
-http://stream.jam.fm/jamfm-nmr/mp3-192
-#EXTINF:-1,93,6 JAM FM Party
-http://stream.jam.fm/party/mp3-192
-#EXTINF:-1,93,6 JAM FM Rap
-http://stream.jam.fm/rap/mp3-192
-#EXTINF:-1,93,6 JAM FM Russkiye Khity
-http://stream.jam.fm/russkiye/mp3-192
-#EXTINF:-1,93,6 JAM FM Study
-http://stream.jam.fm/study/mp3-192
-#EXTINF:-1,93,6 JAM FM Workout
-http://stream.jam.fm/workout/mp3-192
 #EXTINF:-1,94,3 rs2 2000er
 https://stream.rs2.de/rs2-2000er/mp3-192
 #EXTINF:-1,94,3 rs2 Ed Sheeran
@@ -441,6 +407,28 @@ http://streams.bigfm.de/bigfm-groovenight-128-mp3
 http://streams.bigfm.de/bigfm-hiphop-64-aac
 #EXTINF:-1,bigFM Hip Hop
 http://streams.bigfm.de/bigfm-hiphop-128-mp3
+#EXTINF:-1,bigFM Latin Beats
+http://streams.bigfm.de/bigfm-latinbeats-64-aac
+#EXTINF:-1,bigFM Latin Beats
+http://streams.bigfm.de/bigfm-latinbeats-128-mp3
+#EXTINF:-1,bigFM Mashup
+http://streams.bigfm.de/bigfm-mashup-128-mp3
+#EXTINF:-1,bigFM Mashup
+http://streams.bigfm.de/bigfm-mashup-128-aac
+#EXTINF:-1,bigFM Mashup
+http://streams.bigfm.de/bigfm-mashup-64-aac
+#EXTINF:-1,bigFM Oldschool Rap & Hip-Hop
+http://streams.bigfm.de/bigfm-oldschool-128-aac
+#EXTINF:-1,bigFM Oldschool Rap & Hip-Hop
+http://streams.bigfm.de/bigfm-oldschool-64-aac
+#EXTINF:-1,bigFM Oldschool Rap & Hip-Hop
+http://streams.bigfm.de/bigfm-oldschool-128-mp3
+#EXTINF:-1,bigFM Rap Feature
+http://streams.bigfm.de/bigfm-rapfeature-128-aac
+#EXTINF:-1,bigFM Rap Feature
+http://streams.bigfm.de/bigfm-rapfeature-64-aac
+#EXTINF:-1,bigFM Reggae Vibez
+http://streams.bigfm.de/bigfm-reggaevibes-128-aac
 #EXTINF:-1,Bizwebradio
 http://us1.streamingpulse.com:7104/stream
 #EXTINF:-1,BMRADIO.DE - 24/7 The finest in Black Music
@@ -1053,6 +1041,10 @@ http://stream.laut.fm/kuschelrock
 http://stream2.cprnetwork.org:8000/cpr2_lo
 #EXTINF:-1,KWMU 90.7 FM
 https://kwmu1-ice.streamguys1.com/kwmu1
+#EXTINF:-1,KX93.5
+http://ice9.securenetsystems.net/KXRN?&playSessionID=5C251077-C9C7-7951-F6D9B2C9465CED08
+#EXTINF:-1,KYKN 1430 AM
+https://ice8.securenetsystems.net/KYKN
 #EXTINF:-1,KZYR "The Zephyr" Vail, Colorado
 https://us2.maindigitalstream.com/ssl/KZYR
 #EXTINF:-1,La Brujula 24
@@ -1617,10 +1609,14 @@ http://internetradio.salue.de:8000/channel4
 http://internetradio.salue.de:8000/channel3
 #EXTINF:-1,Radio sans pub
 http://stream2.jupinfo.fr:8000/play
+#EXTINF:-1,Radio Shadi
+https://ice9.securenetsystems.net/SHADI
 #EXTINF:-1,Radio Shadowplay
 http://stream.laut.fm/radio-shadowplay
 #EXTINF:-1,Radio Sidewinder
 http://radiosidewinder.out.airtime.pro:8000/radiosidewinder_a
+#EXTINF:-1,Radio SRB
+http://tbradio.de/srb
 #EXTINF:-1,Radio Swiss Classic 106.9 FM
 https://stream.srg-ssr.ch/m/rsc_de/mp3_128
 #EXTINF:-1,Radio Swiss Jazz
@@ -1785,8 +1781,8 @@ http://streams.rpr1.de/rpr-mainz-64-aac
 http://streams.rpr1.de/rpr-trier-64-aac
 #EXTINF:-1,rpsfm2
 https://listen.radioking.com/radio/230044/stream/273727
-#EXTINF:-1,RSA-Sachsen
-http://streams.rsa-sachsen.de/rsa-live/mp3-192/mediaplayerrsa
+#EXTINF:-1,RSH Live
+http://streams.rsh.de/rsh-live/mp3-128/streams.rsh.de
 #EXTINF:-1,RTL Radio Lëtzebuerg
 http://sc-rtllive.newmedia.lu/;stream.nvs
 #EXTINF:-1,RTS La Première
@@ -1807,6 +1803,26 @@ http://stream.laut.fm/satzentrale-deluxe
 http://stream.laut.fm/schallgrenzen
 #EXTINF:-1,Schattenspiel
 http://stream.laut.fm/schattenspiel
+#EXTINF:-1,SchlagerPlanet - 100% Best Of Karneval
+http://streams.schlagerplanetradio.com/karneval/mp3-192
+#EXTINF:-1,SchlagerPlanet - 100% Deutsch
+http://streams.schlagerplanetradio.com/deutsch/mp3-192
+#EXTINF:-1,SchlagerPlanet - 100% Roland Kaiser
+http://streams.schlagerplanetradio.com/kaiser/mp3-192
+#EXTINF:-1,SchlagerPlanet - 100% Schlager
+http://streams.schlagerplanetradio.com/schlager/mp3-192
+#EXTINF:-1,SchlagerPlanet - 100% Volksmusik
+http://streams.schlagerplanetradio.com/volksmusik/mp3-192
+#EXTINF:-1,SchlagerPlanet Radio - 100 % Best Of 2017
+http://streams.schlagerplanetradio.com/best16/mp3-192
+#EXTINF:-1,SchlagerPlanet Radio - 100% Andrea Berg
+http://streams.schlagerplanetradio.com/andrea/mp3-192
+#EXTINF:-1,SchlagerPlanet Radio - 100% Partyschlager
+http://streams.schlagerplanetradio.com/partyschlager/mp3-192
+#EXTINF:-1,SchlagerPlanet Radio - 100% Weihnachtsschlager
+http://streams.schlagerplanetradio.com/weihnachten/mp3-192
+#EXTINF:-1,SchlagerPlanet Radio - 100%Helene Fischer
+http://streams.schlagerplanetradio.com/hf/mp3-192
 #EXTINF:-1,Schranz.in
 http://schranz.in:8000/;stream/1
 #EXTINF:-1,Schranz.in - Hardtechno
@@ -1887,6 +1903,8 @@ http://4stream.pl:18226/;
 https://subfm.radioca.st/
 #EXTINF:-1,Subculture 69 Radio (new)
 http://144.76.32.5:8000/sbc69r
+#EXTINF:-1,Sunny 93
+http://ice41.securenetsystems.net/WSYE
 #EXTINF:-1,Sunshine Radio Hereford
 http://icecast.easystream.co.uk:8000/herefordFM
 #EXTINF:-1,Sveriges radio P2
@@ -1967,6 +1985,8 @@ http://boogie.vside-radio.com:7355/stream
 http://tbradio.de/wartburgradio
 #EXTINF:-1,Wattwerker
 http://stream.dar.fm/108607
+#EXTINF:-1,WAYR-AM
+http://ice7.securenetsystems.net/WAYRAM
 #EXTINF:-1,WBJB-FM 90.5 The Night
 http://ice.wbjb.net/905-MP3-High
 #EXTINF:-1,WBUR 90.9 FM
@@ -1981,6 +2001,8 @@ https://wdr-wdr2-muensterland.icecast.wdr.de/wdr/wdr2/muensterland/mp3/128/strea
 https://s3.radio.co/s99c3ad220/listen
 #EXTINF:-1,WFMU Rock 'n' Soul Radio
 http://stream0.wfmu.org/rocknsoul
+#EXTINF:-1,WGNY - Fox Oldies 98.9 FM
+http://ice64.securenetsystems.net/WGNYFM2
 #EXTINF:-1,WIDE Radio
 http://stream.radiojar.com/65s5r7weh24tv.mp3
 #EXTINF:-1,WiLD 94.9 (KYLD)
@@ -1995,16 +2017,22 @@ https://fm939.wnyc.org/wnycfm-tunein.aac
 http://stream.revma.ihrhls.com/zc5874
 #EXTINF:-1,WOSU 101 Classical
 https://wosu.streamguys1.com/Classical_128
+#EXTINF:-1,WOWY
+https://ice41.securenetsystems.net/WOWY
 #EXTINF:-1,WQER
 http://livecast2.soundofhope.org:2086/Rockville
 #EXTINF:-1,WRAK
 http://stream.revma.ihrhls.com/zc6287
 #EXTINF:-1,WRKK
 http://stream.revma.ihrhls.com/zc6674
+#EXTINF:-1,WTXK 1210 AM 107.5 FM
+https://ice6.securenetsystems.net/WTXK
 #EXTINF:-1,WUVT
 https://stream.wuvt.vt.edu/wuvt-hq.ogg
 #EXTINF:-1,WVIK
 https://wvik.streamguys1.com//live.mp3
+#EXTINF:-1,WXJB-FM
+https://ice3.securenetsystems.net/WXJB
 #EXTINF:-1,Yacht Rock 181fm
 http://listen.livestreamingservice.com/181-yachtrock_128k.mp3
 #EXTINF:-1,Yes Radio

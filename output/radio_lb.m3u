@@ -175,6 +175,8 @@ https://l3.itworkscdn.net/itwaudio/9030/stream/
 http://audiostreaming.itworkscdn.com:9018/stream
 #EXTINF:-1,Sawt El Nagham
 https://stream.zeno.fm/66sfwug4ag0uv
+#EXTINF:-1,Sawt El Shaeb
+https://audio.osina.cloud:9320/stream
 #EXTINF:-1,Star LB FM Arabic Remix
 https://stream.zeno.fm/5u91z7t3afhvv
 #EXTINF:-1,Star Radio Official
@@ -189,8 +191,6 @@ http://stream.zeno.fm/dwxw3p9vea0uv
 https://stream.zeno.fm/dwxw3p9vea0uv
 #EXTINF:-1,Virgin Radio Lebanon Stars
 https://stream.zeno.fm/h66yxnapga0uv
-#EXTINF:-1,voice of charity 
-http://cassini.shoutca.st:9496/xstream
 #EXTINF:-1,voice of Grace
 https://securestreams5.reliastream.com:1820/;l
 #EXTINF:-1,Voice of Grace Radio

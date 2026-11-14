@@ -473,8 +473,6 @@ http://wecast20-h-cloud.flumotion.com/copesedes/cartagena.mp3
 https://sonic.mediatelekom.net/8448/;?type=http&nocache=107036
 #EXTINF:-1,Cope Granada
 http://flucast13-h-cloud.flumotion.com/cope/net1.mp3
-#EXTINF:-1,COPE Granada-Sta.Fe
-https://granada-copesedes-rrcast.flumotion.com/copesedes/granada-low.mp3
 #EXTINF:-1,COPE Málaga
 http://flucast-bl02.flumotion.com/cope/net1.mp3
 #EXTINF:-1,COPE Más Santander
@@ -555,8 +553,6 @@ https://vivo.miradio.in/8120/stream
 https://djgarxradio.com/stream.mp3
 #EXTINF:-1,dj mapache
 http://stream.zeno.fm/tr9qda8tz7zuv
-#EXTINF:-1,DMT-FM - EU Server 320k
-https://dc1.serverse.com/proxy/ywycfrxn/live
 #EXTINF:-1,Doble V radio 107.9 FM
 https://stream.zeno.fm/x7wm4rrv5yzuv
 #EXTINF:-1,DOOM Radio - Beats to Rip/Tear to
@@ -731,8 +727,6 @@ https://stream.rubostudio.es/listen/classics/radio.mp3
 https://sonic.sistemahost.es/8176/stream?1785319144024
 #EXTINF:-1,Formula Hit Galicia
 https://s18.myradiostream.com/:8074/stream/1/
-#EXTINF:-1,Fred Film Radio(Español)
-https://s10.webradio-hosting.com/proxy/fredradiosp/stream
 #EXTINF:-1,Free FM 80s
 https://freefm80.radioca.st/
 #EXTINF:-1,Free FM Chill
@@ -897,6 +891,8 @@ https://stream3.itacafm.com:8443/_a
 https://online.radioplayer.ua/RadioItaliana
 #EXTINF:-1,Jam 66
 https://eu4.fastcast4u.com/proxy/jam66?mp=/1
+#EXTINF:-1,Jamm FM Radio Costa del Sol
+https://stream.jammfmradio.com:8082/stream?sid=1
 #EXTINF:-1,Jarvis FM
 https://jarvisfm.es/radio
 #EXTINF:-1,Jazler FM
@@ -921,12 +917,6 @@ https://strw3.openstream.co/534?aw_0_1st.collectionid%3D7499%26stationId%3D7499%
 https://stream.aiir.com/7dsjltmny8cvv
 #EXTINF:-1,Jose Antonio Ruiz Garcíaº
 https://radiobot.radioslibres.info/listen/radio_almaina/radio.mp3
-#EXTINF:-1,Josema Metal Radio
-https://radio.josema.zapto.org:8443/listen/metal/radio.mp3
-#EXTINF:-1,Josema MSX Radio
-https://radio.josema.zapto.org:8443/listen/msx/radio.mp3
-#EXTINF:-1,Josema Retro Radio
-https://radio.josema.zapto.org:8443/listen/retro/radio.mp3
 #EXTINF:-1,K-Rock Europe
 http://tv.radiohosting.online:8982/stream
 #EXTINF:-1,KAIBO RADIO
@@ -1001,6 +991,8 @@ https://lamixradio.com/radio
 https://server2.ejeserver.com:8400/stream
 #EXTINF:-1,La Patrona 102.9 FM
 https://lapatrona-zikoxweb2.radioca.st/stream
+#EXTINF:-1,LA PENCA RADIO FM
+http://82.145.63.6:5746/stream
 #EXTINF:-1,La Plana Ràdio
 https://enacast.com/laplanaradio/streams/HD
 #EXTINF:-1,La Urban Radio
@@ -1569,8 +1561,6 @@ https://radio.eduneu.eu/hls/radio1/live.m3u8
 https://radio.eduneu.eu:8020/radio.mp3
 #EXTINF:-1,Radio El Palmar
 http://topradio.one:8027/autodj
-#EXTINF:-1,Ràdio el Vendrell
-https://enacast.com/rtvelvendrell/streams/SD
 #EXTINF:-1,Radio Espacio
 https://eu1.lhdserver.es:8037/stream
 #EXTINF:-1,Radio España
@@ -1651,10 +1641,10 @@ http://stream.zeno.fm/ra4a8ebe0rhvv
 https://s5.radio.co/s58f5759a4/listen
 #EXTINF:-1,Radio Hostafrancs 
 https://radiohostafrancs.cat/directe.mp3
-#EXTINF:-1,Radio Humor FM
-https://stream.radiohumorfm.com/stream
 #EXTINF:-1,Radio Ibizing
 https://a8.asurahosting.com:6850/radio.mp3
+#EXTINF:-1,Radio Ilíberis
+https://streaming2.elitecomunicacion.es:8074/stream?type=.mp3
 #EXTINF:-1,Radio Intercontinental - Madrid
 https://cast5.servcast.net/proxy/inter/stream
 #EXTINF:-1,Radio Intereconomía
@@ -1693,6 +1683,8 @@ https://radio.radiolaredo.com/8002/stream
 http://uk1.streamingpulse.com:7066/stream
 #EXTINF:-1,Radio Libertad
 https://server9.emitironline.com:19482/stream?cb=1708722000350
+#EXTINF:-1,Radio Libertad
+https://ice42.securenetsystems.net/KDAE
 #EXTINF:-1,Radio Líder
 http://server9.emitironline.com:8200/stream
 #EXTINF:-1,Radio Líder Cantabria
@@ -1715,8 +1707,6 @@ http://str1.mediatelekom.net:8077/live
 http://radiomalva.ddns.net:8000/rmbc.mp3
 #EXTINF:-1,Radio Malva 104.9FM
 http://radiomalva.ddns.net:8000/rmbc.ogg
-#EXTINF:-1,Radio Mandra Zzzzzz
-https://radiomandra.cat/radio/radiomandra.ogg
 #EXTINF:-1,Ràdio Manlleu
 https://enacast.com/radiomanlleu/streams/HD
 #EXTINF:-1,Radio Marca
@@ -1799,6 +1789,8 @@ http://185.23.192.118:8004/;stream.mp3
 http://streaming.enantena.com:8000/radiopalafolls128.mp3
 #EXTINF:-1,Ràdio Palafrugell
 https://radio.martiproduccions.com/radiopalafrugell
+#EXTINF:-1,Ràdio Pego 107.8
+http://www.radiopego.com:8000/stream
 #EXTINF:-1,Radio Pimienta
 https://www.ivoox.com/emision-1451_mh_120373925_feed_1.mp3
 #EXTINF:-1,Ràdio Pineda
@@ -1955,6 +1947,8 @@ http://radio.unileon.es:8000/radio-unileon-320
 http://radio.unileon.es:8000/radio-unileon-320
 #EXTINF:-1,Radio Utopía
 http://streaming.radioutopia.org.es:8000/radio-utopia.mp3
+#EXTINF:-1,Radio Valencia
+https://listen.radiovalencia.fm/live
 #EXTINF:-1,Radio Valencianismo
 https://stream.zeno.fm/oqux7fanb3lvv
 #EXTINF:-1,Radio Vallekas
@@ -2017,6 +2011,8 @@ http://live.radiovoz.es/mp3/stream_orense.mp3
 http://live.radiovoz.es/mp3/stream_vigo.mp3
 #EXTINF:-1,RAP 107
 http://relay.stream.enacast-cloud.com:30048/rap56.mp3
+#EXTINF:-1,Remember 90s By RamperDjs
+https://radio.ramperdjs.com/stream
 #EXTINF:-1,Remember Radio
 https://sm1.streamingmovil.com:2199/proxy/webrr?mp=/WEB
 #EXTINF:-1,Remember Ràdio Joventut
@@ -2031,6 +2027,8 @@ https://stream-153.zeno.fm/xilwjn4t17qvv
 https://radio.remember4u.es/live
 #EXTINF:-1,REPLAY NEWS - Español          La radio de información cada 5 minutos
 https://replaynewses.ice.infomaniak.ch/replaynewses-128.mp3
+#EXTINF:-1,Retro Plus TV
+https://video06.logicahost.com.br/aretroplustv01/aretroplustv01/playlist.m3u8
 #EXTINF:-1,Revive FM
 https://radio.revivefm.es/stream
 #EXTINF:-1,RFC Radio
@@ -2107,8 +2105,6 @@ https://stream.emisorasmusicales.net/radio/8060/rockstar.mp3
 https://stream.radio-pv.com/
 #EXTINF:-1,RTV Mogán
 https://streaming.elitecomunicacion.cloud:8334/stream
-#EXTINF:-1,RTVCE
-https://5924d3ad0efcf.streamlock.net/ceutaradio/ceutaradiolive/playlist.m3u8
 #EXTINF:-1,RTVE 24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1,Rumberos FM
@@ -2181,6 +2177,8 @@ https://pureibizaradio.streaming-pro.com:8028/stream.mp3
 https://stream.zeno.fm/w3phtkukfg8uv
 #EXTINF:-1,Smooth Jazz Classics by Cloud Jazz
 https://stream-57.zeno.fm/w3phtkukfg8uv?zs=90IfdbcARnS99_b8RaX9sQ&acu-uid=736851429618&dyn-uid=&an-uid=0&mm-uid=a42b63d5-b9eb-4f00-9692-60c79195c3a4&triton-uid=cookie%3A7e5c2d9b-9c30-46f6-b8b4-0354fd4dd340&amb-uid=3916839388731891724
+#EXTINF:-1,Sol Radio
+https://azura.abcorp.es/radio/8220/solradio
 #EXTINF:-1,Son Galicia Radio
 https://crtvg-songalicia-hls.flumotion.cloud/chunklist_b300000.m3u8
 #EXTINF:-1,Sonica Tribe
@@ -2211,6 +2209,8 @@ https://radio.stereoanime.com/listen/stereoanime/128
 https://ice.studiopiu.net/studiopiuibiza.aac
 #EXTINF:-1,Sufi Soul Radio
 https://www.sufisoulradio.com/listen/sufi_soul_radio_main/radio.mp3
+#EXTINF:-1,Sufi Soul Radio
+https://radio.sufisoulradio.com/listen/sufi_soul_radio_main/radio.mp3
 #EXTINF:-1,Sunshine FM Costa Blanca
 https://ice31.securenetsystems.net/SRFM?playSessionID=552CF0B4-E79E-4B4A-AC21DBC50B679DC6
 #EXTINF:-1,Swing latinos FM

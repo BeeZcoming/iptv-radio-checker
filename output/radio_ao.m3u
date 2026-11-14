@@ -43,6 +43,8 @@ http://sirius.shoutca.st:8527/stream/;
 http://stream-176.surfernetwork.com/gsndh1xvczetv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnc25kaDF4dmN6ZXR2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkRXU3ZwMENVUnpPbWwwbUFodU04WEEiLCJpYXQiOjE3OTQ0NjI1MDEsImV4cCI6MTc5NDQ2MjU2MX0.zWSdo7lHfc53TnueB-rh4lVkz28Io9nIwZeT26jSgJY
 #EXTINF:-1,Rádio Imetro
 https://stream.zeno.fm/p31ewqfadchvv
+#EXTINF:-1,Rádio ISPI
+https://radios2.justweb.pt/8058/stream
 #EXTINF:-1,Rádio Jeova Sabaoth
 https://stream.zeno.fm/ji8igeihp1avv
 #EXTINF:-1,Rádio Kamwenho Notícias
@@ -85,8 +87,6 @@ https://stream-179.surfernetwork.com/yda95lbllawtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzd
 https://paineldj5.com.br:20087/stream
 #EXTINF:-1,Rádio Nacional de Angola - Rádio 5
 https://paineldj5.com.br:20088/stream
-#EXTINF:-1,Rádio Namibe
-https://paineldj6.com.br:20118/stream
 #EXTINF:-1,Rádio Nosso Tempo
 https://ssl.srvstm.com:6756/NossoTempo
 #EXTINF:-1,Rádio Nova 102.5 FM

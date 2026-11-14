@@ -57,8 +57,6 @@ http://radio.produccionescasaverde.com:8720/stream
 http://radio.produccionescasaverde.com:8788/autodj
 #EXTINF:-1,FeLove Clásica
 https://feloveclasica-radiofelove.radioca.st/stream?1741424230037
-#EXTINF:-1,Futura 92.3
-https://unsaved-gadfly-addilyn.ngrok-free.dev/mystream.mp3
 #EXTINF:-1,Gaiteros de Guatemala
 https://radio.forensedigital.gt:8030/stream
 #EXTINF:-1,Globo 98.9 Guatemala
@@ -79,14 +77,10 @@ https://stream.zeno.fm/f1bgph3ve0quv
 https://playerservices.streamtheworld.com/api/livestream-redirect/LA_REDAAC.aac
 #EXTINF:-1,Maranatha Stereo Amen
 https://server.radiogs.net:7042/;
-#EXTINF:-1,Más Música FM Radio
-https://vivo.miradio.in/8110/stream
 #EXTINF:-1,Mas Musica-92-5 FM
 https://s4.radio.co/s42a526595/listen
 #EXTINF:-1,Mía 93.7 Guatemala
 https://playerservices.streamtheworld.com/api/livestream-redirect/MIAAAC.aac
-#EXTINF:-1,MUSIQUERA
-https://securestreams7.autopo.st/?uri=http://s4.voscast.com:9320/stream
 #EXTINF:-1,Nueva Fabuestéreo 88.1FM y Quetzaltenango 89.5FM 
 https://stream.zeno.fm/vs325dhm8ueuv
 #EXTINF:-1,Observatorio OGDI Guatemala

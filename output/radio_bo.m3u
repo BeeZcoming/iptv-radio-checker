@@ -5,6 +5,8 @@ https://sc.host-live.com:8150/stream
 https://radio.atlantidafm903.com:8020/atlantida_radio.mp3
 #EXTINF:-1,Big Radio Bolivia
 http://stream.zeno.fm/cb4zhgss538uv
+#EXTINF:-1,Clásica 100.3 Cochabamba
+http://radios.istbolivia.com:9976/;
 #EXTINF:-1,Classica FM
 http://classicafm.scbbs.net:8000/;?type=http&nocache=839969
 #EXTINF:-1,Classica FM
@@ -71,8 +73,6 @@ https://emiteradio.com/proxy/uyuni?mp=/stream
 https://stream.inliveserver.com:2020/8140/stream
 #EXTINF:-1,Radio Gigante Bolivia
 https://cloudstream2032.conectarhosting.com:7311/;
-#EXTINF:-1,Radio Horizontes 93.1
-https://ares.disfrutaenlared.com:9060/
 #EXTINF:-1,Radio Kollasuyo FM
 https://azura2.bitstreaming.net:8000/radio128.aac
 #EXTINF:-1,RADIO MARIA BOLIVIA
@@ -107,8 +107,6 @@ https://stream.zeno.fm/rtui1p0xscetv
 https://mira.streamerr.co/listen/radiosatbolivia/radio.mp3
 #EXTINF:-1,Red Uyuni: Radio Recuerdos
 https://emiteradio.com/proxy/uyuni2?mp=/stream
-#EXTINF:-1,RKC RADIO
-https://sonic.dattassd.com/8198/stream
 #EXTINF:-1,Stereo 97
 https://stream.consultoradas.com:8340/stream
 #EXTINF:-1,Stereo97

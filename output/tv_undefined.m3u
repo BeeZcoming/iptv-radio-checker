@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,An Ninh TV HD (1080p)
-https://freem3u.xyz/api/live/play.m3u8?vid=20
 #EXTINF:-1,BST (576p)
 https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
 #EXTINF:-1,CampusTV (720p) [Not 24/7]
@@ -107,6 +105,8 @@ http://200.115.120.1:8000/play/ca016/index.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1,Teleganes (720p)
 https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8
+#EXTINF:-1,Telemicro Internacional (720p)
+http://45.228.234.60:8880/play/a05f/index.m3u8
 #EXTINF:-1,Telestar1
 https://dvb.tennet.ro/mobile_tv/telestar.m3u8
 #EXTINF:-1,TeleVigo (1080p) [Not 24/7]
@@ -149,6 +149,8 @@ http://181.78.106.127:5000/play/ca090/index.m3u8
 http://45.170.130.224:8000/play/a025/index.m3u8
 #EXTINF:-1,like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="Undefined",Viasat Nature (Ukraine)
 http://777905.live.tvstitch.com/playlist.m3u8?master=77&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTMxMTAmc3Q9dTZrbUNadl9LWlpqMllkWVJRbDVBdw==
+#EXTINF:-1,Viasat True Crime
+http://92.114.85.87:8010/play/a00a/index.m3u8
 #EXTINF:-1,Vitebsk (576p)
 http://46.53.200.153:7777/play/a00h/index.m3u8
 #EXTINF:-1,VoA TV China (1080p)

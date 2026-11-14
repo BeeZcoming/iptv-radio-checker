@@ -375,6 +375,8 @@ https://radio.musicradio.ai/listen/music_radio_rock/radio.mp3
 https://radio.musicradio.ai/listen/music_radio_zen/radio.mp3
 #EXTINF:-1,Musikwälle
 http://stream.srg-ssr.ch/srgssr/srfmw/mp3/128
+#EXTINF:-1,Mutable Dreams FM
+https://panel.radiocast.net/listen/music-for-streams-radio-192/radio.mp3
 #EXTINF:-1,My 105 The 80s Club
 https://my105.stream37.radiohost.de/my105-80s_mp3-192
 #EXTINF:-1,my105 - All The Hits
@@ -457,8 +459,14 @@ http://piratenradioch.ice.infomaniak.ch/piratenradioch-128.mp3
 http://philae.shoutca.st:9019/stream
 #EXTINF:-1,Pop | Radio Swiss
 https://stream.srg-ssr.ch/m/rsp/mp3_128
-#EXTINF:-1,Provoda.ch LEGACY MP3
-https://station.waveradio.org/provodach.mp3?irqlzgjdlfohjixsouex
+#EXTINF:-1,Public Domain Classical
+http://relay.publicdomainradio.org/classical.mp3
+#EXTINF:-1,Public Domain Swiss Schlager
+http://relay.publicdomainradio.org/swiss_schlager.mp3
+#EXTINF:-1,publicdomainproject   classic
+http://relay.publicdomainproject.org/classical.mp3
+#EXTINF:-1,publicdomainproject  swing jazz
+http://relay.publicdomainradio.org/jazz_swing.mp3
 #EXTINF:-1,PureGlow Radio
 https://pureglowradio.ice.infomaniak.ch/pureglowradio.mp3
 #EXTINF:-1,QUEER RADIO
@@ -475,10 +483,16 @@ http://stream.radio1.ch/128k.m3u
 https://stream.radio1.ch/128k
 #EXTINF:-1,Radio 1 Zürich
 https://stream.radio1.ch/128k?utm_source=chatgpt.com
+#EXTINF:-1,Radio 24
+https://stream.streambase.ch/radio24/mp3-192/direct/
 #EXTINF:-1,Radio 2Go
 https://uksoutha.streaming.broadcast.radio/radio2go
 #EXTINF:-1,Radio 2Go
 https://uksoutha.streaming.broadcast.radio:15830/radio2go
+#EXTINF:-1,Radio 32
+https://stream.streambase.ch/radio32/mp3-192/chmedia-today-web
+#EXTINF:-1,Radio 32 Goldies
+https://stream.streambase.ch/r32goldies/mp3-192/direct/
 #EXTINF:-1,Radio 3FACH
 https://stream01.3fach.ch/live
 #EXTINF:-1,Radio 3FACH
@@ -561,6 +575,8 @@ https://munot.ch-central-4.streaming.deliver.media/munot_mp3_128
 https://radio-munot.api.radiosphere.io/channels/channel-demo/stream.mp3?quality=4
 #EXTINF:-1,Radio neue Hoffnung (RNH)
 https://s5.radio.co/seeece1f6b/listen
+#EXTINF:-1,Radio Niesen
+http://server31677.streamplus.de:10074/stream.mp3
 #EXTINF:-1,Radio Onyx
 http://nr4.newradio.it:9432/stream
 #EXTINF:-1,Radio Orbital ch

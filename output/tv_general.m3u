@@ -69,6 +69,8 @@ http://45.228.234.9:8000/play/a06s/index.m3u8
 http://168.196.127.137:6001/play/a064/index.m3u8
 #EXTINF:-1,Canal 56 Quiero TV (720p)
 http://45.5.118.152:8000/play/a08z/index.m3u8
+#EXTINF:-1,Canal C del Zulia (1080p)
+https://calm-forest-3478.cristianbracho904.workers.dev/live/index.m3u8
 #EXTINF:-1,Canal Institucional (1080p)
 http://190.61.47.54:8000/play/a00v/index.m3u8
 #EXTINF:-1,Canal RCN (1080p)
@@ -181,8 +183,6 @@ https://redirector.rudo.video/hls-video/plus226/latina4/latina4.smil/playlist.m3
 https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8
 #EXTINF:-1,like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="General",Lux TV (1080p)
 http://777905.live.tvstitch.com/stream.m3u8?channel=431&m=aHR0cHM6Ly9obHMtY2RuMS5keXZ5YXBwLmNvbS9sdXgtdHYvdmlkZW8ubTN1OD90b2tlbj1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKamFHRnVibVZzWDJsa0lqbzBNekVzSW1Ob1lXNXVaV3hmYm1GdFpTSTZJa3hWV0NCVVZpSXNJbWx3SWpvaU1UYzRMakV6Tmk0ME1pNHlNakFpTENKamIzVnVkSEo1SWpvaVZXdHlZV2x1WlNJc0luVnpaWEpmYVdRaU9tNTFiR3dzSW5WelpYSmZjR2h2Ym1VaU9tNTFiR3dzSW5WelpYSmZjbTlzWlhNaU9sdGRMQ0p3Y205bWFXeGxYMmxrSWpwdWRXeHNMQ0p6WlhOemFXOXVYMmxrSWpvaU56ZGpabVUzTkdJdE1USmtaQzAwTTJSbExXSmtNVGt0WVRKaFptUmtabUUwT0RWaElpd2laVzUyYVhKdmJtMWxiblFpT2lKd2NtOWtkV04wYVc5dUlpd2ljR3hoZEdadmNtMGlPaUpFWlhOcmRHOXdJaXdpZFhObGNsOWhaMlZ1ZENJNklrMXZlbWxzYkdGY0x6VXVNQ0FvVjJsdVpHOTNjeUJPVkNBeE1DNHdPeUJYYVc0Mk5Ec2dlRFkwS1NCQmNIQnNaVmRsWWt0cGRGd3ZOVE0zTGpNMklDaExTRlJOVEN3Z2JHbHJaU0JIWldOcmJ5a2dRMmh5YjIxbFhDOHhOVEl1TUM0d0xqQWdVMkZtWVhKcFhDODFNemN1TXpZaUxDSmxlSEFpT2pFM09EZ3hOekk0TnpOOS5GV2NmZDBhOV93dEVONmozWS1GaFNFYzFjbV9uamh1VVZmWjhiZzVLcG84
-#EXTINF:-1,Makoi Varosi Televizio (576p)
-http://makomedia.mikrohalo.hu/hls/makotv.m3u8
 #EXTINF:-1,MC (1080p)
 http://168.196.127.137:6001/play/a070/index.m3u8
 #EXTINF:-1,Mega TV (United States) WSBS-TV (1080p)
@@ -245,6 +245,8 @@ https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8
 http://190.181.61.93:8000/play/a00n/index.m3u8
 #EXTINF:-1,Rumbo Minero TV (1080p)
 http://45.70.201.81:8000/play/a018/index.m3u8
+#EXTINF:-1,Sozcu TV (1080p)
+https://raw.githubusercontent.com/yaskar661-lgtm/stream/refs/heads/main/filbox/szchd.m3u8
 #EXTINF:-1,STV (Belarus) HD (720p)
 https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 #EXTINF:-1,Super Polsat
@@ -271,14 +273,14 @@ http://45.5.117.57:8900/play/a058/index.m3u8
 http://45.173.231.22:8000/play/a01h/index.m3u8
 #EXTINF:-1,Teletica 7 (1080p)
 http://190.61.101.11:7050/play/a07t/index.m3u8
+#EXTINF:-1,Televen (1080p)
+http://38.134.250.110:8000/play/a02i/index.m3u8
 #EXTINF:-1,Television Tarapoto (1080p)
 http://45.5.57.58:8000/play/a038/index.m3u8
 #EXTINF:-1,TMC HD (1080p) [Geo-blocked]
 http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8
 #EXTINF:-1,Trece (Colombia) (1080p)
 http://190.60.46.228:8888/play/a030/index.m3u8
-#EXTINF:-1,TV1.KG (1080p)
-http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:-1,TV Aire (1080p)
 http://190.128.214.97:64333/play/a05y/index.m3u8
 #EXTINF:-1,TV FANB (576p)

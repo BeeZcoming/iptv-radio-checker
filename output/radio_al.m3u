@@ -157,6 +157,8 @@ https://s64.radiolize.com/radio/8050/radio.mp3
 https://cp1.sednastream.com/proxy/radioshqip?mp=/stream
 #EXTINF:-1,Radio Shqip Folklor
 https://live.radio-zemra.eu/folklor
+#EXTINF:-1,Radio SOL
+https://cp1.sednastream.com/proxy/radiosol/stream
 #EXTINF:-1,Radio Thesaret
 https://stream.zeno.fm/ubzj8twgccstv
 #EXTINF:-1,Radio Tirana 1

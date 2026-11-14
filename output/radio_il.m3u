@@ -203,8 +203,6 @@ https://stream.timbr.music/live
 https://icecast.live/up2dance
 #EXTINF:-1,yStream
 https://ystream.live/ystream-mp3
-#EXTINF:-1,Ze Rock Radio
-https://icecast.live/proxy/zerock/zerock
 #EXTINF:-1,Душа Кавказа
 https://www.kavkazportal.com/live
 #EXTINF:-1,Мессианское радио Орэну

@@ -49,8 +49,6 @@ https://redirector.dps.live/hls/pinguinotv/playlist.m3u8
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/europe-1-tv-dm.m3u8
 #EXTINF:-1,Fox News Radio (720p)
 https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
-#EXTINF:-1,France 24 (1080p)
-https://freem3u.xyz/api/live/play.m3u8?vid=10007
 #EXTINF:-1,France 24 English (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=96
 #EXTINF:-1,Free Speech TV (720p)
@@ -73,8 +71,6 @@ https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8
 https://live.miracleonline.org/hls/miracle1.m3u8
 #EXTINF:-1,Mirror Now (720p)
 https://dai.google.com/linear/hls/event/ClPOullTQky5vGPf7fMZ8g/master.m3u8
-#EXTINF:-1,Nanduti (1080p)
-http://190.128.214.97:64333/play/a02d/index.m3u8
 #EXTINF:-1,NCTV (1080p)
 https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
 #EXTINF:-1,NDTV 24x7 (720p)

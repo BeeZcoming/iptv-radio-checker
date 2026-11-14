@@ -7,6 +7,8 @@ https://ukwesta.streaming.broadcast.radio/lmradio
 https://edge.iono.fm/xice/392_medium.mp3
 #EXTINF:-1,Rádio 99Fm Moz
 https://streaming2.99fm.co.mz/stream
+#EXTINF:-1,Rádio Cidade - Beira 105.2 FM
+https://node.stream-africa.com:8443/RadioCidadeBeira
 #EXTINF:-1,Rádio Egea Gospel - Heaven Full
 https://stream.zeno.fm/gbktm9u0czzuv
 #EXTINF:-1,Radio Fot Lichinga
@@ -15,6 +17,10 @@ https://stream.zeno.fm/vk1yf5a8z98uv
 https://dreamsiteradiocp2.com/proxy/rmmozambique2?mp=/stream
 #EXTINF:-1,Rádio Miramar
 https://nl.digitalrm.pt:8150/stream
+#EXTINF:-1,Rádio Moçambique Antena Nacional
+https://node.stream-africa.com:8443/AntenaNacional
+#EXTINF:-1,Rádio Moçambique Emissor Provincial de Nampula
+http://node.stream-africa.com:8000/Nampula
 #EXTINF:-1,Radio Sofala FM
 https://radiosofala.mamahost.net/stream
 #EXTINF:-1,Rádio Terra

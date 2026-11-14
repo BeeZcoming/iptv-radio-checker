@@ -3,8 +3,6 @@
 https://streaming01.shockmedia.com.ar/9184/stream
 #EXTINF:-1,24 de Agosto
 https://24deagosto-zikoxweb.radioca.st/stream
-#EXTINF:-1,90.3 FM DEL ESTE
-http://usa15.ciudaddigital.com.uy:8010/DelEsteFM
 #EXTINF:-1,970 Universal
 https://970universal-3.nty.uy/
 #EXTINF:-1,Aire FM 100.3
@@ -37,8 +35,6 @@ https://icecasthd.net/proxy/fmcaraguatalavoz/stream
 https://streamingcasazorrilla.innovanexo.com:8000/carvedeportiva.mp3
 #EXTINF:-1,Carve Deportiva
 https://streamingcasazorrilla.innovanexo.com:8000/radiocarve850.mp3
-#EXTINF:-1,Casupá FM 94.1
-https://stm1.ifantasy.com.br:7256/;
 #EXTINF:-1,Causes FM 89.1
 https://streaming.radiosenlinea.com.ar/8870/stream
 #EXTINF:-1,Celestial Fm 90.7
@@ -173,8 +169,6 @@ https://stream20.usastreams.com:7008/;
 https://streaming1.hostingmontevideo.com:7014/;
 #EXTINF:-1,Radio Acuarela
 https://onlineradiobox.com/json/uy/acuarela/play?platform=web
-#EXTINF:-1,Radio Carmelo
-https://server.laradio.online/proxy/martin_barragan05?mp=/stream
 #EXTINF:-1,Radio Chiveo
 https://comodin.uy/listen/chiveo/320.mp3
 #EXTINF:-1,Radio Chiveo

@@ -7,6 +7,8 @@ http://rosetta.shoutca.st:9264/stream
 https://playerservices.streamtheworld.com/api/livestream-redirect/ANT8AAC.aac
 #EXTINF:-1,Beat Life Panama
 https://cast4.asurahosting.com/proxy/ondabra2/stream
+#EXTINF:-1,Brava Radio 507
+https://laradiossl.online:10660/
 #EXTINF:-1,CHT FM 107.7
 https://radios.host-pa.com:8046/;
 #EXTINF:-1,Dinamix fm
@@ -25,6 +27,8 @@ https://usest-sp1.golivestream.net/8022/stream
 https://stream.mixesurbanospty.com:8090/tipik.mp3
 #EXTINF:-1,Like 105.7 FM Panamá
 https://usest-sp1.golivestream.net/8024/stream
+#EXTINF:-1,Magic FM
+https://laradio.stream/proxy/magicfm/stream
 #EXTINF:-1,Okey 96.3 FM
 https://icy.cloudrad.io/5b3fc6b1
 #EXTINF:-1,Omega Stereo
@@ -43,6 +47,8 @@ https://dreamsiteradiocp2.com/proxy/rmpanama2?mp=/stream
 https://mediastreamm.com/8254/stream
 #EXTINF:-1,RPC Radio
 https://s9.stweb.tv/thinkindot-fast-3/live/playlist.m3u8
+#EXTINF:-1,Rumba FM
+https://laradiossl.online:10355/;stream.nsv
 #EXTINF:-1,Stereo Vida Panama
 https://stream.zeno.fm/fz1rcfd1x1zuv
 #EXTINF:-1,Super Q Panama

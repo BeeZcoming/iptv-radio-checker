@@ -7,6 +7,8 @@ https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01
 https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
 #EXTINF:-1,13 Festival (1080p)
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+#EXTINF:-1,30A Music (720p)
+https://30a-tv.com/music.m3u8
 #EXTINF:-1,Allegro HD (1080p)
 http://158.172.155.130:8000/play/a0dn/index.m3u8
 #EXTINF:-1,Atomic Academy TV (480p)
@@ -63,6 +65,8 @@ http://45.226.205.96:48000/play/a0f8/index.m3u8
 http://181.78.12.119:16123/play/ch53/index.m3u8
 #EXTINF:-1,Mi Musica Salsa (1080p)
 http://181.78.12.119:16123/play/ch55/index.m3u8
+#EXTINF:-1,MusicTop (1080p)
+http://190.128.214.97:64333/play/a06o/index.m3u8
 #EXTINF:-1,Muzyka 1 [Not 24/7]
 https://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1,Muzyka Kino [Not 24/7]
@@ -119,8 +123,6 @@ https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8
 http://45.163.139.42:8000/play/a03d/index.m3u8
 #EXTINF:-1,VOX Music TV (1080p)
 http://92.114.85.87:8016/play/a00a/index.m3u8
-#EXTINF:-1,X 102.7 FM (720p)
-https://live2.tensila.com/onair-v-1.xfm1027/hls/master.m3u8
 #EXTINF:-1,XITE Hits UK (1080p)
 https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
 #EXTINF:-1,YRF Music (1080p)

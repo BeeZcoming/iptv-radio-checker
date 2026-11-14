@@ -139,6 +139,8 @@ https://s3.slotex.pl/shoutcast/7170/stream?sid=1
 https://stream.24dubstep.pl/listen/dubstep24h/live
 #EXTINF:-1,DzikieRadio
 https://ssl-1.radiohost.pl:11250/stream
+#EXTINF:-1,Egida
+https://s3.slotex.pl:7536/;?type=http&nocache=57713
 #EXTINF:-1,El Radio
 http://kazpar.pl:8888/elradio_raw
 #EXTINF:-1,EL-Stacja
@@ -289,6 +291,8 @@ https://stream.radiojar.com/2fa0gbhr9bhvv
 https://life4club.online/listen/live/l4c.mp3
 #EXTINF:-1,ListekFM
 http://stream10.hosterion.pl:8004/stream
+#EXTINF:-1,M&N RADYJO
+https://radio.castpol.pl:8270/radio.mp3
 #EXTINF:-1,Margaretka FM
 http://s3.slotex.pl:7260/stream
 #EXTINF:-1,MasteRMXMusic

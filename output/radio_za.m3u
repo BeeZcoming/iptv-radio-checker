@@ -75,6 +75,8 @@ http://edge.iono.fm/xice/109_medium.aac
 http://edge.iono.fm/xice/49_medium.aac?p=embed
 #EXTINF:-1,Cliff Central
 https://edge.iono.fm/xice/cliffcentral_live_medium.aac
+#EXTINF:-1,Daybreak Radio
+https://radio.inksnapp.co.za/listen/daybreak_radio/radio.mp3
 #EXTINF:-1,Diamond Radio
 https://vm65162.streamerr.co/listen/diamond_fm/radio.mp3
 #EXTINF:-1,East Coast Gold
@@ -249,6 +251,8 @@ https://edge.iono.fm/xice/127_medium.aac?ref=https%3A%2F%2Fwww.radioatlantis.org
 https://stream.zeno.fm/9fg1eqywrf9uv
 #EXTINF:-1,Radio Daspoort
 https://c32.radioboss.fm:8899/stream
+#EXTINF:-1,Radio Free Tankwa
+https://a8.asurahosting.com:8810/radio.mp3
 #EXTINF:-1,Radio Fynbos - Stilbaai
 https://stream-152.zeno.fm/w0cyqt4cyy8uv?zs=KrkViuxOTr6gZl4perU1jA
 #EXTINF:-1,Radio Hallelujah
@@ -303,6 +307,8 @@ http://stream.zeno.fm/k8cqvwu2za0uv
 http://capeant.antfarm.co.za:1935/salaam/salaam.stream/chunklist_w1196116988.m3u8
 #EXTINF:-1,salaammedia
 https://iceant.antfarm.co.za/Salaam
+#EXTINF:-1,SekhukhuneFM
+https://edge.iono.fm/xice/301_low.aac
 #EXTINF:-1,SFM Streek Radio
 http://capeant.antfarm.co.za:8000/SFM
 #EXTINF:-1,Simply Making Success Radio

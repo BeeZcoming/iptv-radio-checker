@@ -171,8 +171,6 @@ https://mediacp.nkpa.co.uk/stream/Brfm/BrfmMP3
 https://stream1.hippynet.co.uk:8107/stream?_=526570
 #EXTINF:-1,96.3 Seahaven FM
 https://stream1.hippynet.co.uk:8107/stream?_=63771
-#EXTINF:-1,97 Country FM
-https://vistaradio.streamb.live/SB00040?=&&___cb=491767877535127
 #EXTINF:-1,Aaja Radio | Channel 1
 https://aaja.radiocult.fm/stream
 #EXTINF:-1,Aaja Radio | Channel 2
@@ -215,8 +213,6 @@ https://solid41.streamupsolutions.com/proxy/rvfskeow?mp=/;type=mp3
 https://play.radioking.io/ai-on-air
 #EXTINF:-1,AI Slop FM
 https://radio.aislop.fm/listen/ai_slop_fm/radio.mp3
-#EXTINF:-1,AI Slop Radio
-https://stream.dulcet.cloud/slop
 #EXTINF:-1,AJK Radio
 https://solid41.streamupsolutions.com/proxy/wzbznkee/stream
 #EXTINF:-1,Akash Radio (Leeds)
@@ -961,8 +957,6 @@ https://26343.live.streamtheworld.com/SAM04AAC335_SC
 https://relay.media235.com/listen/cosoro_afrobeats/afrobeats064.aac
 #EXTINF:-1,Cosoro Radio
 http://azuracast.media235.com:8000/afrobeats320.aac
-#EXTINF:-1,Cotswold Hospital Radio
-http://195.201.166.244:8525/stream
 #EXTINF:-1,Country Gospel Radio
 https://solid24.streamupsolutions.com/proxy/agtzpadc/stream
 #EXTINF:-1,CountryLine Radio
@@ -1232,7 +1226,7 @@ https://s1.myradiostream.com/8838/listen.mp3
 #EXTINF:-1,Energy FM - Dance Music Radio
 https://radio.streemlion.com:1875/stream
 #EXTINF:-1,Energy FM Old School Classics
-https://radio.streemlion.com:1045/stream
+http://radio.streemlion.com:1680/
 #EXTINF:-1,England - Heart London Radio
 http://ice-the.musicradio.com/HeartLondonMP3
 #EXTINF:-1,England Radio (MP3)
@@ -1291,8 +1285,6 @@ http://uk1.streamingpulse.com:7000/;
 https://s4.radio.co/s3ff272827/listen
 #EXTINF:-1,Folkestone Civic Radio
 https://azc.folkestonecivicradio.uk/listen/the_sands/radio.mp3
-#EXTINF:-1,Forest FM
-https://radio.canstream.co.uk:8146/live.mp3
 #EXTINF:-1,Forest One
 https://c2.prostream365.com:8010/live
 #EXTINF:-1,Forever Hits FM
@@ -1303,18 +1295,6 @@ https://stream-al.hellorayo.co.uk/forth1.mp3?direct=true&aw_0_1st.skey=160267685
 https://stream-al.hellorayo.co.uk/forth1.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
 #EXTINF:-1,Fosse 107
 https://icecast.maxxwave.co.uk/fossehinckleyhq
-#EXTINF:-1,FRED FILM RADIO English
-https://s10.webradio-hosting.com/proxy/fredradioen/stream
-#EXTINF:-1,Fred Film Radio Entertainment
-https://s10.webradio-hosting.com/proxy/fredenter/stream
-#EXTINF:-1,Fred Film Radio Extra
-https://s10.webradio-hosting.com/proxy/fredradioec/stream
-#EXTINF:-1,FRED FILM RADIO Mandarin
-https://s10.webradio-hosting.com/proxy/fredradiocn/stream/1/
-#EXTINF:-1,Fred Film Radio-27 INDUSTRY
-https://s10.webradio-hosting.com/proxy/fredradioind/stream
-#EXTINF:-1,Fred Film Radio-28 Education
-https://s10.webradio-hosting.com/proxy/fredradioedu/stream
 #EXTINF:-1,Fresh Christmas - London (MP3)
 http://stream.zeno.fm/wahc3kxfcd0uv
 #EXTINF:-1,Fresh Fm Radio London
@@ -1769,6 +1749,8 @@ http://icecast.indemandradio.com:8888/1A
 http://stream.indemandradio.com/station/IDR1/index.m3u8
 #EXTINF:-1,Indie Soul Radio
 https://s2.citrus3.com:8404/stream
+#EXTINF:-1,Inferno FM
+https://engine.sleradiogroup.com/stream/inferno
 #EXTINF:-1,Infinity Radio UK
 https://stream.infinityradio.uk:8100/stream
 #EXTINF:-1,Infrared.fm
@@ -2321,6 +2303,8 @@ https://listen-nation.sharp-stream.com/nationxmas.mp3
 http://listen-nation.sharp-stream.com/breeze_soton.mp3?direct=false&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992
 #EXTINF:-1,Nazareth
 https://stream.pcradio.ru/Nazareth-hi
+#EXTINF:-1,Neon Drive FM
+https://engine.sleradiogroup.com/stream/neon-drive
 #EXTINF:-1,Neon Radio
 https://live.flashbackcentral.co.uk/radio/8050/radio.mp3
 #EXTINF:-1,Neon Radio - 80s & 90s Pop & Dance
@@ -2787,6 +2771,8 @@ http://www.radiosix.com/radiosix.mp3
 https://hq3.yesstreaming.net/21/stream
 #EXTINF:-1,Radio Stitch
 http://radiostitch.nth.nhs.uk:8000/Stream.mp3
+#EXTINF:-1,Radio Sudd
+https://radio-sudd.radiocult.fm/stream
 #EXTINF:-1,Radio TV Pater
 https://play.radioking.io/radio-tv-pater
 #EXTINF:-1,Radio Tyneside
@@ -2947,6 +2933,8 @@ http://23.81.33.82:24944/stream
 http://s45.myradiostream.com:13784/;
 #EXTINF:-1,Reform Radio
 https://testform.out.airtime.pro/testform_a
+#EXTINF:-1,Regal Radio
+https://stream.regalradio.net/stream.mp3
 #EXTINF:-1,Reggae on Party Vibe Radio
 http://www.partyviberadio.com:8000/stream/1/
 #EXTINF:-1,REIVER FM
@@ -2997,8 +2985,6 @@ https://streaming04.liveboxstream.uk/proxy/mtunstil?mp=/stream
 http://quasar.shoutca.st:8108/stream
 #EXTINF:-1,RNIB Connect
 https://n16a-eu.rcs.revma.com/yv4znr4xcg0uv?rj-ttl=5&rj-tok=AAABnl5wXO0Aet0lz4-9zVe5wQ
-#EXTINF:-1,Roch Valley Radio
-https://rochvalley.radioca.st/stream?_=723854
 #EXTINF:-1,Rock Radio UK
 https://rock-radio-uk-d66e3635.radiocult.fm/stream
 #EXTINF:-1,Rock.Scot
@@ -3139,8 +3125,12 @@ http://slavefm.duckdns.org/radio
 http://relay4.slayradio.org:8000/
 #EXTINF:-1,SLE RADIO ONE
 https://sleradiogroup.com/listen/sle_radio_1/sleone.mp3
+#EXTINF:-1,SLE Radio One
+https://engine.sleradiogroup.com/stream/sle-radio
 #EXTINF:-1,SLE RADIO RAVE
 https://sleradiogroup.com/listen/sle_radio_rave/radio.mp3
+#EXTINF:-1,SLE Radio Rave
+https://engine.sleradiogroup.com/stream/sle-radio-rave
 #EXTINF:-1,Slim Radio
 https://a2.asurahosting.com:6260/radio.mp3
 #EXTINF:-1,Slim Radio
@@ -3483,8 +3473,6 @@ https://listen-msmn.sharp-stream.com/nme2.mp3
 https://listen-msmn.sharp-stream.com/nme2high.mp3
 #EXTINF:-1,TNM Radio (Mobile)
 http://stream.tnm-radio.eu/ultra
-#EXTINF:-1,Toby's Tunes
-https://stream.aiir.com/he5hocuryqbvv
 #EXTINF:-1,Together Radio
 http://opportunity.shoutca.st:8068/stream
 #EXTINF:-1,Tonic Ska Radio
@@ -3509,6 +3497,8 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/mas
 https://s3.citrus3.com:8056/stream
 #EXTINF:-1,Track Radio
 https://n21-eu.rcs.revma.com/dd8zb7wns2nwv
+#EXTINF:-1,TRANCE.one
+http://radio.trance.one:7777/online
 #EXTINF:-1,TrancePulse FM
 http://live.trance.ie:8000/stream
 #EXTINF:-1,Trancetechnic Radio 
@@ -3697,6 +3687,8 @@ https://streaming.broadcast.radio/wynneevansshow
 http://stream.aiir.com/4nrmrub7cznvv
 #EXTINF:-1,XenFM
 https://radio.xenfm.com/listen/xenfm/radio.mp3
+#EXTINF:-1,Xennial FM
+https://engine.sleradiogroup.com/stream/xennial
 #EXTINF:-1,Xenon Radio
 https://uksoutha.streaming.broadcast.radio/xenon-radio
 #EXTINF:-1,Xenon Radio

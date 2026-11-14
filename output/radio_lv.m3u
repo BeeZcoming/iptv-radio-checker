@@ -13,22 +13,12 @@ https://myradio24.org/97045
 https://live.dkradio.lv/01
 #EXTINF:-1,Dunaburg FM
 https://dunaburgfm.s02.radio-tochka.com:1345/stream
-#EXTINF:-1,EHR
-https://stream.ehrhiti.lv:8000/ehr.aac
-#EXTINF:-1,EHR Festivālu Hiti
-http://stream.ehrhiti.lv:8000/Stream_73.mp3
-#EXTINF:-1,EHR iDeal Music
-http://stream.ehrhiti.lv:8000/Stream_78.mp3
 #EXTINF:-1,EHR Latviešu Hiti
 https://playerservices.streamtheworld.com/api/livestream-redirect/EHR_LATVIESU_HITI.mp3
 #EXTINF:-1,EHR Latviešu Hiti - LV Reps
 https://25643.live.streamtheworld.com/LATVIESU_HITI_LV_REPSAAC.aac
 #EXTINF:-1,EHR Superhits (Radio SuperHits)
 https://27943.live.streamtheworld.com/EHR_SUPERHITS.mp3
-#EXTINF:-1,EHR+
-https://stream.ehrhiti.lv:8000/khr.aac
-#EXTINF:-1,EHR+ RU Remixes
-https://stream.ehrhiti.lv:8000/Stream_35.aac
 #EXTINF:-1,EHR+ RU Top 40
 https://23543.live.streamtheworld.com/EHR_RU_TOP_40AAC.aac
 #EXTINF:-1,eNJOY Radio Latvia
@@ -37,8 +27,6 @@ https://live.njoyradio.lv/01
 https://live-radioliepaja.lv/listen/europa/radio
 #EXTINF:-1,European Hit Radio - C&C Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/EHR_IDEAL_MUSICAAC.aac
-#EXTINF:-1,European Hit Radio - Fitness
-https://stream.ehrhiti.lv:8000/Stream_14.aac
 #EXTINF:-1,European Hit Radio - KOOL hits
 https://25583.live.streamtheworld.com/EHR_KOOLAAC.aac
 #EXTINF:-1,European Hit Radio - LMT Straume
@@ -49,10 +37,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/EHR_SUPER_HITS
 https://29053.live.streamtheworld.com/EHR_SUPERHITS_GOLDAAC.aac
 #EXTINF:-1,European Hit Radio - SuperHits HipHop & RnB
 https://25633.live.streamtheworld.com/EHR_SUPERHITS_HIPHOP_RNBAAC.aac
-#EXTINF:-1,European Hit Radio - TikTok Hits
-https://stream.ehrhiti.lv:8000/Stream_38.aac
-#EXTINF:-1,European Hit Radio - Top 40 RU
-https://stream.ehrhiti.lv:8000/Stream_33.aac
 #EXTINF:-1,European Hit Radio - Urban
 https://playerservices.streamtheworld.com/api/livestream-redirect/EHR_SUPERHITS_HIPHOP_RNBAAC.aac
 #EXTINF:-1,Flash Sound radio (LV)
@@ -69,8 +53,6 @@ http://www.kurmislv.info:8000/live-kurmislv-hq.mp3
 http://31.170.16.6:8000/
 #EXTINF:-1,Latgales Radio
 http://www.radiolg.lv:8000/128_aac
-#EXTINF:-1,Latviešu hiti
-https://stream.ehrhiti.lv:8000/Stream_22.aac
 #EXTINF:-1,Latviešu Hiti - LIDO Garšu Hiti
 https://playerservices.streamtheworld.com/api/livestream-redirect/EHR_LIDO_GARSU_HITIAAC.aac
 #EXTINF:-1,Latviešu Hiti Deju Hiti
@@ -195,8 +177,6 @@ https://25443.live.streamtheworld.com/RETRO_LATVIJA_FM_70_80_90S.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/RETRO_LATVIJA_FM_70_80_90SAAC.aac
 #EXTINF:-1,Retro FM Disco
 https://22653.live.streamtheworld.com/RETRO_FM_LATVIJA_DISCO.mp3
-#EXTINF:-1,Retro FM Latvija
-https://stream.ehrhiti.lv:8000/Stream_RE.aac
 #EXTINF:-1,Schlager Time Radio
 http://schlagers.org:8760/
 #EXTINF:-1,Skonto 
@@ -211,8 +191,6 @@ http://starfm.live.advailo.com/audio/mp3/icecast.audio
 https://live.advailo.com/audio/live/playlist.m3u8
 #EXTINF:-1,StarFM
 https://live.advailo.com/audio/mp3/icecast.audio
-#EXTINF:-1,SuperHits
-https://stream.ehrhiti.lv:8000/Stream_21.aac
 #EXTINF:-1,SWH
 http://80.232.162.149:8000/swh96mp3
 #EXTINF:-1,SWHPlus

@@ -39,6 +39,8 @@ https://club.asdmedios.cl/listen/alturafm/radio.mp3
 https://stream-159.zeno.fm/dg69bex4gxquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkZzY5YmV4NGd4cXV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImRQUlBTMkczUkRXdmVIUHNhbW1JMHciLCJpYXQiOjE3NDAwNDk3MTAsImV4cCI6MTc0MDA0OTc3MH0.vQVac4IPmjOImU79H_guLZdW1EI2HY1GKKxoIIKYmqU
 #EXTINF:-1,Amor FM
 https://sonic.portalfoxmix.club/8194/stream/1/
+#EXTINF:-1,Atractiva 101.3
+https://sonicstream-puntual.grupozgh.cl/8126/;
 #EXTINF:-1,Beat FM 98.7 Valle de Aconcagua
 http://sonando.us.digitalproserver.com/beatfm_aac
 #EXTINF:-1,Beethoven - Santiago FM 
@@ -689,6 +691,8 @@ http://stm3.srvif.com:8090/;
 https://s4.radio.co/s740f80d28/listen
 #EXTINF:-1,Radio Nervios
 https://cast6.asurahosting.com/proxy/happype1/stream
+#EXTINF:-1,Radio Nuble 89.7 fm
+http://streaming.comunicacioneschile.net:9358/;
 #EXTINF:-1,Radio Nuestra 98.7
 http://audio.streaminghd.cl:9016/stream
 #EXTINF:-1,Radio Nuevo Mundo
@@ -713,6 +717,8 @@ http://escucha.radiopaulafm.com/
 https://sp1.streamingssl.com/8058/stream
 #EXTINF:-1,Radio Pauta
 https://unlimited5-us.dps.live/radiopauta/gotardis/audio/now/livestream1.m3u8
+#EXTINF:-1,Radio Perfección 80s
+https://video.mediawebchile.com:8134/stream
 #EXTINF:-1,Radio Perla del Maule
 https://grupcomunicados.us:8084/;
 #EXTINF:-1,Radio Picados

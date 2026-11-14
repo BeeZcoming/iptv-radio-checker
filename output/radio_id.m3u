@@ -23,8 +23,6 @@ https://stream-sg1.galuhmedia.co.id/listen/insaniasumbawa/1011sumbawa
 https://stream.radiojar.com/4ywdgup3bnzuv?1739561339
 #EXTINF:-1,104.2 MSTRI FM
 https://c2.siar.us:8120/live
-#EXTINF:-1,106.1 Geronimo FM
-https://ig.idstreamer.com:8090//live
 #EXTINF:-1,107 Dakta FM
 http://175.103.48.4:9302/stream
 #EXTINF:-1,181.FM Rock 181
@@ -61,8 +59,6 @@ http://c1.siar.us:9350/stream
 http://alfaruq.radioislam.my.id:12000/
 #EXTINF:-1,Alternatif radio jakarta
 https://void.idserverhost.com/8016/stream
-#EXTINF:-1,Amandit 93.9 FM
-https://b.alhastream.com:5035/radio
 #EXTINF:-1,ananda radio bandung
 http://sx.alhasmedia.com/radio/8220/radio
 #EXTINF:-1,Andika FM Kediri
@@ -121,8 +117,6 @@ https://streaming.campursarifm.com/listen/campursari/campursari892
 https://i.klikhost.com:9614/stream
 #EXTINF:-1,Chinese Music World
 https://radio.chinesemusicworld.com/chinesemusic.ogg
-#EXTINF:-1,City Radio 959 FM
-https://live.cityradio.id/cityradio.ogg
 #EXTINF:-1,City Radio Mandarin
 https://live.cityradio.id/cr-mandarin.ogg
 #EXTINF:-1,Classic Rock
@@ -147,8 +141,6 @@ http://scg.streamingmurah.com:8074/stream
 https://stream.zeno.fm/vwhplynnpfjtv
 #EXTINF:-1,DEHILLS RADIO
 https://live.dehills.id/listen/dehills/stream
-#EXTINF:-1,Delta 99.2 FM Makassar
-https://stream.radioalikhwan.com/listen/delta_fm_makassar/hd
 #EXTINF:-1,Delta FM
 https://stream.rcs.revma.com/k02rmq48kxcwv
 #EXTINF:-1,Delta FM Bandung
@@ -189,6 +181,8 @@ http://streaming.fressfm.com:11185/stream
 https://server.radioimeldafm.co.id:8040/gajahmadafm
 #EXTINF:-1,Gajahmada FM Semarang
 https://server.radioimeldafm.co.id/radio/8040/gajahmadafm
+#EXTINF:-1,Galau Jikan FM - Indonesia
+https://radio.gjfm.my.id/listen/gjfm/siaran
 #EXTINF:-1,Galuh FM Bali
 https://a12.siar.us:8390/stream
 #EXTINF:-1,Galuh Media Streaming Cianjur Indonesia
@@ -249,6 +243,8 @@ https://hitradio4ever.stream.laut.fm/hitradio4ever
 https://streaming.hitsunikomradio.com/
 #EXTINF:-1,Hitz 91.2 FM Belitung
 https://play.bilitonesefm.com/listen/radiohitzfm/stream
+#EXTINF:-1,Homebrew Radio
+https://radio.homebrew.my.id/listen/homebrew-radio/radio.mp3
 #EXTINF:-1,Hot 93.2 FM
 http://103.246.184.62:1935/noice_hotfm/hotfm/chunklist_w167204702.m3u8
 #EXTINF:-1,Hot 93.2 FM
@@ -331,6 +327,8 @@ http://stream.kharismafm.com:9550/kharismafm
 https://eu1.fastcast4u.com/proxy/kiarafm?mp=/1
 #EXTINF:-1,Kis 95.1 FM
 http://103.246.184.62:1935/noice_kisfm/kisfm/chunklist_w1678859544.m3u8
+#EXTINF:-1,KIS 95.1 FM 
+https://ic2.mari.co.id:8443/kisfm
 #EXTINF:-1,KIS FM
 https://stream.radiokis.id/kisfm2
 #EXTINF:-1,KISI FM BOGOR
@@ -373,6 +371,8 @@ https://stream.lokermusik.com/listen/lokermusik/lokermusik
 https://studio1.indostreamers.com:8010/stream/1/
 #EXTINF:-1,Luhak Nan Tuo 102.5 FM
 https://stream2.jejestreaming.com:8100/stream
+#EXTINF:-1,M Radio
+https://c4.siar.us/proxy/mradio/stream
 #EXTINF:-1,M-Stream Indo 
 https://stream.zeno.fm/iln4upodbvuuv
 #EXTINF:-1,Mandalika Radio Lombok
@@ -517,6 +517,8 @@ https://live.phoenixradiobali.com:8250/phoenixradio
 https://live.radiopinguinfm.com:8350/;stream.mp3
 #EXTINF:-1,POLARIS FM
 https://i.klikhost.com/9604/stream.aac
+#EXTINF:-1,Polaris FM Kudus
+https://i.klikhost.com:8160/stream
 #EXTINF:-1,POP FM Jogja
 https://i.klikhost.com:9154/stream
 #EXTINF:-1,POP FM Semarang
@@ -607,8 +609,6 @@ https://stream-ssl.arenastreaming.com:8005/bandung
 https://stream-ssl.arenastreaming.com:8030/surabaya
 #EXTINF:-1,Radio Fress FM
 https://streaming.fressfm.com:11185/stream
-#EXTINF:-1,Radio Gema Randik
-https://gemarandik.mubakab.go.id:8443/stream
 #EXTINF:-1,Radio Gemas Rasisonia
 https://a7.alhastream.com:4090/radio
 #EXTINF:-1,Radio Gentara
@@ -619,6 +619,8 @@ https://stream-n1.gntr.net/listen/radio_gentara/gentara.mp3
 https://s1.gntr.net/listen/gentara_campursari/radio
 #EXTINF:-1,Radio Hang FM
 http://185.47.62.52:8000/
+#EXTINF:-1,Radio Hidayah 103.4 FM
+https://radioislamindonesia.com/radiohidayah.mp3
 #EXTINF:-1,Radio Ichthus
 http://svara-stream.radioddns.net/ichthusfm
 #EXTINF:-1,Radio Idola Semarang
@@ -697,8 +699,6 @@ https://pu.klikhost.com/proxy/tidarsakti/stream
 https://stream.zeno.fm/z2y9glm5bi7uv
 #EXTINF:-1,Radio Wisata FM
 https://c2.siar.us:9889/live
-#EXTINF:-1,Rama FM Bandung 104.7 FM
-https://i.klikhost.com/8330/;
 #EXTINF:-1,RAS
 https://i.klikhost.com/9006/stream
 #EXTINF:-1,RASI 906 FM |MAGETAN

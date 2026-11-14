@@ -233,6 +233,8 @@ https://edge16.stream.maxfive.com/max5-joelive
 https://edge01.stream.maxfive.com/max5-joelive?aggregator=maxfive-homepage
 #EXTINF:-1,KroneHit Digital
 http://onair-ha1.krone.at/kronehit1058.mp3
+#EXTINF:-1,Kronehit Hardstyle
+https://kronehit.streamabc.net/50-fschannel2-aac-128-1016557
 #EXTINF:-1,KroneHit Radio
 http://onair-ha1.krone.at/kronehit64.aac
 #EXTINF:-1,KroneHit Radio
@@ -329,6 +331,8 @@ https://orf-live-oe1.mdn.ors.at/out/u/oe1/q4a/manifest.m3u8
 https://orf-live.ors-shoutcast.at/campus-q1a
 #EXTINF:-1,ORF Ö1 Campus | HQ
 https://orf-live.ors-shoutcast.at/campus-q2a
+#EXTINF:-1,ORF ö3 Pop Radio http
+http://orf-live.ors-shoutcast.at/oe3-q2a
 #EXTINF:-1,ORF Radio Burgenland
 https://orf-live.ors-shoutcast.at/bgl-q1a
 #EXTINF:-1,ORF Radio Kärnten

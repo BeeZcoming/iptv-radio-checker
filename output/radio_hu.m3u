@@ -491,6 +491,8 @@ http://radioe.net:8080/efm_high
 https://s03.diazol.hu:35112/mobil.aac
 #EXTINF:-1,Rádió ICE
 https://streaming4u.synology.me:8444/ice
+#EXTINF:-1,RADIO INSIDE
+https://radioinside.eu/live.mp3
 #EXTINF:-1,RADIO MARIA HUNGARY
 http://dreamsiteradiocp.com:8032/stream
 #EXTINF:-1,Rádió Most
@@ -527,6 +529,8 @@ https://radio.radiocafe98.hu/radiocafe98_192k
 https://music.radiocafe98.hu/music_radiocafe98_192k.mp3
 #EXTINF:-1,radiocafé 98.0
 https://radio.radiocafe98.hu/radiocafe98_192k.mp3
+#EXTINF:-1,Radiopod Fediverse
+https://radiopod.top/radio.mp3
 #EXTINF:-1,RadiOzora
 http://trance.out.airtime.pro:8000/trance_a
 #EXTINF:-1,RadiOzora Chill

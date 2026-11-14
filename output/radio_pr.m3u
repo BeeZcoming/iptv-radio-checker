@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,104.1 FM Redentor
 https://livestreamcdn.net:2000/stream/Redentor104.1FM/stream
-#EXTINF:-1,Amor 90.9
-https://stream.eleden.com:8360/amor909.aac
 #EXTINF:-1,AZ Rock
 http://cassini.shoutca.st:9300/stream
 #EXTINF:-1,Batanga Radio
@@ -25,6 +23,8 @@ https://radio.fuzedclubradio.com/listen/fuzed_club_radio/stream
 https://server7.servistreaming.com/proxy/hot?mp=%2Fstream%3Ftype%3D.mp3&_=1
 #EXTINF:-1,Isla Rock 
 https://listen.radioking.com/radio/418162/stream/471250?n=1
+#EXTINF:-1,JTC Ministry
+https://artemis.streamerr.co/listen/jtc_ministry/radio.mp3
 #EXTINF:-1,KQ 105
 https://televicentro.streamguys1.com/wkaqfm/playlist.m3u8
 #EXTINF:-1,KQ 105

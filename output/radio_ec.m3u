@@ -35,6 +35,8 @@ https://listen.usuarios.space/ecuatorialfm/
 https://27423.live.streamtheworld.com/ECUADORAAC.aac
 #EXTINF:-1,Expresiun FM 102.9
 https://usa3.lhdserver.es:8031/stream
+#EXTINF:-1,FB Radio 105.7 FM
+https://streamingecuador.com:7032/stream
 #EXTINF:-1,Flama Plus 104.5 FM
 https://streaming.viphosting.cl/8286/stream?ver=541539
 #EXTINF:-1,FM MUNDO 98.1 FM
@@ -109,6 +111,8 @@ https://radio.pitazoinicial.com/stream
 https://streamingecuador.net:8008/radioplayfm
 #EXTINF:-1,Play Radio Online
 https://stream.zeno.fm/thjs0ijturotv
+#EXTINF:-1,PM RADIO Quevedo 
+https://as100.globalhost1.com/8010/stream
 #EXTINF:-1,Pon salsa y todo norte
 https://stream.zeno.fm/eft72w1vrnhvv
 #EXTINF:-1,R.S.N. La Indestructible
@@ -227,8 +231,6 @@ https://streamingecuador.net:8011/radioondapositiva
 https://accplus.tecnohost.ec:8002/stream
 #EXTINF:-1,Radio Pasion
 http://streamingecuador.net:7500/stream
-#EXTINF:-1,Radio Pichincha
-https://icecast.radiopichincha.com/radiopichincha
 #EXTINF:-1,Radio Platinum Fm
 https://streamingecuador.com:8160/radioplatinum
 #EXTINF:-1,Radio Popular 1230 AM
@@ -273,6 +275,8 @@ http://stream.zeno.fm/75b5ah2v438uv
 http://stream.zeno.fm/kewgx19v438uv
 #EXTINF:-1,RCS. Morona Santiago Stereo
 http://stream.zeno.fm/2r6uvhcw438uv
+#EXTINF:-1,RCS. Noticias
+http://stream.zeno.fm/mz04b1exz08uv
 #EXTINF:-1,RCS. Orellana Stereo
 http://stream.zeno.fm/pb4351gw438uv
 #EXTINF:-1,RCS. Quito Stereo

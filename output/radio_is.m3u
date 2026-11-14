@@ -11,8 +11,6 @@ http://icecast.365net.is:8000/orbbylgjan.aac
 http://icecast.365net.is:8000/orbFmExtra.aac
 #EXTINF:-1,Flashback 60s
 https://ice-11.spilarinn.is/60flashback
-#EXTINF:-1,Fred Film Radio-26 Íslenska
-https://s10.webradio-hosting.com/proxy/fredradiois/stream
 #EXTINF:-1,Gull Bylgjan 90.9 Reykjavik
 http://icecast.365net.is:8000/orbGullBylgjan.aac
 #EXTINF:-1,K 100
@@ -39,8 +37,6 @@ http://netradio.ruv.is/ras1.mp3
 http://netradio.ruv.is/ras2.mp3
 #EXTINF:-1,Seyðisfjörður Community Radio
 https://seyisfjorur-community-radio.radiocult.fm/stream
-#EXTINF:-1,Suðurland FM
-https://ice-11.spilarinn.is/xsudurlandfm
 #EXTINF:-1,Trolli FM 103.7 Siglufjordu
 http://live.trolli.is:8200/;
 #EXTINF:-1,Útvarp Saga

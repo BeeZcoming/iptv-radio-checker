@@ -7,8 +7,6 @@ https://stream.zeno.fm/mdn371ycuwzuv
 https://mgvfuego-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
 #EXTINF:-1,92.5 Club
 http://158.69.200.1:8030/stream
-#EXTINF:-1,ABC 100.1 
-https://streaming.rcs.com.sv/proxy/abc/stream
 #EXTINF:-1,AURA FM 99.3
 https://stream.miradio.in/proxy/aura/stream
 #EXTINF:-1,C3 Radio
@@ -87,6 +85,10 @@ https://c11.radioboss.fm:18303/stream
 http://streamingcontrol.com:8500/;
 #EXTINF:-1,Radio Soda Stereo 105.3 FM
 http://streaming.rcs.com.sv/proxy/soda/stream
+#EXTINF:-1,Radio Sonora 104.5 FM
+http://190.5.147.67:8000/radiosonora
+#EXTINF:-1,Radio Sonora 104.5 FM
+http://190.5.147.67:8000/radiosonora
 #EXTINF:-1,Radio Supra 90.5 FM
 https://stream-52.zeno.fm/cpoqmejvb7ftv?zs=r9mYF1zHSD-C0In5SO_XUg
 #EXTINF:-1,Radio Verdad 95.7 FM

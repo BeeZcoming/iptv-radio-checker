@@ -49,8 +49,6 @@ https://whmsonic.radio.gov.pk:8028/relay
 https://whmsonic.radio.gov.pk:8032/stream
 #EXTINF:-1,FM 93 Rawalpindi
 https://whmsonic.radio.gov.pk:8036/relay
-#EXTINF:-1,fm...
-http://n0a.radiojar.com/htnudfgugm8uv?rj-ttl=5&rj-tok=AAABjGvN8wYArmabhGP5SLHW1A
 #EXTINF:-1,fm.92
 http://s33.myradiostream.com:13872/listen.m4a
 #EXTINF:-1,Highrise 24/7 Radio - PAKISTAN
@@ -79,12 +77,12 @@ https://whmsonic.radio.gov.pk:8074/?type=http&nocache=9
 https://cc.vmakerhost.com/proxy/karachi?mp=/stream
 #EXTINF:-1,Radio One FM 91 Gwadar
 http://cc.vmakerhost.com:8147/stream
+#EXTINF:-1,Radio Pakistan D.I. Khan MW 711
+https://whmsonic.radio.gov.pk:7000/Dikhan
 #EXTINF:-1,Radio Pakistan Hyderabad MW 1008 KHz
 https://whmsonic.radio.gov.pk:8042/stream
 #EXTINF:-1,Radio Pakistan Islamabad
 https://whmsonic.radio.gov.pk:7003/stream
-#EXTINF:-1,Radio Pakistan Karachi MW 639
-https://whmsonic.radio.gov.pk:7000/MW639khi
 #EXTINF:-1,Radio Pakistan Lahore 
 https://whmsonic.radio.gov.pk:8026/relay?type=http&nocache=9
 #EXTINF:-1,Radio Pakistan Lahore News and Current Affair AM 1332 KHZ

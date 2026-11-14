@@ -287,10 +287,6 @@ https://stream.laut.fm/forever90
 https://stream.laut.fm/foreverrock
 #EXTINF:-1,Franco Califano
 https://stream-39.zeno.fm/tcfbbvcdvp8uv?zs=k4Ch0DfKQh2hoqKasxb-3g
-#EXTINF:-1,Fred Film Radio-29 Sardu
-https://s10.webradio-hosting.com/proxy/fredradiosar/stream
-#EXTINF:-1,Fred Film Radio(italiano)
-https://s10.webradio-hosting.com/proxy/fredradioit/stream
 #EXTINF:-1,Free Radio Conselve
 https://ice17.fluidstream.net/conselve.mp3
 #EXTINF:-1,Free Radio Conselve
@@ -579,8 +575,6 @@ http://nr11.newradio.it:9306/stream
 https://mrc.00gate.com/
 #EXTINF:-1,megamix80
 https://centova.ipstream.it/proxy/megamix80/stream
-#EXTINF:-1,Mela Radio
-https://melaradio-fellini.radioca.st/;
 #EXTINF:-1,Mi Amigo Radio
 https://nr12.newradio.it:8662/Live
 #EXTINF:-1,mikroradio
@@ -1157,6 +1151,8 @@ http://nr11.newradio.it:9176/;
 http://sr3.inmystream.info:8035/stream
 #EXTINF:-1,Radio Charlie
 https://a6.asurahosting.com:8620/radio.mp3
+#EXTINF:-1,Radio Cheri
+https://91.134.147.168:10556/stream
 #EXTINF:-1,Radio Ciao
 http://onair11.xdevel.com:9988/;stream.mp3
 #EXTINF:-1,Radio Ciccio Riccio
@@ -1191,8 +1187,6 @@ http://nr5.newradio.it:8651/stream
 https://onair7.xdevel.com/proxy/citysmi?mp=/;
 #EXTINF:-1,Radio City Trieste
 http://178.32.138.88:8084/stream
-#EXTINF:-1,Radio Clandestina
-http://onair7.xdevel.com:7188/;
 #EXTINF:-1,Radio Classica
 https://stream10.xdevel.com/audio0s978096-2470/stream/icecast.audio
 #EXTINF:-1,Radio Classica Bresciana
@@ -1235,6 +1229,10 @@ http://stream.laut.fm/radiocontactitaly
 https://radiocontactitaly.stream.laut.fm/radiocontactitaly
 #EXTINF:-1,Radio Contact Italy -Funky Soul Disco
 https://stream.laut.fm/radiocontactitaly
+#EXTINF:-1,Radio Coop
+http://uk1.streamingpulse.com:7013/live
+#EXTINF:-1,Radio Cooperativa Padova right
+https://de4.streamingpulse.com/ssl/7013
 #EXTINF:-1,Radio Core de Roma
 https://sr14.inmystream.it:8210/stream
 #EXTINF:-1,Radio Cortina
@@ -1435,6 +1433,8 @@ https://radiofresh.radioca.st/stream
 https://live.radioftt.org/stream
 #EXTINF:-1,Radio Furgoncino
 https://stream.radiojar.com/sf65dpxy9vzuv
+#EXTINF:-1,Radio Fusion Italia
+https://www.shoutcastitalia.com/proxy/fusion?mp=/stream
 #EXTINF:-1,Radio Futura Station
 https://nr14.newradio.it:8767/stream?ext=.mp3
 #EXTINF:-1,Radio Gaga Channel
@@ -1703,6 +1703,8 @@ https://nrf1.newradio.it:10334/stream
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2odance/radiom2odance/master_ma.m3u8
 #EXTINF:-1,Radio Mach 5
 http://94.23.6.107:8183/stream
+#EXTINF:-1,Radio Macomer Centrale
+https://usa1-vn.mixstream.net/:8014/listen.mp3
 #EXTINF:-1,Radio Magenta
 http://94.23.6.107:8038/stream
 #EXTINF:-1,Radio Mambassa
@@ -1871,6 +1873,10 @@ http://nr9.newradio.it:9199/stream
 https://rn1.fluidstream.eu/rn1.mp3
 #EXTINF:-1,Radio Number One
 https://rn1.fluidstream.eu/rn1.aac
+#EXTINF:-1,Radio Nuoro Centrale
+http://onair15.xdevel.com:8048/;stream.mp3
+#EXTINF:-1,Radio Nuoro Centrale
+http://onair15.xdevel.com:8048/;stream/1.mp3
 #EXTINF:-1,Radio Nuova
 http://ice05.fluidstream.net/fluid0504.aac?FLID=E
 #EXTINF:-1,Radio Nuova Macerata
@@ -2137,8 +2143,6 @@ http://onair15.xdevel.com:9256/;stream.mp3
 https://radio.rsi-tv.eu/listen/radio_savona_international/radio.mp3
 #EXTINF:-1,Radio Scream Italia
 https://screaming.radioscreamitalia.it/stream
-#EXTINF:-1,Radio Sei
-https://icecast.ithost.it/radiosei.ogg
 #EXTINF:-1,Radio SeiSei
 http://ice05.fluidstream.net/fluid0508.mp3?FLID=6
 #EXTINF:-1,Radio SeiSei Vintage
@@ -2453,6 +2457,8 @@ https://nr7.newradio.it/proxy/radiosol?mp=/stream
 https://onair7.xdevel.com/proxy/xautocloud_hgil_2336?mp=/;1/
 #EXTINF:-1,Radioattiva Nontantola
 http://51.254.76.66:8040/stream
+#EXTINF:-1,RadioAttivaInformazione
+https://radioattiva.duckdns.org/hls/radioattivainformazione/live.m3u8
 #EXTINF:-1,Radioattività
 https://nr5.newradio.it/proxy/finmedia?mp=/stream
 #EXTINF:-1,radiobiblia.online
@@ -2463,10 +2469,10 @@ https://sr6.inmystream.it/proxy/claudio/stream
 http://stream.laut.fm/radiogaia
 #EXTINF:-1,RADIOGAMMA5
 https://ice05.fluidstream.net/fluid0510.mp3
+#EXTINF:-1,RadiogrAMma
+https://stream.radiospore.oziosi.org:8003/zirudela.ogg?n=84fd45ac00e0d8b39c6f
 #EXTINF:-1,RadioGs
 https://stream.zeno.fm/f384h3c0r98uv
-#EXTINF:-1,Radiolina
-https://streaming.shoutcast.com/radiolina
 #EXTINF:-1,Radiolina Trapani
 http://94.23.67.20:8030/;
 #EXTINF:-1,Radioluna DJ
@@ -2629,8 +2635,6 @@ https://reteradioazzurra.radioca.st/stream
 https://nr12.newradio.it/stream/8744
 #EXTINF:-1,Rete Toscana Classica
 http://nr12.newradio.it:8744/stream
-#EXTINF:-1,Retesport (Italia)
-https://icecast.ithost.it/retesport.ogg
 #EXTINF:-1,reteunonetwork
 https://dreamsiteradiocp3.com/proxy/reteunonetwork?mp=/stream
 #EXTINF:-1,Retro Hitz
@@ -2831,6 +2835,10 @@ https://listen.soulradio.it/it
 https://stream10.xdevel.com/audio3s975559-2094/stream/icecast.audio
 #EXTINF:-1,Spazio Radio
 http://s3.mediastreaming.it:7190/;stream.mp3
+#EXTINF:-1,Spore
+https://stream.radiospore.oziosi.org:8003/spore.ogg
+#EXTINF:-1,Spore LQ
+http://upstream.radiospore.oziosi.org:8000/spore_LQ.ogg
 #EXTINF:-1,Stadtradio Meran
 http://94.23.66.155:9250/srmhigh
 #EXTINF:-1,Station Italy

@@ -561,6 +561,8 @@ http://160.153.245.85:8000/
 https://radio.dukahosting.com/8344/stream
 #EXTINF:-1,Radio Srce Krajine
 https://srv.mediastriming.com/8330/stream
+#EXTINF:-1,Radio Sremac 102.7
+https://mpc2.mediacp.eu:8282/sremac
 #EXTINF:-1,Radio Stara Čaršija
 http://radio.dukahosting.com:8026/;
 #EXTINF:-1,Radio Starcevo

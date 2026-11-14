@@ -49,8 +49,6 @@ https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio
 https://streams.svetilo.online/listen/svetilo.online/radio.mp3
 #EXTINF:-1,Zhulduz Radio
 http://91.201.214.229:8000/zhulduz
-#EXTINF:-1,ВАШЕ РАДИО
-https://live.zhanafm.kz:8443/vasheradio
 #EXTINF:-1,ЖАНА FM
 https://live.zhanafm.kz:8443/zhanafm_onair
 #EXTINF:-1,Жаңа Lounge

@@ -196,8 +196,6 @@ https://ice3.abradio.cz/hitradiocontact128.mp3
 #EXTINF:-1,Hitrádio Devadesátka
 http://ice.abradio.cz/hit90128.mp3
 #EXTINF:-1,Hitrádio Devadesátka
-https://ice2.radia.cz/hit90128.aac
-#EXTINF:-1,Hitrádio Devadesátka
 https://radia.cz/spa/assets/c8516a638fbaff4ae963.mp3
 #EXTINF:-1,Hitrádio Faktor
 https://ice.abradio.cz/faktor128.mp3
@@ -273,14 +271,6 @@ https://ice3.abradio.cz/povidka128.mp3
 http://powerponies.cz:8000/;stream.mp3
 #EXTINF:-1,Queenradio.net
 http://stream.radiojar.com/4gw72qm8u68uv
-#EXTINF:-1,Radia.cz - Birds
-https://ice2.radia.cz/relax-morning-birds64.aac
-#EXTINF:-1,Radia.cz - Fire
-https://ice2.radia.cz/relax-fire64.aac
-#EXTINF:-1,Radia.cz - Sea
-https://ice2.radia.cz/relax-sea64.aac
-#EXTINF:-1,Radia.cz - Train
-https://ice2.radia.cz/relax-train64.aac
 #EXTINF:-1,RADIO 1
 https://stream.rcs.revma.com/stk8hrvb938uv
 #EXTINF:-1,Rádio 1
@@ -333,8 +323,6 @@ https://westradio.cz/radio/8000/radio.mp3
 https://ice3.abradio.cz/shadowbox128.mp3
 #EXTINF:-1,Rádio Energic
 https://icecast9.play.cz/energic.mp3
-#EXTINF:-1,Radio Folk
-http://ice2.abradio.cz/folk64a.aac
 #EXTINF:-1,Rádio folk Czech 
 http://mp3stream2.abradio.cz:8000/folk320.mp3
 #EXTINF:-1,Radio Fonlord
@@ -447,10 +435,6 @@ http://rfe21.akacast.akamaistream.net/7/751/437779/v1/ibb.akacast.akamaistream.n
 http://ice.abradio.cz/rockmax256.mp3
 #EXTINF:-1,Rock Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_RADIO_128.mp3
-#EXTINF:-1,Rock Radio - Legend of Rock
-https://ice2.radia.cz/legends_of_rock_128.aac
-#EXTINF:-1,Rock rádio – CZ Rock
-https://ice2.radia.cz/rockzabava128.aac
 #EXTINF:-1,Rock Rádio Šumava
 http://ice.abradio.cz/sumava128.mp3
 #EXTINF:-1,Rocková zábava
@@ -459,6 +443,8 @@ http://ice.abradio.cz/rockzabava128.mp3
 https://icecast5.play.cz/rockzone.mp3
 #EXTINF:-1,Samson
 http://icecast2.play.cz:8000/samsonfm128aac
+#EXTINF:-1,SeeJay Radio
+http://icecast6.play.cz/seejay128.mp3
 #EXTINF:-1,Shinto
 https://s49.myradiostream.com/8142/listen.mp3
 #EXTINF:-1,Signál Rádio

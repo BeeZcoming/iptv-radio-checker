@@ -179,8 +179,6 @@ https://listen.radiofolkmix.com/folkmixios
 http://listen.folkbg.net:8002/folkbg
 #EXTINF:-1,FolkBG Player 2
 http://folkbg.ombadmin.com:8001/folkbg
-#EXTINF:-1,Fred Film Radio(Български език)
-https://s10.webradio-hosting.com/proxy/fredradiobg/stream
 #EXTINF:-1,Fresh!
 http://193.108.24.21:8000/fresh
 #EXTINF:-1,Fusion7
@@ -227,12 +225,24 @@ https://radio.jump.bg/proxy/feed104?mp=/MSRR
 https://eu1.reliastream.com/proxy/mdr?mp=/MDR
 #EXTINF:-1,Metro Dance Radio HD
 https://radio.jump.bg/proxy/predp?mp=/MDR
+#EXTINF:-1,Metro HITS Radio
+https://eu1.reliastream.com/proxy/mhr?mp=/MHR
+#EXTINF:-1,Metro Love 00s
+https://eu1.reliastream.com/proxy/metroplusc?mp=/MLR2K
 #EXTINF:-1,Metro Love 80s
 https://eu1.reliastream.com/proxy/love80?mp=/MLR80S
 #EXTINF:-1,Metro Love 90s Plus
 https://eu1.reliastream.com/proxy/love80?mp=/MLR90S
+#EXTINF:-1,Metro Love Hits
+https://eu1.reliastream.com/proxy/service?mp=/service
+#EXTINF:-1,Metro Love Xmas Radio
+https://radio.jump.bg/proxy/feedyyy02?mp=/MLR70S
 #EXTINF:-1,Metro Top Radio
 https://eu1.reliastream.com/proxy/mgr?mp=/MGR
+#EXTINF:-1,Metro Urban Hits
+https://eu1.reliastream.com/proxy/metroxmas?mp=/MCR
+#EXTINF:-1,Metro Virtuoso Hits
+https://eu1.reliastream.com/proxy/mvr?mp=/MVR
 #EXTINF:-1,MHT Radio Petrich
 https://mht.hopto.org:8444/stream/1
 #EXTINF:-1,MIXX
@@ -475,6 +485,8 @@ http://a1.virtualradio.eu:8000/rockradio
 https://play-radio6.jump.bg:7016/play;
 #EXTINF:-1,Rosen Dimitrov
 https://stream.sweetradio.online:8001/HD
+#EXTINF:-1,Smooth One Radio
+https://radio.jump.bg/proxy/servicech1?mp=/SMOOTHONE
 #EXTINF:-1,SoulFreak - Soulful House Radio
 https://soulfreak.djzone.mobi/soulfreak
 #EXTINF:-1,Stream House Radio

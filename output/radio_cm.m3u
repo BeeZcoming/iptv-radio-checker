@@ -17,6 +17,8 @@ https://stream.zeno.fm/5fvvyvybabetv
 https://10gb1.acangroup.org:8000/postenational
 #EXTINF:-1,Divine Mercy Radio and TV Service
 http://102.132.19.90:8080/DMRTVS/index.m3u8
+#EXTINF:-1,Dream FM
+https://stream.rcast.net/244422
 #EXTINF:-1,EASY RADIO CAMEROUN
 http://ecmanager2.pro-fhi.net:1580/
 #EXTINF:-1,EASY RADIO KRIBI
@@ -25,6 +27,8 @@ https://stream4.vestaradio.com/EASYRADIOKRIBI
 https://stream.zeno.fm/ufkpkm4a1rhvv
 #EXTINF:-1,Faith Radio
 https://servidor16-3.brlogic.com:7970/live
+#EXTINF:-1,For You Radio
+https://rstream.az-multimedia.com:7269/stream
 #EXTINF:-1,Globe 360 Radio 
 http://139.84.240.171:8000/globe360
 #EXTINF:-1,Glory FM

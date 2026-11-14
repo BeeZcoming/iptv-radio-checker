@@ -21,6 +21,10 @@ https://m.axradio.net/stream.mp3
 http://radio.bestfm.ua/bestfm
 #EXTINF:-1,Blues & Rock Radio
 http://stream.laut.fm/bluesrock
+#EXTINF:-1,Brokenbeats
+https://brokenbeats.net/stream/aac
+#EXTINF:-1,Brokenbeats
+https://stream.brokenbeats.net/tune
 #EXTINF:-1,Classic Radio
 http://online.classicradio.ua/ClassicRadio_HD
 #EXTINF:-1,Classic Radio
@@ -271,6 +275,8 @@ http://51.83.132.157/128
 https://listen7.myradio24.com/ulyublene
 #EXTINF:-1,URC Radio
 https://streamer.radio.co/sdff2fd6a8/listen
+#EXTINF:-1,VsemirnoeOdesscoeRadio
+https://listen1.myradio24.com/odesradio
 #EXTINF:-1,Wolf Music Radio
 https://a3.asurahosting.com/listen/wolf_music_radio/radio.mp3
 #EXTINF:-1,Worship
@@ -307,6 +313,8 @@ https://hromadske.radio/radio_https_upstream
 http://91.218.212.67:8000/stream-ps-hi
 #EXTINF:-1,Гуляй Радіо
 https://online.radioplayer.ua/GuliayRadio
+#EXTINF:-1,Єден радіо
+http://31.128.79.192:8000/live
 #EXTINF:-1,Єдині новини
 https://online-news.radioplayer.ua/RadioNews
 #EXTINF:-1,Жидачів FM
@@ -346,6 +354,8 @@ https://online.melodiafm.ua/MelodiaFM
 #EXTINF:-1,Мелодія FM 95.2
 http://online.melodiafm.ua/MelodiaFM
 #EXTINF:-1,Мелодія FM Disco
+https://tavr.tvstitch.com/MelodiaFM_Disco
+#EXTINF:-1,Мелодія FM Disco
 http://online.melodiafm.ua/MelodiaFM_Disco_Live
 #EXTINF:-1,Мелодія FM Romantic
 http://online.melodiafm.ua/MelodiaFM_Romantic_Live
@@ -367,8 +377,6 @@ http://radio.moa.org.ua/Friday
 https://live.1tv.od.ua/radio/stream/icecast.audio
 #EXTINF:-1,Подільське
 https://podilske.com:8013/p-radio
-#EXTINF:-1,Просто Radi.O (Київ)
-http://85.238.113.60:8000/PRK128
 #EXTINF:-1,Прямий FM
 https://cast.mediaonline.net.ua/prmfm320
 #EXTINF:-1,Радио НВ

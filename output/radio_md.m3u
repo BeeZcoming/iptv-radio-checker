@@ -15,8 +15,6 @@ https://a3.asurahosting.com/listen/dance_house_hits/radio-192.mp3%20(320kbps%20M
 http://188.138.204.98:8080/ecoFM
 #EXTINF:-1,Focul din Vatră
 https://aiciascult.eu/radio
-#EXTINF:-1,Glowwave-FM
-https://wavehub.uk/api/functions/stationStream?uuid=1cf33481-5bc1-4e66-a95f-9d5278542df1
 #EXTINF:-1,Haliz Gagauz Radiosu - GRT
 http://s02.radio-tochka.com:8020/radio?type=.mp3
 #EXTINF:-1,Hit FM 2000s HITS
@@ -75,8 +73,6 @@ https://s5.radio.co/sfd9f42d1d/listen
 https://play.radiocafe.md:7000/radio.mp3
 #EXTINF:-1,Radio Chișinău
 https://radiochisinau.md/hls/RChisinau.m3u8
-#EXTINF:-1,Radio Dar
-https://radiodar.md/stream.php
 #EXTINF:-1,Radio Fresh MD
 https://stream-151.zeno.fm/ttofovumhg1vv?zs=3vmFlLhiROOIFik2GUoxgw
 #EXTINF:-1,Radio Moldova

@@ -37,10 +37,10 @@ http://broadcast.infomaniak.ch/belrtl-mp3-192.mp3
 http://belrtl.ice.infomaniak.ch/belrtl-mp3-192.mp3
 #EXTINF:-1,Belgian Dance Radio
 https://s4.radio.co/sf5a880a25/listen
+#EXTINF:-1,BEST OLDIES RADIO (BOR)
+https://a8.asurahosting.com:8090/radio.mp3
 #EXTINF:-1,Best Oldies Radio 2 THC
 https://custom-azura1.asurahosting.com/listen/best_oldies_radio_2/radio.mp3
-#EXTINF:-1,BNL
-https://stream.bnlradio.be/stream.mp3
 #EXTINF:-1,Boo 105.1 FM - Bilzen, be
 http://stream03.level27.be/;stream.mp3
 #EXTINF:-1,Boutersem On Air
@@ -373,8 +373,12 @@ https://icecast-qmusicbe-cdp.triple-it.nl/q-allstars.aac
 http://serverkw.quran-uni.com:8238/;*.mp3
 #EXTINF:-1,R.O.L Oldies Jukebox Radio - Lanaken, be
 http://listen.openstream.co/4628/audio
+#EXTINF:-1,Radio 1
+https://icecast.vrtcdn.be/radio1-mid.mp3
 #EXTINF:-1,Radio 100%
 http://live2.radiostudio.be:8000/pros
+#EXTINF:-1,RADIO 2
+https://quantumcast.vrtcdn.be/ra2ant/mp3-128/quantumcast.vrtcdn.be/
 #EXTINF:-1,Radio 2 Bene Bene
 http://icecast.vrtcdn.be/radio2_benebene-high.mp3
 #EXTINF:-1,Radio 4910
@@ -395,14 +399,14 @@ http://streaming.domainepublic.net:8000/radioairlibre.ogg
 http://www.clubfmserver.be:8000/aktief.mp3
 #EXTINF:-1,Radio Alma Brux 101.9FM
 http://shoutcast2.wirelessbelgie.be:8310/;stream.mp3
+#EXTINF:-1,Radio Antigoon
+https://shoutcast2.wirelessantwerpen.be/antigoon
 #EXTINF:-1,Radio Apollo
 https://radioapollo.beheerstream.nl/8004/stream
 #EXTINF:-1,Radio Appolo
 https://loa.beheerstream.nl:8004/stream
 #EXTINF:-1,Radio BaHeNa - Baarle-Hertog, Be
 http://stream.bahena.be:8000/bahena.mp3
-#EXTINF:-1,Radio Benelux  Beringen, be
-http://remote.radiobenelux.be/MP3
 #EXTINF:-1,Radio Bingo - Roeselaere, Be
 http://audiostreamen.nl:8044/stream/1/
 #EXTINF:-1,Radio Bonheur (BE)
@@ -561,6 +565,8 @@ http://stream.radiostars.be:9850/RadioStars.mka
 http://stream.radiostars.be:8000/RadioStars.mka
 #EXTINF:-1,Radio Studio 22 Gullegem, be
 http://stream.twinmedia.be:8010/;.pls
+#EXTINF:-1,Radio Sud
+https://streaming.domainepublic.net/radiosud.mp3
 #EXTINF:-1,Radio Sunshine 97,5 Ostbelgien
 http://streamlive.syndicationradio.fr:8158/stream
 #EXTINF:-1,Radio Sunshine 97,5 Ostbelgien
@@ -607,8 +613,6 @@ https://radios.rtbf.be/laprem1ere-128.mp3
 https://caster04.streampakket.com/proxy/8090/stream
 #EXTINF:-1,RBS Radio
 http://streams.movemedia.eu/rbs
-#EXTINF:-1,RCF Bruxelles
-http://rcf.streamakaci.com/rcfbruxelles.mp3
 #EXTINF:-1,RCF Liège
 https://n04-eu2.rcs.revma.com/w3nwm093h3nwv?rj-ttl=5&rj-tok=AAABoZ2t8TUAqSwSwytjIXBY3Q
 #EXTINF:-1,RCF Sud Belgique
@@ -625,58 +629,6 @@ http://streams.movemedia.eu:8440/
 http://server7.radio-streams.net:8157/stream
 #EXTINF:-1,Rowyna Music (nw.strm)
 https://server7.radio-streams.net/proxy/rowynamu/stream
-#EXTINF:-1,RTBF - Musiq3 Baroque
-https://radios.rtbf.be/wr-m3-baroque-128.mp3
-#EXTINF:-1,RTBF Classic 21
-https://radios.rtbf.be/classic21-64.aac
-#EXTINF:-1,RTBF Classic 21
-https://radios.rtbf.be/classic21-128.mp3
-#EXTINF:-1,RTBF Classic 21 - 60's
-https://radios.rtbf.be/wr-c21-60-128.mp3
-#EXTINF:-1,RTBF Classic 21 - 80's
-https://radios.rtbf.be/wr-c21-80-128.mp3
-#EXTINF:-1,RTBF Classic 21 - 90's
-https://radios.rtbf.be/wr-c21-90-128.mp3
-#EXTINF:-1,RTBF Classic 21 - Live
-https://radios.rtbf.be/wr-c21-live-128.mp3
-#EXTINF:-1,RTBF Classic 21 - Metal
-https://radios.rtbf.be/wr-c21-metal-128.mp3
-#EXTINF:-1,RTBF Classic 21 - Reggae
-https://radios.rtbf.be/wr-eventradio-128.mp3
-#EXTINF:-1,RTBF Classic 21 - Route 66
-https://radios.rtbf.be/wr-c21-route66-128.mp3
-#EXTINF:-1,RTBF Classic 21 - Soul Power
-https://radios.rtbf.be/wr-c21-soul-128.mp3
-#EXTINF:-1,RTBF Classic 21 - Underground
-https://radios.rtbf.be/wr-c21-underground-128.mp3
-#EXTINF:-1,RTBF Jam.
-https://radios.rtbf.be/jam-128.mp3
-#EXTINF:-1,RTBF La Première
-https://redbeemedia.streamabc.net/redbm-lapremiere-aac-128-7561067
-#EXTINF:-1,RTBF La Première
-https://radios.rtbf.be/laprem1ere-64.aac
-#EXTINF:-1,RTBF Musiq3
-https://radios.rtbf.be/musiq3-128.aac
-#EXTINF:-1,RTBF Pure FM
-https://radios.rtbf.be/pure-64.aac
-#EXTINF:-1,RTBF Tarmac
-https://radios.rtbf.be/tarmac-128.mp3
-#EXTINF:-1,RTBF Viva+
-https://radios.rtbf.be/vivaplus-128.mp3
-#EXTINF:-1,RTBF VivaCité Bruxelles
-https://radios.rtbf.be/vivabxl-64.aac
-#EXTINF:-1,RTBF VivaCité Charleroi
-https://radios.rtbf.be/vivacharleroi-64.aac
-#EXTINF:-1,RTBF VivaCité Hainaut
-https://radios.rtbf.be/vivahainaut-64.aac
-#EXTINF:-1,RTBF Vivacité Liège
-https://redbeemedia.streamabc.net/redbm-vivaliege-aac-128-4751338
-#EXTINF:-1,RTBF VivaCité Liège
-https://radios.rtbf.be/vivaliege-64.aac
-#EXTINF:-1,RTBF VivaCité Luxembourg
-https://radios.rtbf.be/vivalux-64.aac
-#EXTINF:-1,RTBF VivaCité Namur & Brabant Wallon
-https://radios.rtbf.be/vivanamurbw-64.aac
 #EXTINF:-1,scorpio
 https://stream.radioscorpio.be/stream
 #EXTINF:-1,Slow Radio

@@ -7,6 +7,8 @@ https://radio.mbconline.xyz/hls/radiomaurice.m3u8
 https://radio.mbconline.xyz/hls/radiomauritus.m3u8
 #EXTINF:-1,OUi Radio
 https://mu1stream.mushost.com:8443/
+#EXTINF:-1,OUi Radio Rodrigues
+https://mu1stream.mushost.com:8554/
 #EXTINF:-1,Radio 7 Mauritius
 https://c2.radioboss.fm/stream/1056
 #EXTINF:-1,Radio One

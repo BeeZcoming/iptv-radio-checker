@@ -155,6 +155,10 @@ https://radio.laktasiturizam.org/live
 https://s8.iqstreaming.com:8044/stream
 #EXTINF:-1,Radio M
 http://www.team-data.ba:8030/stream/
+#EXTINF:-1,RADIO M CAFE
+https://team-data.ba:9032//;
+#EXTINF:-1,Radio M Cafe
+https://team-data.ba:9032/play?sid=1&t=1781439858301
 #EXTINF:-1,Radio M plus
 https://team-data.ba:10000/stream
 #EXTINF:-1,Radio Magic
@@ -201,6 +205,8 @@ https://cast.name.ba:8000/;
 https://n11.radiojar.com/bugesa4nn3quv?rj-ttl=5&rj-tok=AAABihgJBEQA_ptijcBtD6_jYw
 #EXTINF:-1,Radio Slon
 http://31.47.0.130:88/broadwavehigh.mp3
+#EXTINF:-1,Radio Studio M
+https://stream.leftor.com/proxy/studiom2/stream
 #EXTINF:-1,Radio TK
 https://webtvstream.bhtelecom.ba/radio_tk.m3u8
 #EXTINF:-1,Radio Trebinje
@@ -247,3 +253,5 @@ http://31.47.0.130:88/broadwavehigh.mp3?src=1;
 http://79.120.77.11:8000/thrashmetal
 #EXTINF:-1,Velkaton
 http://188.40.62.20:8044/;stream.mp3?_=1
+#EXTINF:-1,Yes Radio
+http://77.78.198.84:8000/
