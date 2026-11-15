@@ -19,6 +19,8 @@ https://usa3.fastcast4u.com/proxy/africanpraiserad?mp=/1
 https://streamer.radio.co/s919e54210/listen
 #EXTINF:-1,afrobeat radio
 https://broadcast.icast.world/listen/afrobeatradio/radio.mp3
+#EXTINF:-1,AFROBEATS FM
+https://audio.afrobeatsfm.com:8443/;
 #EXTINF:-1,AGANANG FM
 https://streaming.fabrik.fm/aganangfm/echocast/audio/low/index.m3u8?session_id=1pbxzwxy1RWaVFv&device_id=Q7fauplH
 #EXTINF:-1,Al Husnaa Quran Radio
@@ -163,6 +165,8 @@ https://radiohost.ifastekpanel.com/listen/kingdom/live
 https://centova.hostingelectrica.net/proxy/kmradio?mp=/stream&1704296313782
 #EXTINF:-1,Kudu FM
 https://kudu.fm/hls/radio.m3u8
+#EXTINF:-1,KwaZulu-Natal - 104.4 FM  SAfm
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAFMAAC.aac
 #EXTINF:-1,Lekker FM
 https://zas3.ndx.co.za:8002/stream
 #EXTINF:-1,Lekoa fm
@@ -301,6 +305,8 @@ https://uslradio.net:8008/stream
 https://edge.iono.fm/xice/73_medium.aac?ref=https%3A%2F%2Frisefm.co.za%2F&adToken=
 #EXTINF:-1,Rockbox! Radio
 https://radio.9300.co.za/listen/rockbox-radio/radio.mp3
+#EXTINF:-1,RSG - Radio Sonder Grense
+https://playerservices.streamtheworld.com/api/livestream-redirect/RSG.mp3
 #EXTINF:-1,SAFFA OnAir World Radio
 http://stream.zeno.fm/k8cqvwu2za0uv
 #EXTINF:-1,Salaam Media

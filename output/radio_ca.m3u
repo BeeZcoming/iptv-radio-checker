@@ -465,8 +465,6 @@ http://14133.live.streamtheworld.com/CFGOAMAAC_SC
 https://rogers-hls.leanstream.co/rogers/gra977.stream/playlist.m3u8
 #EXTINF:-1,CFGW 94.1 "Fox FM" Yorkton, SK
 http://cfgw.streamon.fm/stream/CFGW-64k.aac
-#EXTINF:-1,CFGX 99.9 Sarnia, ON
-http://live.leanstream.co/CFGXFM
 #EXTINF:-1,CFHI "Boom 104.9" Hinton, AB
 https://newcap.leanstream.co/CFHIFM
 #EXTINF:-1,CFIQ 640 "Global News Radio" Toronto, ON
@@ -1539,6 +1537,8 @@ http://newcap.leanstream.co/CKRVFM
 http://newcap.leanstream.co/CKRVFM-MP3
 #EXTINF:-1,CKRW 96.1 "The Rush" Whitehorse, YT
 http://ckrw.streamon.fm:8000/CKRW-32k.aac
+#EXTINF:-1,CKRZ 100.3  "Voice of the Grand" Ohsweken, ON 
+https://stream2.statsradio.com:8132/stream
 #EXTINF:-1,CKSA 95.9 "Real Country Lloydminster", AB
 http://newcap.leanstream.co/CKSAFM
 #EXTINF:-1,CKSE 106.1 "Rock 106" Estevan, SK
@@ -2111,8 +2111,6 @@ http://eagle.streemlion.com:4040/stream?icy=http
 https://cheetah.streemlion.com/progpalace64
 #EXTINF:-1,Prog Palace Radio's The Courtyard
 https://puma.streemlion.com:5045/stream
-#EXTINF:-1,psoup.art brown noise
-https://psoup.art/radio/focus.mp3
 #EXTINF:-1,Pure Pop Radio
 https://cheetah.streemlion.com:3900/stream
 #EXTINF:-1,Q Country 91.5 FM
@@ -2309,6 +2307,8 @@ https://ice9.securenetsystems.net/CIRVFM
 https://maggie.torontocast.com:2020/stream/reggaechillcafe
 #EXTINF:-1,Relay Radio
 https://radio.relay-radio.com/listen/relay-radio/mobile
+#EXTINF:-1,Rétro beat web radio Montréal
+https://s6.citrus3.com:2020/8954/stream
 #EXTINF:-1,Retro Hits 70s 80s 90s
 https://live.streamthe.world/retropophits
 #EXTINF:-1,RetroHits

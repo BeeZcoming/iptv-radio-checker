@@ -173,8 +173,6 @@ https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8?listeningSessio
 https://ip169.ozelip.com/8432/stream
 #EXTINF:-1,CGTN Türk Radyo
 https://criturk.radyotvonline.net/
-#EXTINF:-1,ÇINAR FM
-https://sslyayin.netyayin.net:10992/
 #EXTINF:-1,CLASSICLAND TURKEY
 https://moondigitaledge.radyotvonline.net/classicland/playlist.m3u8
 #EXTINF:-1,Coastiva Radio
@@ -317,10 +315,18 @@ https://live.radyofenomen.com/fenomen/256/chunks.m3u8
 https://live.radyofenomen.com/fenomenakustik/abr/fenomenakustik/128/chunks.m3u8
 #EXTINF:-1,Fenomen Clubbin 256
 https://live.radyofenomen.com/fenomenclubbin/256/chunks.m3u8
+#EXTINF:-1,FENOMEN DANS
+https://live.radyofenomen.com/fenomendans/abr/fenomendans/128/chunks.m3u8
+#EXTINF:-1,Fenomen Dans 256
+https://live.radyofenomen.com/fenomendans/256/chunks.m3u8
 #EXTINF:-1,FENOMEN KARISIK
 https://live.radyofenomen.com/fenomenkarisik/abr/fenomenkarisik/128/chunks.m3u8
 #EXTINF:-1,Fenomen Karışık 256
 https://live.radyofenomen.com/fenomenkarisik/256/chunks.m3u8
+#EXTINF:-1,FENOMEN POP
+https://live.radyofenomen.com/fenomenpop/abr/fenomenpop/128/chunks.m3u8
+#EXTINF:-1,Fenomen Pop 256
+https://live.radyofenomen.com/fenomenpop/256/chunks.m3u8
 #EXTINF:-1,FENOMEN TÜRK
 https://live.radyofenomen.com/fenomenturk/abr/fenomenturk/256/chunks.m3u8
 #EXTINF:-1,Fenomen Türk 256
@@ -391,8 +397,6 @@ https://hayatmix.yayin.com.tr/mp3
 https://live.heartfm.com.tr/listen/heart_fm/128.aac
 #EXTINF:-1,Hedef Radyo
 https://ssldyg.radyotvonline.com/live/hedefradyo.stream/playlist.m3u8
-#EXTINF:-1,Hedgehog Radio
-https://stream.hedgehogradio.com/radio.mp3
 #EXTINF:-1,Hemdem Radyo
 https://yayin.hemdemradyo.com/
 #EXTINF:-1,Hemdem Radyo
@@ -661,8 +665,6 @@ https://listen.powerapp.com.tr/powerdance/abr/powerdance/128/playlist.m3u8
 https://listen.powerapp.com.tr/powerdeep/abr/powerdeep/128/playlist.m3u8
 #EXTINF:-1,POWER EARTH
 http://listen.powerapp.com.tr/powerearth/abr/playlist.m3u8
-#EXTINF:-1,Power FM Türkiye
-https://listen.powerapp.com.tr/powerfm/256/chunks.m3u8
 #EXTINF:-1,Power Gold TR
 https://live.powerapp.com.tr/powergold/abr/playlist.m3u8
 #EXTINF:-1,Power love
@@ -879,6 +881,8 @@ https://dygedge.radyotvonline.net/radyoeksen/playlist.m3u8
 http://eksenwmp.radyotvonline.com/;stream.mp3
 #EXTINF:-1,Radyo EN
 https://yayin2.canliyayin.org:7222/;
+#EXTINF:-1,Radyo Ender
+https://embed.tawk.to/_s/v4/assets/audio/chat_sound.mp3
 #EXTINF:-1,RADYO ENERGY
 https://trkvz-radyolar.ercdn.net/radyoenergy/playlist.m3u8
 #EXTINF:-1,Radyo Esenler
@@ -893,12 +897,16 @@ https://live.radyofenomen.com/fenomen/128/icecast.audio
 https://live.radyofenomen.com/fenomen2010/abr/playlist.m3u8
 #EXTINF:-1,Radyo Fenomen Clubbin
 https://live.radyofenomen.com/fenomenclubbin/128/icecast.audio
+#EXTINF:-1,Radyo Fenomen Dans
+https://live.radyofenomen.com/fenomendans/abr/playlist.m3u8
 #EXTINF:-1,Radyo Fikir
 https://studio21.radiolize.com/radio/8100/radio.mp3?1647021999
 #EXTINF:-1,Radyo Fıtrat
 http://radyofitrat.radyotvonline.net/
 #EXTINF:-1,RADYO FLAS
 https://radyo.yayindakiler.com:4096/
+#EXTINF:-1,Radyo Gerçek
+https://radyogercek.ozelip.com:8368/
 #EXTINF:-1,Radyo Gökçeada
 https://radyo.yayin.com.tr:6179/;
 #EXTINF:-1,Radyo Göktürk
@@ -983,8 +991,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_MYDONOSE
 https://anadolu.liderhost.com.tr/9006/stream
 #EXTINF:-1,RADYO NET
 https://sslyayin.netyayin.net:8068/
-#EXTINF:-1,RADYO NEVŞEHİR
-https://stream2.rtvtakip.com:7025/
 #EXTINF:-1,Radyo Nida
 https://anadolu.liderhost.com.tr/8106/stream
 #EXTINF:-1,Radyo ODTU
@@ -1059,6 +1065,8 @@ http://voyagewmp.radyotvonline.com/;stream.mp3
 https://studio25.radiolize.com/radio/8200/radio.mp3
 #EXTINF:-1,RADYO YANKI
 https://radyoyanki.ozelip.com:9918/
+#EXTINF:-1,Radyo Yaren
+https://sslyayin.radyoyayini.com:7097/stream
 #EXTINF:-1,RADYO ZERGAN (47)
 https://sslyayin.netyayin.net/radyozergan/;
 #EXTINF:-1,Radyo Zile FM 93.5
@@ -1125,8 +1133,6 @@ https://yayin2.canliyayin.org:10960/;stream
 http://stream.radiojar.com/tamm1f7kk48uv
 #EXTINF:-1,Sızır FM
 https://stream.radiojar.com/tamm1f7kk48uv
-#EXTINF:-1,Slow Turk
-https://radyo.duhnet.tv/ak_dtvh_slowturk
 #EXTINF:-1,SOFT RADYO
 https://radyo.softradyo.com/1140/stream
 #EXTINF:-1,ST Endüstri Radyo
@@ -1151,6 +1157,8 @@ https://yayin.superfmradyo.com.tr/superfm/stream
 https://sslyayin.netyayin.net:6065/
 #EXTINF:-1,Tarkan
 https://stream.pcradio.ru/tarkan-hi
+#EXTINF:-1,Tarsus FM
+https://tarsusfm.80.yayin.com.tr//stream
 #EXTINF:-1,Tempo FM 101.5
 https://live.radyo.in/8062/stream
 #EXTINF:-1,Teos FM
@@ -1273,6 +1281,8 @@ http://yayin.radyomadyo.com:8770/
 http://stream.xradio.com.tr:8770/
 #EXTINF:-1,X Radio
 https://stream.xradio.com.tr:8770/stream
+#EXTINF:-1,Yaren FM
+https://yarenfmn.80.yayin.com.tr//stream
 #EXTINF:-1,YENİ POP
 https://playerservices.streamtheworld.com/api/livestream-redirect/SC006_SO1AAC.aac
 #EXTINF:-1,Yeniköy FM

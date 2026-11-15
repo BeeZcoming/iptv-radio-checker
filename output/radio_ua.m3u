@@ -21,10 +21,6 @@ https://m.axradio.net/stream.mp3
 http://radio.bestfm.ua/bestfm
 #EXTINF:-1,Blues & Rock Radio
 http://stream.laut.fm/bluesrock
-#EXTINF:-1,Brokenbeats
-https://brokenbeats.net/stream/aac
-#EXTINF:-1,Brokenbeats
-https://stream.brokenbeats.net/tune
 #EXTINF:-1,Classic Radio
 http://online.classicradio.ua/ClassicRadio_HD
 #EXTINF:-1,Classic Radio
@@ -225,8 +221,6 @@ https://radivo.thx8te.kh.ua/listen/radivo/radio.mp3
 https://online.radiorelax.ua/RadioRelax_Int
 #EXTINF:-1,ReLIFE (Решетилівка)
 http://176.102.194.71:44808/radio
-#EXTINF:-1,REPLAY NEWS - Українська       Новинне радіо кожні 5 хвилин
-https://replaynewsuk.ice.infomaniak.ch/replaynewsuk-128.mp3
 #EXTINF:-1,Rock
 https://stream.zeno.fm/r6o4xljca6cvv
 #EXTINF:-1,Rock Ballads
@@ -377,6 +371,8 @@ http://radio.moa.org.ua/Friday
 https://live.1tv.od.ua/radio/stream/icecast.audio
 #EXTINF:-1,Подільське
 https://podilske.com:8013/p-radio
+#EXTINF:-1,Просто Radi.O (Київ)
+http://85.238.113.60:8000/PRK128
 #EXTINF:-1,Прямий FM
 https://cast.mediaonline.net.ua/prmfm320
 #EXTINF:-1,Радио НВ

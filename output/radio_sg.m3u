@@ -107,6 +107,8 @@ http://28093.live.streamtheworld.com/UFM_1003AAC.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003_SC
 #EXTINF:-1,Warna
 http://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.aac
+#EXTINF:-1,Warna 94.2 fm
+https://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.aac
 #EXTINF:-1,WARNA 942
 https://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FM_PREM.aac
 #EXTINF:-1,XRadio: The Worldwide Superstation

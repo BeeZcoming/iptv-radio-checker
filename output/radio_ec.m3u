@@ -45,8 +45,6 @@ https://streamingecuador.com:9810/stream
 https://streamingecuador.net:8014/forever
 #EXTINF:-1,Gualaceo Stereo 92.7
 https://stream.zeno.fm/s74szs5uquhvv
-#EXTINF:-1,HCJB 2
-https://hcjb2.makrodigital.com:8013/stream
 #EXTINF:-1,HCJB La Voz de los Andes 89.3 FM
 https://streamingecuador.net:8287/hcjb
 #EXTINF:-1,http://streamingecuador.com:7048/stream
@@ -231,6 +229,8 @@ https://streamingecuador.net:8011/radioondapositiva
 https://accplus.tecnohost.ec:8002/stream
 #EXTINF:-1,Radio Pasion
 http://streamingecuador.net:7500/stream
+#EXTINF:-1,Radio Pichincha
+https://icecast.radiopichincha.com/radiopichincha
 #EXTINF:-1,Radio Platinum Fm
 https://streamingecuador.com:8160/radioplatinum
 #EXTINF:-1,Radio Popular 1230 AM

@@ -179,6 +179,8 @@ https://listen.radiofolkmix.com/folkmixios
 http://listen.folkbg.net:8002/folkbg
 #EXTINF:-1,FolkBG Player 2
 http://folkbg.ombadmin.com:8001/folkbg
+#EXTINF:-1,Fred Film Radio(Български език)
+https://s10.webradio-hosting.com/proxy/fredradiobg/stream
 #EXTINF:-1,Fresh!
 http://193.108.24.21:8000/fresh
 #EXTINF:-1,Fusion7

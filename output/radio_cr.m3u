@@ -27,8 +27,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_89_1AAC.aa
 https://a1.asurahosting.com:8720/radio.mp3
 #EXTINF:-1,Dabar Radio
 https://a1.asurahosting.com:8720/radio.mp3/;
-#EXTINF:-1,Elite radio 88.5 FM
-https://stream20.usastreams.com/8008/stream
 #EXTINF:-1,Estereo Visión 98.3 FM
 https://live.turadio.stream:7009/
 #EXTINF:-1,Faro del Caribe 97.1 FM y 1080 AM
@@ -89,8 +87,6 @@ https://centova.hostingtico.com:7008/;
 https://live.turadio.stream:7006/
 #EXTINF:-1,Radio Universidad 96.7 FM
 https://r90.letio.com/io/?gs=8120&gsm=8120&type=live.m3u8
-#EXTINF:-1,Señal Radio Elite
-https://stream20.usastreams.com/8008/;
 #EXTINF:-1,Super Radio 102.3
 http://superradio.rtvhd.net:8010/stream/1/
 #EXTINF:-1,Teletica Radio

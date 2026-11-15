@@ -213,6 +213,8 @@ https://solid41.streamupsolutions.com/proxy/rvfskeow?mp=/;type=mp3
 https://play.radioking.io/ai-on-air
 #EXTINF:-1,AI Slop FM
 https://radio.aislop.fm/listen/ai_slop_fm/radio.mp3
+#EXTINF:-1,AI Slop Radio
+https://stream.dulcet.cloud/slop
 #EXTINF:-1,AJK Radio
 https://solid41.streamupsolutions.com/proxy/wzbznkee/stream
 #EXTINF:-1,Akash Radio (Leeds)
@@ -427,6 +429,8 @@ http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_r
 http://as-hls-ww-live.akamaized.net/pool_26173715/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio=320000.norewind.m3u8
 #EXTINF:-1,BBC Radio 4 Extra (128k)
 http://as-hls-ww-live.akamaized.net/pool_26173715/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d128000.norewind.m3u8
+#EXTINF:-1,BBC RADIO 5
+http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8
 #EXTINF:-1,BBC Radio 5 Live (128k)
 http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d128000.norewind.m3u8
 #EXTINF:-1,BBC Radio 5 Live (UK-HLS-Akamai)
@@ -957,6 +961,8 @@ https://26343.live.streamtheworld.com/SAM04AAC335_SC
 https://relay.media235.com/listen/cosoro_afrobeats/afrobeats064.aac
 #EXTINF:-1,Cosoro Radio
 http://azuracast.media235.com:8000/afrobeats320.aac
+#EXTINF:-1,Cotswold Hospital Radio
+http://195.201.166.244:8525/stream
 #EXTINF:-1,Country Gospel Radio
 https://solid24.streamupsolutions.com/proxy/agtzpadc/stream
 #EXTINF:-1,CountryLine Radio
@@ -1285,6 +1291,8 @@ http://uk1.streamingpulse.com:7000/;
 https://s4.radio.co/s3ff272827/listen
 #EXTINF:-1,Folkestone Civic Radio
 https://azc.folkestonecivicradio.uk/listen/the_sands/radio.mp3
+#EXTINF:-1,Forest FM
+https://radio.canstream.co.uk:8146/live.mp3
 #EXTINF:-1,Forest One
 https://c2.prostream365.com:8010/live
 #EXTINF:-1,Forever Hits FM
@@ -1295,6 +1303,18 @@ https://stream-al.hellorayo.co.uk/forth1.mp3?direct=true&aw_0_1st.skey=160267685
 https://stream-al.hellorayo.co.uk/forth1.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&aw_0_1st.bauer_listenerid=undefined
 #EXTINF:-1,Fosse 107
 https://icecast.maxxwave.co.uk/fossehinckleyhq
+#EXTINF:-1,FRED FILM RADIO English
+https://s10.webradio-hosting.com/proxy/fredradioen/stream
+#EXTINF:-1,Fred Film Radio Entertainment
+https://s10.webradio-hosting.com/proxy/fredenter/stream
+#EXTINF:-1,Fred Film Radio Extra
+https://s10.webradio-hosting.com/proxy/fredradioec/stream
+#EXTINF:-1,FRED FILM RADIO Mandarin
+https://s10.webradio-hosting.com/proxy/fredradiocn/stream/1/
+#EXTINF:-1,Fred Film Radio-27 INDUSTRY
+https://s10.webradio-hosting.com/proxy/fredradioind/stream
+#EXTINF:-1,Fred Film Radio-28 Education
+https://s10.webradio-hosting.com/proxy/fredradioedu/stream
 #EXTINF:-1,Fresh Christmas - London (MP3)
 http://stream.zeno.fm/wahc3kxfcd0uv
 #EXTINF:-1,Fresh Fm Radio London
@@ -1637,8 +1657,6 @@ https://s4.radio.co/sd5b175766/listen
 https://listen-harboroughfm.sharp-stream.com/harboroughfm.mp3
 #EXTINF:-1,HGV1 Radio
 https://stream4.themediasite.co.uk/stream/hgv1-main
-#EXTINF:-1,HiFi Prime
-https://stream.cloudrad.io/5913/8160
 #EXTINF:-1,HiFi Punk
 https://azuracast.hifiradio.net/radio/8020/radio.mp3?1735160261
 #EXTINF:-1,High Peak 1
@@ -1899,6 +1917,8 @@ https://uk3.internet-radio.com/proxy/konflictradio?mp=/stream
 https://admin.stream.rinse.fm/proxy/kool/stream
 #EXTINF:-1,Krystal Radio
 http://nova.streamerr.co:8907/stream
+#EXTINF:-1,Kulture Radio
+https://a6.asurahosting.com:8170/radio.mp3
 #EXTINF:-1,LABR Love a Brother Radio
 http://23.81.33.82:24914/stream
 #EXTINF:-1,Labyrinth - Infinite Mixtapes | NTS
@@ -2143,6 +2163,8 @@ https://msalaambolton.radioca.st/Stream
 http://livemasjid.net/masjidequba.mp3
 #EXTINF:-1,Matryoshka.FM (Матрёшка)
 http://213.159.214.57:8000/matryoshka
+#EXTINF:-1,MAX FM DERBY 92.2
+http://12991.cloudrad.io:9438/
 #EXTINF:-1,Mazoozie
 https://stream-mazoozie.creativedork.com/
 #EXTINF:-1,Mazoozie
@@ -2337,8 +2359,6 @@ http://stream.nonstopplay.co.uk/nsp-128k-mp3
 https://noods-radio.radiocult.fm/stream
 #EXTINF:-1,North Derbyshire Radio
 http://s5.themediasite.co.uk:8064/stream%22
-#EXTINF:-1,North Manchester FM
-https://radio.canstream.co.uk:8061/live.mp3
 #EXTINF:-1,Northants 1
 https://solid41.streamupsolutions.com/proxy/svdkgaiq/stream?icecast
 #EXTINF:-1,Nostalgia Central
@@ -2593,6 +2613,8 @@ https://uksoutha.streaming.broadcast.radio/quality_FM
 https://radio.erb.pw/listen/subspace/radio.mp3
 #EXTINF:-1,Queen
 https://stream.pcradio.ru/Queen-hi
+#EXTINF:-1,Raaj FM
+http://live.canstream.co.uk:8000/raajfm.mp3
 #EXTINF:-1,Radio Africana
 http://kepler.shoutca.st:8201/stream
 #EXTINF:-1,Radio Albion
@@ -2767,8 +2789,6 @@ https://s3.radio.co/s201b7a9d0/listen
 https://icecast.maxxwave.co.uk/radioseerah
 #EXTINF:-1,Radio Six International
 http://www.radiosix.com/radiosix.mp3
-#EXTINF:-1,Radio Social Music
-https://hq3.yesstreaming.net/21/stream
 #EXTINF:-1,Radio Stitch
 http://radiostitch.nth.nhs.uk:8000/Stream.mp3
 #EXTINF:-1,Radio Sudd
@@ -3451,6 +3471,8 @@ https://streaming.broadcastradio.com:10765/thisisthecoast
 https://streaming.broadcast.radio/thisisthecoast
 #EXTINF:-1,Thornbury Radio
 https://s42.myradiostream.com/29400/listen.mp3?_=135900
+#EXTINF:-1,Tibetan Bowls
+https://radio.hearme.fm:8204/stream
 #EXTINF:-1,Time 2 Chill Radio
 https://ec6.yesstreaming.net:3615/stream
 #EXTINF:-1,Time Football Academy
@@ -3473,6 +3495,8 @@ https://listen-msmn.sharp-stream.com/nme2.mp3
 https://listen-msmn.sharp-stream.com/nme2high.mp3
 #EXTINF:-1,TNM Radio (Mobile)
 http://stream.tnm-radio.eu/ultra
+#EXTINF:-1,Toby's Tunes
+https://stream.aiir.com/he5hocuryqbvv
 #EXTINF:-1,Together Radio
 http://opportunity.shoutca.st:8068/stream
 #EXTINF:-1,Tonic Ska Radio
@@ -3505,6 +3529,8 @@ http://live.trance.ie:8000/stream
 https://s11.ssl-stream.com/ssl/trancete?mp=/stream
 #EXTINF:-1,Trans Radio UK
 https://streamer.radio.co/s85ebb74c4/listen
+#EXTINF:-1,Trash Can Radio
+http://orion.shoutca.st:8031/live
 #EXTINF:-1,Treehouse Radio
 http://s6.autopo.st:8515/live
 #EXTINF:-1,Trent Sound
@@ -3641,8 +3667,6 @@ https://saradiolive.radioca.st/%3B
 https://streaming06.liveboxstream.uk/proxy/piraten1?mp=/stream
 #EXTINF:-1,Wayne Holden Music Radio 
 http://s6.citrus3.com/stream/wayneholdenmusicradio
-#EXTINF:-1,WBLS Radio
-http://s2.myradiostream.com:3604/;
 #EXTINF:-1,We Get Lifted Radio
 http://s3.radio.co/sa80d22794/listen
 #EXTINF:-1,We Get Lifted Radio (WGLR) 192k mp3
@@ -3673,6 +3697,8 @@ http://148.251.43.231:8120/stream
 http://global.citrus3.com:8134/stream
 #EXTINF:-1,Word Central Radio
 https://play.radioking.io/word-central-radio/707122
+#EXTINF:-1,World of Music
+https://listen.radioking.com/radio/955836/stream/1027651
 #EXTINF:-1,Worldwide FM
 https://worldwide-fm.radiocult.fm/stream
 #EXTINF:-1,WOTR Hymns

@@ -54,6 +54,8 @@ http://91.200.41.23:8000/192.mp3
 #EXTINF:-1,MIX FM Cyprus
 https://strm.mixlive.eu/mixfm/index.m3u8
 #EXTINF:-1,Mix4.me uplifitng trance web radio
+https://s9.webradio-hosting.com/proxy/mix4me/stream
+#EXTINF:-1,Mix4.me uplifitng trance web radio
 http://142.132.213.6:8497/stream
 #EXTINF:-1,MixFM Cyprus
 https://link.radiojar.com/c27wx6pdh8vtv

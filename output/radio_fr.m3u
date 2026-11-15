@@ -711,8 +711,6 @@ https://streaming.nrjaudio.fm/ougocfrb92oc
 https://streaming.nrjaudio.fm/ousgzkm4z85f
 #EXTINF:-1,Chérie FM Marseille
 https://streaming.nrjaudio.fm/ouy57k36zcw2
-#EXTINF:-1,Chérie FM Martinique
-http://2stream.dyndns.org:8000/cheriefmmq
 #EXTINF:-1,Chérie FM Metz
 https://streaming.nrjaudio.fm/ou5kjbirv93h
 #EXTINF:-1,Chérie FM Montbelliard
@@ -833,6 +831,8 @@ http://stream.rcs.revma.com/w18s9m7mfm3vv
 https://stream.rcs.revma.com/xsycwftnfm3vv
 #EXTINF:-1,Clin d'Oeil FM
 https://clindoeilfm1061.ice.infomaniak.ch/clindoeilfm1061-128.mp3
+#EXTINF:-1,CN'O
+http://master.net-radio.fr/cno-96.aac
 #EXTINF:-1,COB' FM Saint-Brieuc
 https://myradiostream.com/embed/assets/mp3/test.mp3
 #EXTINF:-1,Collector Radio
@@ -979,6 +979,8 @@ https://durance-radio.ice.infomaniak.ch/durance-radio.mp3
 https://flux.radiody10.com/airtime_128
 #EXTINF:-1,DYNAMIC RADIO DUBAI
 https://stream10.vestaradio.com/DYNAMICRADIODUBAI
+#EXTINF:-1,DZFISHRADIO
+https://radio.dzfishradio.com/listen/dzfishradio/radio.mp3
 #EXTINF:-1,E-KWALITY RADIO
 https://www.radioking.com/play/e-kwality-radio/478513
 #EXTINF:-1,EASY RADIO KRIBI
@@ -1269,6 +1271,8 @@ https://play.radioking.io/fm80funkymusic
 https://play.radioking.io/fm80funkymusic/523739
 #EXTINF:-1,FM Evangile 66
 http://stream.radios-arra.fr:8000/fmevangile66
+#EXTINF:-1,FM43
+https://fm43.ice.infomaniak.ch/fm43-64.aac
 #EXTINF:-1,Folk57
 https://manager11.streamradio.fr:2795/stream?x=1789983354990
 #EXTINF:-1,forever la radio
@@ -1661,6 +1665,10 @@ https://radio.funvibe.fr/listen/funvibe/radio.mp3
 http://fusionfm.ice.infomaniak.ch/fusionfm-192.mp3
 #EXTINF:-1,Fusion FM
 http://fusionfm.ice.infomaniak.ch:8000/fusionfm-192.mp3
+#EXTINF:-1,Futuradio Bands-Camp
+https://futuradiorock.ice.infomaniak.ch/frrock-128.mp3
+#EXTINF:-1,Futuradio Hits
+https://futuradiohits.ice.infomaniak.ch/frhits-128.mp3
 #EXTINF:-1,G One Radio
 https://radio.garden/api/ara/content/listen/pahlMAe0/channel.mp3?1726401108732
 #EXTINF:-1,G One Radio
@@ -2111,26 +2119,10 @@ https://ianewspt.ice.infomaniak.ch/ianewspt-128.mp3
 https://ianewstr.ice.infomaniak.ch/ianewstr-128.mp3
 #EXTINF:-1,IAradio
 https://iaradio.ice.infomaniak.ch/iaradio-128.mp3
-#EXTINF:-1,IAradio Classique
-https://iaradioclassique.ice.infomaniak.ch/iaradioclassique-128.mp3
-#EXTINF:-1,IAradio Dance House
-https://iaradiodance.ice.infomaniak.ch/iaradiodance-128.mp3
-#EXTINF:-1,IAradio Disco Funk
-https://iaradiodisco.ice.infomaniak.ch/iaradiodisco-128.mp3
 #EXTINF:-1,IAradio Guinguette
 https://iaradioguinguette.ice.infomaniak.ch/iaradioguinguette-128.mp3
-#EXTINF:-1,IAradio Jazz
-https://iaradiojazz.ice.infomaniak.ch/iaradiojazz-128.mp3
-#EXTINF:-1,IAradio Lounge
-https://iaradiolounge.ice.infomaniak.ch/iaradiolounge-128.mp3
-#EXTINF:-1,IAradio Metal
-https://iaradiometal.ice.infomaniak.ch/iaradiometal-128.mp3
-#EXTINF:-1,IAradio New Wave
-https://iaradionewwave.ice.infomaniak.ch/iaradionewwave-128.mp3
 #EXTINF:-1,IAradio Opéra
 https://iaradioopera.ice.infomaniak.ch/iaradioopera-128.mp3
-#EXTINF:-1,IAradio Pop Rock
-https://iaradiopoprock.ice.infomaniak.ch/iaradiopoprock-128.mp3
 #EXTINF:-1,IAradio Rap
 https://iaradiorap.ice.infomaniak.ch/iaradiorap-128.mp3
 #EXTINF:-1,IAradio Reggae
@@ -2465,8 +2457,6 @@ http://latinareggaeton.ice.infomaniak.ch/latinareggaeton.mp3
 http://latinasalsa.ice.infomaniak.ch/latinasalsa.mp3
 #EXTINF:-1,Latitude
 https://latitude.ice.infomaniak.ch/troyes.aac
-#EXTINF:-1,Laurent DINE IGLESIAS
-https://radio7.pro-fhi.net:19141/milleniumfm.mp3
 #EXTINF:-1,LE BON MIX
 https://stream10.xdevel.com/audio11s976748-2015/stream/icecast.audio
 #EXTINF:-1,Le Bon Mix - AAC320LC
@@ -2675,6 +2665,8 @@ https://maritima936.ice.infomaniak.ch/maritima936-128.mp3
 http://maritima936.ice.infomaniak.ch/maritima936-128.mp3
 #EXTINF:-1,MATHIS FM
 https://mathis-fm-le-meilleur-radio.stream.laut.fm/mathis-fm-le-meilleur-radio?uuid=f22dbb18-a780-2a33-fcc2-03886fe410e9&t302=2026-11-12_05-15-36
+#EXTINF:-1,Maurice Radio Libre
+https://radio13.pro-fhi.net/live/MauriceRadioLibre
 #EXTINF:-1,Max Radio Grenoble
 https://maxfm.ice.infomaniak.ch/maxfm-945.mp3
 #EXTINF:-1,Maxi 80
@@ -3547,8 +3539,6 @@ https://streaming.nrjaudio.fm/ou8ve8gk7oiu
 https://streaming.nrjaudio.fm/ousryem4z85f?origine=fluxradios&aw_0_1st.station=NRJ-Zouk
 #EXTINF:-1,NTI
 http://streaming.radionti.com/nti-128.mp3
-#EXTINF:-1,Nymène
-https://nymene.xyz/stream
 #EXTINF:-1,OceaneFM
 https://stream.rcs.revma.com/4q26yzaf0v3vv
 #EXTINF:-1,ODC Live
@@ -3645,6 +3635,8 @@ https://ouifmtopoftheweek.ice.infomaniak.ch/ouifmtopweek.aac
 https://ouifmwoodstock.ice.infomaniak.ch/ouifmwoodstock.mp3
 #EXTINF:-1,OutOfParadise
 http://ecmanager4.pro-fhi.net:1470/stream
+#EXTINF:-1,Oxnya Radio
+https://radio.oxnya-group.com/listen/oxnya_radio/radio.mp3
 #EXTINF:-1,Oxygène Coulommiers
 http://str0.creacast.com/oxy-coulommiers
 #EXTINF:-1,Oxygene Grenoble
@@ -3657,6 +3649,8 @@ https://ice.creacast.com/ofm_hq.mp3
 https://str0.creacast.com/ofm_hq.mp3
 #EXTINF:-1,Oxygène Sud 77
 http://str0.creacast.com/oxy-montereau
+#EXTINF:-1,Oxyna Radio
+https://radio.oxnya-group.com/listen/oxnya_radio/radio.mp3?t=1793531824292
 #EXTINF:-1,OZ FM
 https://ozfm.streamb.live/SB00174?ver=460097
 #EXTINF:-1,OZ Tarkan Radio
@@ -4075,8 +4069,6 @@ https://stream.rcast.net/62863
 http://flux.radiody10.com:8000/fallback
 #EXTINF:-1,Radio Dynamo
 https://dynamo.ice.infomaniak.ch/dynamo.aac
-#EXTINF:-1,Radio Ecclesia Nimes
-https://radioecclesia.ice.infomaniak.ch/radioecclesia-192.mp3
 #EXTINF:-1,Radio Echo des Choucas (REC)
 https://hosting.radiomedia.fr:2005/stream
 #EXTINF:-1,Radio ECN
@@ -4337,6 +4329,8 @@ https://stream.radios.bzh/listen/naoned/radio.mp3
 https://stream.radionelly.com:8443/nelly.aac
 #EXTINF:-1,Radio Néo
 https://ice.creacast.com/radio-neo-paris
+#EXTINF:-1,Radio Néo Toulouse
+https://ice.creacast.com/radio-neo-toulouse
 #EXTINF:-1,Radio Neptune
 http://icecast.infini.fr:8000/neptune
 #EXTINF:-1,Radio New York Floor
@@ -4373,6 +4367,8 @@ http://radiono1.ice.infomaniak.ch/radiono1-128.mp3
 https://diffusion.radionunc.org:8443/stream
 #EXTINF:-1,Radio Octopus
 http://media.radio-octopus.org:8000/192.mp3
+#EXTINF:-1,Radio Odyssey
+https://listen.radioking.com/radio/706859/stream/772319
 #EXTINF:-1,Radio of Magic
 https://listen.radioking.com/radio/418372/stream/471466
 #EXTINF:-1,Radio OnBouge Français
@@ -4667,8 +4663,6 @@ http://nosystem.giize.com:2086/psyradium
 https://stream.radiumfm.com/paris
 #EXTINF:-1,Radyoga
 https://play.radioking.io/radyoga/72311
-#EXTINF:-1,Radyonne
-https://stream.radyonne.fr/stream
 #EXTINF:-1,RAJE
 https://rajenimes.ice.infomaniak.ch/rajenimes-128.mp3
 #EXTINF:-1,RapTz
@@ -4753,6 +4747,8 @@ https://replaynewsstory.ice.infomaniak.ch/replaynewsstory-128.mp3
 https://listen.radioking.com/radio/108/stream/890
 #EXTINF:-1,RFI Anglais - English
 http://live02.rfi.fr/rfienanglais-64.mp3
+#EXTINF:-1,RFI Monde
+http://live02.rfi.fr/rfimonde-64.mp3
 #EXTINF:-1,RFI Musique
 http://rfimusiquemonde64k.ice.infomaniak.ch/rfimusiquemonde-64k.mp3
 #EXTINF:-1,RFI Musique

@@ -69,8 +69,6 @@ https://usa13.fastcast4u.com/proxy/fideslapaz?mp=/1
 https://usa14.fastcast4u.com/proxy/fidestarija?mp=/1
 #EXTINF:-1,Radio Folklorica Uyuni
 https://emiteradio.com/proxy/uyuni?mp=/stream
-#EXTINF:-1,RADIO FRONTERA FM 100.3 MHz
-https://stream.inliveserver.com:2020/8140/stream
 #EXTINF:-1,Radio Gigante Bolivia
 https://cloudstream2032.conectarhosting.com:7311/;
 #EXTINF:-1,Radio Kollasuyo FM
@@ -107,6 +105,8 @@ https://stream.zeno.fm/rtui1p0xscetv
 https://mira.streamerr.co/listen/radiosatbolivia/radio.mp3
 #EXTINF:-1,Red Uyuni: Radio Recuerdos
 https://emiteradio.com/proxy/uyuni2?mp=/stream
+#EXTINF:-1,RKC RADIO
+https://sonic.dattassd.com/8198/stream
 #EXTINF:-1,Stereo 97
 https://stream.consultoradas.com:8340/stream
 #EXTINF:-1,Stereo97

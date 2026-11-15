@@ -263,8 +263,6 @@ http://s9.myradiostream.com:5824/
 https://onair7.xdevel.com/proxy/xautocloud_cnou_1049?mp=/;stream/;
 #EXTINF:-1,F2 Radio Lab
 http://143.225.201.2:8000/RadioUnina
-#EXTINF:-1,Fango Radio
-https://pantano.ovh:8444/pantano
 #EXTINF:-1,Febea Radio
 http://nr6.newradio.it:9249/stream
 #EXTINF:-1,Flash Mania Abruzzo
@@ -287,6 +285,10 @@ https://stream.laut.fm/forever90
 https://stream.laut.fm/foreverrock
 #EXTINF:-1,Franco Califano
 https://stream-39.zeno.fm/tcfbbvcdvp8uv?zs=k4Ch0DfKQh2hoqKasxb-3g
+#EXTINF:-1,Fred Film Radio-29 Sardu
+https://s10.webradio-hosting.com/proxy/fredradiosar/stream
+#EXTINF:-1,Fred Film Radio(italiano)
+https://s10.webradio-hosting.com/proxy/fredradioit/stream
 #EXTINF:-1,Free Radio Conselve
 https://ice17.fluidstream.net/conselve.mp3
 #EXTINF:-1,Free Radio Conselve
@@ -649,6 +651,8 @@ https://nr7.newradio.it:19350/stream
 https://audio6.nemostream.tv/proxy/nettunobologna1ice1/stream
 #EXTINF:-1,NEU RADIO
 https://nr9.newradio.it/proxy/ebaruffa?mp=/stream
+#EXTINF:-1,New Radio Cecchetto
+https://nr15.newradio.it/stream/9142
 #EXTINF:-1,New Radio Network
 http://nr5.newradio.it:8683/stream
 #EXTINF:-1,New Radio Star
@@ -739,10 +743,6 @@ http://nr1.newradio.it:9112/stream
 http://nr11.newradio.it:9112/;stream.mp3
 #EXTINF:-1,Punto Radio
 http://sr10.inmystream.info:8011/stream
-#EXTINF:-1,Purple Piper - Progressive Rock
-http://s2.shoutitaly.com:8030/;
-#EXTINF:-1,Purple Piper - Progressive Rock
-http://s2.shoutitaly.com:8030/radio.mp3
 #EXTINF:-1,PyRadio
 http://buraglio.it:8000/pyradio
 #EXTINF:-1,Q8 Radio
@@ -981,8 +981,6 @@ https://n15a-eu.rcs.revma.com/w8kdk0s8q7uvv?rj-ttl=5&rj-tok=AAABne6BDk0A8uIt5JXZ
 http://178.32.139.167:8102/;
 #EXTINF:-1,Radio Arcobaleno
 https://streaming.radiomargherita.com/stream/radioarcobaleno
-#EXTINF:-1,Radio Armisa
-https://onair.armisa.it/listen/armisa/radio.mp3
 #EXTINF:-1,Radio Arya
 https://radioarya.it/listen/radio_arya/radio.mp3
 #EXTINF:-1,Radio Ascoli
@@ -1187,6 +1185,8 @@ http://nr5.newradio.it:8651/stream
 https://onair7.xdevel.com/proxy/citysmi?mp=/;
 #EXTINF:-1,Radio City Trieste
 http://178.32.138.88:8084/stream
+#EXTINF:-1,Radio Clandestina
+http://onair7.xdevel.com:7188/;
 #EXTINF:-1,Radio Classica
 https://stream10.xdevel.com/audio0s978096-2470/stream/icecast.audio
 #EXTINF:-1,Radio Classica Bresciana
@@ -1491,8 +1491,6 @@ https://eu7.fastcast4u.com/proxy/radiofvg?mp=/;
 https://sr7.inmystream.it/proxy/radiogioiosamarina?mp=/stream
 #EXTINF:-1,Radio Gioventù
 http://178.32.139.167:8254/
-#EXTINF:-1,Radio Giulia
-http://rh.fluidstream.eu/giulia.aac?FLID=6
 #EXTINF:-1,Radio Glamour
 http://nr1.newradio.it:9254/stream
 #EXTINF:-1,Radio Globo
@@ -1657,6 +1655,8 @@ http://streaminglattemiele.lemcloud.net:12200/lemsicilia2.mp3
 https://ice09.fluidstream.net/lm_cagliari.mp3?FLID=8
 #EXTINF:-1,Radio LatteMiele Rete Sud
 http://streaminglattemiele.lemcloud.net:12200/lembasilicata2.mp3
+#EXTINF:-1,Radio LatteMiele Taranto
+https://s9.webradio-hosting.com/proxy/radiolat/stream
 #EXTINF:-1,Radio Laziale 
 https://router.xdevel.com/video5s975363-2398/stream/playlist.m3u8
 #EXTINF:-1,Radio Laziale 88.100 FM
@@ -1997,12 +1997,8 @@ https://gr.fluidstream.eu/gr6.mp3?FLID=1
 https://s5.radio.co/sf025b6002/listen
 #EXTINF:-1,radio polignano web
 https://sp3.server89.com:7018/
-#EXTINF:-1,Radio Pollino
-http://s6.mediastreaming.it:9080/
 #EXTINF:-1,Radio Pompa
 http://lamiaradio.homepc.it:8000/radiopompa.it.ogg
-#EXTINF:-1,Radio Pompa 2
-http://lamiaradio.homepc.it:8000/radiopompa2.ogg
 #EXTINF:-1,Radio Pompa 3
 http://lamiaradio.homepc.it:8000/radiopompa3.ogg
 #EXTINF:-1,RADIO POPIZZ
@@ -2039,10 +2035,6 @@ http://audio1.meway.tv:8108/stream
 https://stream.zeno.fm/9dve9gmfakhvv
 #EXTINF:-1,Radio Punto
 https://antares.dribbcast.com/proxy/puntolive/stream
-#EXTINF:-1,Radio Punto Nuovo
-http://onair15.xdevel.com:8062/
-#EXTINF:-1,Radio Punto Nuovo
-http://onair15.xdevel.com:8062/
 #EXTINF:-1,Radio Punto Zero
 https://ice01.fluidstream.net/rpz.aac
 #EXTINF:-1,Radio Punto Zero Tre Venezie
@@ -2269,8 +2261,6 @@ https://nr6.newradio.it:19104/;
 https://nr6.newradio.it:19393/;
 #EXTINF:-1,Radio Studio Nord Rock Cafè
 https://nr6.newradio.it:19363/;
-#EXTINF:-1,Radio Studio One
-https://be.server89.com:10998/stream
 #EXTINF:-1,RADIO STUDIO SOUND
 http://sr9.inmystream.it:8510/stream
 #EXTINF:-1,Radio Studio Star
@@ -2429,8 +2419,6 @@ https://eu2.fastcast4u.com/proxy/radiox?mp=/1
 http://eu1.fastcast4u.com:2014/stream
 #EXTINF:-1,Radio Yacht Sunsation - Always Summer
 https://sr12.inmystream.it:2020/stream/radioyacht
-#EXTINF:-1,Radio YES
-https://stream1.aswifi.it/radioyes/live/index.m3u8
 #EXTINF:-1,Radio Zai.net
 http://stream.mandragola.com/radiozainet
 #EXTINF:-1,Radio Zenith (Messina)
@@ -2481,14 +2469,14 @@ http://radioluna.no-ip.info:8000/luna
 http://onair7.xdevel.com:8738/;stream.mp3
 #EXTINF:-1,RADIOPIU
 https://radiopiu-danidi01.radioca.st/stream
-#EXTINF:-1,RADIOPUNTONUOVO
-http://onair15.xdevel.com:8062/;
 #EXTINF:-1,Radioradio
 https://sr6.inmystream.it/proxy/rrshout?mp=/stream
 #EXTINF:-1,RadioReload.it
 https://stream3.xdevel.com/audio0s975522-197/stream/icecast.audio
 #EXTINF:-1,Radiorizzonti inBlu
 http://stream.radiorizzonti.com/orizzonti
+#EXTINF:-1,radioscintillablog
+https://dreamsiteradiocp3.com/proxy/radioscintilla?mp=/
 #EXTINF:-1,RADIOSPEAKER.IT
 https://nr5.newradio.it/proxy/webradfest?mp=/stream2
 #EXTINF:-1,RadiostART

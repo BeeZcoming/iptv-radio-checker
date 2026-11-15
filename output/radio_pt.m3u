@@ -117,8 +117,6 @@ https://ice.ether.esr.li/esr-ch1.aac
 http://centova.radio.com.pt:9430/;
 #EXTINF:-1,Estação Diária Rádio, Viseu – 96.8 FM
 https://centova.radio.com.pt/proxy/430?mp=/stream
-#EXTINF:-1,Everything Is New
-http://proic1.redeaudio.com/ein
 #EXTINF:-1,FLUXMEDIA
 http://148.251.43.149:8181/stream
 #EXTINF:-1,FOQO
@@ -187,8 +185,6 @@ http://centova.radios.pt:8401/;listen.pls
 https://ec2.yesstreaming.net:3025/stream
 #EXTINF:-1,Orbital Rádio
 http://centova.radios.pt:8401/;
-#EXTINF:-1,OXIGÉNIO 102.6 FM
-http://proic1.evspt.com/oxigenio_aac
 #EXTINF:-1,Palavra Antiga Kids
 https://radio.palavraantiga.org/listen/kids/radio.mp3
 #EXTINF:-1,Porão da nau radio 
@@ -207,12 +203,6 @@ https://centova.radio.com.pt/proxy/426?mp=/stream;
 http://centova.radio.com.pt:9426/;
 #EXTINF:-1,Posto Emissor do Funchal OM
 http://centova.radio.com.pt:9422/stream
-#EXTINF:-1,Radar
-http://proic1.evspt.com/radar_mp3
-#EXTINF:-1,Radar
-http://proic1.redeaudio.com/radar_aac
-#EXTINF:-1,RADAR – 97.8 FM
-http://proic1.evspt.com/radar_aac
 #EXTINF:-1,Radialistas de Viseu
 https://stream.zeno.fm/77r7ufhaz98uv
 #EXTINF:-1,Rádio Algoritmo
@@ -387,12 +377,12 @@ https://radiometalon.com/listen/radio_metal_on_the_heavy/radio.mp3
 https://radiometalon.com/listen/radio_metal_on_the_thrasher/radio.mp3
 #EXTINF:-1,Radio Metal On: Toxic
 https://radiometalon.com/listen/radio_metal_on_toxic/radio.mp3
+#EXTINF:-1,Rádio Miróbriga
+https://rs2.ptservidor.com/proxy/paulo1?mp=/stream?type=.mp3
 #EXTINF:-1,Rádio Miudos
 http://109.71.41.6:8020/live
 #EXTINF:-1,Rádio Montalegre
 http://centova.radio.com.pt:9566/;
-#EXTINF:-1,Rádio Montanha
-https://s2.ndvendas.com:7202/;
 #EXTINF:-1,Rádio Montemuro
 https://shoutcast.htt.pt:8060/radio.mp3
 #EXTINF:-1,Rádio Movimento

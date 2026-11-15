@@ -25,6 +25,8 @@ https://live.netradio.pro/listen/jojofm/radio.mp3
 https://host2.streamafrica.net/listen/kasupe_radio/radio.mp3
 #EXTINF:-1,Kuwala FM
 https://host2.streamafrica.net/listen/kuwala_radio/radio.mp3
+#EXTINF:-1,LBS Radio (Love Beyond Status Radio)
+https://lbsradio-dexterity.radioca.st/stream
 #EXTINF:-1,Lilanguka Radio
 https://live.netradio.pro/listen/nguka/radio.mp3
 #EXTINF:-1,Linga FM
@@ -91,5 +93,3 @@ https://play.streamafrica.net/vol
 https://play.streamafrica.net/yetu
 #EXTINF:-1,YONECO FM
 https://s7.myradiostream.com:60218/;;
-#EXTINF:-1,ZBS Zodiak FM
-https://ice31.securenetsystems.net/0079

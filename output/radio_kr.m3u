@@ -49,6 +49,8 @@ http://ebsonairios.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 http://mlive2.febc.net:1935/live/seoulfm/playlist.m3u8
 #EXTINF:-1,FEBC 제주극동방송 FM 104.7
 http://mlive2.febc.net:1935/live/jejufm/playlist.m3u8
+#EXTINF:-1,Fred Film Radio(한국어)
+https://s10.webradio-hosting.com/proxy/fredradiokr/stream
 #EXTINF:-1,Gugak FM
 https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8
 #EXTINF:-1,GugakFM
@@ -67,10 +69,6 @@ https://61ff3340258d2.streamlock.net/jtv_radio/myStream/chunklist_w111659793.m3u
 http://kmeathosting.com:8000/kmeat
 #EXTINF:-1,K-RADIO
 https://s5.radio.co/s0a9796fe3/listen
-#EXTINF:-1,KBS_kor
-https://1radio-bora.gscdn.kbs.co.kr/1radio-bora-01/1radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xcmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMXJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDY0NTU5Mn19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=m7NtCF9kz15yqph9lQh5oHlyodZ2bl6BwGGqnbK93Jm5f1Tgot0vGKtv06oEfLfAkZIJpEetqYsa9GHPlEBFsW4yEX5~LSDFq8FPtBLzuw2QmnS98UZISk8SXUq~lSGYLOaZ3xMuYU~MK6VQy5VRF84Wh2V3hI96LfWQ1Rnc7bxyu5eMX~ynP98Nf7BB~RQoD14HP1kUy2csu5j7-h1W7jwcHicQ3hBaUyg2ra2WMjqxcohbNVDb4lo~WtrPaK48bKeNTQ6qO3uc6~msRtjB4xtN1CPsfGSAilJNAajRdcSZlNPmvwnHBlp8rWMeNTQhsDBlF0jPVdr-8wgxnSK-Uw__
-#EXTINF:-1,kbs해피fm
-https://2radio-bora.gscdn.kbs.co.kr/2radio-bora-01/2radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ycmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMnJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDcxNjM5MX19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=jr9VycfTOKcE-JqPjCcXaq0Z~9UJeSGfyLSnU3K9GUrGLByw7zU~3GiQvfkz0UDti0bIM7z4Gdytvdu-M-T2Fa~~G4ZYWTLE8v-Yw2GNamTV8fc~gpdXomucbmTyLPBJJFhH~XYa7kKBpOwCQ9q1Mah7qwBYWwU6mwXP9LJatVpZCgDN~1N3CEy5bQkdBFo21qH6ms2UdQr874gr0m7nDfxwkEGKKbBQ2Y9w~agKzU9XnOzzzBAaKaiDcJijDfW2v4t6MwONe01qUd3R96rx-4N6c4urlIDaYPnPZBcE08EsSCB1XLbU0T2eNsRJ2SmQyBQKC2IoGP~MNqbTUx-h5w__
 #EXTINF:-1,Korean city pop
 http://65.21.61.215:8000/citypoptwo
 #EXTINF:-1,Listen.moe Kpop (MP3)
@@ -113,8 +111,6 @@ https://stream.yojosuknam.com/live.mp3
 https://radiolive.ytn.co.kr/radio/_definst_/20211118_fmlive/playlist.m3u8
 #EXTINF:-1,경인방송
 https://stream.ifm.kr/live/aod1/playlist.m3u8
-#EXTINF:-1,국방FM
-https://mediaworks.dema.mil.kr/live_edge/audio.sdp/playlist.m3u8
 #EXTINF:-1,마포FM
 http://115.85.182.39/mapofm?type=.mp3
 #EXTINF:-1,안동MBC AM

@@ -111,6 +111,8 @@ http://stream.piraterock.se:8101/webradio
 https://whsh4u-clients.com:18323/proxy/ndhfnbqx?mp=/stream
 #EXTINF:-1,Pop & Rock
 http://62.101.46.15:8000/poporock
+#EXTINF:-1,Pop Radio Stockholm
+http://master.shoutcast.com:8000/popradio-stockholm
 #EXTINF:-1,Puls FM Borås
 http://stream.pulsfm.se:8908/stream
 #EXTINF:-1,Radio 88 Partille - Golden Hits
@@ -151,8 +153,6 @@ https://play.radiorivendell.com/radio/8000/radio.mp3
 http://rssand.se:4027/;
 #EXTINF:-1,Radio Sandviken
 https://shout.rs8990.com/;
-#EXTINF:-1,Radio Skövde
-http://video.webbplay.se:1935/liveradio/narradio/playlist.m3u8
 #EXTINF:-1,Radio Sotenäs
 http://sc3.radiosotenas.se:8500/
 #EXTINF:-1,Radio Sydvast
@@ -167,8 +167,6 @@ https://radio.mediarosenqvist.com/listen/radio-uppsala/radio.mp3
 https://streaming.943.se/radio45
 #EXTINF:-1,Redback Radio
 https://redback.mywire.org/stream.mp3
-#EXTINF:-1,REPLAY NEWS - Svenska
-https://replaynewsse.ice.infomaniak.ch/replaynewsse-128.mp3
 #EXTINF:-1,Retreat Radio
 http://retreatradio.out.airtime.pro:8000/retreatradio_b
 #EXTINF:-1,Retro FM Sverige

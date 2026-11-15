@@ -177,6 +177,8 @@ http://stream.zeno.fm/hn61akk9up8uv
 https://streamming.dobitsoluciones.com/livestream/1
 #EXTINF:-1,Boyaca Radio Balada Pop
 https://impactodigitalcol.com:8010/stream/1/
+#EXTINF:-1,Briceño Stereo 105.4 FM
+https://streamingmediaradio.live/8026/stream
 #EXTINF:-1,Brisa FM 93.1
 https://radio25.virtualtronics.com:20057/;
 #EXTINF:-1,Brisas del San Juan 106.3
@@ -423,8 +425,6 @@ http://radiolatina.info:7084/;
 https://stream.zeno.fm/zx3zzt5vvjdtv
 #EXTINF:-1,Fanática Stereo
 http://stream-179.surfernetwork.com/virlugnz0nmvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2aXJsdWduejBubXZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImtnYWZvM3FBUjYtTE9BZUNIbUY0TXciLCJpYXQiOjE3OTQ0NDc2NzQsImV4cCI6MTc5NDQ0NzczNH0.1_GslMY8ZIclGGm4glwN1FlQVxBf4ca_3SasyGv9SN0
-#EXTINF:-1,Fiesta 102.7 FM 
-https://server1.intermediacolombia.com:8008/stream
 #EXTINF:-1,Fiesta 106.2 FM
 https://server1.intermediacolombia.com:8006/stream
 #EXTINF:-1,FIESTA ESTEREO DIGITAL
@@ -435,6 +435,8 @@ https://stream.zeno.fm/c9bc24nmp3quv
 https://streaming.radiosenlinea.com.ar/8744/stream
 #EXTINF:-1,Fiesta Stereo 88.1 FM
 https://streaming.radiosenlinea.com.ar/8800/stream
+#EXTINF:-1,Fiesta Stereo La Plata 95.8 FM
+https://radiohd2.streaminghd.co:7095/stream
 #EXTINF:-1,Final Fantasy Radio
 http://finalfantasystation.com:8000/stream
 #EXTINF:-1,Frecuencia Arena
@@ -701,6 +703,8 @@ http://stream.latinastereo.com:8000/stream/1/
 https://stream.zeno.fm/2y8ebb4x6hhvv
 #EXTINF:-1,lider stereo 106.4 pijiño del carmen magdalena
 https://stream.zeno.fm/695x0n62rfeuv
+#EXTINF:-1,lloró stereo 88.3
+https://play10.tikast.com/proxy/llorostereo?mp=/stream%E2%80%A8/;type=mp3
 #EXTINF:-1,Los 40 Principales (Barranquilla)
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_COLOMBIAAAC_SC
 #EXTINF:-1,LOS40 Colombia
@@ -773,8 +777,6 @@ https://panel.nevermorenetwork.com/listen/nevermorenetwork.com/radio.mp3
 https://listen.usuarios.space/nicfelradio/
 #EXTINF:-1,Nueva Era Algeciras Sterio 107.8 FM
 https://radiohd.streaminghd.co:7154/stream
-#EXTINF:-1,OLIMPICA ESTÉREO 89.5 GUAJIRA
-https://stream.zeno.fm/f4ese4m5prytv
 #EXTINF:-1,Olímpica Stereo - Barranquilla
 https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_BARRANQUILLAAAC.aac?dist=oro_web
 #EXTINF:-1,Olímpica Stereo (Barranquilla)
@@ -1115,6 +1117,8 @@ https://usest-sp1.golivestream.net/8016/stream
 https://stream.zeno.fm/fnsco8ngeszvv
 #EXTINF:-1,Son Latino Medellín
 https://sonlatinomedellin.com/envivo
+#EXTINF:-1,sonora stereo 96.7 cimitarra
+https://radios.miservidor.cloud:8108/stream?nocache=1791681245059
 #EXTINF:-1,Soy Supernova
 https://soy-supernova.com/live
 #EXTINF:-1,Su Presencia
@@ -1165,6 +1169,8 @@ http://27573.live.streamtheworld.com:3690/TROPICANA_SC
 http://playerservices.streamtheworld.com/api/livestream-redirect/TR_CALI.mp3
 #EXTINF:-1,Tropicana Estéreo FM (Bogotá)
 https://playerservices.streamtheworld.com/api/livestream-redirect/TROPICANA_SC
+#EXTINF:-1,Tropicana Popayán  106.1
+https://playerservices.streamtheworld.com/api/livestream-redirect/TR_POPAYAN_SC
 #EXTINF:-1,Tropicanal 98.9 FM
 http://stream.zeno.fm/kmnekh2929duv
 #EXTINF:-1,Tropicanal Tropical 98.9 FM
@@ -1219,6 +1225,8 @@ https://sp2.servidorrprivado.com:10859/stream?type=http&nocache=9
 https://playerservices.streamtheworld.com/api/livestream-redirect/VIDA_BOGOTA_SC
 #EXTINF:-1,vida abundante mompox 90.5 fm
 https://comunikadostreaming.us:10914/stream
+#EXTINF:-1,VIDA STEREO 94.5 FM
+http://radio40.virtualtronics.com:8044/;
 #EXTINF:-1,Viejitas Pero Bonitas Radio
 https://stream.zeno.fm/t4pj1qaktrwtv
 #EXTINF:-1,Viejitas pero Bonitas Radio

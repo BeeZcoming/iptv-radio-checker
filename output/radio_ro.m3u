@@ -251,8 +251,6 @@ https://live.enjoyradio.ro/radio/8000/enjoylive.mp3
 https://stream.zeno.fm/ehbuv5erws8uv
 #EXTINF:-1,Erdély FM
 https://efm.radioca.st/stream
-#EXTINF:-1,Erdélyi Magyar Rádió
-https://adas.erdelyimagyarradio.eu:8443/emr
 #EXTINF:-1,Eron FM -Oradea
 https://stream.zeno.fm/u9kyi9j8dhluv
 #EXTINF:-1,Eurodisco80 Radio
@@ -265,8 +263,6 @@ https://astreaming.edi.ro:8443/EuropaFM_aac
 http://astreaming.europafm.ro:8000/europafm_aacp48k
 #EXTINF:-1,Europa FM
 http://astreaming.europafm.ro:8000/europafm_aacp48k?nocache=1775795565858
-#EXTINF:-1,Europa FM-AAC
-http://astreaming.virginradio.ro:8000/EuropaFM_aac
 #EXTINF:-1,EuropaFM
 http://astreaming.edi.ro:8000/EuropaFM_aac
 #EXTINF:-1,Eveniment FM Sibiu 103.2
@@ -363,6 +359,8 @@ https://stream.zeno.fm/mv62tmd8wp8uv.aac
 https://live.rockfm.ro/hard.rock
 #EXTINF:-1,Heavy Metal Radio
 http://107.161.126.115:8000/
+#EXTINF:-1,HERMES-TEST-ignore
+https://x0.at/whlG.mp3
 #EXTINF:-1,HIT FM Alba -Alba Iulia 88,6 FM
 https://radio.sonicpanel.ro/8082/stream
 #EXTINF:-1,https://live.reintregirea.ro
@@ -601,6 +599,8 @@ http://89.238.227.6:8042/
 https://radio.anybeautystyle.ro/listen/anybeautystyle/radio.mp3
 #EXTINF:-1,Radio APM Romania
 https://radio.sonicpanel.ro/9002/stream
+#EXTINF:-1,Radio Aquila
+https://s10.webradio-hosting.com/proxy/schrteam/stream
 #EXTINF:-1,Radio Arad
 http://85.120.220.205:8000/radio-arad
 #EXTINF:-1,Radio Arad -99,1 FM
@@ -635,6 +635,8 @@ https://ssl.asculta.live/radiobella/stream
 https://fra-pioneer01.dedicateware.com:2300/;
 #EXTINF:-1,Radio Blaj (📌 Blaj 📡 96,2 FM)
 http://ssl.asculta.live:8016/stream
+#EXTINF:-1,Radio Blue Romania
+https://asculta.muzicaok.de:8002/stream
 #EXTINF:-1,Radio BOOM Energy -Buzău
 https://stream.radioboom.ro/listen/boom_energy/radio.mp3
 #EXTINF:-1,Radio Boom Gold
@@ -765,8 +767,6 @@ https://cast6.my-control-panel.com/proxy/radio_emanuel_crestin/stream
 https://sonicssl.namehost.ro/8790/stream/;
 #EXTINF:-1,Radio Energy Cugir - 87,9 FM
 https://sonicssl.namehost.ro/8790/stream
-#EXTINF:-1,Radio Etno Mania Romania
-https://live.radioetnomania.com:9300/stream
 #EXTINF:-1,Radio Etno Vest Timisoara
 http://ssl.radios.show:8020/;
 #EXTINF:-1,Radio Extrem -Brăila
@@ -819,6 +819,22 @@ https://stream-galati.radiogalati.ro/
 https://a6.asurahosting.com:7030/radio.mp3?rnd=1786626073077
 #EXTINF:-1,Radio Glasul Ortodoxiei
 https://sonic.xservere.net:10884/stream
+#EXTINF:-1,Radio GMusic Colinde
+https://s9.webradio-hosting.com/proxy/rgmcolinde/stream
+#EXTINF:-1,Radio GMusic Dance
+https://s10.webradio-hosting.com/proxy/rgmdance/stream
+#EXTINF:-1,Radio GMusic Funky
+https://play.webradio-hosting.com:8036/stream
+#EXTINF:-1,Radio GMusic Relax
+https://play.webradio-hosting.com:8002/stream
+#EXTINF:-1,Radio Gmusic Retro
+https://s9.webradio-hosting.com/proxy/rgmretro/stream
+#EXTINF:-1,Radio GMusic Rock
+https://s9.webradio-hosting.com/proxy/rgmrock/stream
+#EXTINF:-1,Radio GMusic Soft
+https://s9.webradio-hosting.com/proxy/rgmsoft/stream
+#EXTINF:-1,Radio GMusic Trap
+https://s9.webradio-hosting.com/proxy/rgmtrap/stream
 #EXTINF:-1,Radio Gold FM
 http://80.86.106.110:8002/;
 #EXTINF:-1,Radio Goldies
@@ -949,10 +965,6 @@ https://eurodancelive.radionoise.ro:9128/stream
 https://goldlive.radionoise.ro:9170/stream
 #EXTINF:-1,Radio Noise Greatest Hits
 https://greatesthitslive.radionoise.ro:9010/stream
-#EXTINF:-1,Radio Noise Hip-Hop
-https://radio.sonicpanel.ro:9110/stream
-#EXTINF:-1,Radio Noise HipHip
-https://hiphoplive.radionoise.ro:9110/stream
 #EXTINF:-1,Radio Noise Hits
 https://hitslive.radionoise.ro:9140/stream
 #EXTINF:-1,Radio Noise House
@@ -975,8 +987,6 @@ https://operalive.radionoise.ro:9126/stream
 https://partylive.radionoise.ro:9160/stream
 #EXTINF:-1,Radio Noise Retro
 https://retrolive.radionoise.ro:9120/stream
-#EXTINF:-1,Radio Noise Rock
-https://rocklive.radionoise.ro:9130/stream
 #EXTINF:-1,Radio Noise Romania
 https://live.radionoise.ro:9100/stream
 #EXTINF:-1,Radio Noise Summer Hits
@@ -1017,6 +1027,8 @@ https://radio.sonicpanel.ro/8220/stream
 https://ssl.radios.show/8050/stream
 #EXTINF:-1,Radio Pitești Rociu
 https://stream.zeno.fm/7zb4u1eewf9uv
+#EXTINF:-1,Radio Poetic -Buzău
+https://asculta.muzicaok.de:8054/stream
 #EXTINF:-1,Radio Popular (Arhiva) (1)
 http://web.archive.org/web/20180110095018if_/http://mp3.radiopopular.ro:7777/;
 #EXTINF:-1,Radio Prahova
@@ -1105,6 +1117,10 @@ http://media.gds.ro:8500/128.mp3
 https://sonicpanel.namehost.ro:7824/stream
 #EXTINF:-1,Radio Super Manele
 http://manele.capitalfm.ro:8020/stream
+#EXTINF:-1,Radio Super Manele
+https://asculta.muzicaok.de:8046/stream
+#EXTINF:-1,Radio Taraf MANELE
+http://asculta.radiotaraf.ro:7100/;
 #EXTINF:-1,Radio Târgu Jiu
 https://stream.radiotargujiu.ro/stream
 #EXTINF:-1,Radio Teatru Radiofonic România
@@ -1359,6 +1375,8 @@ https://a7.asurahosting.com/listen/squad_radio_floresti_/radio.mp3
 https://live.radiostabilpitesti.eu/9986/stream
 #EXTINF:-1,Star Fm -Făgăraș 90.2 FM
 https://ssl.asculta.live:8310/;
+#EXTINF:-1,STAR FM România
+https://asculta.muzicaok.de:8060/stream
 #EXTINF:-1,Star rádió
 https://online.webcastradio.ro/star
 #EXTINF:-1,Statie de radio crestin
@@ -1403,12 +1421,16 @@ https://asculta.superfmradio.ro/9720/stream
 https://stream.zeno.fm/w8461rwck5zuv
 #EXTINF:-1,Super Popular
 https://stream.zeno.fm/8epw07pzm7zuv
+#EXTINF:-1,Super Radio
+http://asculta.muzicaok.de:8046/stream
 #EXTINF:-1,SuperFM Brasov 93.8 FM
 https://live.superfm.ro/stream.mp3?nocache=0.19023860954617056
 #EXTINF:-1,Supersonic Radio
 https://s5.radio.co/s08e5c5875/listen
 #EXTINF:-1,Supersonic Radio
 https://radiotrucker.com/en/play/supersonic-radio
+#EXTINF:-1,Superstar_Vip
+https://asculta.muzicaok.de:8020/stream
 #EXTINF:-1,Supravibe Radio
 https://supraviberadio-radiohosting.radioca.st/stream
 #EXTINF:-1,Sweet FM
@@ -1419,6 +1441,14 @@ https://a8.asurahosting.com:7640/stream
 https://szepvizfm.ro:8000/stream
 #EXTINF:-1,T Radio -Constanța 104.4 FM
 https://radiot.stream.laut.fm/radio_t
+#EXTINF:-1,Taraf România - Radio  Manele
+http://live.radiotaraf.ro:8181/
+#EXTINF:-1,Taraf România - Radio Colinde (doar in perioada sarbatorilor)
+http://colinde.radiotaraf.ro:7100/;
+#EXTINF:-1,Taraf România - Radio Dance
+http://live.radiotaraf.ro:8200/
+#EXTINF:-1,Taraf România - Radio Petrecere
+http://live.radiotaraf.ro:9000/
 #EXTINF:-1,Târgoviște Radio
 https://radio.sonicpanel.ro/8212/stream
 #EXTINF:-1,Tecuci Radio 106.1 FM
@@ -1437,8 +1467,6 @@ https://colinde.radiotequila.ro/8989/stream
 https://petrecere.radiotequila.ro/7000/stream
 #EXTINF:-1,Terra FM
 https://cloud.radiosonicpanel.ro/8020/stream
-#EXTINF:-1,TERRA FM
-https://radiosentir.sytes.net/stream?1774626668225
 #EXTINF:-1,Terra Radio -Medgidia 97.5 FM
 http://188.26.110.59:8000/terra_hq.mp3
 #EXTINF:-1,Terra Radio -Murfatlar 97.5 FM
@@ -1491,6 +1519,8 @@ https://stream.trecator.ro/mp3128kbps
 http://81.196.25.70:8000/;
 #EXTINF:-1,UBB Radio (Universitatea Babeș Bolyai) -Cluj Napoca
 http://stream.radio.ubbcluj.ro:8000/ubb.mp3
+#EXTINF:-1,UMF Craiova - Universitatea de Medicină și Farmacie
+https://sonic2-rbx.cloud-center.ro/8072/stream
 #EXTINF:-1,Unique Romania
 http://listen.radiounique.ro:8106/stream
 #EXTINF:-1,Urban FM
@@ -1573,15 +1603,13 @@ http://ado1.weradio.ro:8000/
 http://live.westcityradio.ro:8000/mp3
 #EXTINF:-1,West City Radio
 https://radiotrucker.com/en/play/west-city-radio
-#EXTINF:-1,Work From Home radio
-http://89.39.189.73:8000/
-#EXTINF:-1,Work From Home Radio -Cluj Napoca
-http://cristim84.radi0.im:8000/;stream.nsv
 #EXTINF:-1,X Radio -Oradea
 https://stream.zeno.fm/rd0bc4zkbm0uv
 #EXTINF:-1,Xtend Radio
 https://live.xtendradio.ro/mp3
 #EXTINF:-1,YOU FM România
 https://sonic2-rbx.cloud-center.ro/8034/stream
+#EXTINF:-1,ZC Radio (Ziua de Cluj) -Cluj Napoca
+https://sonicssl.namehost.ro:8020/stream
 #EXTINF:-1,ZU Radio
 http://zuicast.digitalag.ro:9420/zu

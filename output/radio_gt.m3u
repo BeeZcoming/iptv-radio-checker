@@ -37,8 +37,6 @@ https://stream.zeno.fm/3tfg0vng9ueuv
 https://stream.zeno.fm/0zashcvc9zquv
 #EXTINF:-1,Estéreo Alegre 101.5 FM
 https://stream.zeno.fm/597dgr66e2zuv
-#EXTINF:-1,Estéreo Gerardi 107.9 FM
-https://aler.org:8445/gerardi.mp3
 #EXTINF:-1,Estéreo Santa Sion
 https://radio015.gt.gt/radio/8000/live.mp3
 #EXTINF:-1,Estéreo Solar 104.9 FM
@@ -77,10 +75,14 @@ https://stream.zeno.fm/f1bgph3ve0quv
 https://playerservices.streamtheworld.com/api/livestream-redirect/LA_REDAAC.aac
 #EXTINF:-1,Maranatha Stereo Amen
 https://server.radiogs.net:7042/;
+#EXTINF:-1,Más Música FM Radio
+https://vivo.miradio.in/8110/stream
 #EXTINF:-1,Mas Musica-92-5 FM
 https://s4.radio.co/s42a526595/listen
 #EXTINF:-1,Mía 93.7 Guatemala
 https://playerservices.streamtheworld.com/api/livestream-redirect/MIAAAC.aac
+#EXTINF:-1,MUSIQUERA
+https://securestreams7.autopo.st/?uri=http://s4.voscast.com:9320/stream
 #EXTINF:-1,Nueva Fabuestéreo 88.1FM y Quetzaltenango 89.5FM 
 https://stream.zeno.fm/vs325dhm8ueuv
 #EXTINF:-1,Observatorio OGDI Guatemala

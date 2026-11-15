@@ -161,6 +161,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/DIGITAL_1029FM
 https://radio.rcg.com.mx:7005/stream
 #EXTINF:-1, DIGITAL 106.5 (Zacatecas) - 106.5 FM - XHLK-FM - Grupo Radiofónico ZER - Zacatecas, Zacatecas
 https://cast.zuperdns.net/8020/stream/
+#EXTINF:-1, DIGITAL 89 89.5 (Tonalá) - 89.5 FM - XHNAL-FM - Radio Chiapas - Tonalá, Chiapas
+http://streamingcwsradio10.com:9346/;
 #EXTINF:-1, DINÁMICA 94.5 (Piedras Negras) - 94.5 FM - XHTA-FM - Grupo Radio Zócalo - Piedras Negras, Coahuila
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHTAFMAAC.aac
 #EXTINF:-1, EL HERALDO RADIO 100.3 (GDL) - 100.3 FM - XHAV-FM - Heraldo Media Group - Guadalajara, JAlisco
@@ -191,8 +193,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHMIAAC.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHLOAAC.aac
 #EXTINF:-1, EXA FM 101.3 (Durango) - 101.3 FM - XHCAV-FM - Armas Radio - Durango, Durango
 https://stream9.mexiserver.com:8114/;
-#EXTINF:-1, EXA FM 101.9 (Poza Rica) - 101.9 FM - XHRIC-FM - MVS Poza Rica (Estudio 101.9) - Poza Rica, Veracruz
-https://playerservices.streamtheworld.com/api/livestream-redirect/XHRICAAC.aac
 #EXTINF:-1, EXA FM 102.1 (San Luis Potosí) - 102.1 FM - XHESL-FM - MG Radio - San Luis Potosí, San Luis Potosí
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHESLAAC.aac
 #EXTINF:-1, EXA FM 107.1 (Piedras Negras) - 107.1 FM - XHPNS-FM - Grupo Radio Zócalo - Piedras Negras, Coahuila
@@ -247,8 +247,6 @@ https://radio.streamexico.com/listen/frecuencia/radio.aac
 http://hd.digitalradio.mx:5906/;stream
 #EXTINF:-1, GLOBO 102.1 (Córdoba) - 102.1 FM - XHAG-FM - Radio Comunicaciones de las Altas Montañas - Córdoba, Veracruz
 https://streaming.sistemasmvsradio.com/proxy/afixhag/stream
-#EXTINF:-1, Globo 102.7 (Poza Rica) - 102.7 FM - XHPR-FM - MVS Poza Rica (Estudio 101.9) - Poza Rica, Veracruz
-https://playerservices.streamtheworld.com/api/livestream-redirect/XHPRFMAAC.aac
 #EXTINF:-1, GLOBO 91.1 (Torreón) - 91.1 FM - XHTC-FM - GREM (Grupo Radio Estéreo Mayrán) - Torreón, Coahuila
 http://streamingcwsradio30.com/8232/stream
 #EXTINF:-1, GLOBO 97.9 (Mazatlán) - 97.9 FM - XHMMS-FM - Grupo RSN - Mazatlán, Sinaloa
@@ -263,8 +261,6 @@ https://media-ssl.musicradio.com/HeartUK
 https://mdstrm.com/audio/672cf08df19248c08339a8f4/icecast.audio
 #EXTINF:-1, HORIZONTE 107.9 (CDMX) - 107.9 FM - XHIMR-FM - IMER - Ciudad de México
 https://securestreams7.autopo.st/?uri=https://s2.mexside.net/8014/stream
-#EXTINF:-1, IBERO.2 90.9 (CDMX) - 90.9 HD2 - XHUIA-FM - Universidad Iberoamericana - Ciudad de México
-https://shaincast.caster.fm:20866/listen.mp3
 #EXTINF:-1, IMAGEN RADIO 105.5 (Mexicali) - 105.5 FM - XHCMS-FM - Grupo Imagen - Mexicali, Baja California
 http://mexicali.radio.wnsol.com:8340/stream
 #EXTINF:-1, IMAGEN RADIO 92.5 (Veracruz) - 92.5 FM - XHQRV-FM - Grupo Imagen - Veracruz, Veracruz
@@ -287,6 +283,8 @@ https://live-bauerkiss.sharp-stream.com/kissfresh.aac?direct=true&aw_0_1st.skey=
 https://live-bauerkiss.sharp-stream.com/kisstoryrb.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992
 #EXTINF:-1, KISSTORY UK: Non-Stop Old Skool & Anthems
 https://live-bauerkiss.sharp-stream.com/kisstory.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992
+#EXTINF:-1, KY 104.3 (Ciudad Juárez) - 104.3 FM - XHTO-FM - Grupo Audiorama Comunicaciones - Ciudad Juárez, Chihuahua
+https://sg.centrocibernetico.com/audiorama-xhto
 #EXTINF:-1, KY 104.5 (MTY) - 104.5 FM - XHMF-FM - Grupo Audiorama Comunicaciones - Monterrey, Nuevo León
 https://cdn1.onstream.audio/proxy/xhmf/stream
 #EXTINF:-1, La Bestia Grupera 540 (CDMX) - 540 AM - XEWF-AM - Grupo Audiorama Comunicaciones - Ciudad de México
@@ -675,8 +673,6 @@ https://estaciones.uaq.mx:8000/radio.mp3
 https://stream-288.surfernetwork.com/h6x4srz92hhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJoNng0c3J6OTJoaHZ2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ijd6R0swZENjUjdhMTNLTks2Z0hJdXciLCJpYXQiOjE3OTQ0MzYxOTgsImV4cCI6MTc5NDQzNjI1OH0.lQTQMk8N9qd6HJ1AM-cYonXw0RAQ3conM_TommL-fko
 #EXTINF:-1, RADIO UV 90.5 (Xalapa) - 90.5 FM - XHRUV-FM - UV (Universidad Veracruzana) - Xalapa, Veracruz
 https://58fe359775f31.streamlock.net/radioice/radioice.stream/playlist.m3u8
-#EXTINF:-1, RADIO VARIEDADES 103.5 (Los Mochis) - 103.5 FM - XHPNK-FM - Cadena OIR - Los Mochis, Sinaloa
-https://radios.blumhost.es/8126/;
 #EXTINF:-1, RADIO VIDA 100.1 (Ciudad Obregón) - 100.1 FM - XHCSAE-FM - Radio Vida MX - Ciudad Obregon, Sonora
 https://stream4.305stream.com:9675/stream
 #EXTINF:-1, RADIO ZACATECAS 97.9 (Zacatecas) - 97.9 FM - XHZH-FM - SIZART (Sistema Zacatecano de Radio y Televisión) - Zacatecas, Zacatecas
@@ -715,8 +711,6 @@ http://216.251.65.74:8000/stream
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHMMFMAAC.aac
 #EXTINF:-1, STEREO CRISTAL 101.1 (Querétaro) - 101.1 FM - XHJHS-FM - Grupo Radar - Querétaro, Querétaro
 https://radios.radiohd.com.mx:8274/stream
-#EXTINF:-1, STEREO FRESNILLO 91.1 (Fresnillo) - 91.1 FM - XHRRA-FM - Grupo Radiofónico ZER - Fresnillo, Zacatecas
-https://cast.zuperdns.net/8018/stream/
 #EXTINF:-1, STEREO MAX 98.1 (San Martín Texmelucan) - 98.1 FM - XHMAXX-FM - Cinco Radio - San Martín Texmelucan, Puebla
 https://sg.centrocibernetico.com/stereomaxx981
 #EXTINF:-1, STEREO SALTILLO 93.5 (Saltillo) - 93.5 FM - XHQC-FM - Multimedios Radio - Saltillo, Coahuila
@@ -761,6 +755,8 @@ https://sp5.servidorrprivado.com:10982/stream
 https://sp3.servidorrprivado.com:10829/stream
 #EXTINF:-1, VIDA 1370 (Mexicali) - 1370 AM - XEHG-AM - Grupo Audiorama Comunicaciones - Mexicali, Baja California
 https://sg.centrocibernetico.com/audiorama-xehg
+#EXTINF:-1, VIDA 89.7 (Acapulco) - 89.7 FM - XHKJ-FM - Grupo Audiorama Comunicaciones - Acapulco, Guerrero
+https://sg.centrocibernetico.com/audiorama-xhkj
 #EXTINF:-1, VIDA 99.9 (Piedras Negras) - 99.9 FM - XHSG-FM - Grupo Audiorama Comunicaciones - Piedras Negras, Coahuila
 https://ss1.audiorama.com.mx:6670/stream
 #EXTINF:-1, VIDA ROMÁNTICA 100.9 (Poza Rica) - 100.9 FM - XHEJD-FM - Radiorama Poza Rica - Poza Rica, Veracruz
@@ -825,6 +821,8 @@ http://sgaudio.centrocibernetico.com/xeu
 https://sg.centrocibernetico.com/xevavillahermosa
 #EXTINF:-1,@FM (Piedras Negras) - 101.7 FM - XHCPN-FM - Radiorama - Piedras Negras, Coahuila
 https://stream.zeno.fm/p7xefup9d78uv
+#EXTINF:-1,\tBEAT 100. 9 FM: La música se elije
+http://playerservices.streamtheworld.com/api/livestream-redirect/XHSONFMAAC.aac
 #EXTINF:-1,+Arroba FM (CDMX) - Online - www.arroba.fm - Radiorama - Ciudad de México
 https://stream.zeno.fm/6vtcayf9d78uv
 #EXTINF:-1,+Azteka Radio (Río Verde) - Online - www.aztekaradio.com - Río Verde, San Luis Potosí
@@ -921,6 +919,8 @@ http://201.159.48.107:8080/
 https://streamingcwsradio30.com:7093/stream
 #EXTINF:-1,102.5 Coahuila Hoy Radio (Saltillo) - 102.5 FM - XHSHT-FM - Grupo M Radio - Saltillo, Coahuila
 https://cast1.asurahosting.com/proxy/coahuilasaltillo/stream
+#EXTINF:-1,102.5 Oreja FM
+https://stream.zeno.fm/3agiabarewutv
 #EXTINF:-1,102.9 Buenavista Radio (Ciudad Valles) - 102.9 FM - XHCSBY-FM - Medios Digitales Culturales de la Huasteca, A.C. - Ciudad Valles, San Luis Potosí
 https://cast1.asurahosting.com/proxy/bnavista/stream
 #EXTINF:-1,102.9 Exa FM (Tehuacán) - 102.9 FM - XHWJ-FM - Radio TH Comunicación - Tehuacán, Puebla
@@ -1003,6 +1003,8 @@ https://secure.radiorama.mx:2183/
 https://securestreams7.autopo.st/?uri=https://s2.mexside.net/8172/stream
 #EXTINF:-1,107.5 RMX (GDL) - 107.5 FM - XHVOZ-FM - Grupo Audiorama Comunicaciones / Grupo Imagen - Guadalajara, Jalisco
 https://ss1.audiorama.com.mx:6574/rmx
+#EXTINF:-1,107.7 El Sol (Tijuana) - 107.7 FM - XHRST-FM - MLC Media - Tijuana, Baja California
+https://vsstreaming.com/8026/stream
 #EXTINF:-1,107.9 DSS Radio (Chilpancingo) - 107.9 FM - XHSCAS-FM - Digital con Sentido Social 106.3, A.C. - Chilpancingo, Guerrero
 https://cast3.my-control-panel.com/proxy/dssradio?mp=/;
 #EXTINF:-1,107.9 Super Estelar (Piedras Negras) - 107.9 FM - XHCP-FM - Grupo Radio Zócalo - Piedras Negras, Coahuila
@@ -1307,6 +1309,8 @@ http://s22.myradiostream.com:9504/
 https://stream.zeno.fm/8zdtzypwyozuv
 #EXTINF:-1,Aldo Radio 
 https://stream.zeno.fm/2tywf0qdtrutv
+#EXTINF:-1,ALFA 91.3 FM: Donde todo nace
+http://playerservices.streamtheworld.com/api/livestream-redirect/XHFAJ_FMAAC.aac
 #EXTINF:-1,Almost Hell Radio
 https://almosthellradio.duckdns.org/listen/almost_hell_radio/radio128.mp3
 #EXTINF:-1,Almost Hell Radio
@@ -1429,8 +1433,6 @@ https://cast.zuperdns.net/8008/stream/;stream.mp3?nochache=0.3141970676706438
 https://radios.yanapak.org/Chililines%20Radio
 #EXTINF:-1,Cielos Abiertos 94.7 FM (Ciudad Valles) - Ciudad Valles, San Luis Potosí
 https://s01.digitalserver.org/8100/stream
-#EXTINF:-1,Cielos Abiertos 94.7 FM XHPEAA Cd. Valles
-https://radiosprofecionalesmex.com/8002/stream
 #EXTINF:-1,Ciudadana 660 AM "Te acompaña" (XEDTL) IMER
 https://s2.mexside.net/8026/stream
 #EXTINF:-1,Clasics (Morelia) - 99.1 FM - XHMOM-FM - Medios Radiofónicos de Michoacán - Morelia, Michoacán
@@ -1787,6 +1789,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XEHIT_SC.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR05_s01AAC.aac
 #EXTINF:-1,La Consentida San Luis 107.9
 https://radios.blumhost.es/8136/;
+#EXTINF:-1,La Cotorra 101.7 FM Ciudad Victoria
+https://cast1.my-control-panel.com/proxy/cotorra/stream
 #EXTINF:-1,La Ele (Fresnillo) - 95.1 FM - XHEL-FM - Torres Corporativo - Fresnillo,  ZA
 https://radioforte.com/8008/stream
 #EXTINF:-1,La Fiera Veracruz - 94.1 FM - XHHV-FM - Grupo Pazos - Veracruz, VE
@@ -1835,6 +1839,8 @@ https://streamingcwsradio30.com:7023/stream
 https://streamingcwsradio30.com:7028/stream?type=http&nocache=1
 #EXTINF:-1,La Invasora Ciudad  Obregón 90.5 FM
 https://streamingcwsradio30.com:7029/stream
+#EXTINF:-1,La J Mexicana - 970 AM - XEJ-AM - Grupo Audiorama Comunicaciones - Ciudad Juárez, Chihuahua
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEJ_AMAAC.aac
 #EXTINF:-1,La Jefa (Camargo) - 96.1 FM - XHEOH-FM - Camargo, Chihuahua
 https://dattavolt.com/8266/stream
 #EXTINF:-1,La K-Pitana
@@ -1843,6 +1849,8 @@ https://stream-155.zeno.fm/s3oi06jeyifuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ
 https://stream.zeno.fm/f7rmwpnakuhvv
 #EXTINF:-1,La Ke Buena 100.7 Ruiz
 https://icecasthd.net/proxy/grk/xhsk
+#EXTINF:-1,La Ke Buena 90.1 FM Los mochis
+https://stream.zeno.fm/5t4ngp8hfphvv
 #EXTINF:-1,La Ke Buena 93.9 Iguala
 https://streaming.servicioswebmx.com/8292/stream
 #EXTINF:-1,La Ke Buena 95.9 FM Puerto Vallarta
@@ -2055,8 +2063,6 @@ https://live.zuperdns.net/9730/stream/;stream.mp3
 https://stream.zeno.fm/u1q3a220974tv
 #EXTINF:-1,La Rancherita 106.3 FM Ciudad Guzmán
 https://live.zuperdns.net/2063/stream/;stream.mp3
-#EXTINF:-1,La Rancherita 91.7 FM Los Mochis
-https://radios.blumhost.es/8124/;
 #EXTINF:-1,La Rancherita Juárez 1000 AM
 https://stream.zeno.fm/6ga3mhs91rhvv
 #EXTINF:-1,La Raza (Los Reyes) - 92.5 FM - XHGQ-FM - Los Reyes, MI
@@ -2087,6 +2093,10 @@ https://sonic.sistemahost.es/8038/stream
 https://cast1.my-control-panel.com/proxy/lav/stream/;stream.mp3
 #EXTINF:-1,La Voz del Pitic - 88.1 FM - XHRMO-FM - Democracia y Deliberación Desértica, A.C. - Hermosillo, SO
 https://s5.mexside.net:8080/stream
+#EXTINF:-1,La Z 98.5 Ciudad Obregón
+https://streamingcwsradio30.com:7030/stream
+#EXTINF:-1,La Z Ciudad Juárez - 103.5 FM / 720 AM - XHEM-FM / XEJCC-AM - Grupo Audiorama Comunicaciones - Ciudad Juárez, Chihuahua
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHEM_FMAAC.aac
 #EXTINF:-1,La Zeta (Hermosillo) - 102.7 FM - XHDM-FM - Uniradio - Hermosillo, Sonora
 https://streamingcwsradio30.com:7027/stream
 #EXTINF:-1,La Zeta (Hermosillo) - 93.9 FM - XHMV-FM - Uniradio - Hermosillo, Sonora
@@ -2189,8 +2199,6 @@ https://stream.freepi.io/8300/live
 https://streaming.servicioswebmx.com/8290/stream
 #EXTINF:-1,LOS40 Tuxtla 96.1
 https://stream.freepi.io/8308/live
-#EXTINF:-1,LOS40 Uruapan - 93.7 FM - XHENI-FM - Grupo AS Comunicación - Uruapan, Michoacán
-https://stream-153.zeno.fm/he3k1e4ar8cuv
 #EXTINF:-1,LOS40 Xalapa - 104.1 FM - XHGR-FM - Xalapa, VE
 https://streaming.servicioswebmx.com/8138/stream
 #EXTINF:-1,LOS40 Zamora - 88.1 FM - XHZN-FM - Grupo Radio Zamora - Zamora, MI
@@ -2429,12 +2437,16 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHMZTFMAAC.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHTOMFMAAC.aac
 #EXTINF:-1,Radio Doki
 https://kuronegai.radioca.st/stream
+#EXTINF:-1,Radio Emisor Contenido con Calidad MÚSICA CLÁSICA MEXICANA TABASCO 
+https://sonic.sistemahost.es:7018/
 #EXTINF:-1,Radio Esperanza (Monterrey) - 1140 AM - XEMR-AM - Grupo Radio Alegría - Apodaca / Monterrey, NL
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ESPERANZA_1140AM.mp3
 #EXTINF:-1,Radio estereo mixes fm
 https://stream.zeno.fm/qlwpb1ipqd7tv
 #EXTINF:-1,Radio Estereo Playa
 https://stream.zeno.fm/rrcwp4ehorpvv
+#EXTINF:-1,Radio Familia (Parral) - 107.9 FM - XHDAB-FM - Hidalgo del Parral, Chihuahua
+https://radiofamilia1.radioca.st/stream
 #EXTINF:-1,Radio Felicidad (Ciudad de México) - 1180 AM - XEFR-AM - Grupo ACIR - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEFRAMAAC_SC.aac
 #EXTINF:-1,Radio Fórmula - 970 AM - XERFR-AM - Grupo Fórmula - Ciudad de México
@@ -2499,8 +2511,6 @@ https://stream-156.zeno.fm/2ieszeso9istv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI
 https://radio.ilce.edu.mx:8443/radioilce.mp3
 #EXTINF:-1,Radio IMER (Comitán) - 107.9 FM / 540 AM - XHEMIT-FM / XEMIT-AM - IMER - Comitán, CS
 https://s2.mexside.net/8050/stream
-#EXTINF:-1,radio indecente
-http://indecentes.duckdns.org:8000/live
 #EXTINF:-1,Radio Jerez (Jerez) - 89.1 FM - XHXM-FM - Grupo Radiofónico ZER - Jerez, ZA
 https://cast.zuperdns.net/8016/stream/
 #EXTINF:-1,Radio Jerez (Zac) XHXM 89.1
@@ -2509,8 +2519,6 @@ https://cast.zuperdns.net:8016/stream/1/
 https://sp2.servidorrprivado.com/9302/stream
 #EXTINF:-1,Radio Los Compadres - 107.5 FM - XHSCBC-FM - Témoris, Chihuahua
 https://stream.zeno.fm/25f0rqngk5zuv
-#EXTINF:-1,Radio Madera - 96.1 FM [Cd. Madera, Chihuahua]
-https://streamingcwsradio30.com:7113/;
 #EXTINF:-1,RADIO MARIA MEXICO
 http://dreamsiteradiocp.com:8086/stream
 #EXTINF:-1,Radio Más
@@ -2553,6 +2561,8 @@ https://mdstrm.com/audio/672a5df773078862801f389f/icecast.audio
 https://servidor18.brlogic.com:7178/live
 #EXTINF:-1,Radio San Pancho 
 https://listen.radioking.com/radio/680182/stream/744577
+#EXTINF:-1,Radio Santa Fe (Guanajuato) - 1500 AM - XEFL-AM - Guanajuato, Guanajuato
+http://www.icecasthd.net:8274/xhfl
 #EXTINF:-1,Radio Saudade
 http://perseus.shoutca.st:8062/live?1542171445798
 #EXTINF:-1,Radio sensación 96.7 FM Ciudad Gusmán
@@ -2573,18 +2583,14 @@ https://radio11.mega00.com/8022/stream
 http://streaming.radio.co/s510dd57df/listen
 #EXTINF:-1,Radio UAdeO (Los Mochis) - 89.3 FM - XHUDO-FM - Universidad Autónoma de Occidente - Los Mochis, Sinaloa
 https://xhudo-megacaster.radioca.st/stream
-#EXTINF:-1,Radio UAGro
-https://stream3.mexiserver.com:10034/stream?icy=https
 #EXTINF:-1,Radio UAS 96.1 Culiacán
 https://stream9.mexiserver.com/8410/stream
+#EXTINF:-1,Radio UAT (Ciudad Victoria) - 102.5 FM - XHUNI-FM - Universidad Autónoma de Tamaulipas - Ciudad Victoria, Tamaulipas
+https://streaming.servicioswebmx.com/8026/stream
 #EXTINF:-1,Radio UDEM (Monterrey) - 90.5 FM - XHUDEM-FM - Universidad de Monterrey - Monterrey, NL
 http://c3.radioboss.fm:8161/stream
 #EXTINF:-1,RADIO UNAM (AM): Experiencia Sonora
 https://tv.radiohosting.online:9486/stream
-#EXTINF:-1,Radio Universidad (UAdeC) - 104.1 FM [Saltillo, Coahuila]
-https://stream11.mexiserver.com:9002/;#.mp3
-#EXTINF:-1,Radio Universidad (UAdeC) - 89.5 FM [Torreón, Coahuila]
-https://stream11.mexiserver.com:9003/;#.mp3
 #EXTINF:-1,Radio Universidad de Guadalajara (Puerto Vallarta) - 104.3 FM - XHUGPV-FM - Universidad de Guadalajara - Puerto Vallarta, Jalisco
 https://stream.zeno.fm/8dr2yf092hhvv
 #EXTINF:-1,Radio Universidad de Sonora (XHUSH-FM, 107.5 MHz FM, Hermosillo) Universidad de Sonora
@@ -2607,8 +2613,6 @@ https://myradio24.org/edwyonz
 https://stream-170.zeno.fm/0kq3bh5sq68uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwa3EzYmg1c3E2OHV2IiwiaG9zdCI6InN0cmVhbS0xNzAuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IllGWXo0WTYxUk5LakVFSFpQUGdIc3ciLCJpYXQiOjE3NDcyNTY0NzksImV4cCI6MTc0NzI1NjUzOX0.VGxV3mUPhxm0Fm603nqpUjHoh2zQZVy0zGEMeIBUdH0
 #EXTINF:-1,Raincoast Jazz
 https://a13.asurahosting.com/listen/raincoast_jazz/radio.mp3
-#EXTINF:-1,RCA 105.9 Radio Cultural Ayuntamiento
-https://usa3.lhdserver.es:8307/stream
 #EXTINF:-1,Rclasicos 96.9 FM
 https://s5.mexside.net:8100/stream
 #EXTINF:-1,ReAktiva Fm
@@ -2637,6 +2641,8 @@ https://stream-284.surfernetwork.com/g1uslmxk9j4vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzd
 https://streaming.servicioswebmx.com/8064/stream
 #EXTINF:-1,RRR 89.5 FM
 https://live.zuperdns.net/8950/stream/;stream.mp3?nochache=0.7584312150692858
+#EXTINF:-1,SABROSITA 590 AM: La Más Caliente
+http://playerservices.streamtheworld.com/api/livestream-redirect/XEPHAMAAC.aac
 #EXTINF:-1,San Juan FM 96.1 San Juan de los lagos
 https://live.zuperdns.net/6961/stream/;stream.mp3
 #EXTINF:-1,Señal 90 - 90.7 FM - XHOY-FM - Grupo Unidifusión - Guadalajara, Jalisco
@@ -2685,6 +2691,8 @@ http://216.251.65.74:8000/;
 https://stream9.mexiserver.com/8424/stream
 #EXTINF:-1,Stereo Cien
 http://29308.live.streamtheworld.com/XHMMFMAAC_SC
+#EXTINF:-1,STEREO CIEN 100.1 FM: Siempre contigo
+http://playerservices.streamtheworld.com/api/livestream-redirect/XHMMFMAAC.aac
 #EXTINF:-1,Stereo Cristal (Querétaro) - 101.1 FM - XHJHS-FM - Grupo Radar / Corporación Bajío Comunicaciones - Querétaro, Querétaro
 https://radios.radiohd.com.mx/8274/stream
 #EXTINF:-1,Stereo Saltillo 93.5 FM
@@ -2731,8 +2739,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHCDUFMAAC.aac
 http://69.197.169.74:8207/stream
 #EXTINF:-1,Super Puerto Peñasco 93.5 FM
 https://cdn1.onstream.audio/proxy/xhita/stream
-#EXTINF:-1,Super Stereo (Mérida) - 105.9 FM - XHFCY-FM - Grupo Radio Digital - Mérida, YU
-https://stream.zeno.fm/130pyk2xr98uv
 #EXTINF:-1,Super Stereo Miled 1510 AM Guadalajara
 https://miledgdl-cybertec.radioca.st/;
 #EXTINF:-1,Super Stereo Miled 95.1 La Paz

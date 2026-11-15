@@ -145,8 +145,6 @@ https://stream-283.surfernetwork.com/hxv1ceue74zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzd
 https://broadcast.radio247.net/listen/desierto_web/radio.mp3
 #EXTINF:-1,Digital 105.5 FM - CONCEPCIÓN
 https://radio.digitalfm.cl:8000/concepcion1
-#EXTINF:-1,Digital 105.5 FM - TALCA
-https://radio.digitalfm.cl:8000/talca
 #EXTINF:-1,Digital 89.5 FM - CALAMA
 https://radio.digitalfm.cl:8000/calama1
 #EXTINF:-1,Digital 94.9 FM - VALPARAISO
@@ -321,8 +319,6 @@ https://centova.neonetwork.cl:9030/stream.aac
 https://radiomotiva.edz.cl/motiva
 #EXTINF:-1,Motiva2
 https://radiomotiva.edz.cl/motiva2
-#EXTINF:-1,Musicoop
-https://sonic.portalfoxmix.club/8486/stream
 #EXTINF:-1,MyTuner 90s
 https://stream.zeno.fm/vtzf1dppgxiuv
 #EXTINF:-1,Newen del Lago
@@ -395,8 +391,6 @@ https://unlimited4-us.dps.live/agricultura/gotardis/audio/now/livestream1.m3u8
 http://stream.alasdeaguilas.cl:9332/;
 #EXTINF:-1,Radio Alborada 106.1
 https://sonic.portalfoxmix.club/8438/stream
-#EXTINF:-1,Radio Alegría del Transporte 90.7 FM
-http://streaming01.xhost.cl/8048/;
 #EXTINF:-1,Radio Amiga de Talca
 http://archi-us.digitalproserver.com/amiga.aac
 #EXTINF:-1,Radio Amiga Fm 100.7
@@ -493,8 +487,6 @@ https://stream.radioclub80.cl:8072/peliculas80.flac24
 http://stream.radioclub80.cl:9040/live.flac
 #EXTINF:-1,Radio Cobremar - Chañaral FM 89.9
 https://audio.bitsur.cl/8066/stream
-#EXTINF:-1,Radio Colina 107.3 FM
-https://streaming01.xhost.cl/8156/stream
 #EXTINF:-1,Radio ColoColo
 https://audio2.tustreaming.cl:10997/stream
 #EXTINF:-1,Radio Colombina
@@ -567,8 +559,6 @@ https://sonic.mistreamingtv.uno/8016/stream
 https://stream.zeno.fm/ws9z11fhrd0uv
 #EXTINF:-1,Radio Estrella del Norte
 http://sonic.portalfoxmix.cl:8424/;
-#EXTINF:-1,Radio Euro Éxtasis
-https://conexion.radioeuroextasis.com/
 #EXTINF:-1,Radio Evocación
 https://radiolatina.live/8016/stream
 #EXTINF:-1,Radio Exclusiva FM
@@ -663,6 +653,8 @@ http://sonando.us.digitalproserver.com/libra.aac
 https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3
 #EXTINF:-1,Radio Maipu Fm
 https://pragustream.live:8040/stream/1/
+#EXTINF:-1,Radio Manantial de Vida 107.1 FM
+https://radiomdv.cl/envivo
 #EXTINF:-1,Radio Mar FM
 https://cp.sonicpanel.stream:8204/stream
 #EXTINF:-1,Radio Marcela
@@ -943,8 +935,6 @@ https://s4.radio.co/s421105570/listen
 https://icecast.centaury.cl:7610/SSDEMO
 #EXTINF:-1,Tele13 Radio 103.3
 https://mdstrm.com/audio/5c915613519bce27671c4caa/live.m3u8
-#EXTINF:-1,Texto Plano
-http://texto-plano.xyz:8000/live.ogg
 #EXTINF:-1,Tropical Ranchero
 https://sonic01.zglobalhost.com/8068/stream
 #EXTINF:-1,UC Radio Beethoven

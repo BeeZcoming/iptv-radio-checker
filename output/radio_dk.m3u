@@ -273,8 +273,6 @@ http://komplex2.psyradio.org:8020/chillout/;
 https://s3.radio.co/s7cd1ffe2f/listen
 #EXTINF:-1,Radio 40plus
 http://stream.radiosolutions.dk/radio40plus
-#EXTINF:-1,Radio 7 Ravensburg
-https://streams.radio7.de/rv/mp3-192/web/
 #EXTINF:-1,Radio ABC
 http://netradio.radioabc.dk/
 #EXTINF:-1,Radio ABC
@@ -295,6 +293,8 @@ https://radioserver.dk/alfasilk
 https://radioserver.dk/alfaskive
 #EXTINF:-1,Radio Alfa Viborg
 https://radioserver.dk/alfaviborg
+#EXTINF:-1,Radio ALR
+http://streamer.radio.co/s6a9beb92e/listen
 #EXTINF:-1,Radio Boost
 http://6434.cloudrad.io:8066/;
 #EXTINF:-1,Radio Denmark FM

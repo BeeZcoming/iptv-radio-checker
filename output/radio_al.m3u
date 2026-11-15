@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,93 FM
-https://stream-179.surfernetwork.com/nxlpc8voddftv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJueGxwYzh2b2RkZnR2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Im91MGd1R1pQUnltdzlKOVdaX3dxa3ciLCJpYXQiOjE3OTQyNzAzNTEsImV4cCI6MTc5NDI3MDQxMX0.RBl966up9DSv4gtwsNBbaa4FalYhRRDYbcVvfvuk5qk
+https://stream-179.surfernetwork.com/nxlpc8voddftv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJueGxwYzh2b2RkZnR2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJhMTlzYmVoSVE1T1c0MmJfOUpHWlJRIiwiaWF0IjoxNzk0NzAyMzc4LCJleHAiOjE3OTQ3MDI0Mzh9.FhlgTtdJfg6exZMeBylLdQ0y9yU-svXM2aVv5wlI_Ko
 #EXTINF:-1,Albania 360 Radio
 https://radio.albania360.net/listen/albania_360_radio/radio.mp3
 #EXTINF:-1,Albania News 24 TV
@@ -107,6 +107,8 @@ https://radios.albaniadigitalradio.al/albaniaradiodj
 https://live-ol.meldingcloud.com/albanianlive/am106online.m3u8?auth_key=1711939304-0-0-c9ac7fc169f869fc45f13bfb96bbe81f
 #EXTINF:-1,Radio Emanuel
 https://cp1.sednastream.com/proxy/radioemanuel/stream
+#EXTINF:-1,Radio Emigranti
+http://www.radioemigranti.com:8000/radioauto128
 #EXTINF:-1,Radio Eurostar
 https://cp1.sednastream.com/proxy/shqipfolk/live
 #EXTINF:-1,Radio Iliria
@@ -149,8 +151,6 @@ https://www.rtvpendimi.com:8014/stream
 https://cp1.sednastream.com/proxy/shqipfolk/stream
 #EXTINF:-1,Radio Positive Gold FM
 https://positivealtradio.streamguys1.com/positivegold
-#EXTINF:-1,Radio Rainca
-https://radiocast.ch:8000/stream
 #EXTINF:-1,Radio Saranda
 https://s64.radiolize.com/radio/8050/radio.mp3
 #EXTINF:-1,Radio Shqip - Tirana 92.0 MHz

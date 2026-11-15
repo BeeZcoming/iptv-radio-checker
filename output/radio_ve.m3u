@@ -11,8 +11,6 @@ https://server6.globalhostla.com:9168/stream
 https://envivo.albaciudad.org/albaciudad.mp3
 #EXTINF:-1,Alba Ciudad Radio 93.6 FM16k
 https://envivo.albaciudad.org/alba16.mp3
-#EXTINF:-1,Amiga FM 93.9
-https://stream.zeno.fm/dr612ew61rhvv
 #EXTINF:-1,Andes 89.3 FM
 http://streamingned.com:7098/;
 #EXTINF:-1,Audaz FM 94.5
@@ -47,8 +45,6 @@ https://stream-285.surfernetwork.com/ftly191pojttv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzd
 https://radios.mipanel.stream:6994/stream
 #EXTINF:-1,CDR 98.7 FM
 https://laradiossl.online:8347/;
-#EXTINF:-1,Chevere 100.7 FM
-http://streamingned.com:7342/stream
 #EXTINF:-1,CIMA RADIO 100.9 FM
 https://stream.zeno.fm/8vugdnevn18uv
 #EXTINF:-1,Circuito Comunión Nueva Bolivia 93.1 FN
@@ -125,8 +121,6 @@ https://stream.zeno.fm/qlznh4yhpvytv
 https://onlineradiobox.com/json/ve/lafmmundial/play?platform=web
 #EXTINF:-1,Frecuencia Feeling 97.1 FM
 https://server6.globalhostla.com:9332/stream
-#EXTINF:-1,Gaiterísima 94.7 FM
-https://stream-288.surfernetwork.com/eifrtjxvxvpuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlaWZydGp4dnh2cHV2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImktejlKelE2U2h5SDhJN2pBbS02a2ciLCJpYXQiOjE3OTQ0Mzk0NDksImV4cCI6MTc5NDQzOTUwOX0.RAOqYmxwxHYJpoMrJ4j7RY-3exnt9rzWpUZQjR1seDY
 #EXTINF:-1,Gentlemens @DJNEZUX
 https://stream.zeno.fm/y6zlb93en1guv
 #EXTINF:-1,Guanareña 98.3 FM
@@ -149,6 +143,8 @@ https://stream.zeno.fm/ppyvnq28368uv
 https://stream.zeno.fm/5t866rywrzzuv
 #EXTINF:-1,La Mega 100.9 FM
 http://acp4.lorini.net:10008/stream
+#EXTINF:-1,La Mega 102.1 (San Crinstobal - Venezuela) 
+http://server6.globalhostla.com:9226/stream
 #EXTINF:-1,LA Mega 103.3 (Barquismeto - Venezuela)
 http://acp4.lorini.net:35000/stream
 #EXTINF:-1,La Mega 107.3
@@ -169,6 +165,8 @@ https://server6.globalhostla.com:8010/stream
 http://stream.zeno.fm/w6ajlkgtufstv
 #EXTINF:-1,LATINA STEREO 107.9 FM
 https://stream.zeno.fm/maxyg1sqkbjtv
+#EXTINF:-1,Latino 102 Fm 102.7
+https://stream.zeno.fm/b85p32t2kwzuv
 #EXTINF:-1,LIDER 100.3 FM PUERTO ORDAZ
 https://stream.zeno.fm/ee4zas6mva0uv
 #EXTINF:-1,Lider 104.7 FM
@@ -191,8 +189,6 @@ https://stream.zeno.fm/tpg754xrclsuv
 https://cast10.plugstreaming.com:2020/stream/race/
 #EXTINF:-1,Melodia Stereo 93.5 FM
 https://server6.globalhostla.com:9266/stream
-#EXTINF:-1,Miranda 100.1 FM Stereo
-https://sp.wnetserver.com:7052/stream
 #EXTINF:-1,Navidad Venezuela
 https://stream.zeno.fm/vbvpvf6a6uvtv
 #EXTINF:-1,NoEsFm
@@ -213,6 +209,10 @@ https://cast10.plugstreaming.com:2020/stream/planetafm/;
 https://stream.zeno.fm/8y6m9g81c48uv
 #EXTINF:-1,Platinum 98.7 Fm
 https://server6.globalhostla.com:9224/stream
+#EXTINF:-1,Playera 101.9 FM Pto. Píritu
+https://acp2.lorini.net:28008/stream
+#EXTINF:-1,PLENITUD 90.9
+https://sp.wnetserver.com/8060/stream
 #EXTINF:-1,Pregón 95.7 FM
 https://stream-178.surfernetwork.com/2dcuqasrykauv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyZGN1cWFzcnlrYXV2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlUtN01Lb0xYUjhHSzZuM1FVeHE0dXciLCJpYXQiOjE3OTQ0NzM0ODksImV4cCI6MTc5NDQ3MzU0OX0.8l48xjZhqbuk4Ye0UQCGmuC64cqdwjqEvZeO4kP1fLQ
 #EXTINF:-1,Puro Llano Radio
@@ -245,8 +245,6 @@ https://stream.zeno.fm/hcvjvmprjveuv/;type=mp3
 https://stream.zeno.fm/28hgnyp8568uv
 #EXTINF:-1,Radio María Venezuela
 https://dreamsiteradiocp2.com/proxy/rmvenezuela?mp=/stream
-#EXTINF:-1,Radio Miraflores 95.9 FM
-https://stream.zeno.fm/prcs4h7d9k8uv
 #EXTINF:-1,Radio Mix Retro
 https://streamingned.com:7084/stream
 #EXTINF:-1,Radio Nacional de Venezuela - Informativa
@@ -265,6 +263,8 @@ https://stream-67.zeno.fm/r2errtf2uk8uv
 https://stream-67.zeno.fm/r2errtf2uk8uv?%20zs=7GPKP3MTQtWE9TZYVk5Khg
 #EXTINF:-1,Radio Tropical 990 AM
 https://stream.zeno.fm/ykvgcdko19btv
+#EXTINF:-1,RADIO WAO 97.1 FM
+https://stream.zeno.fm/g7ayu7wbr2zuv
 #EXTINF:-1,Radiorama Stereo 103.3 FM
 https://acp2.lorini.net:44002/stream
 #EXTINF:-1,Remix Music Radio Web
@@ -281,6 +281,8 @@ https://cast20.plugstreaming.com:2020/stream/r981/;
 https://stream.zeno.fm/85y72q4wzdfuv
 #EXTINF:-1,SABOR 106.7 FM
 https://radiostream.interven.ca/listen/saborfm/radio.mp3
+#EXTINF:-1,sensacion 95.9 fm
+https://stream-177.surfernetwork.com/fz3rkbb3uouvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmejNya2JiM3VvdXZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjRSa08yYTNYUkxtX0tOdEV4UzM2bmciLCJpYXQiOjE3OTQ0Mzk5OTcsImV4cCI6MTc5NDQ0MDA1N30.U7gDk_CBO-RaWCGhn6AVwsCS9zy_6xPRP75cOXUGHhM
 #EXTINF:-1,SIERRA 99.1 FM
 https://stream.zeno.fm/9m95mfutymruv
 #EXTINF:-1,Studio 102.7 FM

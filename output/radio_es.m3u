@@ -37,6 +37,8 @@ https://sonic.sistemahost.es/40200radiovilla/stream
 https://radioserver11.profesionalhosting.com/proxy/suoqgqzc?mp=/stream
 #EXTINF:-1,7TV CADIZ 
 https://streaming004.gestec-video.com/hls/7TVCADIZ.m3u8
+#EXTINF:-1,80 Hits Barcelona
+https://80sexitos.stream.laut.fm/80sexitos?t302=2026-11-14_16-05-22&uuid=99b772f6-e878-453b-39dc-8d9a8ef3405a
 #EXTINF:-1,80s 90s Absolute Hits
 https://live.streamthe.world/absolutehits
 #EXTINF:-1,80s Radio
@@ -81,6 +83,8 @@ https://streaming2.elitecomunicacion.es:8014/stream
 https://it.tail7acb88.ts.net/aithropology.mp3
 #EXTINF:-1,Alcúdia Ràdio
 https://enacast.com/alcudiaradio/streams/HD
+#EXTINF:-1,ALEX WOLF RADIO
+https://alexwolfradio.com/listen/stream
 #EXTINF:-1,ALEX WOLF RADIO
 https://alexwolfradio.com:1040/stream
 #EXTINF:-1,All Stars Radio
@@ -359,8 +363,6 @@ https://streams.radio.co/se1a320b47/listen
 http://streamer.radio.co/sd7b28e5f3/listen
 #EXTINF:-1,Calafell Ràdio
 http://streaming.enantena.com:8000/calafellradio128.mp3?_=1
-#EXTINF:-1,CalamarRradio
-http://www.calamarrradio.org:8000/stream
 #EXTINF:-1,Calimbre Radio
 https://control.streaming-pro.com:6048/stream
 #EXTINF:-1,Camino FM
@@ -473,6 +475,8 @@ http://wecast20-h-cloud.flumotion.com/copesedes/cartagena.mp3
 https://sonic.mediatelekom.net/8448/;?type=http&nocache=107036
 #EXTINF:-1,Cope Granada
 http://flucast13-h-cloud.flumotion.com/cope/net1.mp3
+#EXTINF:-1,Cope Madrid FM
+https://net1-cope-rrcast.flumotion.com/cope/net1-low.mp3
 #EXTINF:-1,COPE Málaga
 http://flucast-bl02.flumotion.com/cope/net1.mp3
 #EXTINF:-1,COPE Más Santander
@@ -553,6 +557,8 @@ https://vivo.miradio.in/8120/stream
 https://djgarxradio.com/stream.mp3
 #EXTINF:-1,dj mapache
 http://stream.zeno.fm/tr9qda8tz7zuv
+#EXTINF:-1,DMT-FM - EU Server 320k
+https://dc1.serverse.com/proxy/ywycfrxn/live
 #EXTINF:-1,Doble V radio 107.9 FM
 https://stream.zeno.fm/x7wm4rrv5yzuv
 #EXTINF:-1,DOOM Radio - Beats to Rip/Tear to
@@ -571,8 +577,6 @@ https://control.streaming-pro.com:8014/stream
 https://radios.blumhost.es:8214/stream
 #EXTINF:-1,Ecuashyri Radio 103.7 FM
 http://streaming.hdserver.biz:9336/;/stream
-#EXTINF:-1,EDENEX
-http://164.138.210.62:13121/stream
 #EXTINF:-1,EDM Festival - Online Radio 
 https://stream.technolovers.fm/edm?ref=radiobrowser
 #EXTINF:-1,EDM RADIO
@@ -727,6 +731,8 @@ https://stream.rubostudio.es/listen/classics/radio.mp3
 https://sonic.sistemahost.es/8176/stream?1785319144024
 #EXTINF:-1,Formula Hit Galicia
 https://s18.myradiostream.com/:8074/stream/1/
+#EXTINF:-1,Fred Film Radio(Español)
+https://s10.webradio-hosting.com/proxy/fredradiosp/stream
 #EXTINF:-1,Free FM 80s
 https://freefm80.radioca.st/
 #EXTINF:-1,Free FM Chill
@@ -781,6 +787,8 @@ https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmrad
 https://stream.halabedi.eus/1B
 #EXTINF:-1,Hispanidad Radio
 https://stm2.emiteonline.com:9002/hr
+#EXTINF:-1,HIT FM
+https://bbhitfm.kissfmradio.cires21.com:8443/bbhitfm/mp3/icecast.audio?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNiAxMToxMTo1NCBBTSZoYXNoX3ZhbHVlPWY3Q2pOTHlQcFkzWFBIODYxSFUwSVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01NTI0MTk4Nw==
 #EXTINF:-1,Hit radio
 http://stm1.emiteonline.com:8004/hitelgrado
 #EXTINF:-1,Hits 1 Ibiza
@@ -1199,6 +1207,8 @@ https://sonicpanel.zonaradio.net/8320/stream
 https://radio.radiobot.org/listen/omc/directo.mp3
 #EXTINF:-1,Ona 92 FM
 https://ona92fm.es/radio
+#EXTINF:-1,Ona Cat Ràdio
+https://server8.emitironline.com:10824/
 #EXTINF:-1,Ona Malgrat
 http://streaming.enantena.com:8000/onamalgrat128.mp3
 #EXTINF:-1,Ona Mediterrània
@@ -1267,6 +1277,8 @@ https://atres-live.ondacero.es/live/delegaciones/oc/santiago/master.m3u8
 https://atres-live.ondacero.es/live/delegaciones/oc/sevilla/master.m3u8
 #EXTINF:-1,Onda Cero Tenerife
 https://atres-live.ondacero.es/live/delegaciones/oc/tenerife/bitrate_1.m3u8
+#EXTINF:-1,Onda Cero Tierras de Medina
+http://server6.20comunicacion.com:8100/?utm_source=chatgpt.com
 #EXTINF:-1,Onda Cero Valencia
 https://atres-live.ondacero.es/live/delegaciones/oc/valencia/master.m3u8
 #EXTINF:-1,Onda Cero Valladolid
@@ -1509,8 +1521,6 @@ https://escucha.calima.fm/stream
 https://server8.emitironline.com:18176/stream
 #EXTINF:-1,Radio Campillos 
 https://srv7031.dns-lcinternet.com:8074/stream
-#EXTINF:-1,Radio Canet Del Mar
-https://enacast.com/radiocanetdemar/streams/HD
 #EXTINF:-1,Ràdio Capital
 http://streaming.martiproduccions.com:8000/capitalhd
 #EXTINF:-1,Ràdio Capital de l'Empordà
@@ -1555,10 +1565,6 @@ https://dikela.org/radio_mobile
 https://sonic.mediatelekom.net/8020/stream
 #EXTINF:-1,Radio DOS 84
 http://188.93.73.7:8064/
-#EXTINF:-1,Radio EduNeu 1: ElecrricCircus
-https://radio.eduneu.eu/hls/radio1/live.m3u8
-#EXTINF:-1,Radio EduNeu 3: The DJ Johnson Somerset Remixes
-https://radio.eduneu.eu:8020/radio.mp3
 #EXTINF:-1,Radio El Palmar
 http://topradio.one:8027/autodj
 #EXTINF:-1,Radio Espacio
@@ -1701,12 +1707,16 @@ https://stream.serviciospararadios.es/listen/litoral_oro/litoral-oro.mp3
 https://relay.stream.enacast-cloud.com:40323/radiollancaHD.mp3
 #EXTINF:-1,RADIO LUZ CLASSIC DALIAS
 https://broadcast.radioponiente.org:8034/;listen.pls
+#EXTINF:-1,Radio Mai
+http://radio.indaloweb.es:8001/live
 #EXTINF:-1,Radio Maktub NJ
 http://str1.mediatelekom.net:8077/live
 #EXTINF:-1,Ràdio Malva 104.9FM
 http://radiomalva.ddns.net:8000/rmbc.mp3
 #EXTINF:-1,Radio Malva 104.9FM
 http://radiomalva.ddns.net:8000/rmbc.ogg
+#EXTINF:-1,Radio Mandra Zzzzzz
+https://radiomandra.cat/radio/radiomandra.ogg
 #EXTINF:-1,Ràdio Manlleu
 https://enacast.com/radiomanlleu/streams/HD
 #EXTINF:-1,Radio Marca
@@ -2011,8 +2021,6 @@ http://live.radiovoz.es/mp3/stream_orense.mp3
 http://live.radiovoz.es/mp3/stream_vigo.mp3
 #EXTINF:-1,RAP 107
 http://relay.stream.enacast-cloud.com:30048/rap56.mp3
-#EXTINF:-1,Remember 90s By RamperDjs
-https://radio.ramperdjs.com/stream
 #EXTINF:-1,Remember Radio
 https://sm1.streamingmovil.com:2199/proxy/webrr?mp=/WEB
 #EXTINF:-1,Remember Ràdio Joventut
@@ -2105,6 +2113,8 @@ https://stream.emisorasmusicales.net/radio/8060/rockstar.mp3
 https://stream.radio-pv.com/
 #EXTINF:-1,RTV Mogán
 https://streaming.elitecomunicacion.cloud:8334/stream
+#EXTINF:-1,RTVCE
+https://5924d3ad0efcf.streamlock.net/ceutaradio/ceutaradiolive/playlist.m3u8
 #EXTINF:-1,RTVE 24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1,Rumberos FM

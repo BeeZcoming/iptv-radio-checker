@@ -161,8 +161,6 @@ https://p9.p4groupaudio.com/P09_MH
 https://s2.radio.co/sd7f2a360c/listen
 #EXTINF:-1,Ptro
 https://stream.zeno.fm/z8cp1nqwhnruv
-#EXTINF:-1,Radio 3 Bodø
-https://stream.radio3.no/Radio3Bodo48?rp_source=1&=&&___cb=322377588283394
 #EXTINF:-1,Radio 3,16 - hele Norges kristne radiokanal
 https://streaming.radio.co:80/se326fb378/listen
 #EXTINF:-1,Radio AI Norge
@@ -193,6 +191,8 @@ http://5866.cloudrad.io:8018/northernstar.mp3
 http://stream.radionova.no/mp3
 #EXTINF:-1,Radio Randsfjord
 http://stream.radiorandsfjord.no/randsfjord128.mp3
+#EXTINF:-1,Radio Revolt
+https://direkte.radiorevolt.no/revolt.aac
 #EXTINF:-1,Radio Rock (NO)
 https://live-bauerno.sharp-stream.com/radiorock_no_mp3
 #EXTINF:-1,Radio Rock Norway AAC
@@ -217,8 +217,6 @@ http://live-bauerno.sharp-stream.com/vinyl_no_mp3
 http://live-bauerno.sharp-stream.com/top40_no_aac
 #EXTINF:-1,Radio102
 https://stream.radio102.no/radio102_hq
-#EXTINF:-1,radiOrakel FM 99.3
-https://stream.radiorakel.no/fm993.mp3
 #EXTINF:-1,Radiø Bø
 https://nettradio.radiobo.com/radiobo-high
 #EXTINF:-1,Scansat Radio (Scandinavian Satellite Radio)
