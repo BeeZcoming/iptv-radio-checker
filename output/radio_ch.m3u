@@ -199,10 +199,6 @@ https://securestreams4.autopo.st:1558/Back2Noize
 https://barix-ice.streamguys1.com/barix_hi
 #EXTINF:-1,Barix Radio
 http://barix-ice.streamguys1.com/barix_hi
-#EXTINF:-1,Basspistol Radio
-https://radio.basspistol.com/radio.mp3
-#EXTINF:-1,Basspistol Radio
-https://radio.basspistol.com/listen/basspistol/radio.mp3
 #EXTINF:-1,Bear Metal Radio
 https://cast5.asurahosting.com/proxy/bear?mp=/stream
 #EXTINF:-1,Boost Radio
@@ -243,10 +239,8 @@ https://listen.radioking.com/radio/427889/stream/481505
 http://n05.radiojar.com/fkyxx4q35k0uv
 #EXTINF:-1,Energy Basel (NRJ)
 https://energybasel.ice.infomaniak.ch/energybasel-high.mp3
-#EXTINF:-1,Energy Bern
-https://energybern.ice.infomaniak.ch/energybern-high.mp3
 #EXTINF:-1,Energy Bern (NRJ)
-http://broadcast.infomaniak.ch/energybern-high.mp3
+https://energybern.ice.infomaniak.ch/energybern-high.mp3
 #EXTINF:-1,Energy Blick Trendz
 http://energyzuerich.ice.infomaniak.ch/energyzuerich-high.mp3
 #EXTINF:-1,Energy Zürich (NRJ)
@@ -923,6 +917,8 @@ http://stream.srg-ssr.ch/m/drs4news/mp3_128
 http://stream.srg-ssr.ch/srgssr/srfmw/mp3/128
 #EXTINF:-1,SRF Virus
 http://stream.srg-ssr.ch/srgssr/srfvirus/mp3/128
+#EXTINF:-1,SRF Virus
+http://stream.srg-ssr.ch/srgssr/srfvirus/aac/192
 #EXTINF:-1,SRF1 Radio
 http://stream.srg-ssr.ch/srgssr/srf1/aac/96
 #EXTINF:-1,SRF1 Regionaljournal Aargau Solothurn
@@ -953,10 +949,8 @@ http://stream.srg-ssr.ch/m/rsp/mp3_128
 http://stream.srg-ssr.ch/srgssr/rsc_it/mp3/128
 #EXTINF:-1,SwissGroove
 http://relay2.swissgroove.ch/
-#EXTINF:-1,Symphoniya Wave
-https://symphoniyawave.ice.infomaniak.ch/symphoniyawave-128.aac
 #EXTINF:-1,Symphoniya Wave — Symphoniya.com
-https://symphoniyawave.ice.infomaniak.ch/symphoniyawave-128.mp3
+https://symphoniyawave.ice.infomaniak.ch/symphoniyawave-128.aac
 #EXTINF:-1,Ta Radio
 https://stream.taradio.ch/dab
 #EXTINF:-1,TA RADIO

@@ -1,8 +1,12 @@
 #EXTM3U
+#EXTINF:-1,An Ninh TV HD (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=20
 #EXTINF:-1,Bir TV (720p)
 https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8
 #EXTINF:-1,BST (576p)
 https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
+#EXTINF:-1,CampusTV (720p) [Not 24/7]
+https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
 #EXTINF:-1,Canal 2 Quellon (1080p) [Not 24/7]
 https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
 #EXTINF:-1,Canal 4 Posadas (1080p)
@@ -25,8 +29,6 @@ https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8
 https://live-manifest.production-public.tubi.io/live/e7be5ad5-9044-4151-95d4-a9aae10ab0a5/playlist.m3u8
 #EXTINF:-1,Gigavision (1080p)
 http://158.172.155.130:8000/play/a0e7/index.m3u8
-#EXTINF:-1,Golden Plus (1080p)
-http://45.5.118.152:8000/play/a03p/index.m3u8
 #EXTINF:-1,Hellenic TV (720p) [Not 24/7]
 https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 #EXTINF:-1,Homeful US (1080p)
@@ -83,8 +85,6 @@ http://92.114.85.87:8001/play/a00o/index.m3u8
 http://92.114.85.87:8018/play/a004/index.m3u8
 #EXTINF:-1,Studio Rheden (1080p)
 https://stream.studiorhedenlive.nl/hlstv/stream.m3u8
-#EXTINF:-1,Studio Universal Latin America Colombia (1080p)
-http://45.171.64.30:2000/play/a04o/index.m3u8
 #EXTINF:-1,Svetloe TV (576p)
 http://46.53.200.153:7777/play/svetloetv/index.m3u8
 #EXTINF:-1,SWR 3 Visual Radio (720p)
@@ -97,6 +97,8 @@ http://45.171.64.30:6060/play/a014/index.m3u8
 http://92.114.85.87:8012/play/a005/index.m3u8
 #EXTINF:-1,Teleceiba (1080p)
 http://45.238.141.222:8000/play/a0pf/index.m3u8
+#EXTINF:-1,Telefe Internacional (1080p)
+http://200.115.120.1:8000/play/ca016/index.m3u8
 #EXTINF:-1,TeleFormula (720p)
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1,Teleganes (720p)
@@ -105,8 +107,8 @@ https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8
 http://45.228.234.60:8880/play/a05f/index.m3u8
 #EXTINF:-1,Telestar1
 https://dvb.tennet.ro/mobile_tv/telestar.m3u8
-#EXTINF:-1,Television Aranda (720p)
-https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8
+#EXTINF:-1,TeleVigo (1080p) [Not 24/7]
+https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8
 #EXTINF:-1,The Cowboy Channel Canada (1080p)
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
 #EXTINF:-1,TNT Latin America (1080p)

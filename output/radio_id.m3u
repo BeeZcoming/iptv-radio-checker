@@ -121,6 +121,10 @@ https://streaming.campursarifm.com/listen/campursari/campursari892
 https://i.klikhost.com:9614/stream
 #EXTINF:-1,Chinese Music World
 https://radio.chinesemusicworld.com/chinesemusic.ogg
+#EXTINF:-1,City Radio 959 FM
+https://live.cityradio.id/cityradio.ogg
+#EXTINF:-1,City Radio Mandarin
+https://live.cityradio.id/cr-mandarin.ogg
 #EXTINF:-1,Classic Rock
 https://classicrock.stream.laut.fm/classicrock
 #EXTINF:-1,Classic Rock Florida
@@ -161,6 +165,8 @@ https://stream.heartline.co.id:8443/djati_aceh
 https://sc.dnafm.net/listen/dnafm/live
 #EXTINF:-1,EL JHON FM Palembang
 http://103.28.149.117:8032/stream
+#EXTINF:-1,EL SHADDAI FM SOLO
+http://shaddai.onlivestreaming.net:9130/live
 #EXTINF:-1,ELEGAN RADIO
 https://a3.alhastream.com:1265/eleganradio
 #EXTINF:-1,Elgangga FM
@@ -187,6 +193,8 @@ https://server.radioimeldafm.co.id:8040/gajahmadafm
 https://server.radioimeldafm.co.id/radio/8040/gajahmadafm
 #EXTINF:-1,Galau Jikan FM - Indonesia
 https://radio.gjfm.my.id/listen/gjfm/siaran
+#EXTINF:-1,Galuh FM Bali
+https://a12.siar.us:8390/stream
 #EXTINF:-1,Galuh Media Streaming Cianjur Indonesia
 https://stream-sg1.galuhmedia.co.id/listen/galuhmedia/stream
 #EXTINF:-1,GCD Yogyakarta 98,6FM
@@ -207,6 +215,8 @@ http://103.246.184.62:1935/noice_genfm/genfm/chunklist_w279187457.m3u8
 http://103.246.184.62:1935/noice_genfm/genfm/chunklist.m3u8
 #EXTINF:-1,Genta FM Bali
 http://stream.werdimedia.com:8200/
+#EXTINF:-1,Gentara Campursari
+https://streaming.classynetradio.com/listen/gentara_campursari/radio
 #EXTINF:-1,Global Radio Jakarta
 http://202.147.199.98/;?1737921496499
 #EXTINF:-1,Gobers Radio
@@ -355,8 +365,6 @@ https://komodo.out.airtime.pro/komodo_a
 https://stream.zeno.fm/uvlmugvqrnkvv
 #EXTINF:-1,Kosmonita FM Malanf
 http://202.58.200.26:1055/live
-#EXTINF:-1,KPFM Balikpapan
-https://pu.klikhost.com/proxy/kpfmbpn/stream
 #EXTINF:-1,KRADIO HSS
 https://live.kradionews.com/listen/kradio/stream
 #EXTINF:-1,Kuta Radio 106 FM
@@ -519,6 +527,10 @@ https://live.phoenixradiobali.com:8250/phoenixradio
 https://live.radiopinguinfm.com:8350/;stream.mp3
 #EXTINF:-1,POLARIS FM
 https://i.klikhost.com/9604/stream.aac
+#EXTINF:-1,Polaris FM Kudus
+https://i.klikhost.com:8160/stream
+#EXTINF:-1,POP FM Jogja
+https://i.klikhost.com:9154/stream
 #EXTINF:-1,POP FM Semarang
 https://i.klikhost.com:9612/stream.aac
 #EXTINF:-1,Prambors Bandung 98.4 FM
@@ -547,6 +559,10 @@ https://a4.siar.us/radio/8360/radio.mp3
 https://i.klikhost.com:8892/stream
 #EXTINF:-1,Radar CBS Tegal
 https://a5.siar.us/radio/8010/radio
+#EXTINF:-1,RADIKS FM SEMARANG
+https://i.klikhost.com:9620/stream
+#EXTINF:-1,RADIKS FM SEMARANG
+https://i.klikhost.com:9620/;
 #EXTINF:-1,Radio Adzan FM Bandung
 https://radioadzanfmbandung.com/streamer
 #EXTINF:-1,RADIO AIRMEN FM 107.9 MHZ
@@ -597,8 +613,8 @@ https://a3.alhastream.com:1290/dms
 https://asv.alhastream.com:1265/rdafm?1730896063069
 #EXTINF:-1,Radio Elfara Malang
 http://c4.siar.us:8123/live
-#EXTINF:-1,Radio Elshinta Surabaya
-https://stream-ssl.arenastreaming.com:8030/surabaya
+#EXTINF:-1,Radio Elshinta Bandung
+https://stream-ssl.arenastreaming.com:8005/bandung
 #EXTINF:-1,Radio Fress FM
 https://streaming.fressfm.com:11185/stream
 #EXTINF:-1,Radio Gemas Rasisonia
@@ -649,6 +665,8 @@ https://svara-stream.radioddns.net/malang_masfm_
 https://stream.zeno.fm/wvq442iwm6ztv
 #EXTINF:-1,Radio Ntala Gewang
 https://live.radiostream.id/listen/radiontalagewang/live
+#EXTINF:-1,Radio NUR FM Rembang
+https://ssi.streamingmurah.com:8002/live
 #EXTINF:-1,Radio Patria 102.6 FM Indonesia
 https://streaming.radiopatria.net/radio/8000/patria
 #EXTINF:-1,radio pensiunan
@@ -673,8 +691,6 @@ https://rasil720.online/stream
 https://c4.siar.us:8092/autodj
 #EXTINF:-1,Radio Suara Al-Iman 846 AM Surabaya
 https://radioislamindonesia.com/aliman.mp3
-#EXTINF:-1,Radio Suara Banjar
-https://streamrsb.banjarkab.go.id/stream.ogg
 #EXTINF:-1,radio suara itmi
 https://radio.itmi.or.id:8190/radio
 #EXTINF:-1,RADIO SWARA KONCOTANI 711 Khz
@@ -703,6 +719,8 @@ http://79.120.39.202:8002/instrumentalrock
 http://202.147.199.99:8000/stream
 #EXTINF:-1,REM FM Universitas Negeri Semarang
 https://a2.siar.us/listen/remfm/stream
+#EXTINF:-1,REPLAY NEWS - Bahasa Indonesia
+https://replaynewsin.ice.infomaniak.ch/replaynewsin-128.mp3
 #EXTINF:-1,Retjo Buntung
 http://45.64.97.82:9940/stream
 #EXTINF:-1,Retjo Buntung 99.4 FM
@@ -829,8 +847,6 @@ https://live.stifmnunukan.com/listen/stifm/stream
 https://ssg.streamingmurah.com:7777/stream
 #EXTINF:-1,Style 94.6 FM Tasikmalaya
 https://stream.stylefmtasik.com/listen/stylefmtasik/stream
-#EXTINF:-1,Suara Al Jihad FM Banjarmaein
-http://i.klikhost.com:8044/;stream.mp3
 #EXTINF:-1,Suara Giri
 https://streaming.girifm.com:8010/;
 #EXTINF:-1,Suara Giri 98.4 FM

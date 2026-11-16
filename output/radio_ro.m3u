@@ -237,8 +237,6 @@ https://edge76.rcs-rds.ro/digifm/digifm.mp3
 https://stream.djradio.ro/radio/8000/stream.mp3
 #EXTINF:-1,Doina
 http://89.43.138.116:8000/radiodoina.mp3
-#EXTINF:-1,Dream FM -Onești 92,2 FM
-http://dreamfm.dtech.ro:9220/dreamfm
 #EXTINF:-1,Dux Radio
 https://radio.duxradio.ro:8002/stream
 #EXTINF:-1,EBS Radio
@@ -251,6 +249,8 @@ https://live.enjoyradio.ro/radio/8000/enjoylive.mp3
 https://stream.zeno.fm/ehbuv5erws8uv
 #EXTINF:-1,Erdély FM
 https://efm.radioca.st/stream
+#EXTINF:-1,Erdélyi Magyar Rádió
+https://adas.erdelyimagyarradio.eu:8443/emr
 #EXTINF:-1,Eron FM -Oradea
 https://stream.zeno.fm/u9kyi9j8dhluv
 #EXTINF:-1,Eurodisco80 Radio
@@ -263,6 +263,8 @@ https://astreaming.edi.ro:8443/EuropaFM_aac
 http://astreaming.europafm.ro:8000/europafm_aacp48k
 #EXTINF:-1,Europa FM
 http://astreaming.europafm.ro:8000/europafm_aacp48k?nocache=1775795565858
+#EXTINF:-1,Europa FM-AAC
+http://astreaming.virginradio.ro:8000/EuropaFM_aac
 #EXTINF:-1,EuropaFM
 http://astreaming.edi.ro:8000/EuropaFM_aac
 #EXTINF:-1,Eveniment FM Sibiu 103.2
@@ -591,6 +593,8 @@ https://live.90hit.ro:8000/radio.mp3?t=1778250592504
 https://ssl.omegahost.ro/8066/stream
 #EXTINF:-1,Radio Alpin Romania
 https://asculta.ascultatare.ro/8042/stream
+#EXTINF:-1,Radio Amen
+https://radio.ascultatare.ro:8058/stream
 #EXTINF:-1,Radio Antena Braşovului
 http://streaming.radiomures.ro:8302/
 #EXTINF:-1,Radio Antena Satelor
@@ -613,8 +617,6 @@ https://stream.expres.sk/128.mp3
 http://a1.bisericilive.com/mainradioarmoniaro.mp3
 #EXTINF:-1,Radio AS fm petrecere -Buzău
 https://stream.zeno.fm/ze76t581tm0uv
-#EXTINF:-1,Radio ASCOR (Asociația Studenților Creștin-Ortodocși Români din Cluj-Napoca) -Cluj Napoca
-https://radioascorcluj.go.ro:4433/lisen
 #EXTINF:-1,Radio ASP (Asociatia Paraschiva Arges) - Retevoiești
 https://ssl.omegahost.ro/8096/stream
 #EXTINF:-1,Radio Aspirații -Brăila
@@ -689,6 +691,8 @@ https://stream.zeno.fm/v9wqm1gztk8uv
 http://89.238.227.6:8332/;stream/1
 #EXTINF:-1,Radio Coresi
 http://master.shoutcast.com:8000/radio-coresi
+#EXTINF:-1,Radio Coresi -Brașov
+http://streaming.shoutcast.com/radio-coresi
 #EXTINF:-1,Radio Coresi 80s -Brașov
 https://s5.radio.co/sfb029759c/listen
 #EXTINF:-1,Radio Coresi Oldies -Brașov
@@ -869,8 +873,6 @@ http://ssl.radios.show:8026/;
 https://listen.radioking.com/radio/380248/stream/431281
 #EXTINF:-1,Radio Killer Câmpia Turzii
 https://s12.myradiostream.com/17492/listen.mp3
-#EXTINF:-1,Radio Killer Turda
-https://s47.myradiostream.com/16234/listen.mp3
 #EXTINF:-1,Rádió KoKo
 https://az10.yesstreaming.net:8210/radiokoko.mp3
 #EXTINF:-1,Radio Koko
@@ -883,8 +885,6 @@ https://radiokoko.ro/live
 https://nl1.streamingpulse.com/ssl/KPTV
 #EXTINF:-1,Radio Lăutaru
 http://live.radiolautaru.ro:9000/;
-#EXTINF:-1,Radio Liberty Colinde -București
-https://sonicssl.namehost.ro/7010/stream
 #EXTINF:-1,Radio Liberty Dance -București
 https://sonicssl.namehost.ro/1989/stream
 #EXTINF:-1,Radio Liberty Manele -București
@@ -1011,6 +1011,8 @@ https://radio.sonicpanel.ro/8058/stream
 https://live.radiooldies.ro:9200/stream
 #EXTINF:-1,Radio Oltenia Craiova
 http://89.238.227.6:8370/
+#EXTINF:-1,Radio Oradea Online
+https://live.radiooradea.ro:9500/stream
 #EXTINF:-1,Radio Orion FM -Câmpulung Muscel 96,6 FM
 https://cast.orionfm.ro/listen/orion/public.mp3
 #EXTINF:-1,Radio Palimaru -Botoșani
@@ -1467,6 +1469,8 @@ https://colinde.radiotequila.ro/8989/stream
 https://petrecere.radiotequila.ro/7000/stream
 #EXTINF:-1,Terra FM
 https://cloud.radiosonicpanel.ro/8020/stream
+#EXTINF:-1,TERRA FM
+https://radiosentir.sytes.net/stream?1774626668225
 #EXTINF:-1,Terra Radio -Medgidia 97.5 FM
 http://188.26.110.59:8000/terra_hq.mp3
 #EXTINF:-1,Terra Radio -Murfatlar 97.5 FM

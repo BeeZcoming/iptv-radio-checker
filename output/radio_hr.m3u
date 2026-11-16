@@ -433,10 +433,10 @@ http://shoutcast.pondi.hr:8002/;*.mp3
 http://stream.zeno.fm/8d2pyzm5wp8uv
 #EXTINF:-1,Radio Techno Zagreb
 http://mercury.reliastream.com:8085/stream.mp3
+#EXTINF:-1,Radio Terezija
+https://ec2s.crolive.com.hr:2315/stream
 #EXTINF:-1,Radio Tvornica Zagreb
 https://cast5.asurahosting.com/proxy/tvornica_main/stream
-#EXTINF:-1,Radio Velika Gorica
-https://s8.iqstreaming.com:2020/stream/rvg
 #EXTINF:-1,Radio Vinkovci
 https://onlineradiobox.com/json/hr/vinkovci/play?platform=web
 #EXTINF:-1,Radio Zelina

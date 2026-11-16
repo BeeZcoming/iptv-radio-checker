@@ -9,6 +9,8 @@ https://edge4.audioxi.com/8RADIO
 https://audio-edge-5r6yd.cdg.o.radiomast.io/cfee4afe-9f7e-4902-84bd-807f6b5d1c02
 #EXTINF:-1,98fm Dance
 https://edge.audioxi.com/98DANCE
+#EXTINF:-1,ABC 80s Dublin - Neuer Stream
+https://cast3.torontocast.com:1750/stream
 #EXTINF:-1,Ambient Lounge on MixLive.net
 https://free.rcast.net/200707
 #EXTINF:-1,Beat 102 103
@@ -301,6 +303,8 @@ https://liveaudio.rte.ie/hls-radio/radio1/chunklist.m3u8
 http://icecast.rte.ie/ieradio1
 #EXTINF:-1,Scariff Bay Community Radio
 https://s4.radio.co/s87ac5cf5a/listen
+#EXTINF:-1,Shannon Side FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/SHANNONSIDE_FM.mp3
 #EXTINF:-1,SOLID GOLD RADIO IRELAND
 https://a1.asurahosting.com:10000/radio.mp3
 #EXTINF:-1,SOLID GOLD RADIO IRELAND 
@@ -337,8 +341,6 @@ https://uk1.internet-radio.com/proxy/thezone/stream
 https://broadcast.shoutstream.co.uk:8052/stream
 #EXTINF:-1,Tipp FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/TIPP_FM.mp3
-#EXTINF:-1,Tipperary Hospital Radio Clonmel
-https://de2.streamingpulse.com/ssl/THRCL
 #EXTINF:-1,Tipperary Mid West Community Radio
 https://rsstreaming.com/proxy/tippmwr/stream?type=.mp3
 #EXTINF:-1,Today FM

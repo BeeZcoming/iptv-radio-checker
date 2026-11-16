@@ -19,6 +19,8 @@ http://89.218.30.37/ktklive/live.hq/playlist.m3u8
 https://stream.gakku.tv:8443/love128.mp3
 #EXTINF:-1,Lux FM Kazakhstan
 https://service.luxfm.kz/bc/live
+#EXTINF:-1,MUZZONE RADIO
+https://stream4.rcast.net/74046
 #EXTINF:-1,NS-Rock
 https://icecast.ns.kz/radions
 #EXTINF:-1,Palmera Blanca radio - Daystream

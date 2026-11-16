@@ -241,38 +241,6 @@ http://onair-ha1.krone.at/kronehit.aac
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1,LCR Radio
 https://streaming.radio.co/sba5c95896/listen
-#EXTINF:-1,Life Radio
-http://stream1.liferadio.at/
-#EXTINF:-1,Life Radio 80er
-https://stream.liferadio.at/80er/mp3-192/stream.liferadio.at/
-#EXTINF:-1,Life Radio 90er
-http://stream3.liferadio.at/;
-#EXTINF:-1,Life Radio Chill Out
-https://stream8.liferadio.at/
-#EXTINF:-1,Life Radio Chill Out Hits
-https://stream.liferadio.at/chillout/mp3-192/stream.liferadio.at/
-#EXTINF:-1,Life Radio Classic Rock 
-https://stream11.liferadio.at/
-#EXTINF:-1,Life Radio ClassicRock
-https://stream.liferadio.at/clrock/mp3-192/stream.liferadio.at/
-#EXTINF:-1,Life Radio Greatest Hits
-https://stream.liferadio.at/greatest-hits/mp3-192/stream.liferadio.at/
-#EXTINF:-1,Life Radio Oberösterreich
-https://stream1.liferadio.at/
-#EXTINF:-1,Life Radio Sommersongs
-https://stream.liferadio.at/sommer/mp3-192/stream.liferadio.at/
-#EXTINF:-1,Life Radio Tirol
-http://stream.liferadio.tirol/live/aac-256/SHQ
-#EXTINF:-1,Life Radio Tirol
-https://stream.liferadio.tirol/live/mp3-192/link
-#EXTINF:-1,Life Radio Tirol
-https://stream.liferadio.tirol/oldies/acc-128/link
-#EXTINF:-1,Life Radio Tirol - ITALO
-https://stream.liferadio.tirol/italo/mp3-192/link
-#EXTINF:-1,Life Radio Tirol - Schlagerpuls
-https://stream.liferadio.tirol/schlager/mp3-192/link
-#EXTINF:-1,Life Radio Tirol- Alles Malle
-https://stream.liferadio.tirol/malle/mp3-192/link
 #EXTINF:-1,Lounge.FM - 100% Austria
 https://s35.derstream.net/100austria.mp3
 #EXTINF:-1,Lounge.FM Kanal 2 - Wien
@@ -603,5 +571,7 @@ https://live.welle1.at:18256/stream
 https://live.welle1.at:19000/live
 #EXTINF:-1,XXXLutz Radio
 https://liferadio.streamabc.net/lfr_w97ylbvwcps_45m7-mp3-192-1637662?sABC=6n48o2p1%230%234s3p7qo16pq27op446q453s9s431o7q7%23jrofrvgr&1783149421175=&aw_0_1st.playerid=webseite&amsparams=playerid:webseite
+#EXTINF:-1,Yeshua.at Radio
+https://yeshua.at:8443/stream
 #EXTINF:-1,Yu Radio
 https://stream.radiotechnikum.at:80/YURADIO

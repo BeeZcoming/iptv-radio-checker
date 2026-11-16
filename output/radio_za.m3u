@@ -297,8 +297,6 @@ https://vm65162.streamerr.co/listen/radioyaadein/radio.mp3
 https://gospelblues365.com/listen/radiocross/radiocross.mp3
 #EXTINF:-1,Rainbow FM
 https://edge.iono.fm/xice/237_low.aac
-#EXTINF:-1,Rainbow Gospel Radio
-http://102.130.114.184:8000/Stream/1
 #EXTINF:-1,Ramkat Radio Kaapstad
 https://uslradio.net:8008/stream
 #EXTINF:-1,RISE FM
@@ -381,6 +379,8 @@ https://zas1.ndx.co.za:9917/stream
 https://www.dn-radio.co.za/listen/world_gospel_radio/radio.mp3
 #EXTINF:-1,YFM
 http://streaming.fabrik.fm/yfm/echocast/audio/index.m3u8
+#EXTINF:-1,zoibi FM
+https://radio.eclipse-streaming.co.za/listen/zoibi_fm/zoom
 #EXTINF:-1,zoibicube
 https://radio3.eclipse-streaming.co.za/listen/zoibi/zoibi.mp3
 #EXTINF:-1,Zone Radio

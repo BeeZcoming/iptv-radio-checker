@@ -67,6 +67,8 @@ https://deb.patrikmalmgrenrask.se:10443/
 https://stream.linkopingsnarradio.se:8005/radioprogram
 #EXTINF:-1,Lite FM 101.1
 http://live.litefm.se:8000/stream_mp3
+#EXTINF:-1,Lórien
+https://play.radiorivendell.com/radio/8020/radio.mp3
 #EXTINF:-1,Magic Radio
 http://stream.magicradio.se/magic
 #EXTINF:-1,Mix Megapol 104,3
@@ -167,6 +169,8 @@ https://radio.mediarosenqvist.com/listen/radio-uppsala/radio.mp3
 https://streaming.943.se/radio45
 #EXTINF:-1,Redback Radio
 https://redback.mywire.org/stream.mp3
+#EXTINF:-1,REPLAY NEWS - Svenska
+https://replaynewsse.ice.infomaniak.ch/replaynewsse-128.mp3
 #EXTINF:-1,Retreat Radio
 http://retreatradio.out.airtime.pro:8000/retreatradio_b
 #EXTINF:-1,Retro FM Sverige
@@ -277,6 +281,8 @@ https://live1.sr.se/p4ostg-mp3-96
 https://live1.sr.se/p1-mp3-96
 #EXTINF:-1,Swarm Radio
 https://stream.zeno.fm/d6ozvqgvrvktv
+#EXTINF:-1,The Green Dragon
+https://play.radiorivendell.com/radio/8010/radio.mp3
 #EXTINF:-1,The ModStation - Amiga ProTracker Modules
 https://broadcast.sonologic.net/modstation.mp3
 #EXTINF:-1,Tjenamors Radio!

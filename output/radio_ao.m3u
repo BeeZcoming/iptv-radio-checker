@@ -60,7 +60,7 @@ https://paineldj5.com.br:20089/stream
 #EXTINF:-1,Radio luanda fm line
 https://stream1.svrdedicado.org:7175/;
 #EXTINF:-1,Rádio Lumbamba
-https://stream-179.surfernetwork.com/l4feq7zw5d2uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJsNGZlcTd6dzVkMnV2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjcyM2l6R0daUW5HcDA4MEcxOFNnenciLCJpYXQiOjE3OTQzMjE3NjcsImV4cCI6MTc5NDMyMTgyN30.ywMUkh5n6vmtyI5fL-XKTGkjISI2BGPvPZE2Z4JhHeE
+https://stream-179.surfernetwork.com/l4feq7zw5d2uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJsNGZlcTd6dzVkMnV2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJ0UnI0Z1lIQlJ5cVIzSzVFdzdJVlBnIiwiaWF0IjoxNzk0NzUzODc0LCJleHAiOjE3OTQ3NTM5MzR9.qHEbrTuJMGJ_RHOqzMw8ABlsp0Dd8A0BhzxEgOjq4zc
 #EXTINF:-1,Rádio Lunda Norte
 https://paineldj6.com.br:20114/stream
 #EXTINF:-1,Rádio Lunda Sul
@@ -87,6 +87,8 @@ https://stream-179.surfernetwork.com/yda95lbllawtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzd
 https://paineldj5.com.br:20087/stream
 #EXTINF:-1,Rádio Nacional de Angola - Rádio 5
 https://paineldj5.com.br:20088/stream
+#EXTINF:-1,Rádio Namibe
+https://paineldj6.com.br:20118/stream
 #EXTINF:-1,Rádio Nosso Tempo
 https://ssl.srvstm.com:6756/NossoTempo
 #EXTINF:-1,Rádio Nova 102.5 FM

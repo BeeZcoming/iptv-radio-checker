@@ -75,6 +75,8 @@ https://stream.rcs.revma.com/r3cprzsqtg0uv
 http://play.citymusic.be/citymusic.mp3
 #EXTINF:-1,CK Bleu
 https://mixmyday.ice.infomaniak.ch/ckbleu.mp3
+#EXTINF:-1,CK Deejay
+https://radio-pub.be/CKDJ/ckdjmix.mp3
 #EXTINF:-1,CK Radio
 https://charlekingradio.ice.infomaniak.ch/charlekingradio.mp3
 #EXTINF:-1,CK RADIO Belgique
@@ -251,6 +253,8 @@ http://stream.laclassica.be:8023/stream2
 http://stream.laclassica.be:8023/stream
 #EXTINF:-1,La Première - Bruxelles
 http://radios.rtbf.be/laprem1erebxl-128.mp3
+#EXTINF:-1,Lazer Hot Hits
+https://streaming.servicehosting.eu/listen/lazer_hot_hits/radio.mp3
 #EXTINF:-1,Lehabs Radio
 https://stream.zeno.fm/v4ney0hn5z3uv
 #EXTINF:-1,LN Radio
@@ -323,6 +327,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/NRJBELGIE.mp3?
 https://stream.rcs.revma.com/xh00fwuptg0uv
 #EXTINF:-1,NRJ+ (Belgique)
 https://stream.rcs.revma.com/1a6hdnzbebuvv
+#EXTINF:-1,Ocean Waves (myNoise Radio)
+http://oceanwaves.radio.mynoise.net/
 #EXTINF:-1,Oilsjt Mjoezik
 https://stream.oilsjtmjoezik.be/?1739170252723
 #EXTINF:-1,Omroep Neteland
@@ -371,12 +377,8 @@ https://icecast-qmusicbe-cdp.triple-it.nl/q-allstars.aac
 http://serverkw.quran-uni.com:8238/;*.mp3
 #EXTINF:-1,R.O.L Oldies Jukebox Radio - Lanaken, be
 http://listen.openstream.co/4628/audio
-#EXTINF:-1,Radio 1
-https://icecast.vrtcdn.be/radio1-mid.mp3
 #EXTINF:-1,Radio 100%
 http://live2.radiostudio.be:8000/pros
-#EXTINF:-1,RADIO 2
-https://quantumcast.vrtcdn.be/ra2ant/mp3-128/quantumcast.vrtcdn.be/
 #EXTINF:-1,Radio 2 Bene Bene
 http://icecast.vrtcdn.be/radio2_benebene-high.mp3
 #EXTINF:-1,Radio 4910
@@ -607,6 +609,8 @@ http://icecast.vrtcdn.be/radio1_lagelanden-high.mp3
 https://tower.hayva.ru/5jwuo-96
 #EXTINF:-1,Radyo Gar
 https://gargara.net/listen/zana/radio.mp3
+#EXTINF:-1,Rainy Day (myNoise Radio)
+http://rainyday.radio.mynoise.net/
 #EXTINF:-1,RBL
 https://radios.rtbf.be/laprem1ere-128.mp3
 #EXTINF:-1,RBS gold radio
@@ -631,16 +635,14 @@ http://streams.movemedia.eu:8440/
 http://server7.radio-streams.net:8157/stream
 #EXTINF:-1,Rowyna Music (nw.strm)
 https://server7.radio-streams.net/proxy/rowynamu/stream
-#EXTINF:-1,RTBF Classic 21
-http://radio.rtbf.be/c21/aac-128/fl
-#EXTINF:-1,RTBF Mix
-http://radio.rtbf.be/mix/aac-128/fl
 #EXTINF:-1,scorpio
 https://stream.radioscorpio.be/stream
 #EXTINF:-1,Slow Radio
 http://stream1.slowradio.com/
 #EXTINF:-1,Smart Radio City
 https://live.smartradio.city/listen/city/radio.mp3
+#EXTINF:-1,Soundtrackfm
+https://ais6.live-streams.nl:18033/soundtrackfm
 #EXTINF:-1,Sport FM Hoeselt
 https://s11.ssl-stream.com/ssl/sportfm/stream
 #EXTINF:-1,stadradio Tienen
@@ -685,8 +687,6 @@ http://cast3.my-control-panel.com:8170/stream
 https://cast3.asurahosting.com/proxy/breakou1/stream
 #EXTINF:-1,Tip!k
 https://radios.rtbf.be/pure-128.mp3
-#EXTINF:-1,Tipik
-https://radio.rtbf.be/tipik/mp3-160/me
 #EXTINF:-1,Tipik à l'ancienne (RTBF)
 http://radio.rtbf.be/tipik-al/mp3-128/rb
 #EXTINF:-1,Tomorrowland - Daybreak Sessions
@@ -823,6 +823,8 @@ https://radio.xbeat.org/stream1
 https://streamingv2.shoutcast.com/yolo-life-is-like-a-dance
 #EXTINF:-1,YOUFM 106.9 Mons, be
 http://youfm.ice.infomaniak.ch/youfm-96
+#EXTINF:-1,Zen Garden (myNoise Radio)
+http://zengarden.radio.mynoise.net/
 #EXTINF:-1,Zen Garden (myNoise Radio)
 https://zengarden-mynoise.radioca.st/stream
 #EXTINF:-1,ZenFm

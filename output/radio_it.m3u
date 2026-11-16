@@ -981,6 +981,8 @@ https://n15a-eu.rcs.revma.com/w8kdk0s8q7uvv?rj-ttl=5&rj-tok=AAABne6BDk0A8uIt5JXZ
 http://178.32.139.167:8102/;
 #EXTINF:-1,Radio Arcobaleno
 https://streaming.radiomargherita.com/stream/radioarcobaleno
+#EXTINF:-1,Radio Armisa
+https://onair.armisa.it/listen/armisa/radio.mp3
 #EXTINF:-1,Radio Arya
 https://radioarya.it/listen/radio_arya/radio.mp3
 #EXTINF:-1,Radio Ascoli
@@ -1395,6 +1397,8 @@ http://onair11.xdevel.com:10002/;
 https://nr14.newradio.it:8583/stream?ext=.mp3
 #EXTINF:-1,Radio FinestrAperta
 http://94.23.67.172:9114/;stream.mp3
+#EXTINF:-1,Radio Fiorenza
+https://artemis.streamerr.co/listen/radiofiorenza/radio.mp3
 #EXTINF:-1,Radio Firenze 95.4
 https://sr14.inmystream.it/stream/radiofirenze/stream
 #EXTINF:-1,Radio Firenze Viola
@@ -1491,6 +1495,8 @@ https://eu7.fastcast4u.com/proxy/radiofvg?mp=/;
 https://sr7.inmystream.it/proxy/radiogioiosamarina?mp=/stream
 #EXTINF:-1,Radio Gioventù
 http://178.32.139.167:8254/
+#EXTINF:-1,Radio Giulia
+http://rh.fluidstream.eu/giulia.aac?FLID=6
 #EXTINF:-1,Radio Glamour
 http://nr1.newradio.it:9254/stream
 #EXTINF:-1,Radio Globo
@@ -1999,6 +2005,8 @@ https://s5.radio.co/sf025b6002/listen
 https://sp3.server89.com:7018/
 #EXTINF:-1,Radio Pompa
 http://lamiaradio.homepc.it:8000/radiopompa.it.ogg
+#EXTINF:-1,Radio Pompa 2
+http://lamiaradio.homepc.it:8000/radiopompa2.ogg
 #EXTINF:-1,Radio Pompa 3
 http://lamiaradio.homepc.it:8000/radiopompa3.ogg
 #EXTINF:-1,RADIO POPIZZ
@@ -2035,6 +2043,10 @@ http://audio1.meway.tv:8108/stream
 https://stream.zeno.fm/9dve9gmfakhvv
 #EXTINF:-1,Radio Punto
 https://antares.dribbcast.com/proxy/puntolive/stream
+#EXTINF:-1,Radio Punto Nuovo
+http://onair15.xdevel.com:8062/
+#EXTINF:-1,Radio Punto Nuovo
+http://onair15.xdevel.com:8062/
 #EXTINF:-1,Radio Punto Zero
 https://ice01.fluidstream.net/rpz.aac
 #EXTINF:-1,Radio Punto Zero Tre Venezie
@@ -2461,6 +2473,8 @@ https://ice05.fluidstream.net/fluid0510.mp3
 https://stream.radiospore.oziosi.org:8003/zirudela.ogg?n=84fd45ac00e0d8b39c6f
 #EXTINF:-1,RadioGs
 https://stream.zeno.fm/f384h3c0r98uv
+#EXTINF:-1,Radiolina
+https://streaming.shoutcast.com/radiolina
 #EXTINF:-1,Radiolina Trapani
 http://94.23.67.20:8030/;
 #EXTINF:-1,Radioluna DJ
@@ -2469,14 +2483,14 @@ http://radioluna.no-ip.info:8000/luna
 http://onair7.xdevel.com:8738/;stream.mp3
 #EXTINF:-1,RADIOPIU
 https://radiopiu-danidi01.radioca.st/stream
+#EXTINF:-1,RADIOPUNTONUOVO
+http://onair15.xdevel.com:8062/;
 #EXTINF:-1,Radioradio
 https://sr6.inmystream.it/proxy/rrshout?mp=/stream
 #EXTINF:-1,RadioReload.it
 https://stream3.xdevel.com/audio0s975522-197/stream/icecast.audio
 #EXTINF:-1,Radiorizzonti inBlu
 http://stream.radiorizzonti.com/orizzonti
-#EXTINF:-1,radioscintillablog
-https://dreamsiteradiocp3.com/proxy/radioscintilla?mp=/
 #EXTINF:-1,RADIOSPEAKER.IT
 https://nr5.newradio.it/proxy/webradfest?mp=/stream2
 #EXTINF:-1,RadiostART

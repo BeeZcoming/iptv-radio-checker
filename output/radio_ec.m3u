@@ -45,6 +45,8 @@ https://streamingecuador.com:9810/stream
 https://streamingecuador.net:8014/forever
 #EXTINF:-1,Gualaceo Stereo 92.7
 https://stream.zeno.fm/s74szs5uquhvv
+#EXTINF:-1,HCJB 2
+https://hcjb2.makrodigital.com:8013/stream
 #EXTINF:-1,HCJB La Voz de los Andes 89.3 FM
 https://streamingecuador.net:8287/hcjb
 #EXTINF:-1,http://streamingecuador.com:7048/stream
@@ -71,8 +73,6 @@ https://streamingecuador.net:8035/stream
 https://laredondafm.makrodigital.com:9550/stream
 #EXTINF:-1,La tukka Ec
 http://grupomundodigital.com:8673/live
-#EXTINF:-1,La voz de Crucita
-https://stream2.mcvhost.com/lavozdecrucita/
 #EXTINF:-1,La Voz de los Caras 95.3 FM
 http://streaming.hdserver.biz:9368/stream
 #EXTINF:-1,la voz del Tomebamba
@@ -109,16 +109,12 @@ https://radio.pitazoinicial.com/stream
 https://streamingecuador.net:8008/radioplayfm
 #EXTINF:-1,Play Radio Online
 https://stream.zeno.fm/thjs0ijturotv
-#EXTINF:-1,PM RADIO Quevedo 
-https://as100.globalhost1.com/8010/stream
 #EXTINF:-1,Pon salsa y todo norte
 https://stream.zeno.fm/eft72w1vrnhvv
 #EXTINF:-1,R.S.N. La Indestructible
 https://stream.zeno.fm/wahxwkbdaoduv
 #EXTINF:-1,Radio 27 Electro
 https://cast1.prosandoval.com/listen/radio_27_network/radio.mp3
-#EXTINF:-1,Radio Activa 
-https://dattavolt.com/8394/stream
 #EXTINF:-1,Radio Alegria
 https://rr5100.globalhost1.com:8156/stream
 #EXTINF:-1,Radio América 104.5 FM
@@ -181,8 +177,6 @@ https://streamingecuador.com:9040/stream
 https://streamingecuador.net:8135/radioelite
 #EXTINF:-1,Radio Elite 99.7 FM
 https://streamingecuador.net:8135/radioelite
-#EXTINF:-1,Radio Eres
-https://sv70.ecuaradiotv.net:8000/eres933
 #EXTINF:-1,Radio Evolución 107.7 FM
 https://stream.gradio.net/evolucion
 #EXTINF:-1,radio favorita 98.3 fm 

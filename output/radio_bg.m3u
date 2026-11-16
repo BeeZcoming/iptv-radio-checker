@@ -43,6 +43,8 @@ https://streams.badrockradio.net/national
 https://radiocp.jump.bg/proxy/stan1?mp=/live
 #EXTINF:-1,Balkan Radio
 https://samcloud.spacial.com/api/listen?sid=99064&m=sc&rid=175019&t=ssl
+#EXTINF:-1,Balkan Radio
+https://home.radionrg.com/listen/balkanradio/radio.mp3
 #EXTINF:-1,Bar Friends Pernik
 http://79.98.108.170:8278/autodj
 #EXTINF:-1,Bg Estrada
@@ -495,6 +497,8 @@ https://soulfreak.djzone.mobi/soulfreak
 http://79.98.108.170:8018/autodj
 #EXTINF:-1,Sunny Beach Radio
 https://sunny-beachradio.stream.laut.fm/sunny-beachradio
+#EXTINF:-1,Sweet Radio
+https://stream.sweetradio.online:8001/live
 #EXTINF:-1,Tangra Mega Rock
 http://stream-bg-01.radiotangra.com:8000/Tangra-high
 #EXTINF:-1,Tangra Mega Rock

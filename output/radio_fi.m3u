@@ -5,6 +5,8 @@ https://aud-stream-aitoiskelma.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8
 https://stream.alandsradio.ax/stream.ogg
 #EXTINF:-1,Basso
 https://stream-redirect.bauermedia.fi/basso/bassoradio_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
+#EXTINF:-1,Christmas FM Non-stop!
+https://xmas-node1.zip.wf/live.aac
 #EXTINF:-1,Classic Hits
 https://aud-stream-classichits.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8
 #EXTINF:-1,DOUBLECLAP RADIO
@@ -159,8 +161,6 @@ https://aud-stream-suomipop.nm-elemental.nelonenmedia.fi/playlist.m3u8?rp_source
 https://aud-stream-suomipop.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8
 #EXTINF:-1,Radio Tempo
 https://cast.radiotempo.fi/radiotempo
-#EXTINF:-1,Radio Tuottaja1
-https://kaupunkiradio.radiotaajuus.fi:9013/radio
 #EXTINF:-1,Radio Vaasa
 https://stream.protonbroadcast.com:8443/radiovaasa.mp3
 #EXTINF:-1,Radio Voima
@@ -171,6 +171,8 @@ https://stream.zeno.fm/qgeotx9vzpluv
 https://wr2.downtime.fi/kaakko.aac
 #EXTINF:-1,Radioverkko
 http://kuuntele.radioverkko.fi:8000/live
+#EXTINF:-1,REPLAY NEWS - Suomi
+https://replaynewsfi.ice.infomaniak.ch/replaynewsfi-128.mp3
 #EXTINF:-1,Roll FM
 http://stream.rollfm.fi/
 #EXTINF:-1,RollFM
@@ -201,6 +203,8 @@ https://st.downtime.fi/kiakko-tappara.aac
 https://streaming.radioplay.fi/fi_tekoalyradio_128.mp3
 #EXTINF:-1,TOP51
 https://stream-redirect.bauermedia.fi/top51/top51_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
+#EXTINF:-1,Vömba FM
+https://c4.radioboss.fm:18123/live
 #EXTINF:-1,Yle Klassinen
 https://icecast.live.yle.fi/radio/YleKlassinen/icecast.audio
 #EXTINF:-1,Yle Klassinen (HLS)

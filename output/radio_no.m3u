@@ -47,8 +47,6 @@ http://s39.myradiostream.com:11590/listen.m4a
 https://stream.radiomeloy.no:8003/radiomeloy
 #EXTINF:-1,Nea Radio
 http://nettradio.nearadio.no:8000/stream
-#EXTINF:-1,NF Radio
-https://player.nfradio.fr/listen/nf_radio/radio.mp3
 #EXTINF:-1,NKR P1+
 http://lyd.nrk.no/nrk_radio_p1pluss_mp3_h
 #EXTINF:-1,Norsk Country Radio
@@ -75,6 +73,8 @@ https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk13_aac_h
 https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk2_mp3_h
 #EXTINF:-1,Nrk p1 Hordaland
 https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk8_mp3_h
+#EXTINF:-1,NRK P1 Hordaland (Høy kvalitet AAC)
+https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk8_aac_h
 #EXTINF:-1,NRK P1 Innlandet
 https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk14_mp3_h
 #EXTINF:-1,NRK P1 Møre og Romsdal
@@ -91,6 +91,8 @@ https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk9
 https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk7
 #EXTINF:-1,NRK P1 Sogn og Fjordane (Høy kvalitet MP3)
 https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk7
+#EXTINF:-1,NRK P1 Sørlandssendingen
+https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk10_mp3_h
 #EXTINF:-1,Nrk P1 Stor-Oslo
 https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_mp3_h
 #EXTINF:-1,NRK P1 Troms (Høy kvalitet AAC)
@@ -161,6 +163,8 @@ https://p9.p4groupaudio.com/P09_MH
 https://s2.radio.co/sd7f2a360c/listen
 #EXTINF:-1,Ptro
 https://stream.zeno.fm/z8cp1nqwhnruv
+#EXTINF:-1,Radio 3 Bodø
+https://stream.radio3.no/Radio3Bodo48?rp_source=1&=&&___cb=322377588283394
 #EXTINF:-1,Radio 3,16 - hele Norges kristne radiokanal
 https://streaming.radio.co:80/se326fb378/listen
 #EXTINF:-1,Radio AI Norge
@@ -177,6 +181,8 @@ http://radioip.no:443/flac
 https://stream.theradiohub.com/?server=radioip.no&port=443&type=mp3&mount=rh.mp3
 #EXTINF:-1,Radio Kos
 https://lyd.radiokos.no/kos_lq
+#EXTINF:-1,Radio L Lillesand
+https://stream.radio-l.no/rlihq
 #EXTINF:-1,Radio Latin-Amerika
 https://stream.radiolatinamerika.no/latam_hq
 #EXTINF:-1,Radio Lyngdal

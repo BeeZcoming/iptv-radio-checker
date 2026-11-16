@@ -79,8 +79,6 @@ http://25603.live.streamtheworld.com/AFNE_RTA_SC
 https://sonicpanel.streamsolutions.us/8038/stream
 #EXTINF:-1,AirmaxFM
 https://streaming2.elitecomunicacion.es:8014/stream
-#EXTINF:-1,AIthropology Lab FM
-https://it.tail7acb88.ts.net/aithropology.mp3
 #EXTINF:-1,Alcúdia Ràdio
 https://enacast.com/alcudiaradio/streams/HD
 #EXTINF:-1,ALEX WOLF RADIO
@@ -335,10 +333,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_PONTEV
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_FERROL.mp3
 #EXTINF:-1,Cadena Ser Radio Galicia
 http://25533.live.streamtheworld.com:3690/SER_GALICIA_SC
-#EXTINF:-1,Cadena SER Radio MADRID
-http://server7.20comunicacion.com:8040/
-#EXTINF:-1,Cadena SER Radio Menorca
-http://server10.emitironline.com:8040/
 #EXTINF:-1,Cadena SER Radio Murcia
 http://19763.live.streamtheworld.com:3690/SER_MURCIA_SC
 #EXTINF:-1,Cadena Ser Radio Nordes
@@ -363,6 +357,8 @@ https://streams.radio.co/se1a320b47/listen
 http://streamer.radio.co/sd7b28e5f3/listen
 #EXTINF:-1,Calafell Ràdio
 http://streaming.enantena.com:8000/calafellradio128.mp3?_=1
+#EXTINF:-1,CalamarRradio
+http://www.calamarrradio.org:8000/stream
 #EXTINF:-1,Calimbre Radio
 https://control.streaming-pro.com:6048/stream
 #EXTINF:-1,Camino FM
@@ -475,8 +471,8 @@ http://wecast20-h-cloud.flumotion.com/copesedes/cartagena.mp3
 https://sonic.mediatelekom.net/8448/;?type=http&nocache=107036
 #EXTINF:-1,Cope Granada
 http://flucast13-h-cloud.flumotion.com/cope/net1.mp3
-#EXTINF:-1,Cope Madrid FM
-https://net1-cope-rrcast.flumotion.com/cope/net1-low.mp3
+#EXTINF:-1,COPE Granada-Sta.Fe
+https://granada-copesedes-rrcast.flumotion.com/copesedes/granada-low.mp3
 #EXTINF:-1,COPE Málaga
 http://flucast-bl02.flumotion.com/cope/net1.mp3
 #EXTINF:-1,COPE Más Santander
@@ -577,6 +573,8 @@ https://control.streaming-pro.com:8014/stream
 https://radios.blumhost.es:8214/stream
 #EXTINF:-1,Ecuashyri Radio 103.7 FM
 http://streaming.hdserver.biz:9336/;/stream
+#EXTINF:-1,EDENEX
+http://164.138.210.62:13121/stream
 #EXTINF:-1,EDM Festival - Online Radio 
 https://stream.technolovers.fm/edm?ref=radiobrowser
 #EXTINF:-1,EDM RADIO
@@ -787,8 +785,6 @@ https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmrad
 https://stream.halabedi.eus/1B
 #EXTINF:-1,Hispanidad Radio
 https://stm2.emiteonline.com:9002/hr
-#EXTINF:-1,HIT FM
-https://bbhitfm.kissfmradio.cires21.com:8443/bbhitfm/mp3/icecast.audio?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNiAxMToxMTo1NCBBTSZoYXNoX3ZhbHVlPWY3Q2pOTHlQcFkzWFBIODYxSFUwSVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01NTI0MTk4Nw==
 #EXTINF:-1,Hit radio
 http://stm1.emiteonline.com:8004/hitelgrado
 #EXTINF:-1,Hits 1 Ibiza
@@ -797,6 +793,8 @@ https://hits1spain-audiomediaradio.radioca.st/hits1mallorca
 https://radio7.pro-fhi.net/radio/9006/hits1ibiza
 #EXTINF:-1,Hits 80s
 https://makri.cdnstream.com/1898_128
+#EXTINF:-1,HITS MUSIC RADIO ROCK
+https://stream.radiositemaker.com/s/hits-music-radio-rock.mp3
 #EXTINF:-1,hits1
 https://radio12.pro-fhi.net:19018/Jack%20Costello%20-%20Ibiza%20World%20Club%20Tour%20Radioshow
 #EXTINF:-1,Hitz 90s FM
@@ -1559,8 +1557,6 @@ http://stream.zeno.fm/4vwgvyq82k8uv
 https://streaming12.elitecomunicacion.es:8228/stream?type=.mp3
 #EXTINF:-1,Ràdio Desvern
 https://enacast.com/radiodesvern/streams/HD
-#EXTINF:-1,Radio Dikela (AAC+ Móvil)
-https://dikela.org/radio_mobile
 #EXTINF:-1,Radio Disco Melodia FM
 https://sonic.mediatelekom.net/8020/stream
 #EXTINF:-1,Radio DOS 84
@@ -1647,10 +1643,10 @@ http://stream.zeno.fm/ra4a8ebe0rhvv
 https://s5.radio.co/s58f5759a4/listen
 #EXTINF:-1,Radio Hostafrancs 
 https://radiohostafrancs.cat/directe.mp3
+#EXTINF:-1,Radio Humor FM
+https://stream.radiohumorfm.com/stream
 #EXTINF:-1,Radio Ibizing
 https://a8.asurahosting.com:6850/radio.mp3
-#EXTINF:-1,Radio Ilíberis
-https://streaming2.elitecomunicacion.es:8074/stream?type=.mp3
 #EXTINF:-1,Radio Intercontinental - Madrid
 https://cast5.servcast.net/proxy/inter/stream
 #EXTINF:-1,Radio Intereconomía
@@ -1745,6 +1741,8 @@ http://malagafm.streaming-pro.com:8130/malagafmmobile
 https://malagafm.streaming-pro.com:8131/malagafmmobile
 #EXTINF:-1,Radio Marca Zaragoza
 https://c6.auracast.net/radio/8020/radio.mp3
+#EXTINF:-1,RADIO MARÍA ESPAÑA
+http://dreamsiteradiocp2.com:8006/stream
 #EXTINF:-1,Radio María España
 http://dreamsiteradiocp2.com:8030/;stream.mp3
 #EXTINF:-1,Radio María España
@@ -1787,8 +1785,6 @@ http://stream.zeno.fm/sfpqezsh6f0uv
 https://srv7031.dns-lcinternet.com/8030/stream
 #EXTINF:-1,Radio Nervión
 https://gruponervion.streaming-pro.com:6131/
-#EXTINF:-1,Radio O Drom
-https://dikela.org/radio_stream
 #EXTINF:-1,Ràdio Olot
 http://chrome.frilab.com:8000/radiolot
 #EXTINF:-1,Radio Oro
@@ -1833,10 +1829,6 @@ https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/continuou
 https://server10.emitironline.com:9321/
 #EXTINF:-1,Ràdio Puig-reig
 https://enacast.com/puigreig/streams/SD
-#EXTINF:-1,Radio QK 107.2FM
-http://212.231.231.169:8000/radioqk_master.mp3
-#EXTINF:-1,RADIO QK 107.2fm UVIÉU
-https://icecast.radioqk.org:8443/radioqk_master.mp3?1772282735529
 #EXTINF:-1,Radio Radio - CSO La Rosa
 https://az.csolarosa.net/listen/radio_radio/radio.mp3
 #EXTINF:-1,Radio Radio Network
@@ -2093,6 +2085,8 @@ https://rtvelivestream.rtve.es/rtvesec/rne/rne_r1_main.m3u8
 https://dispatcher.rndfnk.com/crtve/rne1/alm/mp3/high
 #EXTINF:-1,RNE Radio Nacional Cantabria
 https://dispatcher.rndfnk.com/crtve/rne1/ctb/mp3/high
+#EXTINF:-1,ROCK FM
+https://rockfm-cope-rrcast.flumotion.com/cope/rockfm-low.mp3
 #EXTINF:-1,Rock FM
 https://rockfm-cope.flumotion.com/playlist.m3u8
 #EXTINF:-1,Rock FM
@@ -2101,6 +2095,8 @@ http://flucast09-o-cloud.flumotion.com/cope/rockfm-low.mp3
 http://rockfm.cope.stream.flumotion.com/cope/rockfm/playlist.m3u8
 #EXTINF:-1,Rock Radioo
 https://a10.asurahosting.com:7570/radio.mp3
+#EXTINF:-1,RockFM
+https://rockfm-cope-rrcast.flumotion.com/cope/rockfm.mp3
 #EXTINF:-1,RockFM
 http://flucast26-h-cloud.flumotion.com/cope/rockfm.aac
 #EXTINF:-1,rockSateliteONE
@@ -2167,6 +2163,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_LUCENA
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SORIA.mp3
 #EXTINF:-1,SER Torrelavega
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_TORRELAVEGA.mp3
+#EXTINF:-1,SER Zaragoza
+https://zaragoza-copesedes-rrcast.flumotion.com/copesedes/zaragoza-low.mp3
 #EXTINF:-1,Sevilla FC Radio
 https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
 #EXTINF:-1,Shock FM

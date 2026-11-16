@@ -21,6 +21,10 @@ https://m.axradio.net/stream.mp3
 http://radio.bestfm.ua/bestfm
 #EXTINF:-1,Blues & Rock Radio
 http://stream.laut.fm/bluesrock
+#EXTINF:-1,Brokenbeats
+https://brokenbeats.net/stream/aac
+#EXTINF:-1,Brokenbeats
+https://stream.brokenbeats.net/tune
 #EXTINF:-1,Classic Radio
 http://online.classicradio.ua/ClassicRadio_HD
 #EXTINF:-1,Classic Radio
@@ -221,6 +225,8 @@ https://radivo.thx8te.kh.ua/listen/radivo/radio.mp3
 https://online.radiorelax.ua/RadioRelax_Int
 #EXTINF:-1,ReLIFE (Решетилівка)
 http://176.102.194.71:44808/radio
+#EXTINF:-1,REPLAY NEWS - Українська       Новинне радіо кожні 5 хвилин
+https://replaynewsuk.ice.infomaniak.ch/replaynewsuk-128.mp3
 #EXTINF:-1,Rock
 https://stream.zeno.fm/r6o4xljca6cvv
 #EXTINF:-1,Rock Ballads
@@ -463,8 +469,6 @@ https://cast.mediaonline.net.ua/radiopyatnica320
 https://live.radio1.com.ua/liveradio64
 #EXTINF:-1,Радіо Промінь / Radio Promin
 http://radio.ukr.radio:8000/ur2-mp3
-#EXTINF:-1,Радіо ПТРК
-https://service.ptrk.tv:8443/PTRK
 #EXTINF:-1,Радіо РАІ
 https://radio.rai.ua:9000/rai
 #EXTINF:-1,Радіо С4
@@ -483,8 +487,6 @@ https://stream.ntktv.ua/syaivo.mp3
 http://193.107.104.79:8007/taktonair.mp3
 #EXTINF:-1,Радіо Трек
 http://online2.radiotrek.rv.ua:8000/AAC+_64
-#EXTINF:-1,Радіо Українська Пісня
-https://listen2.myradio24.com/50904
 #EXTINF:-1,Радіо Хартія (Radio Khartia)
 https://a9.asurahosting.com/listen/radio_khartia/radio.mp3
 #EXTINF:-1,Радіо Шлягер FM

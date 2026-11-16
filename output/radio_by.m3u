@@ -51,12 +51,16 @@ https://live.humorfm.by:8443/avtoradio
 http://radio.100fm.by:8000/100fm128
 #EXTINF:-1,Ватыканскае радыё
 https://radio.vaticannews.va/stream-be
+#EXTINF:-1,Город FM Брест 97,7
+https://stream2.datacenter.by/GorodFM
 #EXTINF:-1,Душевное радио
 https://stream2.datacenter.by/dushevnoe
 #EXTINF:-1,Еўрарадыё Alternative
 http://stream1.euroradio.fm:8000/euroradio1?seed=1493710910
 #EXTINF:-1,Еўрарадыё BY
 http://stream1.euroradio.fm:8000/euroradio1
+#EXTINF:-1,Компас FM 102,5
+https://radio.mil.by/live
 #EXTINF:-1,Легенды FM
 http://live.legendy.by:8000/legendyfm
 #EXTINF:-1,Мелодии Века 96.2fm
@@ -83,6 +87,8 @@ http://178.124.131.35:8012/trkbrest
 https://stream2.datacenter.by/trkbrest
 #EXTINF:-1,Радио витебск
 https://stream2.datacenter.by/vtvby
+#EXTINF:-1,радио Минск 92.4
+https://radio.mk.by:8443/radiominsk
 #EXTINF:-1,Радио Минская Волна 97.4 FM
 https://stream2.datacenter.by/mvradio
 #EXTINF:-1,Радио Могилёв

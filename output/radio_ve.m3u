@@ -3,14 +3,14 @@
 http://cp2.lorini.net:28018/stream
 #EXTINF:-1,Acción 104.5 FM (La diferencia en el dial)
 https://stream.intervalohost.com/accionfm/stream
-#EXTINF:-1,ACTIVA 104.9 FM
-https://stream.zeno.fm/t31pbasum7zuv
 #EXTINF:-1,Adulto Joven 88.1
 https://server6.globalhostla.com:9168/stream
 #EXTINF:-1,Alba Ciudad 96.3 FM
 https://envivo.albaciudad.org/albaciudad.mp3
 #EXTINF:-1,Alba Ciudad Radio 93.6 FM16k
 https://envivo.albaciudad.org/alba16.mp3
+#EXTINF:-1,Amiga FM 93.9
+https://stream.zeno.fm/dr612ew61rhvv
 #EXTINF:-1,Andes 89.3 FM
 http://streamingned.com:7098/;
 #EXTINF:-1,Audaz FM 94.5
@@ -99,6 +99,8 @@ https://esperanza-proxy.esperanzaradioquibor.workers.dev/
 https://stream.zeno.fm/jyrqyy8he4tvv
 #EXTINF:-1,Estereo 88.7 FM
 https://stream.zeno.fm/3e2keb1e7tzuv
+#EXTINF:-1,Evolussiun 92.9 FM
+https://laradiossl.online:8150/live
 #EXTINF:-1,Éxitos 90.5 FM - Puerto Ordaz
 https://acp4.lorini.net:10109/stream
 #EXTINF:-1,Exitos 99.9 FM
@@ -203,14 +205,14 @@ https://acp4.lorini.net:2060/stream
 https://guri.tepuyserver.net/8098/stream
 #EXTINF:-1,Otilca Radio
 https://stream.zeno.fm/w6dg8ye51tzuv
+#EXTINF:-1,Pentagrama 107.3FM
+https://acp2.lorini.net:28012/stream
 #EXTINF:-1,Planeta 105.3 Caracas FM
 https://cast10.plugstreaming.com:2020/stream/planetafm/;
 #EXTINF:-1,Planeta Radio 101.7 FM
 https://stream.zeno.fm/8y6m9g81c48uv
 #EXTINF:-1,Platinum 98.7 Fm
 https://server6.globalhostla.com:9224/stream
-#EXTINF:-1,Playera 101.9 FM Pto. Píritu
-https://acp2.lorini.net:28008/stream
 #EXTINF:-1,PLENITUD 90.9
 https://sp.wnetserver.com/8060/stream
 #EXTINF:-1,Pregón 95.7 FM
@@ -245,6 +247,8 @@ https://stream.zeno.fm/hcvjvmprjveuv/;type=mp3
 https://stream.zeno.fm/28hgnyp8568uv
 #EXTINF:-1,Radio María Venezuela
 https://dreamsiteradiocp2.com/proxy/rmvenezuela?mp=/stream
+#EXTINF:-1,Radio Miraflores 95.9 FM
+https://stream.zeno.fm/prcs4h7d9k8uv
 #EXTINF:-1,Radio Mix Retro
 https://streamingned.com:7084/stream
 #EXTINF:-1,Radio Nacional de Venezuela - Informativa
@@ -281,12 +285,10 @@ https://cast20.plugstreaming.com:2020/stream/r981/;
 https://stream.zeno.fm/85y72q4wzdfuv
 #EXTINF:-1,SABOR 106.7 FM
 https://radiostream.interven.ca/listen/saborfm/radio.mp3
-#EXTINF:-1,sensacion 95.9 fm
-https://stream-177.surfernetwork.com/fz3rkbb3uouvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmejNya2JiM3VvdXZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjRSa08yYTNYUkxtX0tOdEV4UzM2bmciLCJpYXQiOjE3OTQ0Mzk5OTcsImV4cCI6MTc5NDQ0MDA1N30.U7gDk_CBO-RaWCGhn6AVwsCS9zy_6xPRP75cOXUGHhM
+#EXTINF:-1,Salinas 91.3FM La Voz de Araya
+https://stream-177.surfernetwork.com/dn2zapjics8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkbjJ6YXBqaWNzOHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJsbkl1WThmRFNobWMyRXAtSy1uVmF3IiwiaWF0IjoxNzk0NzkwMTc2LCJleHAiOjE3OTQ3OTAyMzZ9.GHmt-nNIS1kyWkOctVbnWWAYQAzkpJN_oFdHdCM7KsQ
 #EXTINF:-1,SIERRA 99.1 FM
 https://stream.zeno.fm/9m95mfutymruv
-#EXTINF:-1,Studio 102.7 FM
-https://stream.zeno.fm/um833nab8tzuv
 #EXTINF:-1,Tama Stereo
 https://guri.tepuyserver.net/8457/stream
 #EXTINF:-1,TeleSur

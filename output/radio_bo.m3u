@@ -69,6 +69,8 @@ https://usa13.fastcast4u.com/proxy/fideslapaz?mp=/1
 https://usa14.fastcast4u.com/proxy/fidestarija?mp=/1
 #EXTINF:-1,Radio Folklorica Uyuni
 https://emiteradio.com/proxy/uyuni?mp=/stream
+#EXTINF:-1,RADIO FRONTERA FM 100.3 MHz
+https://stream.inliveserver.com:2020/8140/stream
 #EXTINF:-1,Radio Gigante Bolivia
 https://cloudstream2032.conectarhosting.com:7311/;
 #EXTINF:-1,Radio Kollasuyo FM
@@ -83,6 +85,8 @@ https://stream.zeno.fm/dinhdjwdjeltv
 http://stream.zeno.fm/pnwpbyfambruv
 #EXTINF:-1,Radio Pop - Red Uyuni
 https://emiteradio.com/proxy/boliviapop?mp=/stream
+#EXTINF:-1,Radio Pueblo 1280 AM
+https://stream.zeno.fm/pixytbpabcsuv
 #EXTINF:-1,Radio Pueblo Bolivia
 https://stream.zeno.fm/uhw8478m208uv
 #EXTINF:-1,Radio Qhana FM98.5

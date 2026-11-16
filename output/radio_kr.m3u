@@ -111,6 +111,8 @@ https://stream.yojosuknam.com/live.mp3
 https://radiolive.ytn.co.kr/radio/_definst_/20211118_fmlive/playlist.m3u8
 #EXTINF:-1,경인방송
 https://stream.ifm.kr/live/aod1/playlist.m3u8
+#EXTINF:-1,국방FM
+https://mediaworks.dema.mil.kr/live_edge/audio.sdp/playlist.m3u8
 #EXTINF:-1,마포FM
 http://115.85.182.39/mapofm?type=.mp3
 #EXTINF:-1,안동MBC AM

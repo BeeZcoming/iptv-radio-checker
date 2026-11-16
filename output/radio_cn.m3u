@@ -15,6 +15,8 @@ http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
 https://lhttp-hw.qtfm.cn/live/5022308/64k.mp3
 #EXTINF:-1,80后音悦台
 https://live.ximalaya.com/radio-first-page-app/live/2684/64.m3u8?transcode=ts
+#EXTINF:-1,80后音悦台·河南网络电台
+https://play-radio-stream3.hndt.com/now/SFZeH2cb/chunklist.m3u8
 #EXTINF:-1,891线上音乐台
 https://live.fm891.net/96k.aac
 #EXTINF:-1,891线上音乐台 高清
@@ -25,6 +27,8 @@ https://lhttp.qingting.fm/live/15318146/64k.mp3
 https://rscdn.ajmide.com/r_3829/nglive_3829.m3u8
 #EXTINF:-1,947爱乐厅·欧洲现场
 https://rscdn.ajmide.com/r_3830/nglive_3830.m3u8
+#EXTINF:-1,A Radio for OST
+https://hkradio.myaddr.io/listen/a_radio_for_ost/radio.aac
 #EXTINF:-1,AikosRadio
 https://stream.zeno.fm/7tlyb215x5xtv
 #EXTINF:-1,AKB48 Lover
@@ -325,6 +329,26 @@ https://api.xmgspace.me/api/kbs-stream/
 http://lhttp.qingting.fm/live/5021665/64k.mp3
 #EXTINF:-1,Kiangsi Tourist Radio
 http://lhttp.qingting.fm/live/20133/64k.mp3
+#EXTINF:-1,Kiangsu Classical Music Radio
+http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8
+#EXTINF:-1,Kiangsu Finance Radio
+http://lzlive.vojs.cn/caijing/92/live.m3u8
+#EXTINF:-1,Kiangsu General News Radio
+http://lzlive.vojs.cn/rTyLc36/92/live.m3u8
+#EXTINF:-1,Kiangsu Health Radio
+http://lzlive.vojs.cn/EWpb5Ov/92/live.m3u8
+#EXTINF:-1,Kiangsu Literature & Art Radio
+http://lzlive.vojs.cn/pL6NkZo/92/live.m3u8
+#EXTINF:-1,Kiangsu Music Radio
+http://lzlive.vojs.cn/jAmO6Ng/92/live.m3u8
+#EXTINF:-1,Kiangsu News Radio
+http://lzlive.vojs.cn/5Fo8mMX/92/live.m3u8
+#EXTINF:-1,Kiangsu Story Radio
+http://lzlive.vojs.cn/rWjyus9/92/live.m3u8
+#EXTINF:-1,Kiangsu Traffic Radio
+http://lzlive.vojs.cn/4TaHTeL/92/live.m3u8
+#EXTINF:-1,Kiangsu Voice of Kingling Radio
+http://lzlive.vojs.cn/Hd2hIgM/92/live.m3u8
 #EXTINF:-1,KRadio 若望三電台
 https://stream.zeno.fm/4uih7z8lxj9uv
 #EXTINF:-1,Kunming Auto Radio
@@ -515,6 +539,8 @@ https://stream.zeno.fm/rzsc1h2izunuv
 https://lhttp.qingting.fm/live/5021866/64k.mp3
 #EXTINF:-1,万宁综合广播
 https://lhttp-hw.qtfm.cn/live/20500237/64k.mp3
+#EXTINF:-1,万猫屋 (Ms. Dress)
+https://streetcatpull.hellobike.com/live/4154701567245307824_0.m3u8
 #EXTINF:-1,万盛融媒体中心综合广播
 https://lhttp-hw.qtfm.cn/live/15318480/64k.mp3
 #EXTINF:-1,三亚天涯之声
@@ -693,8 +719,6 @@ https://lhttp.qtfm.cn/live/4864/64k.mp3
 http://lhttp.qingting.fm/live/20204/64k.mp3
 #EXTINF:-1,乐游广播
 https://rscdn.ajmide.com/r_3834/nglive_3834.m3u8
-#EXTINF:-1,乐至综合广播
-http://175.155.106.72:89/live6/live6.m3u8
 #EXTINF:-1,九台区综合广播
 http://stream9.jlntv.cn/aac_jiutaigb/sd/live.m3u8
 #EXTINF:-1,九江交通广播
@@ -863,8 +887,6 @@ https://lhttp.qtfm.cn/live/5022410/64k.mp3
 https://lhttp-hw.qtfm.cn/live/20211703/64k.mp3
 #EXTINF:-1,兵团八师石河子新闻综合广播
 https://lhttp-hw.qtfm.cn/live/20500118/64k.mp3
-#EXTINF:-1,兵团四师可克达拉综合广播
-https://lhttp-hw.qtfm.cn/live/20500054/64k.mp3
 #EXTINF:-1,内江交通广播
 https://www.scnj.tv/hls_njtv/live/jtgb.m3u8
 #EXTINF:-1,内江综合广播
@@ -967,10 +989,14 @@ http://hls.njgb.com/live_hls/2/playlist.m3u8
 http://live.xmcdn.com/live/70/64.m3u8
 #EXTINF:-1,南京体育广播
 http://live.xmcdn.com/live/88/64.m3u8
+#EXTINF:-1,南京体育广播
+http://hls.njgb.com/live_hls/3/playlist.m3u8
 #EXTINF:-1,南京新闻综合广播
 http://hls.njgb.com/live_hls/1/playlist.m3u8
 #EXTINF:-1,南京经济广播
 http://live.xmcdn.com/live/69/64.m3u8
+#EXTINF:-1,南京经济广播
+http://hls.njgb.com/live_hls/6/playlist.m3u8
 #EXTINF:-1,南京音乐广播
 http://live.xmcdn.com/live/71/64.m3u8
 #EXTINF:-1,南京音乐广播
@@ -1011,8 +1037,6 @@ https://lhttp.qingting.fm/live/5022604/64k.mp3
 https://lhttp.qingting.fm/live/20525/64k.mp3
 #EXTINF:-1,南阳交通音乐广播
 https://lhttp.qingting.fm/live/1212/64k.mp3
-#EXTINF:-1,南阳综合广播
-https://lhttp.qingting.fm/live/1213/64k.mp3
 #EXTINF:-1,博罗综合广播
 https://live.ximalaya.com/radio-first-page-app/live/2848/64.m3u8?transcode=ts
 #EXTINF:-1,卧龙区台
@@ -1139,6 +1163,12 @@ https://lhttp-hw.qtfm.cn/live/20500132/64k.mp3
 https://satellitepull.cnr.cn/live/wx32nmghlbehygb/playlist.m3u8?wsSession=d966c1f28016a758d88ba0c2-174814248595620&wsIPSercert=302e928c9e06924943d63c021170d763
 #EXTINF:-1,呼伦贝尔蒙语广播
 https://satellitepull.cnr.cn/live/wx32nmghlbemygb/playlist.m3u8?wsSession=c650605f64c6488d38b66982-174814238782426&wsIPSercert=302e928c9e06924943d63c021170d763
+#EXTINF:-1,呼和浩特交通广播
+https://lhttp-hw.qtfm.cn/live/5021545/64k.mp3
+#EXTINF:-1,呼和浩特综合广播
+https://lhttp-hw.qtfm.cn/live/5021543/64k.mp3
+#EXTINF:-1,呼和浩特综合广播
+https://lhttp.qingting.fm/live/5021543/64k.mp3
 #EXTINF:-1,呼图壁县5G智慧电台
 https://lhttp.qtfm.cn/live/20500188/64k.mp3
 #EXTINF:-1,和谐铁路之声
@@ -1241,6 +1271,8 @@ https://lhttp-hw.qtfm.cn/live/20211619/64k.mp3
 https://lhttp-hw.qtfm.cn/live/20500125/64k.mp3
 #EXTINF:-1,国际新闻
 https://lhttp.qtfm.cn/live/20500172/64k.mp3
+#EXTINF:-1,国际旅游岛之声
+http://ls.qingting.fm/live/1862.m3u8
 #EXTINF:-1,圆环之理广播电台
 https://lhttp.qtfm.cn/live/5022308/64k.mp3
 #EXTINF:-1,圣大解脱经
@@ -1343,6 +1375,8 @@ http://lhttp.qingting.fm/live/20212227/64k.mp3
 http://play-radio-stream3.hndt.com/now/JxkyN5mR/chunklist.m3u8
 #EXTINF:-1,天籁之音 - 国风
 http://play-radio-stream3.hndt.com/now/UzPxbRaT/chunklist.m3u8
+#EXTINF:-1,天籁之音 - 经典正流行
+http://play-radio-stream3.hndt.com/now/WUBA5hW2/chunklist.m3u8
 #EXTINF:-1,天长综合频率
 https://lhttp-hw.qtfm.cn/live/4854/64k.mp3
 #EXTINF:-1,天门综合广播
@@ -1593,6 +1627,8 @@ http://lhttp.qingting.fm/live/5022391/64k.mp3
 https://lhttp-hw.qtfm.cn/live/5022391/64k.mp3
 #EXTINF:-1,岳阳综合广播
 http://lhttp.qingting.fm/live/20989/64k.mp3
+#EXTINF:-1,崂山921
+https://live.ximalaya.com/radio-first-page-app/live/2806/64.m3u8?transcode=ts
 #EXTINF:-1,崂山921  听见好时光
 http://lhttp.qingting.fm/live/20212426/64k.mp3
 #EXTINF:-1,崇州人民广播电台
@@ -2055,8 +2091,6 @@ https://lhttp.qtfm.cn/live/20440/64k.mp3
 https://jwcdnqx.hebyun.com.cn/live/clxrmtzxzhgb/1500k/tzwj_video.m3u8
 #EXTINF:-1,星球重启水吧歌单
 https://stream.zeno.fm/by5n9vuubphvv
-#EXTINF:-1,星空电台 STAR RADIO
-https://lhttp-hw.qtfm.cn/live/5022379/64k.mp3
 #EXTINF:-1,春天的风
 https://radio.pull.hebtv.com/live/hebxw.m3u8
 #EXTINF:-1,昭通乌蒙之声新闻综合广播
@@ -2095,8 +2129,6 @@ http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd208_h.live/playlist.m3
 https://stream.zeno.fm/y99cwikkky8tv
 #EXTINF:-1,望城综合广播 长沙925电台
 https://lhttp-hw.qtfm.cn/live/5022076/64k.mp3
-#EXTINF:-1,朝阳交通广播
-https://lhttp.qtfm.cn/live/20719/64k.mp3
 #EXTINF:-1,朝阳县人民广播电台
 http://lhttp.qingting.fm/live/20212211/64k.mp3
 #EXTINF:-1,朝阳综合广播
@@ -2199,6 +2231,8 @@ https://hplayer1.juyun.tv/camera/115987102.m3u8
 https://lhttp-hw.qtfm.cn/live/20500231/64k.mp3
 #EXTINF:-1,欢乐调频107.1
 http://lhttp.qingting.fm/live/15318317/64k.mp3
+#EXTINF:-1,正阳综合广播
+https://lhttp-hw.qtfm.cn/live/20212397/64k.mp3
 #EXTINF:-1,武义广播FM87.7
 http://l.cztvcloud.com/channels/lantian/SXwuyiaud/128k.m3u8
 #EXTINF:-1,武威新闻综合广播 FM89.9
@@ -2215,6 +2249,10 @@ http://ls.qingting.fm/live/1297.m3u8
 https://lhttp-hw.qtfm.cn/live/20200/64k.mp3
 #EXTINF:-1,武穴人民广播电台
 http://lhttp.qingting.fm/live/5022071/64k.mp3
+#EXTINF:-1,每日经济新闻AI电视
+http://swiftplay.hxkjmedia.com/tv/yytestW.m3u8
+#EXTINF:-1,每日经济新闻AI电视
+https://swiftplay.hxkjmedia.com/tv/spbW.m3u8
 #EXTINF:-1,毕节交通音乐广播
 https://lhttp-hw.qtfm.cn/live/5022712/64k.mp3
 #EXTINF:-1,民谣·蓝调
@@ -2233,6 +2271,8 @@ https://rscdn.ajmide.com/r_2023/nglive_2023.m3u8
 https://lhttp.qtfm.cn/live/20210236/64k.mp3
 #EXTINF:-1,永年人民广播电台
 http://lhttp.qingting.fm/live/20212203/64k.mp3
+#EXTINF:-1,永康电台FM106.6
+https://lhttp.qtfm.cn/live/5022570/64k.mp3
 #EXTINF:-1,永昌综合广播FM106.2
 https://play.kankanlive.com/live/1770863457995110.m3u8
 #EXTINF:-1,汉川少儿广播
@@ -2525,14 +2565,28 @@ https://lhttp-hw.qtfm.cn/live/5022341/64k.mp3
 https://lhttp-hw.qtfm.cn/live/21355/64k.mp3
 #EXTINF:-1,浦口综合广播
 http://live.xmcdn.com/live/2697/64.m3u8
+#EXTINF:-1,浦口综合广播
+http://hls.njgb.com/live_hls/7/playlist.m3u8
 #EXTINF:-1,浦江人民广播电台
 https://lhttp-hw.qtfm.cn/live/5021924/64k.mp3
 #EXTINF:-1,海上财经
 https://lhttp.qtfm.cn/live/20500170/64k.mp3
 #EXTINF:-1,海南交通广播
+https://lhttp.qingting.fm/live/4911/64k.mp3
+#EXTINF:-1,海南交通广播
 http://lhttp.qingting.fm/live/5022079/64k.mp3
 #EXTINF:-1,海南卫视伴音
 https://piccpndali.v.myalicdn.com/audio/travel_2.m3u8
+#EXTINF:-1,海南国际旅游岛之声
+http://lhttp.qingting.fm/live/1862/64k.mp3
+#EXTINF:-1,海南新闻广播
+http://lhttp.qingting.fm/live/1861/64k.mp3
+#EXTINF:-1,海南旅游广播
+https://lhttp.qtfm.cn/live/1862/64k.mp3
+#EXTINF:-1,海南民生广播
+http://lhttp.qingting.fm/live/21243/64k.mp3
+#EXTINF:-1,海南音乐广播
+http://lhttp.qingting.fm/live/4878/64k.mp3
 #EXTINF:-1,海口交通广播
 http://lhttp.qingting.fm/live/5022079/64k.mp3?
 #EXTINF:-1,海口旅游交通广播
@@ -2647,8 +2701,14 @@ https://piccpndali.v.myalicdn.com/audio/hubei_2.m3u8
 https://lhttp.qtfm.cn/live/1296/64k.mp3
 #EXTINF:-1,湖北经济广播
 https://lhttp.qtfm.cn/live/1295/64k.mp3
+#EXTINF:-1,湖南交通广播
+http://a.live.hnradio.com/jtpd/radio120k_jtpd.m3u8?auth_key=1588751155-0-0-301d7e28868eff70a72edf5e4569b546
 #EXTINF:-1,湖南卫视伴音
 http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8?wsSession=5047841c34cc76f1a161d1fe-174718229204467&wsIPSercert=29f90b67755e3a4646651f7aa8eb5fd6
+#EXTINF:-1,湖南潇湘之声
+http://a.live.hnradio.com/zxpd/radio120k_zxpd.m3u8?auth_key=1588751208-0-0-3440555a157a45fdcbdb7840504278c5
+#EXTINF:-1,湖南经济广播
+http://a.live.hnradio.com/jjpd/radio120k_jjpd.m3u8?auth_key=1588751229-0-0-7c55dcf57fcd18b3e892c53cad357be4
 #EXTINF:-1,湖南综合广播
 http://a.live.hnradio.com/xwpd/radio120k_xwpd.m3u8?auth_key=1588751187-0-0-f1675340b0cec8720747b81d8dfc9e99
 #EXTINF:-1,湖南金鹰955|Hunan
@@ -2695,12 +2755,6 @@ https://lhttp-hw.qtfm.cn/live/20519/64k.mp3
 https://lhttp-hw.qtfm.cn/live/21341/64k.mp3
 #EXTINF:-1,滨州综合广播
 https://lhttp-hw.qtfm.cn/live/5021395/64k.mp3
-#EXTINF:-1,滨海文艺广播
-http://traffic.jbh.tjbh.com/live/FM101.7/playlist.m3u8
-#EXTINF:-1,滨海综合广播 100.1
-http://traffic.jbh.tjbh.com/live/FM100.1/playlist.m3u8
-#EXTINF:-1,滨海音乐广播
-http://traffic.jbh.tjbh.com/live/FM100.5/playlist.m3u8
 #EXTINF:-1,漯河交通广播mp3
 https://lhttp-hw.qtfm.cn/live/5022452/64k.mp3
 #EXTINF:-1,漯河综合广播mp3
@@ -2709,8 +2763,6 @@ https://lhttp-hw.qtfm.cn/live/5022660/64k.mp3
 http://lhttp.qingting.fm/live/1743/64k.mp3
 #EXTINF:-1,漳州综合广播
 http://lhttp.qingting.fm/live/1742/64k.mp3
-#EXTINF:-1,漳浦综合广播
-https://lhttp-hw.qtfm.cn/live/5022658/64k.mp3
 #EXTINF:-1,潍坊交通广播
 https://lhttp.qtfm.cn/live/4014/64k.mp3
 #EXTINF:-1,潍坊市潍城区 FM100.8城市之声
@@ -3145,8 +3197,6 @@ https://lhttp.qtfm.cn/live/1610/64k.mp3
 https://lhttp-hw.qtfm.cn/live/1612/64k.mp3
 #EXTINF:-1,西昌人民广播电台
 http://lhttp.qingting.fm/live/20211706/64k.mp3
-#EXTINF:-1,西江之声
-https://lhttp-hw.qtfm.cn/live/5022379/64k.mp3?
 #EXTINF:-1,西藏交通文旅广播
 http://satellitepull.cnr.cn/live/wxxzdsshgb/playlist.m3u8?wsSession=51c2a224185caba966715acd-174700953160318&wsIPSercert=5bb043949891952939522be8c9bd5410
 #EXTINF:-1,西藏卫视伴音

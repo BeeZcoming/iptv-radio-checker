@@ -65,16 +65,12 @@ http://45.5.117.188:8000/play/a02w/index.m3u8
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
 #EXTINF:-1,Canal 12 (Nicaragua) (576p)
 http://45.228.234.9:8000/play/a06s/index.m3u8
-#EXTINF:-1,Canal 56 Quiero TV (720p)
-http://45.5.118.152:8000/play/a08z/index.m3u8
 #EXTINF:-1,Canal C del Zulia (1080p)
 https://calm-forest-3478.cristianbracho904.workers.dev/live/index.m3u8
 #EXTINF:-1,Canal Institucional (1080p)
 http://190.61.47.54:8000/play/a00v/index.m3u8
 #EXTINF:-1,Canal RCN (1080p)
 http://38.134.250.110:8000/play/a00i/index.m3u8
-#EXTINF:-1,Canal TRO (1080p)
-http://138.94.3.106:8000/play/a07i/index.m3u8
 #EXTINF:-1,Caracol HD2 (1080p)
 http://181.78.14.26:4000/play/a00d/index.m3u8
 #EXTINF:-1,Caracol Internacional (1080p)
@@ -95,6 +91,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-on
 http://187.245.231.226:8000/play/a0ss/index.m3u8
 #EXTINF:-1,Comercio TV (1080p)
 http://45.70.201.81:8000/play/a014/index.m3u8
+#EXTINF:-1,Cooperativa (720p)
+https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
 #EXTINF:-1,Decima TV (720p)
 https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8
 #EXTINF:-1,Distrito TV (1080p)
@@ -145,6 +143,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8
 #EXTINF:-1,Fox (United States) WTXF-TV (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8
+#EXTINF:-1,Galavision West (720p)
+http://200.115.120.1:8000/play/ca128/index.m3u8
 #EXTINF:-1,Globovision (576p)
 http://181.78.8.199:8000/play/a09k/index.m3u8
 #EXTINF:-1,Guada TV (720p) [Not 24/7]
@@ -183,8 +183,6 @@ https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8
 #EXTINF:-1,Monumental TV (1080p)
 http://190.128.214.97:64333/play/a046/index.m3u8
-#EXTINF:-1,MTurk TV (1080p)
-https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
 #EXTINF:-1,NBC KRIS-TV (1080p)
 https://content.uplynk.com/channel/e72660594b7a4182982af1690609683d.m3u8
 #EXTINF:-1,NBC KSHB-TV (720p)
@@ -211,8 +209,6 @@ https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
 http://92.114.85.87:8001/play/a013/index.m3u8
 #EXTINF:-1,NTK 21 [Geo-blocked]
 https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
-#EXTINF:-1,Nuestra Tele Internacional (1080p)
-http://45.173.231.22:8000/play/a0cr/index.m3u8
 #EXTINF:-1,Omega Channel (576i)
 https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
 #EXTINF:-1,Paravision
@@ -251,8 +247,6 @@ http://45.170.130.224:8000/play/a036/index.m3u8?hls
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
 #EXTINF:-1,Teleangol (720p)
 https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3u8
-#EXTINF:-1,Telefe (1080p)
-http://45.173.231.22:8000/play/a053/index.m3u8
 #EXTINF:-1,Telefuturo (Paraguay) (1080p)
 http://158.172.217.18:8000/play/a0ns/index.m3u8
 #EXTINF:-1,Teleislas (720p)
@@ -263,12 +257,12 @@ http://181.78.82.130:8000/play/a0ru/index.m3u8
 https://hls.tvabierta.net/hls/008.m3u8
 #EXTINF:-1,Telemundo West (720p)
 http://45.5.117.57:8900/play/a058/index.m3u8
-#EXTINF:-1,Telemundo Internacional (1080p)
-http://45.173.231.22:8000/play/a01h/index.m3u8
 #EXTINF:-1,Televen (1080p)
 http://38.134.250.110:8000/play/a02i/index.m3u8
 #EXTINF:-1,Television Tarapoto (1080p)
 http://45.5.57.58:8000/play/a038/index.m3u8
+#EXTINF:-1,TMC HD (1080p) [Geo-blocked]
+http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8
 #EXTINF:-1,Trece (Colombia) (1080p)
 http://190.60.46.228:8888/play/a030/index.m3u8
 #EXTINF:-1,TV Aire (1080p)

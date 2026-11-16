@@ -35,8 +35,6 @@ https://kathy.torontocast.com:2475/stream
 https://stream.zeno.fm/lwv6zqgtv1dtv
 #EXTINF:-1,100 GREATEST JAZZ LOUNGE BAR
 https://cast1.torontocast.com:4640/stream
-#EXTINF:-1,100.1 BayFM
-https://stream.statsradio.com:8148/stream
 #EXTINF:-1,100.9 The Wave - CKTO-FM, Truro
 https://mbsradio-ais.leanstream.co/CKTOFM-MP3
 #EXTINF:-1,100% ACID JAZZ
@@ -1155,6 +1153,8 @@ http://18863.live.streamtheworld.com/CJMRAMAAC_SC
 https://rogers-hls.leanstream.co/rogers/sud1053.stream/playlist.m3u8
 #EXTINF:-1,CJNB 1050 "Saskatchewan Country" North Battleford, SK 
 https://redirect.jpbgdigital.com/CJNB.m3u8
+#EXTINF:-1,CJNC 97.9 Norway House, MB
+https://ais-sa1.streamon.fm/7036_24k.aac/playlist.m3u8
 #EXTINF:-1,CJNI "News 95.7" Halifax, NS
 https://rogers-hls.leanstream.co/rogers/hal957.stream/playlist.m3u8
 #EXTINF:-1,CJNS-FM 102.3  Meadow Lake, SK
@@ -1727,8 +1727,6 @@ https://89-126-248-183.sslip.io:9443/estuary
 http://8.43.48.6:8130/;
 #EXTINF:-1,ETN.fm
 http://8.43.48.6:8130/
-#EXTINF:-1,ETN.fm Ch1 | EDM Livesets & DJ Shows
-http://io.etn.fm:8200/trance-mp3-128
 #EXTINF:-1,Euro Nation
 https://azuracast.myautodj.com/listen/euro_nation/radio.mp3
 #EXTINF:-1,Eurodance Classic ... Pure - Classic - Addictive
@@ -2063,8 +2061,6 @@ https://c21.radioboss.fm/stream/193
 http://corus-hls.leanstream.co/corus/CHQRAM.stream/playlist.m3u8
 #EXTINF:-1,Nickelback
 https://stream.pcradio.ru/nickelback-hi
-#EXTINF:-1,Nighthaven Enclave Radio
-http://cast3.my-control-panel.com:7695/live
 #EXTINF:-1,Nitty-Gritty Music Radio
 https://cast1.torontocast.com:1490/stream
 #EXTINF:-1,Northern Dial
@@ -2363,6 +2359,8 @@ https://srtlive.duckdns.org/listen/sankofaradiotoronto/radio.mp3
 https://stream1.senecapolytechnic.ca:8000/CSCA.mp3?starttime=1778453242
 #EXTINF:-1,sci.radio
 https://station.kryptonradio.com:8080/stream
+#EXTINF:-1,SCIFI.radio
+https://128k.scifi.radio/
 #EXTINF:-1,SCIFI.radio - Exclusively Instrumentals
 http://51.161.13.200:8030/stream
 #EXTINF:-1,Scratch Radio ca
@@ -2377,12 +2375,6 @@ https://kathy.torontocast.com:3590/;?type=http&nocache=1739707069
 https://radio.serrebiradio.com/listen/serrebiradio/SerrebiRadio
 #EXTINF:-1,SerrebiRadio
 https://radio.serrebiradio.com/listen/serrebiradio/SerrebiRadioHD
-#EXTINF:-1,SFM
-http://eagle.streemlion.com:4313/stream
-#EXTINF:-1,SFM
-http://eagle.streemlion.com:4313/1
-#EXTINF:-1,SFM
-https://stream.rcast.net/68024
 #EXTINF:-1,SHER E PUNJAB AM 600
 https://ais-sa1.streamon.fm/7676_48k.aac
 #EXTINF:-1,SLOWLY RADIO
@@ -2433,8 +2425,6 @@ https://jenny.torontocast.com:2000/stream/suitejazzradio
 https://vistaradio.streamb.live/SB00388?args=web_01&=&&___cb=601347251811485
 #EXTINF:-1,Sun Country 97.7 FM (High River, CFXO-FM)
 https://hel-ais-relay3.leanstream.co/goldenwest/CFXOFM.stream/playlist.m3u8
-#EXTINF:-1,SuperFM
-https://eagle.streemlion.com/proxy/ed123/stream
 #EXTINF:-1,Surge 105
 https://ais-sa1.streamon.fm/7737_128k.aac
 #EXTINF:-1,Taal Radio

@@ -85,8 +85,6 @@ https://whmsonic.radio.gov.pk:7000/Dikhan
 https://whmsonic.radio.gov.pk:8042/stream
 #EXTINF:-1,Radio Pakistan Islamabad
 https://whmsonic.radio.gov.pk:7003/stream
-#EXTINF:-1,Radio Pakistan Karachi MW 639
-https://whmsonic.radio.gov.pk:7000/MW639khi
 #EXTINF:-1,Radio Pakistan Lahore 
 https://whmsonic.radio.gov.pk:8026/relay?type=http&nocache=9
 #EXTINF:-1,Radio Pakistan Lahore News and Current Affair AM 1332 KHZ

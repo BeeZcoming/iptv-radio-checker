@@ -19,6 +19,8 @@ https://stream.100p.nl/web02_mp3
 http://server-27.stream-server.nl:8192/stream
 #EXTINF:-1,192 Radio Nederland
 http://server-27.stream-server.nl:8192/192radio
+#EXTINF:-1,192 Radio Veronica
+http://server-14.stream-server.nl:8030/
 #EXTINF:-1,1Achterhoek
 https://nlpo.stream.vip/achterhoek/mp3-192/nlpo.stream.vip/
 #EXTINF:-1,1Zwolle
@@ -49,7 +51,7 @@ https://ex52.voordeligstreamen.nl/8036/stream
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21AAC.aac
 #EXTINF:-1,538 Classics AAC
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR08AAC.aac
-#EXTINF:-1,538 Dance Departmetn
+#EXTINF:-1,538 Dance Department
 http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR01.mp3
 #EXTINF:-1,538 Hitzone
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR11.mp3
@@ -197,6 +199,8 @@ http://stream.bnr.nl/bnr_mp3_128_20
 https://stream.bnr.nl/bnr_mp3_128_01
 #EXTINF:-1,Booty Bay Pirate Radio
 https://radio.octowow.st/listen/booty_bay_pirate_radio/radio.mp3
+#EXTINF:-1,Booty Bay Pirate Radio - Thematic tower
+http://radio.octowow.st/listen/booty_bay_pirate_radio_thematic_tower/radio.mp3
 #EXTINF:-1,boy woortman
 https://dedraaiorgel.ddohosting.nl:8000/listen.mp3
 #EXTINF:-1,BR6 Radio
@@ -277,28 +281,28 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/Q_DANCE.mp3
 https://caster04.streampakket.com/proxy/8031/stream
 #EXTINF:-1,Concertgebouworkest Webradio
 https://i2.cdn.jetstre.am:8000/sz=RCOLiveWebradio=mp3-192?token=574b9ab1904fb5420aa2eaeae31feff2&time=6703887c
+#EXTINF:-1,Concertzender - De Gehoorde Stilte
+http://streams.greenhost.nl:8080/gehoordestilte
 #EXTINF:-1,Concertzender Baroque
 http://streams.greenhost.nl:8080/barok
-#EXTINF:-1,Concertzender De Muzikant
-http://streams.greenhost.nl:8080/amateurmuziek
-#EXTINF:-1,Concertzender Filmmuziek
-http://streams.greenhost.nl:8080/film
-#EXTINF:-1,Concertzender Folk it!
-http://streams.greenhost.nl:8080/folkit
+#EXTINF:-1,Concertzender Crosslinks
+http://streams.greenhost.nl:8080/pop
+#EXTINF:-1,Concertzender Gregoriaans
+http://streams.greenhost.nl:8080/gregoriaans
+#EXTINF:-1,Concertzender Jazz
+http://streams.greenhost.nl:8080/jazz
+#EXTINF:-1,Concertzender Jazznotjazz
+http://streams.greenhost.nl:8080/jazznotjazz
 #EXTINF:-1,Concertzender Nieuwe Muziek
 http://streams.greenhost.nl:8080/nieuwemuziek
-#EXTINF:-1,Concertzender November Music
-http://streams.greenhost.nl:8080/novembermusic
+#EXTINF:-1,Concertzender Oriënt Express
+http://streams.greenhost.nl:8080/orientexpress
 #EXTINF:-1,Concertzender Raakvlakken
 http://streams.greenhost.nl:8080/raakvlakken
-#EXTINF:-1,Concertzender Radiophonics
-http://streams.greenhost.nl:8080/radiophonics
 #EXTINF:-1,Concertzender Solta a Franga
 http://streams.greenhost.nl:8080/slotaafranga
-#EXTINF:-1,Concertzender Wereldmuziek
-http://streams.greenhost.nl:8080/wereldmuziek
-#EXTINF:-1,Concertzender X-Rated
-http://streams.greenhost.nl:8080/concertzenderlive
+#EXTINF:-1,Concertzender Utrecht Muziek
+http://streams.greenhost.nl:8080/vredenburg
 #EXTINF:-1,Cool Dance Radio
 https://stream.cooldanceradio.com/stream1/stream.mp3
 #EXTINF:-1,Country Station
@@ -601,6 +605,8 @@ https://stream.hallokidsradio.nl/hallokids
 https://server-10.rcgoldserver.nl/listen/happy_oldies/radio320.mp3
 #EXTINF:-1,Happy Rock Radio Caroline 259
 https://happy.rcgoldserver.nl/listen/classic_rock/radio320.mp3
+#EXTINF:-1,happy.radio (NL)
+https://stream.happy.radio:8000/192
 #EXTINF:-1,Hardcore Power Radio
 https://hardcorepower.beheerstream.nl/8012/stream
 #EXTINF:-1,Hardcore Power Radio (2nd server)
@@ -925,6 +931,8 @@ https://server-28.stream-server.nl:8904/stream
 https://server-67.stream-server.nl:8818/stream
 #EXTINF:-1,mArt radio
 https://beta.surilive.com/mart/stream
+#EXTINF:-1,Maxhitradio24
+https://streaming.shoutcast.com/maxhitradio24
 #EXTINF:-1,MaXX FM
 http://i2.streams.ovh:7070/stream
 #EXTINF:-1,MBhitradio
@@ -1299,8 +1307,6 @@ https://stream.piratenradio.nl/listen/piratenradio/prradio
 https://stream.hostinggold.nl:8012/
 #EXTINF:-1,Pitane Blue Nieuwsradio
 https://stream.radio.co/sd1419d32a/listen
-#EXTINF:-1,PJD2 The Voice of Sint Maarten 102.7 FM
-http://142.4.219.8:8181/stream
 #EXTINF:-1,PJD3 Power 102.7 FM Philipsburg
 http://201.220.14.41:8060/channel3.mp3
 #EXTINF:-1,Polder radio
@@ -1725,6 +1731,8 @@ http://whsh4u-server.com:11100/transcoder2
 https://mcp-2.mm-stream.nl:8017/stream
 #EXTINF:-1,Radio WORM
 https://origin.streamnerd.nl/worm/worm/icecast.audio
+#EXTINF:-1,Radio Zilverdroom
+https://radio.radiozilverdroom.nl/listen/radio_zilverdroom/radio.mp3
 #EXTINF:-1,Radio Zuyd
 http://radiozuyd.shoutcaststream.com:8199/stream
 #EXTINF:-1,Radio-Goldenwave 
@@ -2061,6 +2069,8 @@ https://r.bgp.rodeo/listen/subline/radio.mp3
 http://stream.sunrisefm.nl:9600/
 #EXTINF:-1,Sunset Radio
 https://server-28.stream-server.nl:8854/stream
+#EXTINF:-1,SuperMixFM
+https://loa.beheerstream.nl:8110/stream
 #EXTINF:-1,SXM GOV Radio
 https://s6.reliastream.com/proxy/governme?mp=/stream
 #EXTINF:-1,Synthwave City FM - New
@@ -2083,10 +2093,6 @@ https://ex52.voordeligstreamen.nl/8206/stream
 https://live.thefinest.amsterdam/hq
 #EXTINF:-1,The Finest Amsterdam
 https://live.thefinest.amsterdam/
-#EXTINF:-1,The Finest Beat Street
-http://live.thefinest.amsterdam:8000/mp3
-#EXTINF:-1,The Finest Beat Street
-https://beatstreet.thefinest.amsterdam/listen
 #EXTINF:-1,The Great American Songbook
 http://tgas.dyndns.org:8001/;
 #EXTINF:-1,The Mood Swing Station
@@ -2139,8 +2145,6 @@ http://server-25.stream-server.nl:8366/stream
 https://mediaserv74.live-streams.nl/proxy/vaporadio/stream
 #EXTINF:-1,Variafm
 http://server1.streamgigant.nl:9031/varia192
-#EXTINF:-1,VC 1 | Veluwe Centraal 
-https://caster04.streampakket.com/proxy/8018/stream
 #EXTINF:-1,VechtdalNL
 http://streams.rtvvechtdal.nl:8000/VechtdalNL.mp3
 #EXTINF:-1,Veluwe FM
@@ -2219,8 +2223,6 @@ https://ms2.mx-cd.net/radio/99-660291/Radio_WOS.smil/playlist.m3u8
 http://204.141.171.164:16520/stream
 #EXTINF:-1,X104.3 Philipsburg
 https://streamcontrol.net:8444/s/16520
-#EXTINF:-1,XD Radio
-http://streams.xdradio.nl/stream/xdradio
 #EXTINF:-1,XerosRadio
 https://streaming.xeros-radio.nl/radio/8000/xerosradio
 #EXTINF:-1,XerosRadio Classics

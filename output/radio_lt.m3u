@@ -7,8 +7,6 @@ https://halo.streamerr.co/listen/beveikradijas/radio.mp3
 https://stream.zeno.fm/xevy5qiypbqvv
 #EXTINF:-1,COOL RADIO
 https://c34.radioboss.fm:9058/stream
-#EXTINF:-1,Criminal Tribe
-https://live.leproradio.com/criminal.ogg
 #EXTINF:-1,Draugystės radijas
 http://213.226.189.174:8000/radio.mp3
 #EXTINF:-1,Easy FM
@@ -21,8 +19,14 @@ https://stream.ehr.lt:8443/ehr
 https://s10.webradio-hosting.com/proxy/fredradiolt/stream
 #EXTINF:-1,Fréquence Protestante
 https://freqpro.streamakaci.com/frequenceprotestante.mp3
-#EXTINF:-1,Haze Pub Radio
-https://live.leproradio.com/rocks.ogg
+#EXTINF:-1,Geras FM
+http://stream.goldfm.lt/gerasfm.aac
+#EXTINF:-1,Geras2 FM
+https://stream.goldfm.lt/gerasfm.mp3
+#EXTINF:-1,Gold FM
+https://stream.goldfm.lt/goldfm.mp3
+#EXTINF:-1,GoldFM
+http://stream.goldfm.lt/goldfm.aac
 #EXTINF:-1,Jazz FM
 https://wowzaott1.penki.lt/jazzfm/jazzfm.stream/playlist.m3u8
 #EXTINF:-1,Kapsai
@@ -35,8 +39,6 @@ http://212.95.45.82:8024/stream
 http://radio.m-1.fm/laluna/high
 #EXTINF:-1,Laluna [MP3]
 http://radio.m-1.fm/laluna/mp3
-#EXTINF:-1,Leproradio
-https://live.leproradio.com/bender.ogg
 #EXTINF:-1,Life Chill Music
 https://usa6.fastcast4u.com/proxy/wsjfhd?mp=/1
 #EXTINF:-1,LRT Klasika

@@ -3,6 +3,8 @@
 https://stream.zeno.fm/7fwg1ezf0d0uv
 #EXTINF:-1,5fm Radio Zambia
 http://ca9.rcast.net:8014/;stream.mp3
+#EXTINF:-1,96.5 Rock FM
+http://broadcast.shoutcheap.com:8702/stream
 #EXTINF:-1,Afrozam Radio
 https://stream.zeno.fm/yandf6mhsuhvv
 #EXTINF:-1,Anointed Voice FM
@@ -31,6 +33,8 @@ https://ec4.yesstreaming.net:1555/stream
 https://stream.zeno.fm/ysmbgr9kw23tv
 #EXTINF:-1,Essential Radio
 https://listen.radioking.com/radio/701660/stream/766967
+#EXTINF:-1,Gifts and Blessings Radio
+https://stream.zeno.fm/h575zb67schvv
 #EXTINF:-1,Great Blessings FM
 https://stream.zeno.fm/c2wi7bdqsn1tv
 #EXTINF:-1,Harmony FM Zambia
@@ -59,6 +63,8 @@ https://s47.myradiostream.com/9934/listen.mp3
 https://stream.zeno.fm/17vmi8zjtt3vv
 #EXTINF:-1,Kanele 97.7 FM
 https://stream.zeno.fm/zn26dkfnvvytv
+#EXTINF:-1,Kasama Radio 87.7 FM
+https://s38.myradiostream.com:16708/stream
 #EXTINF:-1,Keembe FM
 https://s5.myradiostream.com/44682/listen.mp3
 #EXTINF:-1,KNC Radio
@@ -67,6 +73,8 @@ https://stream.zeno.fm/4bea85ph7zquv
 http://165.56.11.238:4590/Komboni
 #EXTINF:-1,Live Radio 97.3fm
 https://stream.zeno.fm/0w833z1xd5zuv
+#EXTINF:-1,Mafken FM
+https://listen.streamaudio.co/proxy/mafkenfm/stream
 #EXTINF:-1,Maite Radio
 https://stream.zeno.fm/vgxdljgyufxuv
 #EXTINF:-1,Matero Radio
@@ -97,6 +105,8 @@ https://stream.zeno.fm/51107ezabzzuv
 http://41.60.195.11:8000/stream.ogg
 #EXTINF:-1,Q FM Zambia
 https://s3.myradiostream.com:7620/listen.mp3
+#EXTINF:-1,Radio Chimwemwe 91.7 FM
+https://s19.myradiostream.com:18688/listen.mp3
 #EXTINF:-1,Radio Christian Voice
 https://streaming.shoutcast.com/rcv
 #EXTINF:-1,Radio Delight Kwitonta 89.7 FM
@@ -117,6 +127,8 @@ https://ec4.yesstreaming.net:1265/stream
 https://ec4.yesstreaming.net:2525/stream
 #EXTINF:-1,S.M.B MUSIC RADIO
 https://stream.zeno.fm/lyo8ib0tzxbtv
+#EXTINF:-1,Sky FM Zambia
+https://stream.zeno.fm/7s554b67schvv
 #EXTINF:-1,Smooth 90.1fm
 https://s25.myradiostream.com/15172/listen.mp3
 #EXTINF:-1,Spice FM 91.1 Kabwe
@@ -125,6 +137,8 @@ http://live.rcast.net:8768/;stream.mp3
 http://11233.cloudrad.io:9102/live
 #EXTINF:-1,Supreme Sports Radio
 https://custom-azura1.asurahosting.com/listen/ssradio_channel_2/radio.mp3
+#EXTINF:-1,Tuta Radio
+https://s11.myradiostream.com/24282/;?type=http&nocache=1791494215
 #EXTINF:-1,Urban FM Zambia
 https://stream.zeno.fm/b9angvotehftv
 #EXTINF:-1,Utuntu FM

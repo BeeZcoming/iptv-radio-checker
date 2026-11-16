@@ -233,8 +233,6 @@ http://uksoutha.streaming.broadcast.radio:15870/allfm
 http://uksoutha.streaming.broadcast.radio:15870/allfm
 #EXTINF:-1,All Out 80s
 https://a10.asurahosting.com:7960/radio.mp3
-#EXTINF:-1,allsoundsradio
-https://servidor31-5.brlogic.com:7036/live
 #EXTINF:-1,Allstar Youth Radio
 http://stream3.themediasite.co.uk:8270/stream
 #EXTINF:-1,Alpha Wave Radio
@@ -295,14 +293,10 @@ https://acrlive.radioca.st/stream?type=http&nocache=1702573713796
 https://arpradio.com:8443/listen/arp_radio/arp.mp3
 #EXTINF:-1,Arrowe Sound
 http://proxima.shoutca.st:8897/;
-#EXTINF:-1,AryStation - Beyond Reality
-https://a11.asurahosting.com:8740/radio.mp3
 #EXTINF:-1,Ashdown Radio
 https://streaming.broadcast.radio/uckfieldfmmp3?_=365639
 #EXTINF:-1,Ashdown Radio
 https://streaming.broadcast.radio/uckfieldfmmp3?_=43091
-#EXTINF:-1,Asian Star Radio
-https://radio.canstream.co.uk:9067/live.mp3
 #EXTINF:-1,Aspen Waite Radio
 http://listen-awaite.sharp-stream.com/aspenwaiteprem.mp3
 #EXTINF:-1,Athavan Radio
@@ -1495,8 +1489,6 @@ http://s8.myradiostream.com:58680/stream
 http://s3.voscast.com:11510/;.mp3
 #EXTINF:-1,Gwent Radio
 https://stream4.themediasite.co.uk:8092/stream
-#EXTINF:-1,Hailsham FM
-https://s21.myradiostream.com/:10716/listen.mp3
 #EXTINF:-1,Halesowen Town
 https://s3.radio.co/s75a8968ca/listen
 #EXTINF:-1,Happy Hardcore
@@ -2519,6 +2511,8 @@ https://stream.pcradio.ru/Pink_Floyd-hi
 https://uk1.internet-radio.com/proxy/pinknoise?mp=/stream;?shoutcast
 #EXTINF:-1,Pink Noise Radio
 http://uk1.internet-radio.com:8004/
+#EXTINF:-1,Platinum Gold Radio
+http://s2.voscast.com:10128/;
 #EXTINF:-1,Play Radio
 https://stream.radiojar.com/0zs50dbr274tv
 #EXTINF:-1,PLAYBACKUK
@@ -2613,8 +2607,6 @@ https://uksoutha.streaming.broadcast.radio/quality_FM
 https://radio.erb.pw/listen/subspace/radio.mp3
 #EXTINF:-1,Queen
 https://stream.pcradio.ru/Queen-hi
-#EXTINF:-1,Raaj FM
-http://live.canstream.co.uk:8000/raajfm.mp3
 #EXTINF:-1,Radio Africana
 http://kepler.shoutca.st:8201/stream
 #EXTINF:-1,Radio Albion
@@ -2769,8 +2761,6 @@ http://s3.voscast.com:11264/stream
 https://streaming.broadcastradio.com/wmcorg
 #EXTINF:-1,Radio Plus
 http://stream.radioplus.org.uk:8000/plus320k
-#EXTINF:-1,Radio Pro Music 90s
-http://88.198.70.25:8414/;
 #EXTINF:-1,Radio Redhill
 http://live2.radioredhill.co.uk:8080/live
 #EXTINF:-1,Radio Redhill mp3
@@ -3367,8 +3357,6 @@ http://s2.xrad.io:8058/stream
 https://stream.switchfm.co.uk/listen/switchfm/switchfm.mp3
 #EXTINF:-1,Switch Radio
 http://listen.switchradio.co.uk/switchradio_high
-#EXTINF:-1,SYNK Radio
-https://synkradio.uk/stream.mp3
 #EXTINF:-1,Taiyabah Masjid
 https://taiyabahmbolton.radioca.st/stream
 #EXTINF:-1,talkSPORT
@@ -3403,8 +3391,6 @@ https://listen.teknivalradio.com/listen/teknivalradio/radio.mp3
 http://streaming04.liveboxstream.uk:8032/stream
 #EXTINF:-1,Tempo 107.4 FM
 http://stream.dnsgb.net:8040/;
-#EXTINF:-1,TGM GOSPEL RADIO
-http://uk1.streamingpulse.com:7015/live
 #EXTINF:-1,The Ambientscape Project
 https://listen.radioking.com/radio/504205/stream/561655
 #EXTINF:-1,The Amp
@@ -3513,16 +3499,12 @@ http://stream.zeno.fm/d9e0p8539f8uv
 http://s29.myradiostream.com:15188/;
 #EXTINF:-1,Totally 80s Radio
 https://ukstream.radiohost.co.uk/listen/totally_80s_radio/radio.mp3
-#EXTINF:-1,Totally Wired Radio
-https://totallywired.out.airtime.pro/totallywired_a
 #EXTINF:-1,Totalmusic 2000s
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1,TotalRock Radio
 https://s3.citrus3.com:8056/stream
 #EXTINF:-1,Track Radio
 https://n21-eu.rcs.revma.com/dd8zb7wns2nwv
-#EXTINF:-1,TRANCE.one
-http://radio.trance.one:7777/online
 #EXTINF:-1,TrancePulse FM
 http://live.trance.ie:8000/stream
 #EXTINF:-1,Trancetechnic Radio 
@@ -3667,6 +3649,8 @@ https://saradiolive.radioca.st/%3B
 https://streaming06.liveboxstream.uk/proxy/piraten1?mp=/stream
 #EXTINF:-1,Wayne Holden Music Radio 
 http://s6.citrus3.com/stream/wayneholdenmusicradio
+#EXTINF:-1,WBLS Radio
+http://s2.myradiostream.com:3604/;
 #EXTINF:-1,We Get Lifted Radio
 http://s3.radio.co/sa80d22794/listen
 #EXTINF:-1,We Get Lifted Radio (WGLR) 192k mp3

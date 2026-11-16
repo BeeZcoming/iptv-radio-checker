@@ -177,8 +177,6 @@ http://stream.zeno.fm/hn61akk9up8uv
 https://streamming.dobitsoluciones.com/livestream/1
 #EXTINF:-1,Boyaca Radio Balada Pop
 https://impactodigitalcol.com:8010/stream/1/
-#EXTINF:-1,Briceño Stereo 105.4 FM
-https://streamingmediaradio.live/8026/stream
 #EXTINF:-1,Brisa FM 93.1
 https://radio25.virtualtronics.com:20057/;
 #EXTINF:-1,Brisas del San Juan 106.3
@@ -201,6 +199,8 @@ http://stream.zeno.fm/frz47rqv4f0uv
 https://stream.zeno.fm/vwiypsezvanvv
 #EXTINF:-1,Cafe Stereo 96.7 FM
 https://stremo.decibeles.net:8443/CafeStereo
+#EXTINF:-1,Cali radio Salsa
+https://stream.zeno.fm/kkertu70mm5tv
 #EXTINF:-1,Calidad Stereo 100.6 FM
 https://sonic.paulatina.co/7070/stream.mp3/live
 #EXTINF:-1,Caliente stereo 90.2
@@ -287,6 +287,8 @@ http://tupanel.info:8018/stream/
 https://stream.zeno.fm/2g1qkn4cbpeuv
 #EXTINF:-1,Class FM
 http://stream4.mcvhost.com/classfm
+#EXTINF:-1,Colmundo Radio 1040 AM
+https://streaming.shoutcast.com/colmundo-radio-bogota
 #EXTINF:-1,Colmundo Radio Bogota
 http://master.shoutcast.com:8000/colmundo-radio-bogota
 #EXTINF:-1,Colombia Crossover
@@ -445,8 +447,6 @@ http://88.198.9.174:8854/stream?icy=https
 https://radiolatina.info/9326/stream
 #EXTINF:-1,Frecuencia U 940 AM
 https://radiolatina.info/9988/stream
-#EXTINF:-1,FRONTERA STEREO 89.1 FM
-https://stream.zeno.fm/kgbucu5a0tzuv
 #EXTINF:-1,Fuego AM
 https://radio35.virtualtronics.com:20017/stream
 #EXTINF:-1,fuego stereo 101.9 santa marta
@@ -499,6 +499,8 @@ https://cloud8.vsgtech.co/8110/stream
 http://radio06.cehis.net:8001/stream
 #EXTINF:-1,Javeriana Estéreo 91,9
 https://radio06.cehis.net/proxy/javerian?mp=%2Fstream
+#EXTINF:-1,javeriana stereo cali 107.5
+https://radio06.cehis.net:9002/stream
 #EXTINF:-1,Juan Kiss Radio
 https://emisorasdigitales2.com/8172/stream
 #EXTINF:-1,juventud Stereo 101.9 FM
@@ -519,8 +521,6 @@ https://stream.zeno.fm/hf24gpx2p0quv
 https://mdstrm.com/audio/627c1c39637d89088290f64d/live.m3u8
 #EXTINF:-1,La Carrangoza 90.6 FM
 https://lacarrangozafm.com/escuchar
-#EXTINF:-1,La Ciento 7 Digital - FM 107.8
-https://radiohd.streaminghd.co:7190/live
 #EXTINF:-1,LA CLÁSICA
 https://stream-284.surfernetwork.com/vbp236a2qzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2YnAyMzZhMnF6enV2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Im9wbV9HalF6VER1VmFsTmhubmd6Q2ciLCJpYXQiOjE3OTQ0MzY1NjQsImV4cCI6MTc5NDQzNjYyNH0.EVxg_BSY6WXRVOLVuLzwqdwnNXcfNAov17JteDN1gR8
 #EXTINF:-1,la cometa 107.2 san gil
@@ -777,6 +777,8 @@ https://panel.nevermorenetwork.com/listen/nevermorenetwork.com/radio.mp3
 https://listen.usuarios.space/nicfelradio/
 #EXTINF:-1,Nueva Era Algeciras Sterio 107.8 FM
 https://radiohd.streaminghd.co:7154/stream
+#EXTINF:-1,OLIMPICA ESTÉREO 89.5 GUAJIRA
+https://stream.zeno.fm/f4ese4m5prytv
 #EXTINF:-1,Olímpica Stereo - Barranquilla
 https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_BARRANQUILLAAAC.aac?dist=oro_web
 #EXTINF:-1,Olímpica Stereo (Barranquilla)
@@ -993,6 +995,8 @@ https://radio35.virtualtronics.com/proxy/radiorecuerdos?mp=/;
 https://stream-164.zeno.fm/cbw0z9hzy68uv
 #EXTINF:-1,radio rodadero 1480 am
 https://server1.intermediacolombia.com:8132/stream
+#EXTINF:-1,Radio Santa Barbara 1310 AM
+https://stream.zeno.fm/2a68q1cr0c9uv
 #EXTINF:-1,Radio Tango
 https://stream.zeno.fm/uxxf2xaxdzzuv
 #EXTINF:-1,Radio Tiempo
@@ -1143,8 +1147,6 @@ https://servidor40-5.brlogic.com:7006/live
 https://streamlive1.hearthis.at:8000/1329668.ogg?time=1783357004
 #EXTINF:-1,Techno Record FM Tunja 
 http://stream.zeno.fm/r3d2u9pu87zuv
-#EXTINF:-1,Telemedellín Radio
-https://colombiawebs.com.co/proxy/stream320?mp=/stream
 #EXTINF:-1,The Beatles Radio
 http://stream.zenolive.com/g91u6ddb86duv
 #EXTINF:-1,Toca Stereo 105.3 fm
@@ -1155,8 +1157,6 @@ https://colombiawebs.com.co/proxy/radiolum/stream?1789588670379
 https://radiohd.streaminghd.co:7077/stream
 #EXTINF:-1,Torah Viviente Radio
 https://media.torahviviente.com/radio.mp3
-#EXTINF:-1,Tres Fronteras FM 96.3
-https://play8.tikast.com/proxy/frontera?mp=/stream
 #EXTINF:-1,Tropicalisima FM Tunja
 http://stream.zeno.fm/vp6ab0schg8uv
 #EXTINF:-1,Tropicana (Medellín) 98.9 FM

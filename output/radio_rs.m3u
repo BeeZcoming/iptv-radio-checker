@@ -399,8 +399,6 @@ http://cast2.name.ba:8153/;*.mp3
 http://cast2.name.ba:8153/;stream.nsv
 #EXTINF:-1,Radio Mackica - Zabavna Muzika
 http://cast2.name.ba:8157/;stream.nsv
-#EXTINF:-1,Radio Maestro
-https://radio-maestro.com:8443/stream.mp3
 #EXTINF:-1,Radio Magnum
 http://magnum.web-srbija.net:8121/;stream.nsv
 #EXTINF:-1,RADIO MARIA SERBIA
@@ -643,8 +641,6 @@ http://streaming.tdiradio.com:8000/tdiradio
 http://streaming.tdiradio.com:8000/love
 #EXTINF:-1,TDI Radio CRNA GORA
 https://streaming.tdiradio.com/crnagora.mp3
-#EXTINF:-1,Tempo Naxi Radio
-https://tempo.ipradio.rs:9034/
 #EXTINF:-1,TOP FM Belgrade - 106,8 MHz
 https://topfm64ssl.streaming.rs:9287/;stream.mp3
 #EXTINF:-1,UnderGRAND RADIO

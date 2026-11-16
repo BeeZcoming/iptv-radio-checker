@@ -9,6 +9,8 @@ https://stream.24dubstep.pl/listen/chillstep/mp3_normal
 https://stream.24dubstep.pl/listen/dubstep/mp3_low
 #EXTINF:-1,24Dubstep.pl || DropZone Radio
 https://stream.24dubstep.pl/radio/8000/mp3_normal
+#EXTINF:-1,24Dubstep.pl || DropZone Radio - MP3 320
+https://stream.24dubstep.pl/listen/dubstep/mp3_best
 #EXTINF:-1,357
 https://n-11-26.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx?preroll=0
 #EXTINF:-1,4fun tv
@@ -247,8 +249,6 @@ http://zt01.cdn.eurozet.pl/zet-old.mp3?redirected=01
 https://s3.slotex.pl:7150/stream
 #EXTINF:-1,Idź Pod Prąd FM
 http://idzpodprad.out.airtime.pro:8000/idzpodprad_a
-#EXTINF:-1,Informatics Productions Radio
-http://radio.lttstore.pl:8000/radio
 #EXTINF:-1,Internetowe Radio Skoczow
 https://azuracast.radio.skoczow.pl/listen/radior1/radio.mp3
 #EXTINF:-1,Italo4you
@@ -363,6 +363,8 @@ https://s5.radio.co/s34fca8455/listen
 https://s3.slotex.pl:7126/stream
 #EXTINF:-1,Nasze Nowe Radio
 https://s3.slotex.pl:7388/stream
+#EXTINF:-1,Nasze Radio
+http://online.nasze.fm:8000/stream
 #EXTINF:-1,Nasze RAdio
 https://s1.slotex.pl:7146/stream
 #EXTINF:-1,neural radio
@@ -729,6 +731,8 @@ http://stream3.nadaje.com:8060/radio
 http://s3.slotex.pl:7226/stream
 #EXTINF:-1,Radio Lipsko
 http://s1.slotex.pl:7298/;
+#EXTINF:-1,Radio LOOP24
+https://streaming.broadcast.radio/loop24
 #EXTINF:-1,Radio Lublin
 https://streaming.radio.lublin.pl:8843/128k
 #EXTINF:-1,RADIO ŁÓDŹ
@@ -767,8 +771,6 @@ http://51.68.135.155/stream
 http://s3.slotex.pl:7370/stream
 #EXTINF:-1,Radio Mbox
 https://s1.slotex.pl/shoutcast/7462/stream
-#EXTINF:-1,Radio Mbox
-http://panel.radiombox.pl/radio/8000/RadioMbox128
 #EXTINF:-1,Radio Mbox - Club
 https://s3.slotex.pl:7204/stream
 #EXTINF:-1,Radio Mbox - Disco Polo
@@ -1157,10 +1159,6 @@ https://radiostream.pl/tuba9-1.mp3
 https://s3.slotex.pl/shoutcast/7166/stream?sid=1
 #EXTINF:-1,Radio Znin FM
 http://stream4.nadaje.com:8052/
-#EXTINF:-1,Radio Zodiak
-https://fire.doscast.com:8084/stream
-#EXTINF:-1,Radio Zodiak
-https://fire.doscast.com/8084/stream
 #EXTINF:-1,Radio Żuławy
 https://stream.radiojar.com/q87xmtvrrg8uv
 #EXTINF:-1,Radio-Stacja
