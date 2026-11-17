@@ -89,6 +89,8 @@ https://str0.creacast.com/oxy-meaux
 https://astromaria.fr/webradio_stream/live
 #EXTINF:-1,ABC Dance
 https://www.radioking.com/play/abc-dance/374263
+#EXTINF:-1,ABC Lounge
+https://listen.openstream.co/4457/audio
 #EXTINF:-1,ABC Lounge Jazz
 http://cast1.asurahosting.com/proxy/julien/stream
 #EXTINF:-1,ABC Relax
@@ -112,9 +114,9 @@ http://stream2.addictradio.net/addictalternative.mp3
 #EXTINF:-1,Addict Lounge
 https://stream1.addictradio.net/addictlounge
 #EXTINF:-1,Addict Lounge
-http://stream1.addictradio.net/addictlounge.mp3
+http://stream2.addictradio.net/addictlounge.mp3
 #EXTINF:-1,Addict Rock
-http://stream2.addictradio.net/addictrock.mp3
+http://stream1.addictradio.net/addictrock.mp3
 #EXTINF:-1,Addict Star
 http://stream2.addictradio.net/addictstar.mp3
 #EXTINF:-1,Adhan-92100
@@ -495,8 +497,6 @@ https://stream.rcs.revma.com/uzz0fgg64zcwv
 https://breniges.fr/flux/radio-browser-9df9.mp3
 #EXTINF:-1,Bretagne 5
 http://bretagne5.streamakaci.com/bretagne5.mp3
-#EXTINF:-1,bringthenoise
-https://radio.bringthenoi.se/listen/dj_nocide/default
 #EXTINF:-1,C Lab
 http://stream.c-lab.fr:8001/c-lab
 #EXTINF:-1,C-Lab
@@ -713,6 +713,8 @@ https://streaming.nrjaudio.fm/ougocfrb92oc
 https://streaming.nrjaudio.fm/ousgzkm4z85f
 #EXTINF:-1,Chérie FM Marseille
 https://streaming.nrjaudio.fm/ouy57k36zcw2
+#EXTINF:-1,Chérie FM Martinique
+http://2stream.dyndns.org:8000/cheriefmmq
 #EXTINF:-1,Chérie FM Metz
 https://streaming.nrjaudio.fm/ou5kjbirv93h
 #EXTINF:-1,Chérie FM Montbelliard
@@ -1839,6 +1841,8 @@ https://azuracast-scrs-2.foxoud.synology.me/listen/happyness_radio/player
 http://helenefm.ice.infomaniak.ch/helenefm-high.mp3
 #EXTINF:-1,Hello Provence
 https://ice.creacast.com/hello-provence-mp3
+#EXTINF:-1,Henri Dès
+https://radiohenrides.radiohls.infomaniak.com/radiohenrides/manifest.m3u8
 #EXTINF:-1,here4ears
 http://82.64.164.43:8000/stream
 #EXTINF:-1,here4ears
@@ -2341,6 +2345,8 @@ https://play.radioking.io/jdf-radio
 http://jujufree.fr:8000/juju-128K.mp3
 #EXTINF:-1,K6 FM
 http://k6fm.ice.infomaniak.ch/k6fm-128.mp3
+#EXTINF:-1,Kafeine
+https://listen.radioking.com/radio/262753/stream/307888
 #EXTINF:-1,Kalizo Radio Lo-fi
 https://streams.dez.ovh/listen/chillofi/radio.mp3
 #EXTINF:-1,Kernews
@@ -2361,6 +2367,10 @@ http://kissfm2.ice.infomaniak.ch/kissfm2-128.mp3
 https://radiola.me/listen/kiss_pop_rock/radio.mp3
 #EXTINF:-1,Kiss West Coast
 http://kisswestcoast.ice.infomaniak.ch/kisswestcoast-64.aac
+#EXTINF:-1,Kizrock Métal
+https://go.2stream.net/kizrock_metal
+#EXTINF:-1,Kizrock Rock
+https://go.2stream.net/kizrock
 #EXTINF:-1,KNAradio
 https://webradiostream.eu/radio/8070/stream
 #EXTINF:-1,Kohina
@@ -2371,6 +2381,8 @@ https://player.kohina.com/icecast/stream.aac
 https://listen.radioking.com/radio/480/stream/1844
 #EXTINF:-1,KTO Radio
 https://liveradiokto.akamaized.net/hls/live/20000054/ktoradio/master.m3u8
+#EXTINF:-1,Kurd1 Radyo
+https://listen.radioking.com/radio/119251/stream/158701
 #EXTINF:-1,L'Eko des garrigues
 https://radio.ekodesgarrigues.com/eko-des-garrigues-128k.mp3
 #EXTINF:-1,L'Eko des garrigues
@@ -2684,7 +2696,7 @@ https://maritima936.ice.infomaniak.ch/maritima936-128.mp3
 #EXTINF:-1,Maritima Radio
 http://maritima936.ice.infomaniak.ch/maritima936-128.mp3
 #EXTINF:-1,MATHIS FM
-https://mathis-fm-le-meilleur-radio.stream.laut.fm/mathis-fm-le-meilleur-radio?uuid=f22dbb18-a780-2a33-fcc2-03886fe410e9&t302=2026-11-12_05-15-36
+https://mathis-fm-le-meilleur-radio.stream.laut.fm/mathis-fm-le-meilleur-radio?uuid=ff6402c7-3475-6a18-eee7-ca47a59eda48&t302=2026-11-17_05-16-56
 #EXTINF:-1,Maurice Radio Libre
 https://radio13.pro-fhi.net/live/MauriceRadioLibre
 #EXTINF:-1,Max Radio Grenoble
@@ -2755,8 +2767,6 @@ http://listen.radioking.com/radio/154186/stream/194791
 https://listen.radioking.com/radio/779491/stream/847056
 #EXTINF:-1,Mister Stuff
 http://82.64.4.42:8000/live.mp3
-#EXTINF:-1,Mistral FM Marseille
-http://mistralfmaubagne.ice.infomaniak.ch/mistralfmaubagne-128.mp3
 #EXTINF:-1,Mix La radio Étudiante 
 http://hosting.studioradiomedia.fr:1080/stream
 #EXTINF:-1,Mix Machine Radio
@@ -2784,7 +2794,7 @@ https://www.radioking.com/play/mona-fm-plus-de-fiesta
 #EXTINF:-1,Montagne FM
 http://montagnefm.ice.infomaniak.ch/montagnefm-96.mp3
 #EXTINF:-1,Morow
-http://stream.ca.morow.com:8003/morow_med.mp3
+http://stream.ca.morow.com:8080/morow_med.aacp
 #EXTINF:-1,MOROW [AAC+ 64k]
 http://stream.fr.morow.com:8080/morow_med.aacp
 #EXTINF:-1,Morow Prog Rock Radio
@@ -3957,6 +3967,8 @@ http://flux1.radiobip.fr:8000/live
 https://stream.radios.bzh/hls/boa/aac_hifi.m3u8
 #EXTINF:-1,Radio Bonheur
 http://radiobonheur.ice.infomaniak.ch/radiobonheur-128-1.mp3
+#EXTINF:-1,Radio Bonheur
+https://radiobonheur.ice.infomaniak.ch/radiobonheur-128-1.mp3
 #EXTINF:-1,Radio Boom Boom
 https://listen.radioboomboom.com/listen/rbb/radio.mp3
 #EXTINF:-1,Radio Boomerang
@@ -4170,7 +4182,7 @@ http://37.187.16.224:8000/radioflash.mp3
 #EXTINF:-1,Radio FM Plus 91Mhz
 http://stream.radios-arra.fr:8000/fmplus
 #EXTINF:-1,Radio FMR
-http://www2.radiofmr.fr:9000/fmr-64k.aac
+http://www2.radiofmr.fr:9000/fmr-32k.aac
 #EXTINF:-1,Radio FMR
 http://smeuh.org:8000/radio-fmr.mp3
 #EXTINF:-1,RADIO FRANCIA INTERNACIONAL
@@ -4203,10 +4215,6 @@ https://hosting.radiomedia.fr:1615/stream
 https://www.mistercouzin.net/listen
 #EXTINF:-1,Radio Giscard
 http://evodial.fr:8000/radio
-#EXTINF:-1,RADIO GOODLIFE
-https://gestream.fr/g-radio-hd.mp3
-#EXTINF:-1,RADIO GOODLIFE
-https://gestream.fr/g-radio-sd.aac
 #EXTINF:-1,Radio Graf'Hit
 http://109.238.10.2:8000/grafhit.mp3
 #EXTINF:-1,Radio Grand Brive
@@ -4479,6 +4487,8 @@ https://listen.radioking.com/radio/153745/stream/194338
 https://stream4.vestaradio.com/RADIORENNES
 #EXTINF:-1,Radio RMB
 http://rmb.ice.infomaniak.ch/rmb-high.mp3
+#EXTINF:-1,Radio RTL 2 Pop Rock Station
+http://icecast.rtl2.fr/rtl2-1-44-128?listen=webCwsBCggNCQgLDQUGBAcGBg%20ou%20http://streaming.radio.rtl2.fr/rtl2-1-44-128?listen=webCwsBCggNCQgLDQUGBAcGBg
 #EXTINF:-1,Radio RVA
 http://rva.ice.infomaniak.ch/rva-high.mp3
 #EXTINF:-1,Radio RWL
@@ -4496,7 +4506,7 @@ http://str0.creacast.com/radio_saint_nabor
 #EXTINF:-1,Radio Salam 
 https://manager11.streamradio.fr:2835//stream
 #EXTINF:-1,Radio salut c'est cool
-http://radio.casse-tete.solutions/salut-radio-192.mp3
+http://radio.casse-tete.solutions/salut-radio.ogg
 #EXTINF:-1,Radio Santa Milonga - Tango de Soie
 http://stream-149.zeno.fm/h1bp8fqy3tzuv?zs=K-DGezlDQ1eoDd4USWtW-g&rj-ttl=5&rj-tok=AAABeSjJiZ8AxMCynkXvfjbXzA
 #EXTINF:-1,Radio Scarpe Sensée
@@ -4587,6 +4597,8 @@ https://str0.creacast.com/direct-toucaen
 http://37.187.77.45:9000/stream
 #EXTINF:-1,Radio Troutrou
 https://listen.radioking.com/radio/353374/stream/413698
+#EXTINF:-1,Radio U 
+https://icecast.infini.fr:8443/radiou.mp3
 #EXTINF:-1,Radio Univers
 https://stream4.vestaradio.com/RadioUnivers
 #EXTINF:-1,Radio Uylenspiegel
@@ -4689,6 +4701,8 @@ http://nosystem.giize.com:2086/psyradium
 https://stream.radiumfm.com/paris
 #EXTINF:-1,Radyoga
 https://play.radioking.io/radyoga/72311
+#EXTINF:-1,Radyonne
+https://stream.radyonne.fr/stream
 #EXTINF:-1,RAJE
 https://rajenimes.ice.infomaniak.ch/rajenimes-128.mp3
 #EXTINF:-1,RapTz
@@ -4761,6 +4775,8 @@ https://listen.radioking.com/radio/269104/stream/314461
 https://france1.coollabel-productions.com/proxy/reggaemix340/stream
 #EXTINF:-1,Reggae.fr
 https://listen.radioking.com/radio/50473/stream/87415
+#EXTINF:-1,Replay Hits
+https://icey2replayhits.weizkule.xyz/replayhits
 #EXTINF:-1,Replay News
 http://replaynews.ice.infomaniak.ch/replaynews-192.mp3
 #EXTINF:-1,REPLAY NEWS - Eco (Français)
@@ -4778,7 +4794,7 @@ http://live02.rfi.fr/rfienanglais-64.mp3
 #EXTINF:-1,RFI Monde
 http://live02.rfi.fr/rfimonde-64.mp3
 #EXTINF:-1,RFI Musique
-http://rfimusiquemonde64k.ice.infomaniak.ch/rfimusiquemonde-64k.mp3
+http://live02.rfi.fr/rfimusiquemonde-64k.mp3
 #EXTINF:-1,RFI Musique
 http://live02.rfi.fr/rfimusiquemonde-96k.mp3
 #EXTINF:-1,RFI Portugais
@@ -5013,7 +5029,7 @@ http://n01.radiojar.com/atr1e8aswa5tv?rj-ttl=5&rj-tok=AAABhBO5yeUAhfsJOCv6Zdl9QA
 #EXTINF:-1,Size
 http://n01.radiojar.com/atr1e8aswa5tv?rj-ttl=5&rj-tok=AAABhBPPq2QAgtFa9ZK1B4aqYA
 #EXTINF:-1,size
-http://n01.radiojar.com/atr1e8aswa5tv
+http://n0c.radiojar.com/atr1e8aswa5tv
 #EXTINF:-1,SKYLEGEND
 https://webradiostream.eu:8200/stream
 #EXTINF:-1,Skyrock

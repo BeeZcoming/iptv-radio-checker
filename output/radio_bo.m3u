@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Animax Radio
 https://sc.host-live.com:8150/stream
-#EXTINF:-1,Atlántida FM 903
-https://radio.atlantidafm903.com:8020/atlantida_radio.mp3
 #EXTINF:-1,Big Radio Bolivia
 http://stream.zeno.fm/cb4zhgss538uv
 #EXTINF:-1,Clásica 100.3 Cochabamba
@@ -15,14 +13,10 @@ http://classicafm.scbbs.net:8000/;
 https://stream20.usastreams.com:7000/stream
 #EXTINF:-1,El Fin del Silencio
 https://servidor24-1.brlogic.com:7302/live
-#EXTINF:-1,Emet 441
-https://radio.atlantidafm903.com:8010/emet441_radio.mp3
 #EXTINF:-1,Eres Radio 98.5 FM
 https://sp5.servidorrprivado.com/8789/stream
 #EXTINF:-1,esLatino Radio
 https://spanel.gcomstreaming.com/8030/stream
-#EXTINF:-1,Estelar Fm
-https://a3.asurahosting.com:6080/radio.mp3
 #EXTINF:-1,FM La Paz
 https://spanel.gcomstreaming.com:7008/stream
 #EXTINF:-1,Fm La Paz 96.7
@@ -46,7 +40,7 @@ https://cast6.asurahosting.com/proxy/irfradio/stream
 #EXTINF:-1,Radio Ciudad
 http://streamingenbolivia.com/8002/stream
 #EXTINF:-1,Radio Constelación
-https://stream-289.surfernetwork.com/ks1tsgndvp8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrczF0c2duZHZwOHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImYwd2hpMWt1U19lUDFhS3pGd0pIdWciLCJpYXQiOjE3OTQ0NTM4OTYsImV4cCI6MTc5NDQ1Mzk1Nn0.fWd_P62kPRUbbzIen3BHyD5I6uo8KtnGz0EA1f4coPs
+https://stream-289.surfernetwork.com/ks1tsgndvp8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrczF0c2duZHZwOHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjAyTVdUUDQ5U1JxYlkzVFAwUWlUSHciLCJpYXQiOjE3OTQ4ODYxNTUsImV4cCI6MTc5NDg4NjIxNX0.ndJCX7FrDVX0KjD1Rg8lWgtcpjRIlP6isdERxUlcz0w
 #EXTINF:-1,Radio Cumbia 90s
 https://emiteradio.com/proxy/cumbia90s?mp=/stream
 #EXTINF:-1,Radio Disney - La Paz FM 102.7
@@ -73,18 +67,22 @@ https://emiteradio.com/proxy/uyuni?mp=/stream
 https://stream.inliveserver.com:2020/8140/stream
 #EXTINF:-1,Radio Gigante Bolivia
 https://cloudstream2032.conectarhosting.com:7311/;
+#EXTINF:-1,Radio Horizontes 93.1
+https://ares.disfrutaenlared.com:9060/
 #EXTINF:-1,Radio Kollasuyo FM
 https://azura2.bitstreaming.net:8000/radio128.aac
 #EXTINF:-1,RADIO MARIA BOLIVIA
 http://dreamsiteradiocp4.com:8022/stream
+#EXTINF:-1,Radio Mega Rurrenabaque
+https://live.turadiotv.com/8030/stream
 #EXTINF:-1,Radio Oldies - Red Uyuni
 https://emiteradio.com/proxy/clasicosingles?mp=/stream
-#EXTINF:-1,Radio Oueblo
-https://stream.zeno.fm/dinhdjwdjeltv
 #EXTINF:-1,Radio Panamericana
 http://stream.zeno.fm/pnwpbyfambruv
 #EXTINF:-1,Radio Pop - Red Uyuni
 https://emiteradio.com/proxy/boliviapop?mp=/stream
+#EXTINF:-1,Radio Pueblo
+https://stream.zeno.fm/dinhdjwdjeltv
 #EXTINF:-1,Radio Pueblo 1280 AM
 https://stream.zeno.fm/pixytbpabcsuv
 #EXTINF:-1,Radio Pueblo Bolivia

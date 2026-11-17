@@ -63,8 +63,6 @@ https://sp.dattavolt.com/8052/stream
 http://stream.zeno.fm/529kmm15gv8uv
 #EXTINF:-1,La Dinastia FM
 http://stream.zeno.fm/204egk2n5ehvv
-#EXTINF:-1,La M3G4
-http://gradio.net:8000/lam3g4
 #EXTINF:-1,La Main Street (Radios Ecuador Online)
 https://radiolatina.info/9930/stream
 #EXTINF:-1,La Nueva Unica
@@ -73,6 +71,8 @@ https://streamingecuador.net:8035/stream
 https://laredondafm.makrodigital.com:9550/stream
 #EXTINF:-1,La tukka Ec
 http://grupomundodigital.com:8673/live
+#EXTINF:-1,La voz de Crucita
+https://stream2.mcvhost.com/lavozdecrucita/
 #EXTINF:-1,La Voz de los Caras 95.3 FM
 http://streaming.hdserver.biz:9368/stream
 #EXTINF:-1,la voz del Tomebamba
@@ -96,7 +96,7 @@ https://rr5100.globalhost1.com/8260/stream
 #EXTINF:-1,Modelo 97.7 FM
 https://usa3.lhdserver.es:8197/stream
 #EXTINF:-1,Música para ver llover
-https://stream-287.surfernetwork.com/8ekvqc5urfhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4ZWt2cWM1dXJmaHZ2IiwiaG9zdCI6InN0cmVhbS0yODcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjVRb3NSb3o1UlB1WnFhTWprZXI5OFEiLCJpYXQiOjE3OTQ0NTMxNDMsImV4cCI6MTc5NDQ1MzIwM30.7SOR2VvvPy3ZOpoqZqJ8xIMqGyoAPp36UBxWwTJd1wE
+https://stream-287.surfernetwork.com/8ekvqc5urfhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4ZWt2cWM1dXJmaHZ2IiwiaG9zdCI6InN0cmVhbS0yODcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImVxOFB4ano5UllpY3ozLURYYjJTQ0EiLCJpYXQiOjE3OTQ4ODU2MjcsImV4cCI6MTc5NDg4NTY4N30.HyZUQSU9ocyinkYJfmS43mag7zHL50Mj5LVWNp1sO4g
 #EXTINF:-1,No es merengue es una merengazo
 https://stream.zeno.fm/twem5wa0k0hvv
 #EXTINF:-1,Oro Verde
@@ -109,12 +109,16 @@ https://radio.pitazoinicial.com/stream
 https://streamingecuador.net:8008/radioplayfm
 #EXTINF:-1,Play Radio Online
 https://stream.zeno.fm/thjs0ijturotv
+#EXTINF:-1,PM RADIO Quevedo 
+https://as100.globalhost1.com/8010/stream
 #EXTINF:-1,Pon salsa y todo norte
 https://stream.zeno.fm/eft72w1vrnhvv
 #EXTINF:-1,R.S.N. La Indestructible
 https://stream.zeno.fm/wahxwkbdaoduv
 #EXTINF:-1,Radio 27 Electro
 https://cast1.prosandoval.com/listen/radio_27_network/radio.mp3
+#EXTINF:-1,Radio Activa 
+https://dattavolt.com/8394/stream
 #EXTINF:-1,Radio Alegria
 https://rr5100.globalhost1.com:8156/stream
 #EXTINF:-1,Radio América 104.5 FM
@@ -177,8 +181,8 @@ https://streamingecuador.com:9040/stream
 https://streamingecuador.net:8135/radioelite
 #EXTINF:-1,Radio Elite 99.7 FM
 https://streamingecuador.net:8135/radioelite
-#EXTINF:-1,Radio Evolución 107.7 FM
-https://stream.gradio.net/evolucion
+#EXTINF:-1,Radio Eres
+https://sv70.ecuaradiotv.net:8000/eres933
 #EXTINF:-1,radio favorita 98.3 fm 
 https://streamingecuador.com/stream/radiofavorita/stream
 #EXTINF:-1,Radio Gaviota 105.1 FM
@@ -276,9 +280,9 @@ http://stream.zeno.fm/pb4351gw438uv
 #EXTINF:-1,RCS. Quito Stereo
 http://stream.zeno.fm/p6dy80yt6s8uv
 #EXTINF:-1,Rockeando con Reguetón 
-https://stream-284.surfernetwork.com/ck2uqw2dgphvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjazJ1cXcyZGdwaHZ2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InBDMHRKMWdmUmlpTDJ4T2VJdFcxN0EiLCJpYXQiOjE3OTQ0NjIyODAsImV4cCI6MTc5NDQ2MjM0MH0.8rGZrkT6QEQHtnJlrQTjtOcCx00VIVlTO4v8rOOeEfU
+https://stream-284.surfernetwork.com/ck2uqw2dgphvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjazJ1cXcyZGdwaHZ2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImpRMFlBUzdzUUk2Y040UHJEWmdFeHciLCJpYXQiOjE3OTQ4OTQ0ODYsImV4cCI6MTc5NDg5NDU0Nn0.o33VOYAALkBRDBLAX7EgB5p2sFWNQalEkEtKtyFkZ1o
 #EXTINF:-1,Rosate con bachata
-https://stream-281.surfernetwork.com/uagzy1yc5uhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1YWd6eTF5YzV1aHZ2IiwiaG9zdCI6InN0cmVhbS0yODEuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InVQbHpFMlpEU3hxaHBsNlMwSnJlVGciLCJpYXQiOjE3OTQ0NjkyNTYsImV4cCI6MTc5NDQ2OTMxNn0.Ih2_LmBOGIk8-xxdEjGmc6ckE08YyutBNKWQ9DiOBf0
+https://stream-281.surfernetwork.com/uagzy1yc5uhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1YWd6eTF5YzV1aHZ2IiwiaG9zdCI6InN0cmVhbS0yODEuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImdRQ3JGOHdIU3dTdkZ6NTlUTXlCa2ciLCJpYXQiOjE3OTQ5MDE1NTMsImV4cCI6MTc5NDkwMTYxM30.sgt0eANkolfsv5yrAW75iJcy3XlOlHCL-CjItLccdAI
 #EXTINF:-1,RTP 96.5 FM
 https://streamingecuador.net:8167/radiotropicana
 #EXTINF:-1,RVT Satelital 91.5 FM

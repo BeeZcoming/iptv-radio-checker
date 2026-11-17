@@ -53,10 +53,6 @@ http://ice4.abradio.cz/coop128.mp3
 http://icecast2.play.cz:8000/country128aac
 #EXTINF:-1,County
 http://icecast4.play.cz/country128.mp3
-#EXTINF:-1,Crazy Rádio
-http://live.topradio.cz:8000/crazy128
-#EXTINF:-1,CrazyRadio.cz
-https://stream.rcast.net/72851
 #EXTINF:-1,ČRo D-dur
 https://rozhlas.stream/ddur.mp3
 #EXTINF:-1,ČRo D-dur HD
@@ -186,7 +182,7 @@ http://ice.abradio.cz/cernahora64.mp3
 #EXTINF:-1,Hitrádio Černá Hora 128
 http://ice.abradio.cz/cernahora128.mp3
 #EXTINF:-1,Hitrádio City 93.7 FM
-http://25503.live.streamtheworld.com:3690/HITRADIO_CITY_PRAHA_SC
+http://29083.live.streamtheworld.com:3690/HITRADIO_CITY_PRAHA_SC
 #EXTINF:-1,Hitrádio City Brno
 http://ice.abradio.cz/magicbrno128.mp3
 #EXTINF:-1,hitradio City zona Lasky

@@ -43,8 +43,6 @@ https://stream.iradio.pro/proxy/densomaniak?mp=/stream
 https://radio.mugadavanje.rs/listen/dharmar_goa/dharmar
 #EXTINF:-1,dj canic radio
 https://stream.zeno.fm/5xbihv8cky7tv
-#EXTINF:-1,Domus Radio
-https://libretime.domusradio.com/icecast/main
 #EXTINF:-1,Egata Radio
 http://stream.zeno.fm/kcn3b5gfuhruv
 #EXTINF:-1,Egeta Radio 1 (Vlaška muzika)
@@ -399,6 +397,8 @@ http://cast2.name.ba:8153/;*.mp3
 http://cast2.name.ba:8153/;stream.nsv
 #EXTINF:-1,Radio Mackica - Zabavna Muzika
 http://cast2.name.ba:8157/;stream.nsv
+#EXTINF:-1,Radio Maestro
+https://radio-maestro.com:8443/stream.mp3
 #EXTINF:-1,Radio Magnum
 http://magnum.web-srbija.net:8121/;stream.nsv
 #EXTINF:-1,RADIO MARIA SERBIA
@@ -596,7 +596,7 @@ https://live.rtvvrnjackabanja.com/rvb.mp3
 #EXTINF:-1,Radio Zelengrad - Milwaukee - USA
 http://usa5.fastcast4u.com:16276/;stream.nsv
 #EXTINF:-1,RADIO.D59B
-http://n01.radiojar.com/gn6dqzhf9mzuv
+http://n0f.radiojar.com/gn6dqzhf9mzuv
 #EXTINF:-1,Red radio Beograd
 https://stream.redradio.rs/sid=1
 #EXTINF:-1,Resavski radio
@@ -641,6 +641,8 @@ http://streaming.tdiradio.com:8000/tdiradio
 http://streaming.tdiradio.com:8000/love
 #EXTINF:-1,TDI Radio CRNA GORA
 https://streaming.tdiradio.com/crnagora.mp3
+#EXTINF:-1,Tempo Naxi Radio
+https://tempo.ipradio.rs:9034/
 #EXTINF:-1,TOP FM Belgrade - 106,8 MHz
 https://topfm64ssl.streaming.rs:9287/;stream.mp3
 #EXTINF:-1,UnderGRAND RADIO

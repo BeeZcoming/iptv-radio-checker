@@ -9,8 +9,6 @@ http://ais-sa2.cdnstream1.com/1369_128
 http://37.233.41.76:8000/dancefm
 #EXTINF:-1,DeepNova Radio
 https://a8.asurahosting.com:8820/radio.mp3
-#EXTINF:-1,DeepNova Radio - DanceNova
-https://a3.asurahosting.com/listen/dance_house_hits/radio-192.mp3%20(320kbps%20MP3)
 #EXTINF:-1,Eco FM
 http://188.138.204.98:8080/ecoFM
 #EXTINF:-1,Focul din Vatră
@@ -75,8 +73,6 @@ https://s5.radio.co/sfd9f42d1d/listen
 https://play.radiocafe.md:7000/radio.mp3
 #EXTINF:-1,Radio Chișinău
 https://radiochisinau.md/hls/RChisinau.m3u8
-#EXTINF:-1,Radio Dar
-https://radiodar.md/stream.php
 #EXTINF:-1,Radio Fresh MD
 https://stream-151.zeno.fm/ttofovumhg1vv?zs=3vmFlLhiROOIFik2GUoxgw
 #EXTINF:-1,Radio Moldova
@@ -89,8 +85,6 @@ http://radiolive.trm.md:8000/RM-muzical-256
 https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8
 #EXTINF:-1,RADIO MUZFM
 https://live.muzfm.md//muzfmhd
-#EXTINF:-1,Radio Noroc Moldova
-https://stream.noroc.tv/radionoroc_aac
 #EXTINF:-1,Radio Plai
 https://stream.radioplai.md/live
 #EXTINF:-1,Radio Record Moldova
@@ -147,8 +141,6 @@ https://streams.radiozum.md/listen/zum1/ZUM1
 https://streams.radiozum.md/listen/zum2/ZUM2
 #EXTINF:-1,Radio ZUM4
 https://streams.radiozum.md/listen/zum4/ZUM4
-#EXTINF:-1,RadioBEAT
-https://ssl.omegahost.ro/9998/stream
 #EXTINF:-1,Realitatea FM
 https://radio.realitatea.group/realitatea
 #EXTINF:-1,Retro FM Moldova
@@ -161,7 +153,5 @@ https://sonicssl.namehost.ro/8050/;
 https://radio-soundads.webdelo.com/listen/soundads/radio.mp3
 #EXTINF:-1,VibeFM
 https://stream.radio.co/s6a544f6c9/listen
-#EXTINF:-1,Vocea Basarabiei
-https://stream.noroc.tv/radiovb_aac
 #EXTINF:-1,Первое радио в вашем мобильном
 https://cdn.cybercdn.live/Pervoia/Audio/icecast.audio

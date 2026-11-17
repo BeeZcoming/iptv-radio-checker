@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,AFN GO HUMPHREYS The Eagle
-http://17643.live.streamtheworld.com:3690/AFNP_OSNAAC_SC
+http://18533.live.streamtheworld.com:3690/AFNP_OSNAAC_SC
 #EXTINF:-1,ARA FM
 http://141.164.38.238/listen/ara_fm/radio.mp3
 #EXTINF:-1,Arirang Radio
@@ -27,6 +27,8 @@ https://m-aac.cbs.co.kr/cbs939/_definst_/cbs939.stream/playlist.m3u8
 https://lhttp-hw.qtfm.cn/live/15318233/64k.mp3
 #EXTINF:-1,CBS 표준FM 98.1
 https://m-aac.cbs.co.kr/mweb_cbs981/_definst_/cbs981.stream/playlist.m3u8
+#EXTINF:-1,CPBC
+https://cdn-radio-seoul.cpbc.co.kr/cpbcseoul/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTQ5MzI0MTMsInBhdGgiOiIvY3BiY3Nlb3VsIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIzNDFhMDkzNy0zNTQzLTQyYTctOTdjNi1kY2FjOWNlZmY1NTEiLCJpYXQiOjE3OTQ4ODkyMTN9.tWqVw0bssGUGJ6pWcDqhBIChuBDF6l-PgeJXpHPsrzg
 #EXTINF:-1,CPBC TV
 http://onair1.cpbc.co.kr:1935/tv/mp4:live720/playlist.m3u8
 #EXTINF:-1,EBS FM 104.5
@@ -69,6 +71,16 @@ https://61ff3340258d2.streamlock.net/jtv_radio/myStream/chunklist_w111659793.m3u
 http://kmeathosting.com:8000/kmeat
 #EXTINF:-1,K-RADIO
 https://s5.radio.co/s0a9796fe3/listen
+#EXTINF:-1,KBS Classic FM
+https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTUwMzYxNTR9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=Bt8Y9BSJKjBp~vmLiD2hBc6jls-W38C7veQBVIbn0s2b7pb20tx9oNsNAWI2bkaienc5WvC87B8PoG8hWgwqspAgEJTRTcje6TWzQNCOjRVCXJafKzV02GfmQwdIxCmj9lf8RuG8klFH7kXM~vN8PAjGv-69SZ3IGSz8ECnKPcGi0m7pUua2bGI0yQrYAhNBkZ90SfPPo-WyNA4lfa03VkNoJyAeZrgxtLQLzbzVnjKr3cnEXkR~6yRRl~bUSHmAuIfWaFcK-531nVhlWxZ-cdLL11a8OeqUq27wW2mdE4T6LP4GBAx~aXT9jGQWP2u1OihgoIl3WzDX8zcrfCDfNw__
+#EXTINF:-1,KBS Classic FM
+https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTUwNTExODB9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=kb052A55J~c3BMS0~eeIuaFKM8MfJ1fisebrfVnPmgWQJwTS0NGnD3dq9MToCpIBImZ54Bs9KdNBO5tDBHusl~iwRXsGBm0AwO7grvtKvS5g9RZ24v3u93YBwYjkp6kheiW9SUqV0obKArLdrkDGAovn8u731VyBM1M0gEYzSMSqWaDK2M83K3r8234gxAzgKmyj5r5YT4DfhxTCyjwgm-101A75Hl98PE5xLooJ8p5nMJ~lAHkAKK6IwnHIL6MWz1H6wiz3guCKd4F7E3gOv4tkd3zU3jFHSdoKar~coONvnrQ3utb3LJ3w6xzL9NOxzrdtcZCSSjDiL9Egm6Aj8A__
+#EXTINF:-1,kbs classic fm
+https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTUwNjY3ODh9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=Nu779okl1gvuzWuQ1mKF4TNQuLsiV5g82PovmTSXonUHiP8p4sTLw6gc66XNiPskgOZNOXc5GshG9XO1nC9~nu2m~thwOAuQLR32vW9nsY2-6q1W-d5jqYP7afoxvflEnA0SuRVMNgq58-6NFuKE~QA5OGm-kY64e-jcBNUC8d3LMnt1bRorAlt5iP2dgY~z2N8AiU-lV23n~wWZs3McEw57b8k5Z~HjiSsXt9d2sa9XH5rBLKO0sYTI1Dm1d8Chb-Z1Jn-TWAnr~gc7pteBItU5l8xtM7-5GZ4GSRnhd-tOEIP5MH9aqNSzH9XWFdLL1krBEved9g7X88jaYeolWw__
+#EXTINF:-1,KBS Cool FM
+https://2fm-ad.gscdn.kbs.co.kr/2fm_ad_192_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0tYWQuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTUwMzY3Njh9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=Wy91vne~1sk7SfWBofUVZuuuquGsYZjO3j89bs4H9CnW6hOpSWWZZncJtRAKT~EceAR9EexwlDiLjXhFQaOkphuxTnJMUPpLiTZaomY2wmXFYM9Uz0f-6nFZ61z3Y56uvgx7Ai2lNHuwBZ0T5C-sO95iKpvRoTSOIkcTE6x0TutJVBlZB4HAJqclbZjFyrO-hVYPkNdKmW8kQTUV1h3rSGgV3mLmOqtywoRjscgyEyvNtiVWoUInW0dj~s17hqiu~MVOXUxfc2qH6RoCWZiFwzYPbp0Otfw3ni-RgLXr1MgHJzBsouNmZpUhlR88dYHRIz7h8giAEKsJZLDMViHYkw__
+#EXTINF:-1,KBS_kor
+https://1radio-bora.gscdn.kbs.co.kr/1radio-bora-01/1radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xcmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMXJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTA3ODc0MX19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=cU6yHU8Ab~bUXxLS-ZGRGP5~YsAHAyk6UIQ0Yy1FUhYuh1mT5xNU7KZhDzIVSUMXPxDPVtxf9e54pt5k3VsZYT48GQemIMIH9Pe0B0uNIvvimBL4NwYq4FUAdWgO0sNmYxCrZ8tilGI76Q3slNcLUNcR5e7Qr4gX5665dHyI~zYxy3oumM6~Q~a40tKpyIHU7vPnrX2a7KlyFyRTMKk4tTPwnTvVVhBmn3FGB2mzcFD3dasghMos-F-2Hx4Nv9oZ3m33uGskk3PYeCjz4s9yzAgZ~FbJVDto-QbVKidBdH1MnuJbs1~SUkgKriY3ugzEzNouRPCwqOJ9UPggnKJ1dw__
 #EXTINF:-1,Korean city pop
 http://65.21.61.215:8000/citypoptwo
 #EXTINF:-1,Listen.moe Kpop (MP3)
@@ -77,22 +89,30 @@ https://listen.moe/kpop/fallback
 https://listen.moe/kpop/stream
 #EXTINF:-1,MapoFM
 http://onair.mapofm.net/mapofm
+#EXTINF:-1,MBC FM
+https://minisw.imbc.com/dsfm/_definst_/sfm.stream/playlist.m3u8?_lsu_sa_=6D214F1AB3B937B4464655943BC1E840B5E13B45D4087229330032aE26CA3636C9a9C34834A2504DE05B33E151bE51B213B77F9FE26B279AB804A464475E9C92804C7BBCC4941D71EAAF8323309BFEDF247DAD862661548BD0BA2082A11AC1A06EFAFA0A98EE2762FCDE77E681910FA8
+#EXTINF:-1,MBC FM for you
+https://minimw.imbc.com/dmfm/_definst_/mfm.stream/playlist.m3u8?_lsu_sa_=6DA1061F43B93C94B249450033112245C5F038351102E23B3DB0DAaD4604324616a023E03752174810BD305178bC415A4888F006F206EE5FE74B3C0B22136384B9DEA4C92723422F11964D5616501D192CC8CA6F060FD3F337286660891F0FE076BE6164D9DB618A0CCB4CB8218139CA
 #EXTINF:-1,MBC Munhwa Bangsong FM 4U
 http://211.33.246.4:32954/radio_fm/myStream.sdp/playlist.m3u8
+#EXTINF:-1,MBC 올댓뮤직
+https://minicw.imbc.com/dchm/_definst_/chm.stream/playlist.m3u8?_lsu_sa_=66B1811F53753B24534245FF3DD1AB4A95E530E55901C2A63570A8a5A64230F618a4D3973512674B906F3F31BEb5F1095323DF82D44DEF55DB6DD939BAFE078A8EB39105EC002CD8C085053E4BF063CF70A6E8904715EA30846121B9FB740BF3A09509B3AD627CC4C7EC542C3E9CDC8C
 #EXTINF:-1,MBC충북 FM4U
 http://211.33.246.4:32954/radio_fm/myStream.sdp/chunklist_w348337231.m3u8
 #EXTINF:-1,MBC충북 표준FM
 http://211.33.246.4:32954/radio_stfm/myStream.sdp/chunklist_w392819215.m3u8
-#EXTINF:-1,OBS 라디오
-https://vod3.obs.co.kr:444/live/obsstream1/radio.stream/playlist.m3u8
 #EXTINF:-1,Oldpop Cafe
 http://cast.oldpopcafe.net:7080/
 #EXTINF:-1,REPLAY NEWS - 한국어   5분마다 뉴스 라디오
 https://replaynewskr.ice.infomaniak.ch/replaynewskr-128.mp3
+#EXTINF:-1,SBS Power FM
+https://radiolive.sbs.co.kr/powerpc/powerfm.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTQ5MTQ0MDksInBhdGgiOiIvcG93ZXJmbS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6Ijg1OGY2NDc2LTAyNjctNGM4Ni04NzQyLWIyOTEwZjIxODg4OCIsImlhdCI6MTc5NDg3MTIwOX0.SC0Lh7pPAxHr77VbpYs938Q9XWa9QdjrsMtvK5GxFyw
 #EXTINF:-1,SCN - Seongseo Community FM
 http://115.85.182.39/scnfm
 #EXTINF:-1,SoneFM (SuwonFM)
 http://115.85.182.39/sonefm
+#EXTINF:-1,Soshi-Subs
+https://092007.xyz/radio/soshisubs
 #EXTINF:-1,TBN 교통방송
 http://radio2.tbn.or.kr:1935/gyeongin/myStream/playlist.m3u8
 #EXTINF:-1,TBN 울산교통방송

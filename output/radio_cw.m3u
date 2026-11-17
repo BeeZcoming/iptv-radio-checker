@@ -9,8 +9,20 @@ http://stream.paradisefm.cw/HITradio915
 http://stream.zeno.fm/hp4bpr101ehvv
 #EXTINF:-1,Meio Norte FM 99.9
 https://webradio.amsolution.com.br/radio/8280/meionorte
+#EXTINF:-1,Paradise FM 00's & 10's
+https://stream.paradisefm.cw/00s10s
 #EXTINF:-1,Paradise FM 103.1 Curacao
 http://stream.paradisefm.cw/ParadiseFM
+#EXTINF:-1,Paradise FM 60s & 70s
+https://stream.paradisefm.cw/60s70s
+#EXTINF:-1,Paradise FM 80's & 90's
+https://stream.paradisefm.cw/80s90s
+#EXTINF:-1,Paradise FM Disco Inferno
+https://stream.paradisefm.cw/ParadiseDiscoInferno
+#EXTINF:-1,Paradise FM Latin
+https://stream.paradisefm.cw/ParadiseLatin
+#EXTINF:-1,Paradise FM Nonstop
+https://stream.paradisefm.cw/ParadiseNonstop
 #EXTINF:-1,Radio 94 Korsou - 94.5 Willemstad
 http://162.243.94.61:8028/;stream.mp3
 #EXTINF:-1,Radio Active 104.5 FM

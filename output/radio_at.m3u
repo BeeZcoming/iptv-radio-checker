@@ -122,7 +122,7 @@ https://frontend.streams.arabella.at/arabella-wien?aggregator=arabella-playlistf
 #EXTINF:-1,ARBÖ Verkehrsradio
 http://live.datamatix.at:8022/
 #EXTINF:-1,Atnnene sSterewich
-https://edge08.streamonkey.net/antoesterreich-live
+https://edge64.streamonkey.net/antoesterreich-live
 #EXTINF:-1,AUSTRIA FIRST – Österreichs Patriotenradio
 https://n01a-eu.rcs.revma.com/3zudpqfxh0cwv?rj-ttl=5&rj-tok=AAABm8uuzlsAWVPrc0mLiKWX-Q
 #EXTINF:-1,Austria-Kult-Radio
@@ -218,7 +218,7 @@ http://live.radiomaria.at:8000/rma101
 #EXTINF:-1,Her.st Propaganda Broadcast
 https://radio.her.st/listen/listen/128.mp3
 #EXTINF:-1,I-love-Radio-104
-https://ilm.stream12.radiohost.de/ilm_ilovedeutschrapfirst_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzk0NDUzMTc4JmQ9NGM5YmI4NjRkMzY5NTRiZDc0NTk
+https://ilm.stream27.radiohost.de/ilm_ilovedeutschrapfirst_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzk0ODg1NDA5JmQ9ZGMzYmU0YzRmNTNhYTBiMWFiYjA
 #EXTINF:-1,Infora Austria
 https://s35.derstream.net/inforadio.mp3
 #EXTINF:-1,JazzW3
@@ -228,9 +228,9 @@ https://air.jazz.w3.at/jazzw3.ogg
 #EXTINF:-1,JazzW3
 http://jazz.w3.at:8000/w3jazz.mp3
 #EXTINF:-1,Jö.Live
-https://edge16.stream.maxfive.com/max5-joelive
+https://edge21.stream.maxfive.com/max5-joelive
 #EXTINF:-1,jö.live - Mein Tag. Meine Musik.
-https://edge01.stream.maxfive.com/max5-joelive?aggregator=maxfive-homepage
+https://edge05.stream.maxfive.com/max5-joelive?aggregator=maxfive-homepage
 #EXTINF:-1,KroneHit Digital
 http://onair-ha1.krone.at/kronehit1058.mp3
 #EXTINF:-1,KroneHit Radio
@@ -241,6 +241,38 @@ http://onair-ha1.krone.at/kronehit.aac
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1,LCR Radio
 https://streaming.radio.co/sba5c95896/listen
+#EXTINF:-1,Life Radio
+http://stream1.liferadio.at/
+#EXTINF:-1,Life Radio 80er
+https://stream.liferadio.at/80er/mp3-192/stream.liferadio.at/
+#EXTINF:-1,Life Radio 90er
+http://stream3.liferadio.at/;
+#EXTINF:-1,Life Radio Chill Out
+https://stream8.liferadio.at/
+#EXTINF:-1,Life Radio Chill Out Hits
+https://stream.liferadio.at/chillout/mp3-192/stream.liferadio.at/
+#EXTINF:-1,Life Radio Classic Rock 
+https://stream11.liferadio.at/
+#EXTINF:-1,Life Radio ClassicRock
+https://stream.liferadio.at/clrock/mp3-192/stream.liferadio.at/
+#EXTINF:-1,Life Radio Greatest Hits
+https://stream.liferadio.at/greatest-hits/mp3-192/stream.liferadio.at/
+#EXTINF:-1,Life Radio Oberösterreich
+https://stream1.liferadio.at/
+#EXTINF:-1,Life Radio Sommersongs
+https://stream.liferadio.at/sommer/mp3-192/stream.liferadio.at/
+#EXTINF:-1,Life Radio Tirol
+http://stream.liferadio.tirol/live/aac-256/SHQ
+#EXTINF:-1,Life Radio Tirol
+https://stream.liferadio.tirol/live/mp3-192/link
+#EXTINF:-1,Life Radio Tirol
+https://stream.liferadio.tirol/oldies/acc-128/link
+#EXTINF:-1,Life Radio Tirol - ITALO
+https://stream.liferadio.tirol/italo/mp3-192/link
+#EXTINF:-1,Life Radio Tirol - Schlagerpuls
+https://stream.liferadio.tirol/schlager/mp3-192/link
+#EXTINF:-1,Life Radio Tirol- Alles Malle
+https://stream.liferadio.tirol/malle/mp3-192/link
 #EXTINF:-1,Lounge.FM - 100% Austria
 https://s35.derstream.net/100austria.mp3
 #EXTINF:-1,Lounge.FM Kanal 2 - Wien
@@ -277,6 +309,8 @@ http://stream.erf.at/nowradio_96
 http://orf-live.ors-shoutcast.at/oe1-q1a
 #EXTINF:-1,Ö1 | ORF | HQ
 http://orf-live.ors-shoutcast.at/oe1-q2a
+#EXTINF:-1,oe24
+https://edge69.streamonkey.net/oe24-live
 #EXTINF:-1,Oldie Party
 http://streams.norawebstreams.de/oldieparty/mp3-192/vtuner/
 #EXTINF:-1,ORANGE 94.0
@@ -340,7 +374,7 @@ http://orf-live.ors-shoutcast.at/tir-q1a
 #EXTINF:-1,ORF Tirol HQ
 http://orf-live.ors-shoutcast.at/tir-q2a
 #EXTINF:-1,ÖsterreichRadio
-http://oesterreichradio.stream.laut.fm/oesterreichradio?uuid=8b0ac91a-b80c-29b2-7307-8bceae2233fd&t302=2026-11-12_04-28-11
+http://oesterreichradio.stream.laut.fm/oesterreichradio?t302=2026-11-17_04-30-16&uuid=a6a7313c-7674-1c9d-fce2-4160c81a36e7
 #EXTINF:-1,Peters Plattenthek
 http://server7524.streamplus.de/stream.mp3
 #EXTINF:-1,PetersPlattentek
@@ -363,6 +397,8 @@ https://s5.radio.co/sa760ba7af/listen
 https://edge22.streamonkey.net/oe24-live
 #EXTINF:-1,Radino - Mein Kinderradio Wien 103,2
 http://stream01.zogl.net:8906/stream
+#EXTINF:-1,Radio 3: The DJ Johnson Somerset Remixes
+https://radio.eduneu.eu:8020/radio.mp3
 #EXTINF:-1,radio 88.6
 http://radio886.at/streams/radio_88.6/mp3
 #EXTINF:-1,Radio Alpenstar
@@ -436,7 +472,7 @@ https://stream.tramp-cast.ch/8012/stream
 #EXTINF:-1,Radio OP
 https://server4.streamserver24.com:26250/stream
 #EXTINF:-1,Radio Osttirol
-http://streamplus20.leonex.de:28768/;
+http://streamplus20.leonex.de:28768/
 #EXTINF:-1,Radio Rot Weiß Rot
 https://secureonair.krone.at/rwr.aac
 #EXTINF:-1,Radio Rudina
@@ -488,11 +524,11 @@ https://revisited.stream.laut.fm/revisited
 #EXTINF:-1,Rock Antenne (Austria)
 https://s6-webradio.webradio.de/rockantenne-oesterreich
 #EXTINF:-1,Rock Antenne Österreich
-http://s6-webradio.webradio.de/rockantenne-oesterreich
+http://s8-webradio.webradio.de/rockantenne-oesterreich
 #EXTINF:-1,Rock Antenne Österreich
-https://s2-webradio.rockantenne.at/rockantenne-oesterreich/stream/mp3
+https://s3-webradio.rockantenne.at/rockantenne-oesterreich/stream/mp3
 #EXTINF:-1,Rockantenne Österreich live
-https://s2-webradio.rockantenne.at/rockantenne-oesterreich/stream/aacp
+https://s3-webradio.rockantenne.at/rockantenne-oesterreich/stream/aacp
 #EXTINF:-1,Rockantenne Vorarlberg
 https://web.radio.antennevorarlberg.at/av-rock/stream/mp3
 #EXTINF:-1,Rockhuhn
@@ -514,15 +550,11 @@ https://rs8.stream24.net/radio-soundportal.mp3?ref=soundportal.at
 #EXTINF:-1,Soundportal (MP3, 128 kBit)
 http://rs8.stream24.net/radio-soundportal.mp3
 #EXTINF:-1,Soundstorm Radio
-http://stream.soundstorm-radio.com/listen/soundstorm/aac
+http://stream.soundstorm-radio.com/listen/soundstorm/radio.mp3
 #EXTINF:-1,Soundweave Revisited
 https://sndwvr.site/love.mp3
 #EXTINF:-1,Spirit Live Radio
 http://server7606.streamplus.de/;
-#EXTINF:-1,Styrialounge
-http://styrialounge.out.airtime.pro:8000/styrialounge_a
-#EXTINF:-1,Styrialounge
-https://styrialounge.out.airtime.pro/styrialounge_a
 #EXTINF:-1,Super80s
 https://secureonair.krone.at/super80s.aac?aggregator=konsole-hp&1755065290412
 #EXTINF:-1,Superfly Radio
@@ -571,7 +603,5 @@ https://live.welle1.at:18256/stream
 https://live.welle1.at:19000/live
 #EXTINF:-1,XXXLutz Radio
 https://liferadio.streamabc.net/lfr_w97ylbvwcps_45m7-mp3-192-1637662?sABC=6n48o2p1%230%234s3p7qo16pq27op446q453s9s431o7q7%23jrofrvgr&1783149421175=&aw_0_1st.playerid=webseite&amsparams=playerid:webseite
-#EXTINF:-1,Yeshua.at Radio
-https://yeshua.at:8443/stream
 #EXTINF:-1,Yu Radio
 https://stream.radiotechnikum.at:80/YURADIO

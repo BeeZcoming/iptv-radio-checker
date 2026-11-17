@@ -45,6 +45,8 @@ https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
 http://190.181.61.93:8000/play/a001/index.m3u8
 #EXTINF:-1,Bug-TV (1080p)
 http://46.53.200.153:7777/play/Bug_TV_HD/index.m3u8
+#EXTINF:-1,CaliTV (1080p)
+https://tdcdigital-streams.github.io/iptv/CaliTV.m3u8
 #EXTINF:-1,Canal 1 (Colombia) (1080p)
 http://190.109.2.92:8000/play/a010/index.m3u8
 #EXTINF:-1,Canal 3 (Guatemala) (720p)
@@ -183,6 +185,8 @@ https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8
 #EXTINF:-1,Monumental TV (1080p)
 http://190.128.214.97:64333/play/a046/index.m3u8
+#EXTINF:-1,MTurk TV (1080p)
+https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
 #EXTINF:-1,NBC KRIS-TV (1080p)
 https://content.uplynk.com/channel/e72660594b7a4182982af1690609683d.m3u8
 #EXTINF:-1,NBC KSHB-TV (720p)
@@ -209,10 +213,14 @@ https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
 http://92.114.85.87:8001/play/a013/index.m3u8
 #EXTINF:-1,NTK 21 [Geo-blocked]
 https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
+#EXTINF:-1,Nuestra Tele Internacional (1080p)
+http://45.173.231.22:8000/play/a0cr/index.m3u8
 #EXTINF:-1,Omega Channel (576i)
 https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
 #EXTINF:-1,Paravision
 http://45.170.130.224:8000/play/a032/index.m3u8?hls
+#EXTINF:-1,Polsat 1 [Not 24/7]
+https://kotmruk.github.io/polish-potato/polsat1.m3u8
 #EXTINF:-1,Raajje TV
 https://raajjetv.yarr-myn.workers.dev/RaajjeTv.m3u8
 #EXTINF:-1,Radio Sines (720p) [Geo-blocked]
@@ -247,6 +255,8 @@ http://45.170.130.224:8000/play/a036/index.m3u8?hls
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
 #EXTINF:-1,Teleangol (720p)
 https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3u8
+#EXTINF:-1,Telefe (1080p)
+http://45.173.231.22:8000/play/a053/index.m3u8
 #EXTINF:-1,Telefuturo (Paraguay) (1080p)
 http://158.172.217.18:8000/play/a0ns/index.m3u8
 #EXTINF:-1,Teleislas (720p)
@@ -257,6 +267,8 @@ http://181.78.82.130:8000/play/a0ru/index.m3u8
 https://hls.tvabierta.net/hls/008.m3u8
 #EXTINF:-1,Telemundo West (720p)
 http://45.5.117.57:8900/play/a058/index.m3u8
+#EXTINF:-1,Telemundo Internacional (1080p)
+http://45.173.231.22:8000/play/a01h/index.m3u8
 #EXTINF:-1,Televen (1080p)
 http://38.134.250.110:8000/play/a02i/index.m3u8
 #EXTINF:-1,Television Tarapoto (1080p)

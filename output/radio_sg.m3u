@@ -18,7 +18,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/AXR_MANILA.mp3
 #EXTINF:-1,AXR Singapore
 http://singaporestream.axr.online/
 #EXTINF:-1,AXR Singapore
-http://22273.live.streamtheworld.com:3690/AXR_SINGAPORE_SC
+http://28103.live.streamtheworld.com:3690/AXR_SINGAPORE_SC
 #EXTINF:-1,Beam FM
 https://beamfm.streeemer.com/listen/beam_fm/radio.aac
 #EXTINF:-1,Bible Witness Web Radio
@@ -38,7 +38,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95AAC.aac
 #EXTINF:-1,CNA 938
 https://22893.live.streamtheworld.com/938NOW_SC
 #EXTINF:-1,CNA 938 Live Singapore
-http://22403.live.streamtheworld.com:3690/938NOW_PREM_SC
+http://22403.live.streamtheworld.com/938NOW_PREM_SC
 #EXTINF:-1,CNA938
 https://playerservices.streamtheworld.com/api/livestream-redirect/938NOW_PREM.aac
 #EXTINF:-1,GOLD 905
@@ -76,7 +76,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FMAAC.aac
 #EXTINF:-1,ONE FM
 http://playerservices.streamtheworld.com/api/livestream-redirect/one_FM_913AAC.aac?dist=radiosingaporeapp
 #EXTINF:-1,One FM 91.3
-https://28093.live.streamtheworld.com/ONE_FM_913AAC_SC
+https://22283.live.streamtheworld.com/ONE_FM_913AAC_SC
 #EXTINF:-1,ONE FM 91.3 SPH AAC
 http://playerservices.streamtheworld.com/api/livestream-redirect/ONE_FM_913AAC.aac
 #EXTINF:-1,Power 98 Love Songs

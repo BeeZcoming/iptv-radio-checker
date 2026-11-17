@@ -55,6 +55,8 @@ https://stream.zeno.fm/m1krtxpk11zuv
 https://cast1.my-control-panel.com/proxy/ahaliafm/stream
 #EXTINF:-1,AIR Alwar
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio153/playlist.m3u8
+#EXTINF:-1,AIR bhopal
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio212/chunklist.m3u8
 #EXTINF:-1,AIR Bhuj
 http://117.254.199.9:8081/source
 #EXTINF:-1,AIR Coimbatore AM 999 Khz
@@ -73,6 +75,8 @@ https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio057/hlspbaudio05764k
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio031/playlist.m3u8
 #EXTINF:-1,AIR FM Rainbow Delhi
 https://d3r9rhourdc02u.cloudfront.net/assets/radio/airdelhi02/air002_Auto.m3u8
+#EXTINF:-1,AIR Indore
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio212/playlist.m3u8
 #EXTINF:-1,AIR Jeypore
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio112/playlist.m3u8
 #EXTINF:-1,Air Karaikal
@@ -161,8 +165,6 @@ https://radio.wavespb.com/live/8362d532bd498fd0/8362d532bd498fd0.m3u8
 https://radio.wavespb.com/live/deae7120a205bfff/deae7120a205bfff.m3u8
 #EXTINF:-1,akashvanikarnataka
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio030/hlspbaudio030_Auto.m3u8
-#EXTINF:-1,All India Radio Air Assamese
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio133/playlist.m3u8
 #EXTINF:-1,All India Radio AIR Punjabi 
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio138/chunklist.m3u8
 #EXTINF:-1,All India Radio Neighbourhood Service 1
@@ -389,6 +391,8 @@ https://s3.citrus3.com:8320/stream
 https://mirchiplaylive.akamaized.net/hls/live/2036929-b/MUM/CLUBMI_Auto.m3u8
 #EXTINF:-1,CNBC-TV18
 https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
+#EXTINF:-1,Community Radio Benziger
+https://icecast.octosignals.com/benziger
 #EXTINF:-1,Covai FM
 https://stream.zeno.fm/kzd2e3tx24zuv
 #EXTINF:-1,daBaba Radio
@@ -399,10 +403,14 @@ https://s1.citrus3.com:8124/stream
 http://directchannel1.hindihits.top/
 #EXTINF:-1,Desi Evergreen Radio 1
 http://cast2.asurahosting.com:8569/stream
+#EXTINF:-1,Desi Hits 2000s
+https://www.desizoneradio.com/relay2
 #EXTINF:-1,Desi World Radio
 https://stream.zenolive.com/4mbfcn4mf24tv
 #EXTINF:-1,desiworld
 https://stream.zeno.fm/4mbfcn4mf24tv
+#EXTINF:-1,DesiZone Radio
+https://www.desizoneradio.com/relay1
 #EXTINF:-1,devaprasannam-radio
 https://devaprasannam-a9media.radioca.st/stream
 #EXTINF:-1,dharisanam-fm
@@ -499,6 +507,8 @@ https://c28.radioboss.fm:18046/stream
 https://c28.radioboss.fm:18046/stream?1732693607051
 #EXTINF:-1,Gazal Radio London
 https://streaming.webhostnepal.com/8018/stream
+#EXTINF:-1,Geeks LoungeIn
+http://68.233.100.111:8000/stream
 #EXTINF:-1,germantamilfm
 https://gtr-unicast2u.radioca.st/stream
 #EXTINF:-1,Golden Voice Radio 
@@ -537,12 +547,16 @@ https://eternalmix.org/listen/hari_ramas_eternal_mix/radio.mp3
 https://stream.zeno.fm/jmi0hwxrgmauv
 #EXTINF:-1,HARMAN DJ 
 https://stream.zeno.fm/rtgshmfgkmtuv
+#EXTINF:-1,Harris Jayaraj Radio
+https://psrlive2.listenon.in/hjr?ah=0e81749e37789e5fb8c290926ce87e3f
 #EXTINF:-1,Harrish Jayaraj
 http://stream.zeno.fm/ob6tjg8gulptv
 #EXTINF:-1,harrisjayarajradio
 https://stream.zeno.fm/0bhsthssutzuv
 #EXTINF:-1,HawaMahal Radio
 https://stream-154.zeno.fm/csw7fv7sz1zuv?zs=ABfIaXh5T-65UHo9uTNoAQ
+#EXTINF:-1,Hazur Sahib Live
+http://radio2.sikhnet.com:8038/live
 #EXTINF:-1,healer-radio
 https://c13.radioboss.fm:8552/healerradio
 #EXTINF:-1,Highrise Dedicated Audio Stream
@@ -609,8 +623,6 @@ https://d3n2o48cmfppr2.cloudfront.net/svymradio.m3u8
 https://radiosavre.com:8060/radio.mp3
 #EXTINF:-1,Jap Radio
 http://stream.zeno.fm/r3m0whh0kxquv
-#EXTINF:-1,JAVA MASTIKHOR 
-https://javamastikhor.duckdns.org/live
 #EXTINF:-1,Jay Jagannath
 https://stream.zeno.fm/xm5ezmsj7efuv
 #EXTINF:-1,jcbroadcast
@@ -705,8 +717,6 @@ https://c14.radioboss.fm:8033/stream
 https://stream.zeno.fm/zfuilo1cevduv
 #EXTINF:-1,Love Station Odisha
 https://stream-156.zeno.fm/dkpdmc8e0chvv?zs=uhX7-GwNR1-D5EAX_NJ1lQ
-#EXTINF:-1,LoverClub
-http://201.7.16.154:40001/LoversClub
 #EXTINF:-1,Luminious radio hindi
 http://patmos.cdnstream.com:8601/app
 #EXTINF:-1,luminous-radio
@@ -769,6 +779,8 @@ http://stream.zeno.fm/t2ekq8zsgtzuv
 https://stream.zeno.fm/p5ny63td1d0uv
 #EXTINF:-1,Mohammed Rafi
 https://stream.zeno.fm/6yqvumgfxtzuv
+#EXTINF:-1,Mohan Radio
+https://psrlive4.listenon.in/mohan?station=mohanradio
 #EXTINF:-1,mohanhits
 https://stream.zeno.fm/wkqvzsg1238uv
 #EXTINF:-1,Mohanlal hits
@@ -825,6 +837,8 @@ https://stream-291.surfernetwork.com/rqqps6cbe3quv
 https://stream-146.zeno.fm/rqqps6cbe3quv?zs=loHp_DNyRPiAxC52AL95hg
 #EXTINF:-1,njsunriseradio
 https://njsunrise.out.airtime.pro/njsunrise_a
+#EXTINF:-1,Nostalgic Bollywood 90s
+https://www.desizoneradio.com/relay3
 #EXTINF:-1,NP 24 Radio 
 https://stream.zeno.fm/8wk1s0pt008uv
 #EXTINF:-1,numtamilradio
@@ -939,8 +953,6 @@ https://streamasiacdn.atc-labs.com/radiods.aac
 https://vivo.miradio.in:7039/live
 #EXTINF:-1,Radio Gaana
 https://sp14.instainternet.com/8044/stream
-#EXTINF:-1,Radio Garhwani
-https://crs.uou.ac.in/listen/_radio_garhvani_90.8_fm/radio.mp3
 #EXTINF:-1,Radio Gyansthali 89.6 FM
 https://streamasiacdn.atc-labs.com/gyansthali.aac
 #EXTINF:-1,Radio Hotstar
@@ -969,6 +981,8 @@ http://edge-audio-03-gos2.sharp-stream.com/khushkhabri.mp3
 https://d3caeelfr0kslf.cloudfront.net/radiokochi.m3u8
 #EXTINF:-1,Radio Krishna 
 https://millenniumhits.out.airtime.pro:8000/millenniumhits_a?fbclid=IwAR0qP_F8RgDCq3gX8g7U8Dmm_uZedtPrqxCf8iIDAW5Jcd5ktA0XMs6BJu4
+#EXTINF:-1,Radio Macfast
+https://icecast.octosignals.com/radiomacfast
 #EXTINF:-1,Radio Madhoshi
 https://stream.zeno.fm/7rsl8fsccf8uv
 #EXTINF:-1,Radio Madhuban
@@ -993,6 +1007,8 @@ http://cast1.my-control-panel.com/proxy/radiomattoli/stream
 https://stream-284.surfernetwork.com/wgaznsmt92quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3Z2F6bnNtdDkycXV2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJMTkRwYXZ3OVR1eXhLc2NGbllucG9RIiwiaWF0IjoxNzg0MTkxMjUyLCJleHAiOjE3ODQxOTEzMTJ9.DRVDJc3m4PiAGfCN-9SiCsWcbLpZjtfIxcfUyv68_G4
 #EXTINF:-1,Radio Mirchi masti 
 http://162.244.80.118:9460/stream.mp3
+#EXTINF:-1,Radio Nagpur Live
+https://a6.asurahosting.com:8360/radio.mp3
 #EXTINF:-1,Radio Namkin 
 https://node-12.zeno.fm/yg1qhsbaqv5tv
 #EXTINF:-1,Radio Namkin
@@ -1061,8 +1077,6 @@ http://sp14.instainternet.com:8248/stream
 https://servidor19-4.brlogic.com:7002/live
 #EXTINF:-1,Radio Sangwari
 https://servidor19.brlogic.com:7002/live
-#EXTINF:-1,RADIO SANSKAR
-https://mehramedia.com:9318/stream.mp3
 #EXTINF:-1,Radio Sanskrit Bharati
 https://stream.zeno.fm/c0adewsyw8quv
 #EXTINF:-1,Radio Saptarang
@@ -1073,8 +1087,6 @@ http://uk2.internet-radio.com:8066/stream?listening-from-radio-garden=1657423901
 https://streamasiacdn.atc-labs.com/radiosgmasti.aac
 #EXTINF:-1,Radio Shyamlatal
 https://stream.hamropatro.com/8389
-#EXTINF:-1,Radio Sparsha
-http://sp14.instainternet.com:8228/stream
 #EXTINF:-1,Radio Suno 1024 FM
 https://eu8.fastcast4u.com/proxy/clyedupq/stream
 #EXTINF:-1,Radio Suno 91.7 FM
@@ -1189,8 +1201,6 @@ https://stream.zeno.fm/du9443htcfhvv
 https://s3.radio.co/sadfae7495/listen
 #EXTINF:-1,Roq Raw Radio
 https://mystation.micast.media/radio/8090/radio.mp3
-#EXTINF:-1,S Janaki
-https://psrlive2.listenon.in/janaki?station=janakiradio
 #EXTINF:-1,Sabras Radio
 https://radio.canstream.co.uk:8025/live.mp3
 #EXTINF:-1,sahara-fm
@@ -1261,6 +1271,8 @@ http://radios.crabdance.com:8002/3
 http://radios.crabdance.com:8002/1
 #EXTINF:-1,suvidharadio
 https://my.ssl-stream.com/Suvidha_Radio
+#EXTINF:-1,SVBC TTD Radio
+https://radio.mslivecdn.com:6278/stream
 #EXTINF:-1,Swaranjali
 https://stream.zeno.fm/x7mve2vt01zuv
 #EXTINF:-1,Sweety FM
@@ -1271,8 +1283,6 @@ https://usa19.fastcast4u.com/swiss
 https://radio.mbconline.xyz/hls/tallfm.m3u8
 #EXTINF:-1,Taj 92.3 FM
 https://ice66.securenetsystems.net/TAJ
-#EXTINF:-1,Tamil 80's Radio
-https://psrlive2.listenon.in/80?station=tamil80shitsradio
 #EXTINF:-1,Tamil_Murasam FM
 https://tamilmurasam.radioca.st/live
 #EXTINF:-1,tamil-2021-latest-hits
@@ -1337,8 +1347,6 @@ https://usa9.fastcast4u.com/proxy/thentamilfm?mp=/;
 https://radio.shaivam.org/listen/thiruneriya-thamizhosai/radio.mp3
 #EXTINF:-1,time-fm
 https://neramfm.com:8000/stream
-#EXTINF:-1,TMS Radio
-https://psrlive2.listenon.in/tms?station=tmsradio
 #EXTINF:-1,TORi Live Radio
 http://173.203.133.187:9700/;
 #EXTINF:-1,TORi-Live-8000

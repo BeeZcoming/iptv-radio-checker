@@ -19,8 +19,8 @@ https://radiostreamingaac.com:8570/azucarjutiapa
 https://stream.zeno.fm/u844q3w08mwtv
 #EXTINF:-1,Caribean FM 105.1
 https://sh4.radioonlinehd.com:8547/stream
-#EXTINF:-1,Clásica 102.5 Guatemala
-https://playerservices.streamtheworld.com/api/livestream-redirect/CLASICA_1065AAC.aac
+#EXTINF:-1,Clásica Hits
+https://r1.comcities.com/proxy/ipowqfpm/stream
 #EXTINF:-1,Computer Forensic Radio
 https://radio.forensedigital.gt:8020/stream
 #EXTINF:-1,Criollisima GT
@@ -37,8 +37,6 @@ https://stream.zeno.fm/3tfg0vng9ueuv
 https://stream.zeno.fm/0zashcvc9zquv
 #EXTINF:-1,Estéreo Alegre 101.5 FM
 https://stream.zeno.fm/597dgr66e2zuv
-#EXTINF:-1,Estéreo Gerardi 107.9 FM
-https://aler.org:8445/gerardi.mp3
 #EXTINF:-1,Estéreo Santa Sion
 https://radio015.gt.gt/radio/8000/live.mp3
 #EXTINF:-1,Estéreo Solar 104.9 FM
@@ -57,6 +55,8 @@ http://radio.produccionescasaverde.com:8720/stream
 http://radio.produccionescasaverde.com:8788/autodj
 #EXTINF:-1,FeLove Clásica
 https://feloveclasica-radiofelove.radioca.st/stream?1741424230037
+#EXTINF:-1,Futura 92.3
+https://unsaved-gadfly-addilyn.ngrok-free.dev/mystream.mp3
 #EXTINF:-1,Gaiteros de Guatemala
 https://radio.forensedigital.gt:8030/stream
 #EXTINF:-1,Globo 98.9 Guatemala
@@ -95,6 +95,8 @@ https://ss.redradios.net:8046/stream
 http://juventudpalabramiel.org:8000/radio
 #EXTINF:-1,Radio 107 Exito - 107.1 FM
 http://play10.tikast.com:8159/stream
+#EXTINF:-1,Radio Activa 95.1 FM. En linea católica 
+https://sh4.radioonlinehd.com:8557/stream
 #EXTINF:-1,Radio Amiga 93.3 FM
 http://radiolatina.live:8072/;
 #EXTINF:-1,Radio Cultural TGN
@@ -111,6 +113,8 @@ https://stream-153.zeno.fm/p5fpudbtguquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ
 http://dreamsiteradiocp.com:8072/stream
 #EXTINF:-1,Radio Mesiánica
 https://felovemesianica-radiofelove.radioca.st/stream
+#EXTINF:-1,Radio Peniel
+https://r1.comcities.com/proxy/qplsjysy/stream
 #EXTINF:-1,Radio Punto 90.5 Guatemala
 http://stream.zeno.fm/qzhqyu07dkhvv
 #EXTINF:-1,Radio Romance

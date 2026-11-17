@@ -46,7 +46,7 @@ https://radyo.yayin.com.tr:6040/stream
 #EXTINF:-1,ADANA FM
 https://host.onlineradyotv.net:2020/stream/adanafm
 #EXTINF:-1,AFN 360 Incirlik
-http://25443.live.streamtheworld.com/AFNE_ICK_SC
+http://29103.live.streamtheworld.com/AFNE_ICK_SC
 #EXTINF:-1,AFN İNCİRLİK
 https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_ICK.mp3
 #EXTINF:-1,Afra Radyo
@@ -156,7 +156,7 @@ https://live.bodrumfm.org/stream.mp3
 #EXTINF:-1,BOĞAZ FM
 https://radyo.yayin.com.tr:5938/
 #EXTINF:-1,Borusan Klasik
-http://25633.live.streamtheworld.com/BORUSAN_KLASIKAAC_SC
+http://23543.live.streamtheworld.com:3690/BORUSAN_KLASIKAAC_SC
 #EXTINF:-1,BRTK
 http://sc.brtk.net:8000/
 #EXTINF:-1,BURSA FM
@@ -191,8 +191,6 @@ https://live.radyositesihazir.com:10997/;
 http://canli.arabeskinmerkezi.com:9180/stream
 #EXTINF:-1,DamarTurk FM
 https://live.radyositesihazir.com:10997/stream?type=http&nocache=99881
-#EXTINF:-1,DamlaChatFM - DamLaChat Radyo
-http://radyo.damlachat.com:8346/;
 #EXTINF:-1,Danceland
 https://moondigitaledge.radyotvonline.net/danceland/playlist.m3u8
 #EXTINF:-1,Danceland
@@ -345,6 +343,8 @@ https://station.frigbo.com/listen/frigbo/radio.mp3
 https://listen.powerapp.com.tr/powerdance/abr/playlist.m3u8
 #EXTINF:-1,GARAJ RADYO
 https://moondigitaledge.radyotvonline.net/garajradyo/playlist.m3u8
+#EXTINF:-1,GELİŞİM RADYO 
+http://radyo.yayindakiler.com:4008/stream
 #EXTINF:-1,Genç FM
 https://yayin1.canlitv.fun/radyo/gencfm/chunklist_w1257533803.m3u8
 #EXTINF:-1,GENÇ KRAL FM
@@ -385,6 +385,8 @@ https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?sid=67dy0kx38l3a&a
 https://anadolu.liderhost.com.tr:10876/;
 #EXTINF:-1,Halk Tv
 https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=6vahxsup0jxl&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3
+#EXTINF:-1,Halkın Sesi Radyo
+https://halkinse.80.yayin.com.tr/;
 #EXTINF:-1,Havin FM
 http://yayin6.radyohizmeti.com:7050/;stream.mp3
 #EXTINF:-1,HAYAL FM
@@ -432,7 +434,7 @@ https://yayin.istanbulfm.com.tr/istanbulfm/playlist.m3u8
 #EXTINF:-1,istanbulfm
 https://live.radyofenomen.com/istanbulfm/128/playlist.m3u8
 #EXTINF:-1,Joy Fm
-http://25443.live.streamtheworld.com:3690/JOY_FMAAC_SC
+http://29103.live.streamtheworld.com:3690/JOY_FMAAC_SC
 #EXTINF:-1,Joy FM Istanbul
 http://21633.live.streamtheworld.com/JOY_FM128AAC.aac
 #EXTINF:-1,JOY TÜRK FM
@@ -442,7 +444,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_SC?/
 #EXTINF:-1,JoyTürk Akustik
 http://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_AKUSTIK128AAC.aac
 #EXTINF:-1,joytürk fm
-https://28513.live.streamtheworld.com/JOY_TURK_SC
+https://22733.live.streamtheworld.com/JOY_TURK_SC
 #EXTINF:-1,JoyTürk Rock
 http://23613.live.streamtheworld.com/JOYTURK_ROCK128AAC.aac
 #EXTINF:-1,JoyTürk Rock
@@ -515,10 +517,6 @@ https://live.radyositesihazir.com/8032/stream
 https://sslyayin.netyayin.net/radyoktu/stream/;type=mp3
 #EXTINF:-1,Küpe FM
 https://icecast.netmedya.net/kupefm
-#EXTINF:-1,Kurd1 
-https://listen.radioking.com/radio/119251/stream/158701
-#EXTINF:-1,Kurd1 FM
-https://listen.radioking.com/radio/119251/stream/158701
 #EXTINF:-1,KUZEY FM TURKEY
 http://yayin.yayindakiler.com:3028/
 #EXTINF:-1,LALEGÜL FM
@@ -588,7 +586,7 @@ http://radyomgm.canliyayinda.com/;stream.mp3
 #EXTINF:-1,Metro FM
 http://28503.live.streamtheworld.com:3690/METRO_FMAAC_SC
 #EXTINF:-1,Metro FM
-http://29341.live.streamtheworld.com:3690/METRO_FMAAC_SC
+http://27753.live.streamtheworld.com/METRO_FMAAC_SC
 #EXTINF:-1,Metro fm turkey
 https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FM_SC?
 #EXTINF:-1,Mio Radio
@@ -652,7 +650,7 @@ https://radyo1.radyo-dinle.tc/playdanceradio/stream
 #EXTINF:-1,POP 90
 https://playerservices.streamtheworld.com/api/livestream-redirect/POP90128AAC.aac
 #EXTINF:-1,pop 90 turkey
-http://28573.live.streamtheworld.com/POP90AAC_SC
+http://25643.live.streamtheworld.com:3690/POP90AAC_SC
 #EXTINF:-1,POP HOME
 https://moondigitalmaster.radyotvonline.net/pophome/playlist.m3u8
 #EXTINF:-1,POP LAND
@@ -935,6 +933,8 @@ https://radio.mihr.com/radio/8000/radio.mp3
 https://anadolu.liderhost.com.tr:10994/;
 #EXTINF:-1,RADYO İMZA
 https://radyo.radyoimza.com:8016/
+#EXTINF:-1,Radyo izmir fm
+https://usa4.fastcast4u.com/proxy/radyoizmirfm?mp=/mp3stream128
 #EXTINF:-1,Radyo Karadeniz
 https://radyomar.80.yayin.com.tr/;
 #EXTINF:-1,Radyo Karakoçan
@@ -1086,7 +1086,7 @@ https://moondigitaledge.radyotvonline.net/relaxhome/playlist.m3u8
 #EXTINF:-1,REPLAY NEWS - Türkçe    Her 5 dakikada haber radyosu
 https://replaynewstr.ice.infomaniak.ch/replaynewstr-128.mp3
 #EXTINF:-1,retro turk
-http://25633.live.streamtheworld.com:3690/RETROTURKAAC_SC
+http://23543.live.streamtheworld.com:3690/RETROTURKAAC_SC
 #EXTINF:-1,Retro Turk
 https://playerservices.streamtheworld.com/api/livestream-redirect/RETROTURK_SC?/;
 #EXTINF:-1,Ribat FM
@@ -1148,7 +1148,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC.mp3
 #EXTINF:-1,Super Fm
 https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_SC
 #EXTINF:-1,Süper FM
-http://22343.live.streamtheworld.com:3690/SUPER_FMAAC_SC
+http://28993.live.streamtheworld.com:3690/SUPER_FMAAC_SC
 #EXTINF:-1,Süper Fm
 https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC
 #EXTINF:-1,SUPER FM 2 TURKEY
@@ -1266,7 +1266,7 @@ https://live.radyo.in/8012/stream
 #EXTINF:-1,Virgin Radio Türkiye
 http://29103.live.streamtheworld.com/VIRGIN_RADIO_SC
 #EXTINF:-1,Virgin Radio Türkiye
-http://29344.live.streamtheworld.com:3690/VIRGIN_RADIOAAC_SC
+http://29103.live.streamtheworld.com/VIRGIN_RADIOAAC_SC
 #EXTINF:-1,Virgin Radio Türkiye
 http://25503.live.streamtheworld.com:3690/VIRGIN_RADIO_SC
 #EXTINF:-1,VİRGİN RADYO
@@ -1291,7 +1291,5 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SC006_SO1AAC.a
 https://anadolu.liderhost.com.tr:10924/stream
 #EXTINF:-1,YILDIZ FM
 https://radyo.yayin.com.tr:5940/
-#EXTINF:-1,Yön Radyo
-https://stream.radyolarburada.com:8020/yonradyo
 #EXTINF:-1,YOZGAT FM
 https://sslyayin.netyayin.net:10921/

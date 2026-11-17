@@ -158,7 +158,7 @@ https://online.radiojazz.ua/RadioJazz_Christmas_HD
 #EXTINF:-1,Radio Jazz Cover
 https://online.radiojazz.ua/RadioJazz_Cover_HD
 #EXTINF:-1,Radio Jazz FM
-http://online.radiojazz.ua/RadioJazz_Christmas_Live
+http://online.radiojazz.ua/RadioJazz_Christmas
 #EXTINF:-1,Radio Jazz FM Ukraine
 http://online.radiojazz.ua/RadioJazz
 #EXTINF:-1,Radio Jazz Gold FM
@@ -241,8 +241,6 @@ http://stream.zeno.fm/71ntub27u18uv
 https://sahaj.radio.fm/bhajans.mp3
 #EXTINF:-1,Segenswelle Ukrainisch
 http://www.segenswelle.de:8000/ukrainisch
-#EXTINF:-1,Sevastopol 102.0 FM
-http://air.volna.top/SFM
 #EXTINF:-1,Seven Rays - 7rays
 http://7rays.stream.laut.fm/7rays
 #EXTINF:-1,Smart Zeros 
@@ -261,6 +259,8 @@ https://stream320.galychyna.fm/WebSite
 http://uk2.internet-radio.com:8121/stream
 #EXTINF:-1,The West Pole Radio
 https://online.z-polus.info/hq
+#EXTINF:-1,Tik Tok Hits
+http://stream.europeanhitradio.com:8000/Stream_38.mp3
 #EXTINF:-1,TRANCE IS STAR RADIO
 https://myradio24.org/tisradio
 #EXTINF:-1,Trans World Radio Ukraine
@@ -277,8 +277,6 @@ https://listen7.myradio24.com/ulyublene
 https://streamer.radio.co/sdff2fd6a8/listen
 #EXTINF:-1,VsemirnoeOdesscoeRadio
 https://listen1.myradio24.com/odesradio
-#EXTINF:-1,Wolf Music Radio
-https://a3.asurahosting.com/listen/wolf_music_radio/radio.mp3
 #EXTINF:-1,Worship
 https://radio.dobreff.com/worship.mp3
 #EXTINF:-1,X Radio
@@ -307,8 +305,6 @@ https://cast108372.customer.uar.net/live320
 https://listen.radioking.com/radio/562580/stream/622265
 #EXTINF:-1,Громадське радіо
 http://5.9.8.20:8000/stream
-#EXTINF:-1,Громадське радіо
-https://hromadske.radio/radio_https_upstream
 #EXTINF:-1,Громадське радіо
 http://91.218.212.67:8000/stream-ps-hi
 #EXTINF:-1,Гуляй Радіо
@@ -487,6 +483,8 @@ https://stream.ntktv.ua/syaivo.mp3
 http://193.107.104.79:8007/taktonair.mp3
 #EXTINF:-1,Радіо Трек
 http://online2.radiotrek.rv.ua:8000/AAC+_64
+#EXTINF:-1,Радіо Українська Пісня
+https://listen2.myradio24.com/50904
 #EXTINF:-1,Радіо Хартія (Radio Khartia)
 https://a9.asurahosting.com/listen/radio_khartia/radio.mp3
 #EXTINF:-1,Радіо Шлягер FM

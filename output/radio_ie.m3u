@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,[ vinyl stacks ]
-https://vinylstacks.uncool.club/vinyl-stacks.mp3
 #EXTINF:-1,8Radio
 https://stream.rcast.net/66127
 #EXTINF:-1,8radio
@@ -310,7 +308,7 @@ https://a1.asurahosting.com:10000/radio.mp3
 #EXTINF:-1,SOLID GOLD RADIO IRELAND 
 https://az11.yesstreaming.net:8020/radio.mp3
 #EXTINF:-1,SOLID GOLD RADIO IRELAND 1
-https://az10.yesstreaming.net:8560/radio.mp3
+https://az10.yesstreaming.net:8000/radio.mp3
 #EXTINF:-1,South East Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/SOUTH_EAST_RADIO.mp3
 #EXTINF:-1,Spin 103.8
@@ -341,6 +339,8 @@ https://uk1.internet-radio.com/proxy/thezone/stream
 https://broadcast.shoutstream.co.uk:8052/stream
 #EXTINF:-1,Tipp FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/TIPP_FM.mp3
+#EXTINF:-1,Tipperary Hospital Radio Clonmel
+https://de2.streamingpulse.com/ssl/THRCL
 #EXTINF:-1,Tipperary Mid West Community Radio
 https://rsstreaming.com/proxy/tippmwr/stream?type=.mp3
 #EXTINF:-1,Today FM

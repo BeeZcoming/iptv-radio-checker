@@ -47,8 +47,12 @@ http://s39.myradiostream.com:11590/listen.m4a
 https://stream.radiomeloy.no:8003/radiomeloy
 #EXTINF:-1,Nea Radio
 http://nettradio.nearadio.no:8000/stream
+#EXTINF:-1,NF Radio
+https://player.nfradio.fr/listen/nf_radio/radio.mp3
 #EXTINF:-1,NKR P1+
 http://lyd.nrk.no/nrk_radio_p1pluss_mp3_h
+#EXTINF:-1,no name
+http://5866.cloudrad.io:8018/northernstar.mp3
 #EXTINF:-1,Norsk Country Radio
 http://s6.voscast.com:10258/
 #EXTINF:-1,Norsk Pop
@@ -191,8 +195,6 @@ http://live.radiolyngdal.com/rly_mq
 http://audio.visto.no/radionordkapp.ogg
 #EXTINF:-1,Radio Norge
 https://live-bauerno.sharp-stream.com/radionorge_no_mp3
-#EXTINF:-1,Radio Northern Star
-http://5866.cloudrad.io:8018/northernstar.mp3
 #EXTINF:-1,Radio Nova
 http://stream.radionova.no/mp3
 #EXTINF:-1,Radio Randsfjord

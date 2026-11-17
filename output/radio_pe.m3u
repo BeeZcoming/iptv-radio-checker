@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Andina Radio
+http://panel.innovatestream.pe:7058/;
 #EXTINF:-1,Antena Rock
 https://stream-176.zeno.fm/nxrzmaij5zouv?zt=
 #EXTINF:-1,Antena Sur 90.3 FM
@@ -62,7 +64,7 @@ https://stream-285.surfernetwork.com/9m28hxg42rhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzd
 #EXTINF:-1,Jov Radio
 https://stream.zeno.fm/ssr3g09333duv
 #EXTINF:-1,JVM la Estación (Cusco)
-https://jvmlaestacion.stream.laut.fm/jvmlaestacion?uuid=e8325f09-6f8a-70e9-dc8e-18df68a58a44&t302=2026-11-12_10-46-17
+https://jvmlaestacion.stream.laut.fm/jvmlaestacion?uuid=35fa3346-7d96-29d5-74c3-a26be6273e94&t302=2026-11-17_10-52-41
 #EXTINF:-1,Kaizen Live Radio
 https://radiostreaming.pro/8386/stream
 #EXTINF:-1,Karibeña
@@ -78,7 +80,7 @@ https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6839e24cf4eacd81ada4e6
 #EXTINF:-1,La Kalle 96.1
 https://lakalle.egostreaming.pe/radio/a7b9c3e4567f8d0123456789/
 #EXTINF:-1,La Ñ (FMLima)
-https://stream-281.surfernetwork.com/tk4wmqvnnnruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0azR3bXF2bm5ucnV2IiwiaG9zdCI6InN0cmVhbS0yODEuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjlqOEFzaHZWU251dHhLNVd5WEpId0EiLCJpYXQiOjE3OTQ0MzMzNTcsImV4cCI6MTc5NDQzMzQxN30.3RGzijVVrduWs0Z1_lHcOzSAkzqiRx0BSyt8X22CjXY
+https://stream-281.surfernetwork.com/tk4wmqvnnnruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0azR3bXF2bm5ucnV2IiwiaG9zdCI6InN0cmVhbS0yODEuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJLQi1na0NFa1N4eXYxMm5IbHdnZS1nIiwiaWF0IjoxNzk0ODY1Njg1LCJleHAiOjE3OTQ4NjU3NDV9.m_d7_H5ec88F5Bwe0XuUDadT1XVMmwyPGsI8M_zF71g
 #EXTINF:-1,La Noventera
 https://host.gometri.com/proxy/lanoventera/stream/
 #EXTINF:-1,la Noventera  
@@ -88,9 +90,9 @@ https://mdstrm.com/audio/6598b70f86344b02b58ce836/icecast.audio
 #EXTINF:-1,La Salsa Maestra
 https://stream.zeno.fm/c1skkw28pfeuv
 #EXTINF:-1,La unica Tropical
-https://stream-178.surfernetwork.com/see4wpyr9bhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzZWU0d3B5cjliaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkdwblU0ZjA1VGk2clR0YUJOQ2VjYmciLCJpYXQiOjE3OTQ0MzkyNTQsImV4cCI6MTc5NDQzOTMxNH0.3qScUdGRPvHRHDQTvmss6beuIufQL7iRfUyqm2ap7XU
+https://stream-178.surfernetwork.com/see4wpyr9bhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzZWU0d3B5cjliaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InVDdXIwU29MUmltajN5OTJOdV9VS2ciLCJpYXQiOjE3OTQ4NzEyODIsImV4cCI6MTc5NDg3MTM0Mn0.lG-ta-j7ua5dr1NZWWRB-6bwn8OnIXS89kvWN1x6JX0
 #EXTINF:-1,La unica Tropical
-https://stream-178.surfernetwork.com/see4wpyr9bhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzZWU0d3B5cjliaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ijg4VG5oRFk3U2dHbnFmUUxKcTZWckEiLCJpYXQiOjE3OTQ0NDgxOTYsImV4cCI6MTc5NDQ0ODI1Nn0.4GY7_sAz8jyhymIheswX8-0TTxvPHJlcMwmGe3AswTE
+https://stream-178.surfernetwork.com/see4wpyr9bhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzZWU0d3B5cjliaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjdPQnptM2lXVFdpdTZqMzR5V3hwYnciLCJpYXQiOjE3OTQ4ODAzMzMsImV4cCI6MTc5NDg4MDM5M30.k92QK5coDkdbeLYFKqH5ArsM0Q5XL44nahR-6imw1tU
 #EXTINF:-1,Latina Live
 https://radios.latinalive.net/listen/latina/live
 #EXTINF:-1,Levelhits
@@ -160,9 +162,9 @@ https://stream.zeno.fm/wgs6m5ewe48uv
 #EXTINF:-1,Radio 90s chimbote online
 https://stream-283.surfernetwork.com/z7sb4usufoltv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6N3NiNHVzdWZvbHR2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImhFUW9tYWdlUjZtWXBrM2xObjRRbnciLCJpYXQiOjE3ODgxNTA1NTUsImV4cCI6MTc4ODE1MDYxNX0.GqnCdz8WTFB33RApM48QBAw5g19gHU888WYIUvzZBdo
 #EXTINF:-1,Radio A 94.9
-https://stream-288.surfernetwork.com/qxsaiqu7pn4tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxeHNhaXF1N3BuNHR2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImROYUMtU2l1U1pxYXJJakFMeHItY1EiLCJpYXQiOjE3OTQ0NDk3ODgsImV4cCI6MTc5NDQ0OTg0OH0.RG873qSG7DeUlOMFJqgOSevsUUgRBRChwoP6581gXAQ
+https://stream-288.surfernetwork.com/qxsaiqu7pn4tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxeHNhaXF1N3BuNHR2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImJjUjlEcjRPU0FxN21zSXROTzkzbEEiLCJpYXQiOjE3OTQ4ODIwOTIsImV4cCI6MTc5NDg4MjE1Mn0.Ufw1VRuToNqYTnGswJIreCFADx-435RmSMPuyTkuRZM
 #EXTINF:-1,Radio A la radio del amor
-https://stream-288.surfernetwork.com/qxsaiqu7pn4tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxeHNhaXF1N3BuNHR2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImYyeG8zTzIyUXhxS3BybTB4cVZELXciLCJpYXQiOjE3OTQ0NTMxODcsImV4cCI6MTc5NDQ1MzI0N30.7lID1bQayEwZoOhm6OuW9RKthhKzWCqy-cdR-UNhSFk
+https://stream-288.surfernetwork.com/qxsaiqu7pn4tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxeHNhaXF1N3BuNHR2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Iml6V20teEVRUjhpSXF6cHZiZjJ0YlEiLCJpYXQiOjE3OTQ4ODU0ODAsImV4cCI6MTc5NDg4NTU0MH0.f0VhE7Dtph5R0SZ7G0HbpcI0cQAx8afjZMUnNikys_o
 #EXTINF:-1,Radio ABN (Lima)
 https://jml-stream.com/radio/8000/radio.mp3
 #EXTINF:-1,Radio Activa 93.7 FM Jaen
@@ -170,7 +172,7 @@ https://sp.onliveperu.com/8108/stream
 #EXTINF:-1,Radio Alegria - La Rompe
 https://radio.sistemasandinos.org:10974/;stream
 #EXTINF:-1,Radio Amo la Música
-http://stream-179.surfernetwork.com/aqmct15qmchvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhcW1jdDE1cW1jaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InVtVVZqM19tU0M2SHVMVDJkRzU1anciLCJpYXQiOjE3OTQ0NzU0NjksImV4cCI6MTc5NDQ3NTUyOX0.CRFQ46uzuJyiMCrifjBJ7Kd7SCHMpy4T-yrnRyXrSJY
+http://stream-179.surfernetwork.com/aqmct15qmchvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhcW1jdDE1cW1jaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkJsSXF2NUNPUnhLUGpicWZXczF5SkEiLCJpYXQiOjE3OTQ5MDc4ODYsImV4cCI6MTc5NDkwNzk0Nn0.OWIPItpUNcgF8QhQXg5d_fbv2rNb8DyvcOUpFxCBO80
 #EXTINF:-1,Radio Andina Tarata
 http://sp.oyotunstream.com:8064/
 #EXTINF:-1,Radio apurimeña la unica
@@ -231,6 +233,8 @@ https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561
 https://sp.oyotunstream.com:10943/stream?icy=http
 #EXTINF:-1,Radio FELICIDAD 88.9 fm
 https://mdstrm.com/audio/5fad731fcf097a068af3c8f7/icecast.audio
+#EXTINF:-1,Radio Fiesta 98
+http://s9.voscast.com:8496/;
 #EXTINF:-1,Radio fiesta Mix
 https://dattavolt.com:7128/stream
 #EXTINF:-1,Radio Folk Peru
@@ -269,14 +273,12 @@ https://shoutcast.tmcreativos.com/proxy/radiokar?mp=/stream
 https://panel.innovatestream.pe:10970/stream
 #EXTINF:-1,Radio La Cheverísima - Utcubamba 
 https://sp.onliveperu.com/8114/stream/;
-#EXTINF:-1,Radio La Gloria Es De Dios
-https://radio101.mjwebexperts.com/8006/stream
 #EXTINF:-1,Radio La Inolvidable
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6839e24cf4eacd81ada4e6b4/playlist.m3u8
 #EXTINF:-1,Radio la inolvidable fm
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6839e24cf4eacd81ada4e6b4/playlist.m3u8?listeningSessionID=6941574b117acc42_9248139_F598Qfgy_dXMtYjQtcC1lLWNnMTEtYXVkaW8uY2RuLm1kc3RybS5jb206ODAwMA!!_0000006JdQ0&downloadSessionID=0&aid=68386a6e44ba64f6064b25c9&property=aiir&pid=vCkzQt26xqyiEWEr9pFao3SUO1wP9Bnd&sid=0RirczdGkUi63O3paJYxUpGaICJcKwQT&uid=TXhvN1xWKOWgtYUFU85Lp8tMnho0BSiB&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1775224405820&ot=R750hnwZDEoPTrF6aUN4bA&proto=https&pz=us&cP=128000&awCollectionId=68386a6e44ba64f6064b25c9&aw_0_1st.playerId=aiir&liveId=6839e24cf4eacd81ada4e6b4&referer=https%3A%2F%2Fwww.oigo.com%2F&propertyName=aiir&propertyType=rss-app&listenerId=TXhvN1xWKOWgtYUFU85Lp8tMnho0BSiB
 #EXTINF:-1,Radio la Ñ 100.1 fm
-https://stream-281.surfernetwork.com/v83x1mqnnnruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2ODN4MW1xbm5ucnV2IiwiaG9zdCI6InN0cmVhbS0yODEuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InMxbUotRklFU0ctaFVxTllaMkM3REEiLCJpYXQiOjE3OTQ0NTQ0NDgsImV4cCI6MTc5NDQ1NDUwOH0.76I2fIDezIsEz3ky-uxk1oyMuvTaHSqefi5hbZPzKIM
+https://stream-281.surfernetwork.com/v83x1mqnnnruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2ODN4MW1xbm5ucnV2IiwiaG9zdCI6InN0cmVhbS0yODEuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjNBUl9Zd0NhU2NPTVFwZE9wYUt4MVEiLCJpYXQiOjE3OTQ4ODY1ODMsImV4cCI6MTc5NDg4NjY0M30.-u1U4wzr4Kgp5mEtAg8x27VpXzaTEvetK5rAeZbMiyQ
 #EXTINF:-1,Radio La Número 1
 https://tupanel.info:7410/stream/;
 #EXTINF:-1,Radio la Poderosa 98.2 FM _ Lima _ Perú
@@ -339,8 +341,6 @@ https://stream.zeno.fm/dredth2tsqtuv
 https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio
 #EXTINF:-1,Radio Onda Popular (Juliaca)
 https://dattavolt.com/8278/stream
-#EXTINF:-1,Radio Ondas del Huallaga
-https://cloud9.ldwebstudios.net:7005/;
 #EXTINF:-1,Radio Oxígeno
 https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/live.m3u8
 #EXTINF:-1,Radio Panamericana
@@ -357,10 +357,12 @@ http://sp.oyotunstream.com:8034/
 https://stream-178.surfernetwork.com/txnx98nzng8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0eG54OThuem5nOHV2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImlKS0tpV2pNU3FpdTV6Y01GS0pwQ1EiLCJpYXQiOjE3ODU3MTIyMzksImV4cCI6MTc4NTcxMjI5OX0.XjCaoDKl5ewuTmjwRx1zt0hh_CoJ1e75hemtuFW2sRo
 #EXTINF:-1,RADIO RECUERDOS
 https://stream-286.zeno.fm/643hhcgv968uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2NDNoaGNndjk2OHV2IiwiaG9zdCI6InN0cmVhbS0yODYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkVfOGZsWFBOUzJXTkZSWEM5UTdDREEiLCJpYXQiOjE3Nzk2NzA1NDgsImV4cCI6MTc3OTY3MDYwOH0.tTeYSTx_tZP9C98Txk31C6NJg1X4Ial5FK9GQoGkuYs
+#EXTINF:-1,Radio Respuesta
+https://streamlive2.hearthis.at:8000/9417449.ogg
 #EXTINF:-1,Radio Retro
 https://stream2.eistreaming.com/7068/stream
 #EXTINF:-1,Radio Románticas Inolvidables (FMLima)
-https://stream-289.surfernetwork.com/6m1ba7yt3vduv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2bTFiYTd5dDN2ZHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlNnajZRZFBHUkg2UXhQd2NPSlVfdXciLCJpYXQiOjE3OTQ0NjY3MjIsImV4cCI6MTc5NDQ2Njc4Mn0.3lGLQHdvlbwCNsmm_xPolQnFVZBKuLEZzLd6IXFiClY
+https://stream-289.surfernetwork.com/6m1ba7yt3vduv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2bTFiYTd5dDN2ZHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InN1TUdhZ1VSVHlPd3VLNkltSVQ4U2ciLCJpYXQiOjE3OTQ4OTg3OTIsImV4cCI6MTc5NDg5ODg1Mn0.FzdFU96NaQ0DhrMDg34OY5tPwL4_vPISoS6sJ5JhlMk
 #EXTINF:-1,Radio RPP Mundial
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a
 #EXTINF:-1,Radio RPP Noticias
@@ -393,6 +395,8 @@ https://sechin.grupocentroserver.com/listen/mi_super_radio/radio.mp3
 https://radio.blueditor.com/8250/stream;
 #EXTINF:-1,Radio Techno
 https://stream.zeno.fm/wucx5xcgqeruv
+#EXTINF:-1,Radio Techno mix, 90's y más 
+https://servistream.info:8386/stream
 #EXTINF:-1,Radio Titanka - Abancay
 http://servistream.info:8482/stream
 #EXTINF:-1,RADIO TRINIDAD 1070 AM
@@ -400,7 +404,7 @@ https://maximacenterdata.com/8056/stream
 #EXTINF:-1,Radio Tropical Tarapoto
 https://shoutcast.tmcreativos.com/proxy/radiotropical?mp=/stream
 #EXTINF:-1,Radio TV. Sureña - Puno, Juliaca
-https://stream-285.surfernetwork.com/p7d5fpx4xnhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwN2Q1ZnB4NHhuaHZ2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InBWT0RqMUpPUzg2cFlMQ1MxTl9FNnciLCJpYXQiOjE3OTQ0MzYzMzYsImV4cCI6MTc5NDQzNjM5Nn0.X948Q1qGnyiD-kMPws-o0zwdrRjs4c8GB_24dT1toOw
+https://stream-285.surfernetwork.com/p7d5fpx4xnhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwN2Q1ZnB4NHhuaHZ2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Im9UMFdnMU95UVBLWFZDdjViX0J5RGciLCJpYXQiOjE3OTQ4NjgzNzAsImV4cCI6MTc5NDg2ODQzMH0.Kb44vEf_czqgMH-kJgC1ehpjGEfda2WsffNxFTLoQiw
 #EXTINF:-1,Radio Un Hueco en el Espacio
 https://cloudstream2032.conectarhosting.com/8106/stream
 #EXTINF:-1,Radio Urbana (Caraz - Ancash Peru)
@@ -424,9 +428,9 @@ https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/6839e261d2efddf5bfbc2d
 #EXTINF:-1,RadioMix AQP (Dj Ethamx)
 https://stream-174.zeno.fm/qa5aurigvoivv
 #EXTINF:-1,RadioMix AQP Rock-Pop en Español (Dj Ethamx)
-https://stream-179.surfernetwork.com/mwxnk1y5btvvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtd3huazF5NWJ0dnZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImJjQzVQM3VYVGlLRXFrU3JkSzNtLUEiLCJpYXQiOjE3OTQ0NDM1ODksImV4cCI6MTc5NDQ0MzY0OX0.Of_0L3eAKZ7FgarvYXREFhGanr9ueVVYfyNN2UFwjlI
+https://stream-179.surfernetwork.com/mwxnk1y5btvvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtd3huazF5NWJ0dnZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ikg2TFlFWWRQUi0tWDFxaFZzNUhTU2ciLCJpYXQiOjE3OTQ4NzU3MzAsImV4cCI6MTc5NDg3NTc5MH0.Mg71e8fBafKN1AHXmFCrD7a05_c_fnBPe62mMLmI0L0
 #EXTINF:-1,RAM Cusco 
-http://ramcusco.stream.laut.fm/ramcusco?t302=2026-11-12_09-14-52&uuid=45ae7734-28bb-2679-d15e-3cdb9c76cedc
+http://ramcusco.stream.laut.fm/ramcusco?t302=2026-11-17_09-25-34&uuid=bcb01477-5957-ccd0-7efb-5c91a09902fa
 #EXTINF:-1,RCS. Lima Stereo
 http://stream.zeno.fm/scy8h669dchvv
 #EXTINF:-1,Ritmo Romántica 
@@ -465,6 +469,8 @@ https://stream.zenolive.com/de2yzp59mg0uv
 http://51.89.173.53:8031/
 #EXTINF:-1,Top Latino
 http://online.radiodifusion.net:8020/stream
+#EXTINF:-1,Top Latino Radio
+https://online.radiodifusion.net:8028/stream
 #EXTINF:-1,Vinilo ¡Tu radio retro! 70s, 80s, 90s, 2000
 https://panel.innovatestream.pe:10924/stream
 #EXTINF:-1,Viva FM

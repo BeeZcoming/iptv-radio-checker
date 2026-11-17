@@ -355,6 +355,8 @@ https://mediaworks.streamguys1.com/breeze-akl-high_icy
 https://station.thecheese.co.nz/hls/the_cheese/live.m3u8
 #EXTINF:-1,The Cheese
 https://station.thecheese.co.nz/listen/the_cheese/128.mp3
+#EXTINF:-1,The Cheese FLAC
+https://station.thecheese.co.nz/listen/the_cheese/flac
 #EXTINF:-1,The Edge
 https://digitalstreams.mediaworks.nz/edge_net/playlist.m3u8
 #EXTINF:-1,The Generator

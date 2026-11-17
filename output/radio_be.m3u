@@ -4,7 +4,7 @@ https://stream.bruce-radio.be/bruce-classic-rock
 #EXTINF:-1, Radio RGR Dance Rotselaar, Be
 https://stream2.rgrfm.be/
 #EXTINF:-1,"name": "'undefined' -> 'AFN 360 Benelux'",
-http://27793.live.streamtheworld.com:3690/AFNE_BLX_SC
+http://25553.live.streamtheworld.com/AFNE_BLX_SC
 #EXTINF:-1,1 Belgian On Demand Radio
 http://bodr.ddns.net:9052/;
 #EXTINF:-1,100,5
@@ -101,8 +101,6 @@ http://www.clubfmserver.be:8000/radioclubfm.mp3
 https://contactmax.ice.infomaniak.ch/contactmax-192.mp3
 #EXTINF:-1,DAX FM RADIO
 http://master.shoutcast.com:8000/dax-fm
-#EXTINF:-1,De Geluidsfabriek
-https://s5.radio.co/s4674a3b1c/listen
 #EXTINF:-1,De Jukebox
 http://s35.myradiostream.com:14472/
 #EXTINF:-1,De Tijdloze
@@ -250,6 +248,10 @@ https://quincy.torontocast.com:3195/stream
 #EXTINF:-1,La Classica
 http://stream.laclassica.be:8023/stream2
 #EXTINF:-1,La Classica
+https://stream.laclassica.be:18023/stream
+#EXTINF:-1,La Classica
+https://stream.laclassica.be:18023/stream2
+#EXTINF:-1,La Classica
 http://stream.laclassica.be:8023/stream
 #EXTINF:-1,La Première - Bruxelles
 http://radios.rtbf.be/laprem1erebxl-128.mp3
@@ -377,8 +379,12 @@ https://icecast-qmusicbe-cdp.triple-it.nl/q-allstars.aac
 http://serverkw.quran-uni.com:8238/;*.mp3
 #EXTINF:-1,R.O.L Oldies Jukebox Radio - Lanaken, be
 http://listen.openstream.co/4628/audio
+#EXTINF:-1,Radio 1
+https://icecast.vrtcdn.be/radio1-mid.mp3
 #EXTINF:-1,Radio 100%
 http://live2.radiostudio.be:8000/pros
+#EXTINF:-1,RADIO 2
+https://quantumcast.vrtcdn.be/ra2ant/mp3-128/quantumcast.vrtcdn.be/
 #EXTINF:-1,Radio 2 Bene Bene
 http://icecast.vrtcdn.be/radio2_benebene-high.mp3
 #EXTINF:-1,Radio 4910
@@ -635,10 +641,14 @@ http://streams.movemedia.eu:8440/
 http://server7.radio-streams.net:8157/stream
 #EXTINF:-1,Rowyna Music (nw.strm)
 https://server7.radio-streams.net/proxy/rowynamu/stream
+#EXTINF:-1,RTBF Classic 21
+http://radio.rtbf.be/c21/aac-128/fl
+#EXTINF:-1,RTBF Mix
+http://radio.rtbf.be/mix/aac-128/fl
 #EXTINF:-1,scorpio
 https://stream.radioscorpio.be/stream
 #EXTINF:-1,Slow Radio
-http://stream1.slowradio.com/
+http://stream5.slowradio.com/
 #EXTINF:-1,Smart Radio City
 https://live.smartradio.city/listen/city/radio.mp3
 #EXTINF:-1,Soundtrackfm

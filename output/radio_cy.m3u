@@ -73,8 +73,6 @@ http://r1.cloudskep.com/cybcr/cybc1/icecast.audio
 https://server.streamcasthd.com:7092/;
 #EXTINF:-1,Radio Sfera 102.2
 https://securestreams3.autopo.st:1417/sfera
-#EXTINF:-1,Radio T.O.A
-https://live3.istoikona.net/proxy/radiotoa/stream
 #EXTINF:-1,Radio Turbo21
 https://radioturbo21.com/radio/stream
 #EXTINF:-1,Radyo Juke

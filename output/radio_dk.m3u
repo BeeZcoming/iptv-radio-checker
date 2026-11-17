@@ -273,6 +273,8 @@ http://komplex2.psyradio.org:8020/chillout/;
 https://s3.radio.co/s7cd1ffe2f/listen
 #EXTINF:-1,Radio 40plus
 http://stream.radiosolutions.dk/radio40plus
+#EXTINF:-1,Radio 7 Ravensburg
+https://streams.radio7.de/rv/mp3-192/web/
 #EXTINF:-1,Radio ABC
 http://netradio.radioabc.dk/
 #EXTINF:-1,Radio ABC

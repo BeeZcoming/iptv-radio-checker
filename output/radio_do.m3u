@@ -29,6 +29,8 @@ https://stream1.rcast.net/61186
 https://sp.unoredcdn.net/8054/stream
 #EXTINF:-1,Bravisima fm
 http://radio.hostlagarto.com/9924/stream
+#EXTINF:-1,BUEN PASTOR RADIO
+https://c22.radioboss.fm:8394/stream
 #EXTINF:-1,Canal 105.1 FM 
 https://stream.zeno.fm/b94afcu8na0uv
 #EXTINF:-1,Caricias FM
@@ -46,7 +48,7 @@ https://rgradio.net/disco89/disco89.mp3
 #EXTINF:-1,Dominicana FM 98.9 y 99.9 FM
 https://protvradiostream.com:8610/;
 #EXTINF:-1,ecodebendición 
-https://stream-179.surfernetwork.com/d5gahvz0rxhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkNWdhaHZ6MHJ4aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImxNelV2TEM0VGIyU3d1YUljMExTeUEiLCJpYXQiOjE3OTQ0NTc0MDEsImV4cCI6MTc5NDQ1NzQ2MX0.JQJYRcR1rSrh2mszbJHAjxVzLRQJ2_2at-YJ1EDXODU
+https://stream-179.surfernetwork.com/d5gahvz0rxhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkNWdhaHZ6MHJ4aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ijd2a1B4RU5sUk4yelpMS0tFdmR2S0EiLCJpYXQiOjE3OTQ4ODk1ODIsImV4cCI6MTc5NDg4OTY0Mn0.RCokAFrNnoTyPSgQAfGBVknlV7UTCPITRo34XwA6tTU
 #EXTINF:-1,EL SOL DE LA MAÑANA
 http://radio.domiplay.net:2002/;stream.mp3
 #EXTINF:-1,Escandalo 102.5
@@ -71,8 +73,6 @@ https://exaltacionfm.net:8070/stream
 https://servidor25-3.brlogic.com:7110/live
 #EXTINF:-1,EXTASIS 89.5
 https://stream.zeno.fm/f7wt0ptjpn3vv
-#EXTINF:-1,EXTASIS 89.5
-https://radio.hostlagarto.com/8070/stream
 #EXTINF:-1,Fascinante FM
 https://nexostream.net:8180/live
 #EXTINF:-1,FieraMix
@@ -103,6 +103,8 @@ http://5.135.183.124:8243/
 https://stream-50.zeno.fm/9zxyvh9vrhruv
 #EXTINF:-1,La X 102.1 FM
 https://audio.livecastnet.com:2535/stream
+#EXTINF:-1,La Z101 Fm
+https://streaming.z101digital.com/z101?cb=1779372229211
 #EXTINF:-1,Lago FM - Brutalmente Joven
 https://cast6.asurahosting.com/proxy/deivy/stream
 #EXTINF:-1,Latina 104
@@ -110,7 +112,7 @@ https://radio.dominiserver.com/proxy/latina104?mp=/stream
 #EXTINF:-1,Los 40 República Dominicana
 https://stream.zeno.fm/sse58hcighnvv?dist=los40-web-live_streaming_play
 #EXTINF:-1,MC Anime Radio
-https://cast.mcanimeradio.com/listen/mcradio/radio.mp3
+https://cast.mcanimeradio.com/hls/mcradio/live.m3u8
 #EXTINF:-1,Misionera FM
 https://stream.zeno.fm/vget1nz0czxvv
 #EXTINF:-1,Miss 104 FM

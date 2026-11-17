@@ -1,35 +1,35 @@
 # 流媒体源检测报告
 
-生成时间: 2026-11-16 09:19:17 UTC
-耗时: 34.9 分钟
+生成时间: 2026-11-17 10:27:15 UTC
+耗时: 36.0 分钟
 
 ## 摘要
-- 电视源总数: **11487**
-- 电视有效源 (含 CORS): **726**
-- 电视因 CORS 被拦截: 78
-- 电台总数: **52825**
-- 电台有效源: **50670**
+- 电视源总数: **11543**
+- 电视有效源 (含 CORS): **733**
+- 电视因 CORS 被拦截: 76
+- 电台总数: **52822**
+- 电台有效源: **50756**
 
 ## 电视按分类统计 (Top 20)
 | 分类 | 数量 | 文件 |
 | :--- | ---: | :--- |
-| General | 155 | `tv_general.m3u` |
-| Undefined | 78 | `tv_undefined.m3u` |
-| News | 67 | `tv_news.m3u` |
-| Music | 65 | `tv_music.m3u` |
-| Movies | 47 | `tv_movies.m3u` |
-| Entertainment | 44 | `tv_entertainment.m3u` |
-| Sports | 43 | `tv_sports.m3u` |
+| General | 161 | `tv_general.m3u` |
+| Undefined | 80 | `tv_undefined.m3u` |
+| News | 66 | `tv_news.m3u` |
+| Music | 64 | `tv_music.m3u` |
+| Movies | 48 | `tv_movies.m3u` |
+| Sports | 44 | `tv_sports.m3u` |
+| Entertainment | 42 | `tv_entertainment.m3u` |
 | Religious | 30 | `tv_religious.m3u` |
-| Series | 29 | `tv_series.m3u` |
+| Series | 28 | `tv_series.m3u` |
 | Documentary | 19 | `tv_documentary.m3u` |
 | Kids | 17 | `tv_kids.m3u` |
-| Animation;Kids | 14 | `tv_animation_kids.m3u` |
-| Lifestyle | 11 | `tv_lifestyle.m3u` |
+| Animation;Kids | 15 | `tv_animation_kids.m3u` |
+| Lifestyle | 12 | `tv_lifestyle.m3u` |
 | Business | 10 | `tv_business.m3u` |
 | Outdoor | 9 | `tv_outdoor.m3u` |
 | Culture | 8 | `tv_culture.m3u` |
-| Education | 6 | `tv_education.m3u` |
+| Education | 7 | `tv_education.m3u` |
 | General;Public | 6 | `tv_general_public.m3u` |
 | Shop | 5 | `tv_shop.m3u` |
 | Auto | 5 | `tv_auto.m3u` |
@@ -37,26 +37,26 @@
 ## 电台按分类统计 (Top 20)
 | 分类 | 数量 | 文件 |
 | :--- | ---: | :--- |
-| US | 6792 | `radio_us.m3u` |
-| DE | 5317 | `radio_de.m3u` |
-| FR | 2748 | `radio_fr.m3u` |
-| RU | 2357 | `radio_ru.m3u` |
-| CN | 1940 | `radio_cn.m3u` |
+| US | 6759 | `radio_us.m3u` |
+| DE | 5391 | `radio_de.m3u` |
+| FR | 2756 | `radio_fr.m3u` |
+| RU | 2321 | `radio_ru.m3u` |
+| CN | 1930 | `radio_cn.m3u` |
 | GB | 1870 | `radio_gb.m3u` |
-| GR | 1847 | `radio_gr.m3u` |
-| AU | 1570 | `radio_au.m3u` |
-| IT | 1555 | `radio_it.m3u` |
-| MX | 1499 | `radio_mx.m3u` |
-| BR | 1355 | `radio_br.m3u` |
-| CA | 1299 | `radio_ca.m3u` |
-| ES | 1164 | `radio_es.m3u` |
-| NL | 1134 | `radio_nl.m3u` |
-| General | 1079 | `radio_general.m3u` |
-| AR | 924 | `radio_ar.m3u` |
-| PL | 851 | `radio_pl.m3u` |
-| RO | 809 | `radio_ro.m3u` |
-| IN | 713 | `radio_in.m3u` |
-| TR | 648 | `radio_tr.m3u` |
+| GR | 1846 | `radio_gr.m3u` |
+| IT | 1546 | `radio_it.m3u` |
+| AU | 1544 | `radio_au.m3u` |
+| MX | 1511 | `radio_mx.m3u` |
+| BR | 1383 | `radio_br.m3u` |
+| CA | 1304 | `radio_ca.m3u` |
+| ES | 1170 | `radio_es.m3u` |
+| NL | 1133 | `radio_nl.m3u` |
+| General | 1047 | `radio_general.m3u` |
+| AR | 934 | `radio_ar.m3u` |
+| PL | 855 | `radio_pl.m3u` |
+| RO | 770 | `radio_ro.m3u` |
+| IN | 717 | `radio_in.m3u` |
+| PH | 666 | `radio_ph.m3u` |
 
 ## 电视源详细结果 (前 50 条)
 | 频道 | 状态 | 原因 | UA |
@@ -100,7 +100,7 @@
 | 3sat | ❌ | No segments | - |
 | 3 Stones TV (240p) [ | ❌ | Playlist HTTP 404 | - |
 | 4 Afghanistan | ❌ | No segments | - |
-| 4Dmas Noticias TV (1 | ❌ | Playlist HTTP 404 | - |
+| 4Dmas Noticias TV (1 | ❌ | No segments | - |
 | 4E (1080p) | ❌ | No segments | - |
 | 4ever Cinema (1080p) | ❌ | No segments | - |
 | 4ever Drama (1080p) | ❌ | No segments | - |

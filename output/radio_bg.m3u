@@ -199,6 +199,8 @@ http://77.76.184.254:8000/tx320
 https://live.hothitsfm.com/stream
 #EXTINF:-1,House Music Radio
 https://home.radionrg.com/hls/housemusic/live.m3u8
+#EXTINF:-1,Interhit
+https://play.123castbg.eu:18425/stream
 #EXTINF:-1,Internacional 1
 https://play-radio0.jump.bg:7598/;
 #EXTINF:-1,Jazz FM - Sofia
@@ -351,12 +353,8 @@ http://79.98.108.170:8078/autodj
 http://a1.virtualradio.eu:8000/family.mp3
 #EXTINF:-1,Radio Favorit
 http://79.98.108.170:8235/stream
-#EXTINF:-1,Radio FM+
-http://31.13.223.148:8000/fmplus.ogg
 #EXTINF:-1,Radio Focus
 http://213.91.195.242:2524/stream
-#EXTINF:-1,Radio Fresh
-http://31.13.223.148:8000/fresh.ogg
 #EXTINF:-1,Radio Fresh -Ruse 93,6 FM
 https://streamer2.atlantis.bg:8443/fresh
 #EXTINF:-1,Radio Fresh!
@@ -611,6 +609,8 @@ http://79.98.108.170:8059/stream
 https://xn--80abuj1a.xn--90ae/live-radio
 #EXTINF:-1,Радио Севтополис
 https://radio.jump.bg/proxy/radio123/
+#EXTINF:-1,Радио Фокус Русе 99.7 FM
+https://focusradio.dataserv.cc/1
 #EXTINF:-1,Радио Фолк 91.5
 https://radio.comnet.bg:12301/radio-folk.mp3
 #EXTINF:-1,Радио Хоро

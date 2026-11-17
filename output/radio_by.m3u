@@ -23,6 +23,10 @@ http://live.humorfm.by:8000/veseloe
 https://icecast.lider-fm.by/liderfm
 #EXTINF:-1,MFM Belarus
 https://radio.105fm.by/radio.105.0mfm
+#EXTINF:-1,Pilot FM
+https://edge2.usp.unistar.by/hls/unistar_pilotfm/96k.m3u8?session_id=60c1fba2-77d4-4180-ab07-4f162b47f3fc
+#EXTINF:-1,Pylot FM
+https://edge1.usp.unistar.by/hls/unistar_pilotfm/96k.m3u8?session_id=mvmo6b6w-rxbyqldtul
 #EXTINF:-1,Radio Alesia
 http://hls.alesia.live/alesia/aac_hifi.m3u8
 #EXTINF:-1,Radio Alesia
@@ -35,6 +39,8 @@ https://strw3.openstream.co/344?aw_0_1st.collectionid%3D7411%26stationId%3D7411%
 https://radio.rossard.eu/listen/radio_r/radio.aac
 #EXTINF:-1,Radio ROKS
 https://stream.roks.com:8443/live256
+#EXTINF:-1,Radio Unistar 
+https://edge2.usp.unistar.by/hls/unistar_main/96k.m3u8
 #EXTINF:-1,Radius FM
 https://stream2.datacenter.by/radiusfm_main
 #EXTINF:-1,Retro Belarus

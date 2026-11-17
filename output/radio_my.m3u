@@ -79,8 +79,6 @@ https://stream.rcs.revma.com/3930238mtd3vv/hls.m3u8
 http://playerservices.streamtheworld.com/api/livestream-redirect/LANGKAWI_FM.mp3
 #EXTINF:-1,LITE FM Malaysia
 https://stream.rcs.revma.com/bn4ex8sbv4uvv
-#EXTINF:-1,LTFM Radio
-http://live.ltfmonline.com:8000/stream
 #EXTINF:-1,LTR FM Radio Music
 https://stream.zeno.fm/p1ddt1trwchvv
 #EXTINF:-1,Melody FM

@@ -121,6 +121,8 @@ http://stream.pulsfm.se:8908/stream
 https://streaming.943.se/radio88dans
 #EXTINF:-1,Radio 94,3
 https://stream.radio943.se/stream
+#EXTINF:-1,Radio Aftonbladet
+https://abtvlive-lh.akamaized.net/hls/live/msl5/20001068/ab/radio/master.m3u8
 #EXTINF:-1,Radio Båstad
 https://audio-edge-5r6yd.cdg.o.radiomast.io/0cf89221-143e-4e91-8c1a-3668a99404ac
 #EXTINF:-1,Radio bubb.la
@@ -205,6 +207,8 @@ https://ljud1-cdn.sr.se/lc/p4malm.m3u8
 https://live1.sr.se/p4sth-aac-32
 #EXTINF:-1,Stocholm Närradio FM 95.3
 http://live.narradio.se:8020/;stream.mp3
+#EXTINF:-1,Stockholm FM 101,1 Sweden
+http://radiostreamone.mine.nu/18020
 #EXTINF:-1,Stockholm Närradio FM 101.1
 http://live.narradio.se:8030/;stream.mp3
 #EXTINF:-1,Stockholm Närradio FM 88.0
