@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1,12tv (720p)
-https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8
-#EXTINF:-1,50 Canale
+#EXTINF:-1,12tv (1080p)
+https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8
+#EXTINF:-1,50 Canale (720p)
 https://load-balancer.azotosolutions.com/cdnedge37/canale50/playlist.m3u8
 #EXTINF:-1,ABC KITV (720p)
 https://fuel-streaming-prod01.fuelmedia.io/v1/sem/c4067ddc-0e67-4928-b7ec-624481f721a6.m3u8
@@ -20,7 +20,7 @@ https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8
 #EXTINF:-1,Altas TV (1080p)
 https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8
 #EXTINF:-1,America Internacional (720p)
-https://api-ott.americatv.com.pe/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=whaletv&tag_id=139913&app_name=Whale+TV%2B&app_store=Browser&ic=IAB1&url=&wtv_channel_id=0470&content_id=&content_genre=News&content_title=&content_series=&content_season=&content_episode=&language=&dur=&rating=12%2B&content_producer_name=OTTera_AmericaTV_AmericaTelevision&content_categories=IAB19-29%2CIAB12&content_custom_1_param=OTTera&content_custom_2_param=F%2CM&content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54%2C55-59&tv_language=&device_make=&tv_vendor=&brand_name=&device_model=&tv_model=&gdpr=1&gdpr_consent=&did=&ua=&ip=&dnt=&lmt=&coppa=0&us_privacy=1YNN&min_dur=5&max_dur=30&cb=&h=&w=&content_livestream=1&placement=1&ap=1&mute=0&skip=0&ads.gdpr=0
+https://api-ott.americatv.com.pe/loggingmediaurlpassthrough/a.m3u8?ads.gdpr=0&ap=1&app_name=Whale+TV%2B&app_store=Browser&brand_name=&cb=&content_categories=IAB19-29%2CIAB12&content_custom_1_param=OTTera&content_custom_2_param=F%2CM&content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54%2C55-59&content_episode=&content_genre=News&content_id=&content_livestream=1&content_producer_name=OTTera_AmericaTV_AmericaTelevision&content_season=&content_series=&content_title=&coppa=0&device_make=&device_model=&did=&dnt=&dur=&gdpr=1&gdpr_consent=&h=&ic=IAB1&id=10&ip=&language=&lmt=&max_dur=30&min_dur=5&mute=0&partner=whaletv&placement=1&rating=12%2B&skip=0&tag_id=139913&tv_language=&tv_model=&tv_vendor=&ua=&url=&us_privacy=1YNN&version=12&w=&wtv_channel_id=0470
 #EXTINF:-1,Antofagasta TV (1080p)
 https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
 #EXTINF:-1,AT5
@@ -33,7 +33,7 @@ https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/playlist.m3u8
 #EXTINF:-1,Belarus-1 HD (1080p)
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
-#EXTINF:-1,Belarus-4 Gomel
+#EXTINF:-1,Belarus-4 Gomel (1080p)
 https://live.dc.beltelecom.by/trkgomel/trkgomel.stream/playlist.m3u8
 #EXTINF:-1,Belarus-4 Vitebsk (1080p)
 https://ngtrk.dc.beltelecom.by/vtv/bt4.stream/playlist.m3u8
@@ -73,8 +73,6 @@ https://calm-forest-3478.cristianbracho904.workers.dev/live/index.m3u8
 http://190.61.47.54:8000/play/a00v/index.m3u8
 #EXTINF:-1,Canal RCN (1080p)
 http://38.134.250.110:8000/play/a00i/index.m3u8
-#EXTINF:-1,Caracol HD2 (1080p)
-http://181.78.14.26:4000/play/a00d/index.m3u8
 #EXTINF:-1,Caracol Internacional (1080p)
 http://45.5.117.57:8200/play/a0e9/index.m3u8
 #EXTINF:-1,Cay TV (720p)
@@ -93,8 +91,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-on
 http://187.245.231.226:8000/play/a0ss/index.m3u8
 #EXTINF:-1,Comercio TV (1080p)
 http://45.70.201.81:8000/play/a014/index.m3u8
-#EXTINF:-1,Cooperativa (720p)
-https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
 #EXTINF:-1,Decima TV (720p)
 https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8
 #EXTINF:-1,Distrito TV (1080p)
@@ -171,8 +167,6 @@ https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
 #EXTINF:-1,La Metro TV (1080p)
 https://jireh-8-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8
-#EXTINF:-1,Latele (1080p)
-http://190.128.214.97:64333/play/a03i/index.m3u8
 #EXTINF:-1,Latina Podcast (720p)
 https://redirector.rudo.video/hls-video/plus226/latina4/latina4.smil/playlist.m3u8
 #EXTINF:-1,Line TV (720p) [Not 24/7]
@@ -183,8 +177,6 @@ http://777905.live.tvstitch.com/stream.m3u8?channel=431&m=aHR0cHM6Ly9obHMtY2RuMS
 https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
 #EXTINF:-1,MNT WFLD (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8
-#EXTINF:-1,Monumental TV (1080p)
-http://190.128.214.97:64333/play/a046/index.m3u8
 #EXTINF:-1,MTurk TV (1080p)
 https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
 #EXTINF:-1,NBC KRIS-TV (1080p)
@@ -221,28 +213,22 @@ https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
 http://45.170.130.224:8000/play/a032/index.m3u8?hls
 #EXTINF:-1,Polsat 1 [Not 24/7]
 https://kotmruk.github.io/polish-potato/polsat1.m3u8
-#EXTINF:-1,Raajje TV
-https://raajjetv.yarr-myn.workers.dev/RaajjeTv.m3u8
 #EXTINF:-1,Radio Sines (720p) [Geo-blocked]
 https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8
 #EXTINF:-1,Radio y Television Marti (720p)
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
 #EXTINF:-1,Rapid TV (480p)
 https://stream-hls.castr-cdn.com/6a05a899db0ebd344a759542/live_9655bc604f8211f19e748901a3f596d0/index.m3u8
-#EXTINF:-1,RCN HD2 (1080p)
-http://181.78.14.26:4000/play/a07m/index.m3u8
 #EXTINF:-1,Red Uno (1080p)
 http://190.181.61.93:8000/play/a002/index.m3u8
 #EXTINF:-1,Red Uno La Paz (1080p)
 http://190.181.61.93:8000/play/a003/index.m3u8
-#EXTINF:-1,Regional TV Yaguaron (1080p)
-http://190.128.214.97:64333/play/a05o/index.m3u8
 #EXTINF:-1,RNE para todos (720p)
 https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8
 #EXTINF:-1,RTP (Bolivia) (1080p)
 http://190.181.61.93:8000/play/a00n/index.m3u8
 #EXTINF:-1,Rumbo Minero TV (1080p)
-http://45.70.201.81:8000/play/a018/index.m3u8
+http://38.87.224.19:2220/play/a049/index.m3u8
 #EXTINF:-1,Sozcu TV (1080p)
 https://raw.githubusercontent.com/yaskar661-lgtm/stream/refs/heads/main/filbox/szchd.m3u8
 #EXTINF:-1,STV (Belarus) HD (720p)
@@ -263,8 +249,6 @@ http://158.172.217.18:8000/play/a0ns/index.m3u8
 http://190.61.47.54:8000/play/a015/index.m3u8
 #EXTINF:-1,Telemedellin (1080p)
 http://181.78.82.130:8000/play/a0ru/index.m3u8
-#EXTINF:-1,Telemedios Canal 8 (1080p) [Not 24/7]
-https://hls.tvabierta.net/hls/008.m3u8
 #EXTINF:-1,Telemundo West (720p)
 http://45.5.117.57:8900/play/a058/index.m3u8
 #EXTINF:-1,Telemundo Internacional (1080p)
@@ -277,8 +261,8 @@ http://45.5.57.58:8000/play/a038/index.m3u8
 http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8
 #EXTINF:-1,Trece (Colombia) (1080p)
 http://190.60.46.228:8888/play/a030/index.m3u8
-#EXTINF:-1,TV Aire (1080p)
-http://190.128.214.97:64333/play/a05y/index.m3u8
+#EXTINF:-1,TV1.KG (1080p)
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:-1,TV FANB (576p)
 http://200.59.191.177:8000/play/a0le/index.m3u8
 #EXTINF:-1,TV Peru (1080p)
@@ -287,6 +271,8 @@ http://181.224.200.5:2277/play/a0dx/index.m3u8
 https://jireh-8-hls-video-us-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
 #EXTINF:-1,TVB Vietnam (1080p)
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
+#EXTINF:-1,TVes (1080p)
+http://45.226.205.96:48000/play/a0dn/index.m3u8
 #EXTINF:-1,TVI (720p)
 https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8
 #EXTINF:-1,TVU (1080p)

@@ -53,6 +53,8 @@ https://streamingecuador.net:8287/hcjb
 http://streamingecuador.com:7048/stream
 #EXTINF:-1,JC La Bruja
 http://s7.yesstreaming.net:8040/stream?1655753305283
+#EXTINF:-1,Joya Stereo 97.3 FM
+https://ddycmnicl95kp.cloudfront.net/live/7aqfyti3qfib/master.m3u8
 #EXTINF:-1,Jumbo Deep Radio
 http://stream.zeno.fm/juhqepbmmxqvv
 #EXTINF:-1,La 961 - Suprema estacion
@@ -85,6 +87,8 @@ https://streamingecuador.com:7051/stream
 http://stream.zeno.fm/ech627b6u18uv
 #EXTINF:-1,machdeportes
 https://ss.ecuastreamhd.com:8186/stream
+#EXTINF:-1,Majestad FM 89.7 Quito
+https://revo3.discovr.now/majestadfm.m3u8
 #EXTINF:-1,MANIATICARADIO
 https://a7.asurahosting.com/listen/maniaticaradio/radio.mp3
 #EXTINF:-1,Mega St☆r 
@@ -127,8 +131,6 @@ https://streamingecuador.com:7030/stream?1657848016283
 http://190.57.161.179:8000/stream
 #EXTINF:-1,Radio Andina
 https://grupomundodigital.com:8580/stream
-#EXTINF:-1,RADIO ANTENA SUR 89.5FM (LA SEñAL DE ORO DESDE PONCE ENRIQUEZ(
-https://grupomundodigital.com:8504/antenashd
 #EXTINF:-1,Radio Armonía 100.1 FM
 https://radiohdstreaming.com/radio/8040/armonia
 #EXTINF:-1,Radio Atenas
@@ -149,8 +151,6 @@ https://canelaradio.makrodigital.com/stream/canelaradiocuenca
 https://canelaradio.makrodigital.com/stream/canelaradiochimborazo
 #EXTINF:-1,Radio Canela El Oro 100.7 FM
 https://canelaradio.makrodigital.com/stream/canelaradiomachala
-#EXTINF:-1,Radio Canela Guayas 90.5 FM
-https://canelaradio.makrodigital.com/stream/canelaradioguayaquil
 #EXTINF:-1,Radio Canela Imbabura 92.7 FM
 https://canelaradio.makrodigital.com/stream/canelaradioibarra
 #EXTINF:-1,Radio Canela Manabí 102.5 FM
@@ -169,6 +169,8 @@ https://canelaradio.makrodigital.com/stream/canelaradioquito
 https://streamingecuador.net:9006/stream
 #EXTINF:-1,Radio Carisma
 https://aacplus.rstreaminghd.com:7081/live
+#EXTINF:-1,Radio Centro Quito 97.7 FM
+https://sp.dattavolt.com:7037/stream
 #EXTINF:-1,Radio Complice Fm.
 https://dattavolt.com/8422/stream
 #EXTINF:-1,Radio Disney Ecuador 93.7 FM Guayaquil - Salinas
@@ -243,6 +245,8 @@ https://streamingecuador.net:8078/RadioRumba
 http://5.135.183.124:8153/stream
 #EXTINF:-1,Radio Son De Manta 93.3 FM
 http://grupomundodigital.com:8649/live
+#EXTINF:-1,Radio Sucesos 101.7 FM
+https://icecast.radiosucesos.fm/radiosucesos
 #EXTINF:-1,Radio Sucumbíos 105.3 FM
 http://aler.org:8000/radiosucumbios.mp3
 #EXTINF:-1,Radio Super Sol - 96.3 FM

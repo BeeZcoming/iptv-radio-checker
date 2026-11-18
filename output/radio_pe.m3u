@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Andina Radio
-http://panel.innovatestream.pe:7058/;
 #EXTINF:-1,Antena Rock
 https://stream-176.zeno.fm/nxrzmaij5zouv?zt=
 #EXTINF:-1,Antena Sur 90.3 FM
@@ -31,6 +29,8 @@ https://panel.streamenviron.com:8158/stream.mp3
 https://stream-142.zeno.fm/93kksqvkeg8uv?zs=N9EUqjz8RdOQAaV215SUFg
 #EXTINF:-1,Enzzo Radio
 https://stream.zeno.fm/mvztq1kum18uv
+#EXTINF:-1,Estación 90's Radio.com
+https://radio.ismaplay.com:8084/stream
 #EXTINF:-1,Estacion radio cumbia
 https://stream-155.zeno.fm/q66qxthr0uhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxNjZxeHRocjB1aHZ2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlAxQ2otQXRPUXZ1NE5QTHo4MGs4VGciLCJpYXQiOjE3Mzg3ODUyMTEsImV4cCI6MTczODc4NTI3MX0.OByDpXd4iTYTysGAIQJO63P7ugNbv8OAAXbN8WjhZcY
 #EXTINF:-1,Fama Sur (Tarata)
@@ -145,8 +145,6 @@ https://mdstrm.com/audio/6598b751261d9e088a6deadd/icecast.audio
 http://n06.radiojar.com/2fse67zuv8hvv?1669054401=&rj-tok=AAABhJtuNOUAIi7Le3h5PA-2VA&rj-ttl=5
 #EXTINF:-1,Peru Folk radio
 https://raymistream.net/listen/perufolkradio/live
-#EXTINF:-1,Peruana Radio
-https://cloudstream2036.conectarhosting.com/8352/stream
 #EXTINF:-1,Pop latino retro Radio online 
 https://stream-287.surfernetwork.com/rbpepvx2dxhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyYnBlcHZ4MmR4aHZ2IiwiaG9zdCI6InN0cmVhbS0yODcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InEzVGZBdDRQUlltZTFORlI4M0tWV2ciLCJpYXQiOjE3ODU3MTA2NzgsImV4cCI6MTc4NTcxMDczOH0.sZFfGWcEQbxWlba-2MS-_2UeJ2JteGDWpVakDBOnvwk
 #EXTINF:-1,Progreferon
@@ -169,8 +167,6 @@ https://stream-288.surfernetwork.com/qxsaiqu7pn4tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzd
 https://jml-stream.com/radio/8000/radio.mp3
 #EXTINF:-1,Radio Activa 93.7 FM Jaen
 https://sp.onliveperu.com/8108/stream
-#EXTINF:-1,Radio Alegria - La Rompe
-https://radio.sistemasandinos.org:10974/;stream
 #EXTINF:-1,Radio Amo la Música
 http://stream-179.surfernetwork.com/aqmct15qmchvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhcW1jdDE1cW1jaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkJsSXF2NUNPUnhLUGpicWZXczF5SkEiLCJpYXQiOjE3OTQ5MDc4ODYsImV4cCI6MTc5NDkwNzk0Nn0.OWIPItpUNcgF8QhQXg5d_fbv2rNb8DyvcOUpFxCBO80
 #EXTINF:-1,Radio Andina Tarata
@@ -179,8 +175,6 @@ http://sp.oyotunstream.com:8064/
 https://radio.perustream.com/8014/stream
 #EXTINF:-1,Radio Armonía
 https://radio.sistemasandinos.org:10978/;
-#EXTINF:-1,Radio Armonía Cristiana 94.9 FM (El Sonido Celestial)
-http://eu6.fastcast4u.com:5264/;
 #EXTINF:-1,Radio Baladitas 
 https://stream.zeno.fm/hf2gsfm1mp8uv
 #EXTINF:-1,Radio Bambamarca 1020 AM - Cajamarca, Bambamarca
@@ -247,6 +241,10 @@ https://cast6.asurahosting.com/proxy/solfrecu/stream
 https://sp.onliveperu.com/8128/stream
 #EXTINF:-1,Radio Funky Hits
 https://stream-163.zeno.fm/57h4vyd5pf9uv
+#EXTINF:-1,Radio Girasol
+https://miradioperu.com/8008/stream
+#EXTINF:-1,Radio Girasol Piura
+https://miradioperu.com:7009/
 #EXTINF:-1,Radio Htr Huayno online 
 https://stream-288.surfernetwork.com/66xq9u1d2c9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2NnhxOXUxZDJjOXV2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InY0Sjd5OWpHUXdtWHBrQzd5RFFMeGciLCJpYXQiOjE3ODc1NTE0MjgsImV4cCI6MTc4NzU1MTQ4OH0.LFdjhWu5mwAd7WMF1IAuSsal9I4YN5GPymxI_LWzdUEbS0yODguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InY0Sjd5OWpHUXdtWHBrQzd5RFFMeGciLCJpYXQiOjE3ODc1NTE0MjgsImV4cCI6MTc4NzU1MTQ4OH0.LFdjhWu5mwAd7WMF1IAuSsal9I4YN5GPymxI_LWzdUE
 #EXTINF:-1,Radio Huancayo
@@ -273,6 +271,8 @@ https://shoutcast.tmcreativos.com/proxy/radiokar?mp=/stream
 https://panel.innovatestream.pe:10970/stream
 #EXTINF:-1,Radio La Cheverísima - Utcubamba 
 https://sp.onliveperu.com/8114/stream/;
+#EXTINF:-1,Radio La Gloria Es De Dios
+https://radio101.mjwebexperts.com/8006/stream
 #EXTINF:-1,Radio La Inolvidable
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6839e24cf4eacd81ada4e6b4/playlist.m3u8
 #EXTINF:-1,Radio la inolvidable fm
@@ -285,8 +285,6 @@ https://tupanel.info:7410/stream/;
 http://stream.zeno.fm/8dppgdapxneuv
 #EXTINF:-1,Radio La tremenda
 https://radio.latremenda.pe/X7K9F2M4P8Q1W3R5T6Y
-#EXTINF:-1,Radio La Unika
-https://cloud9.ldwebstudios.net:7011/;
 #EXTINF:-1,Radio La Voz del Nor Oriente - Utcubamba
 https://sp.onliveperu.com:7038/;
 #EXTINF:-1,Radio La Zona Urbana
@@ -297,8 +295,6 @@ https://radio.pjcks.com/9944/stream
 https://stream.zeno.fm/y6uubjcdoopuv
 #EXTINF:-1,Radio Loreto
 https://sp.oyotunstream.com/8006/stream
-#EXTINF:-1,radio los andes 99.5 fm
-https://sonic.dattassd.com:8190/stream
 #EXTINF:-1,Radio Los Angeles - Chepen
 http://94.23.159.187:9950/;
 #EXTINF:-1,Radio Mágica 88.3 FM
@@ -341,6 +337,8 @@ https://stream.zeno.fm/dredth2tsqtuv
 https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio
 #EXTINF:-1,Radio Onda Popular (Juliaca)
 https://dattavolt.com/8278/stream
+#EXTINF:-1,Radio Ondas del Huallaga
+https://cloud9.ldwebstudios.net:7005/;
 #EXTINF:-1,Radio Oxígeno
 https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/live.m3u8
 #EXTINF:-1,Radio Panamericana
@@ -397,8 +395,6 @@ https://radio.blueditor.com/8250/stream;
 https://stream.zeno.fm/wucx5xcgqeruv
 #EXTINF:-1,Radio Techno mix, 90's y más 
 https://servistream.info:8386/stream
-#EXTINF:-1,Radio Titanka - Abancay
-http://servistream.info:8482/stream
 #EXTINF:-1,RADIO TRINIDAD 1070 AM
 https://maximacenterdata.com/8056/stream
 #EXTINF:-1,Radio Tropical Tarapoto

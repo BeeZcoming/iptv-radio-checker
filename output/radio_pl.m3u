@@ -147,8 +147,6 @@ https://stream.24dubstep.pl/listen/dubstep24h/live
 https://ssl-1.radiohost.pl:11250/stream
 #EXTINF:-1,Egida
 https://s3.slotex.pl:7536/;?type=http&nocache=57713
-#EXTINF:-1,El Radio
-http://kazpar.pl:8888/elradio_raw
 #EXTINF:-1,EL-Stacja
 http://radio.el-stacja.pl:8000/elstacja320.ogg
 #EXTINF:-1,EL-Stacja
@@ -211,6 +209,8 @@ https://ic2.smcdn.pl/5380-1.mp3
 https://waw.ic.smcdn.pl/2540-1.aac
 #EXTINF:-1,Eska Szczecin
 http://ic1.smcdn.pl/2260-1.mp3
+#EXTINF:-1,Eska Tarnów
+https://ic1.smcdn.pl/2160-1.mp3
 #EXTINF:-1,Eska zamość 128
 https://ic2.smcdn.pl/2230-1.mp3
 #EXTINF:-1,ESKA2 Szczecin
@@ -761,6 +761,8 @@ https://panel.macabrismix.com.pl/listen/macabris_mix_radio_station_1-2c6_ghz/aut
 http://s1.slotex.pl:7686/stream
 #EXTINF:-1,Radio MagMa
 https://s3.slotex.pl:7180/stream
+#EXTINF:-1,Radio Malbork
+http://stream3.nadaje.com:9022/
 #EXTINF:-1,Radio Mango AI
 https://stream.radiomango.ai/listen/radio_mango_ai/radio.mp3
 #EXTINF:-1,Radio Manhattan
@@ -837,6 +839,8 @@ https://go-audio.toya.net.pl/63214
 http://stream.rcs.revma.com/ypqt40u0x1zuv
 #EXTINF:-1,Radio Nowy Świat 64k
 https://stream.nowyswiat.online/aac
+#EXTINF:-1,RADIO NUTA
+http://stream.rcs.revma.com/0004tehdxzzuv
 #EXTINF:-1,Radio Ocean Dusz
 http://s1.slotex.pl:7022/
 #EXTINF:-1,Radio Odzew
@@ -1163,6 +1167,8 @@ http://radiostream.pl/tuba8928-1.mp3
 https://radiostream.pl/tuba8946-1.mp3
 #EXTINF:-1,Radio Złote Przeboje Białystok
 https://radiostream.pl/tuba8900-1.mp3?cache=1647512038
+#EXTINF:-1,Radio Złote Przeboje Tarnów
+https://radiostream.pl/tuba8928-1.mp3
 #EXTINF:-1,Radio Złote Przeboje Wrocław
 https://radiostream.pl/tuba9-1.mp3
 #EXTINF:-1,Radio Zmysłowe
@@ -1561,7 +1567,7 @@ https://stream10.hosterion.pl:7032/;?v=63125/;type=mp3
 https://s1.slotex.pl:7294/stream/1/
 #EXTINF:-1,Slonskie Radio Hitmix
 http://s1.slotex.pl:7294/
-#EXTINF:-1,SmoothJazz.com.pl
+#EXTINF:-1,SmoothJazz.com.pl 192k aac+
 https://bcast.vigormultimedia.com:48888/sjcompl192aac
 #EXTINF:-1,SmoothJazz.com.pl 320k MP3
 https://bcast.vigormultimedia.com:48888/sjcompl320mp3
@@ -1633,8 +1639,6 @@ http://s01.toksyna.fm:8030/
 https://top80.pl:8000/listen.mp3
 #EXTINF:-1,Trendy Radio
 http://stream.trendyradio.pl:8000/h
-#EXTINF:-1,Trendy Radio Mobile
-https://stream.trendyradio.pl/m
 #EXTINF:-1,Trendy Radio Online
 http://stream.trendyradio.pl:8000/h
 #EXTINF:-1,trip radio

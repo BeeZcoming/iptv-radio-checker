@@ -53,6 +53,10 @@ http://ice4.abradio.cz/coop128.mp3
 http://icecast2.play.cz:8000/country128aac
 #EXTINF:-1,County
 http://icecast4.play.cz/country128.mp3
+#EXTINF:-1,Crazy Rádio
+http://live.topradio.cz:8000/crazy128
+#EXTINF:-1,CrazyRadio.cz
+https://stream.rcast.net/72851
 #EXTINF:-1,ČRo D-dur
 https://rozhlas.stream/ddur.mp3
 #EXTINF:-1,ČRo D-dur HD
@@ -399,6 +403,8 @@ http://icecast1.play.cz/proglas96aac
 http://icecast2.play.cz/proglas128
 #EXTINF:-1,Radio Prostor
 https://bcast.spmmedia.cz/prostor-mp3
+#EXTINF:-1,Radio Relax - Kladno
+https://icecast7.play.cz/relax128.mp3
 #EXTINF:-1,Radio ROCK
 http://ice.abradio.cz/rockradio128.mp3
 #EXTINF:-1,Rádio Samson

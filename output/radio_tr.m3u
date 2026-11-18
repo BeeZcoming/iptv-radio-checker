@@ -307,28 +307,6 @@ https://sslyayin.netyayin.net/elazigezgiradyo/stream/;
 https://live.radyositesihazir.com/1025/stream/
 #EXTINF:-1,fark radyo
 https://farkradyo.ozelip.com.tr:8058/stream
-#EXTINF:-1,Fenomen 2010'lar 256
-https://live.radyofenomen.com/fenomen2010/256/chunks.m3u8
-#EXTINF:-1,Fenomen 256
-https://live.radyofenomen.com/fenomen/256/chunks.m3u8
-#EXTINF:-1,Fenomen Clubbin 256
-https://live.radyofenomen.com/fenomenclubbin/256/chunks.m3u8
-#EXTINF:-1,FENOMEN DANS
-https://live.radyofenomen.com/fenomendans/abr/fenomendans/128/chunks.m3u8
-#EXTINF:-1,Fenomen Dans 256
-https://live.radyofenomen.com/fenomendans/256/chunks.m3u8
-#EXTINF:-1,FENOMEN KARISIK
-https://live.radyofenomen.com/fenomenkarisik/abr/fenomenkarisik/128/chunks.m3u8
-#EXTINF:-1,Fenomen Karışık 256
-https://live.radyofenomen.com/fenomenkarisik/256/chunks.m3u8
-#EXTINF:-1,FENOMEN POP
-https://live.radyofenomen.com/fenomenpop/abr/fenomenpop/128/chunks.m3u8
-#EXTINF:-1,Fenomen Pop 256
-https://live.radyofenomen.com/fenomenpop/256/chunks.m3u8
-#EXTINF:-1,FENOMEN TÜRK
-https://live.radyofenomen.com/fenomenturk/abr/fenomenturk/256/chunks.m3u8
-#EXTINF:-1,Fenomen Türk 256
-https://live.radyofenomen.com/fenomenturk/256/chunks.m3u8
 #EXTINF:-1,FG 93.8 (Future Generation) mp3 128k
 https://edge1.radyotvonline.net/shoutcast/play/fg
 #EXTINF:-1,FIND A CUTİE <3
@@ -399,6 +377,8 @@ https://hayatmix.yayin.com.tr/mp3
 https://live.heartfm.com.tr/listen/heart_fm/128.aac
 #EXTINF:-1,Hedef Radyo
 https://ssldyg.radyotvonline.com/live/hedefradyo.stream/playlist.m3u8
+#EXTINF:-1,Hedgehog Radio
+https://stream.hedgehogradio.com/radio.mp3
 #EXTINF:-1,Hemdem Radyo
 https://yayin.hemdemradyo.com/
 #EXTINF:-1,Hemdem Radyo
@@ -879,8 +859,6 @@ https://dygedge.radyotvonline.net/radyoeksen/playlist.m3u8
 http://eksenwmp.radyotvonline.com/;stream.mp3
 #EXTINF:-1,Radyo EN
 https://yayin2.canliyayin.org:7222/;
-#EXTINF:-1,Radyo Ender
-https://embed.tawk.to/_s/v4/assets/audio/chat_sound.mp3
 #EXTINF:-1,RADYO ENERGY
 https://trkvz-radyolar.ercdn.net/radyoenergy/playlist.m3u8
 #EXTINF:-1,Radyo Esenler
@@ -889,14 +867,6 @@ https://yayin2.canliyayin.org:10978/;
 https://anadolu.liderhost.com.tr:8358/
 #EXTINF:-1,RADYO ESTÜ
 https://ssl120.radyotelekom.com.tr/8024/stream
-#EXTINF:-1,Radyo Fenomen
-https://live.radyofenomen.com/fenomen/128/icecast.audio
-#EXTINF:-1,RADYO FENOMEN 2010 LAR
-https://live.radyofenomen.com/fenomen2010/abr/playlist.m3u8
-#EXTINF:-1,Radyo Fenomen Clubbin
-https://live.radyofenomen.com/fenomenclubbin/128/icecast.audio
-#EXTINF:-1,Radyo Fenomen Dans
-https://live.radyofenomen.com/fenomendans/abr/playlist.m3u8
 #EXTINF:-1,Radyo Fikir
 https://studio21.radiolize.com/radio/8100/radio.mp3?1647021999
 #EXTINF:-1,Radyo Fıtrat
@@ -1077,6 +1047,8 @@ https://radyozile.ozelip.com/8114/stream
 https://stream.radiaura.net/station-ea8ab46e-ae01-4b71-ad9a-fef58665b89c
 #EXTINF:-1,RADYOTÜRK
 https://radyo.yayindakiler.com:4028/
+#EXTINF:-1,Radyovizyon FM 93.0
+https://stream.netradyom.com/radio/9300/radio.mp3
 #EXTINF:-1,RadyoVoyage
 http://voyagesc.radyotvonline.com/
 #EXTINF:-1,RAP HOME
@@ -1268,13 +1240,15 @@ http://29103.live.streamtheworld.com/VIRGIN_RADIO_SC
 #EXTINF:-1,Virgin Radio Türkiye
 http://29103.live.streamtheworld.com/VIRGIN_RADIOAAC_SC
 #EXTINF:-1,Virgin Radio Türkiye
-http://25503.live.streamtheworld.com:3690/VIRGIN_RADIO_SC
+http://19983.live.streamtheworld.com/VIRGIN_RADIO_SC
 #EXTINF:-1,VİRGİN RADYO
 https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIO_ITUNES.mp3
 #EXTINF:-1,Vitamin FM 88.4
 https://ip.vitaminfm.com:8190/stream
 #EXTINF:-1,VİZYON NOSTALJİ
 https://stream.netradyom.com/radio/7090/radio.mp3/;
+#EXTINF:-1,Vizyon Pulse
+https://stream.netradyom.com/radio/7050/radio.mp3
 #EXTINF:-1,WORLD HİTS
 http://37.247.98.8/stream/34/
 #EXTINF:-1,X Radio

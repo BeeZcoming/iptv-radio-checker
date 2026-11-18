@@ -11,8 +11,8 @@ http://ice42.securenetsystems.net/94SUFM
 http://137.184.101.169:8000/radio.mp3
 #EXTINF:-1,Cadena Radial del Centro 89.7 FM
 https://sonic.portalfoxmix.cl/8442/stream
-#EXTINF:-1,Cortes FM 
-https://cortesfm-zikoxweb.radioca.st/stream/1/
+#EXTINF:-1,Dee Jay
+https://stream.zeno.fm/6wpxyt9htg0uv
 #EXTINF:-1,Encuentro Digital 104.3 FM
 https://stream.zeno.fm/n1dn94e661zuv
 #EXTINF:-1,Estereo Clase 92.9 FM
@@ -25,6 +25,8 @@ https://cast.az-streamingserver.com/proxy/estereosur2?mp=/stream
 https://streaming.exclusive.radio/er/gratefuldead/icecast.audio
 #EXTINF:-1,Girasol Stereo 102.3 FM
 https://stream.playerlive.info:8037/live.aac
+#EXTINF:-1,HCH Radio
+https://radio.hch.tv/stream
 #EXTINF:-1,hrn 670 KHz
 https://securestreams7.autopo.st/?uri=http://216.152.154.134/HRN?=hrn670khz
 #EXTINF:-1,HRYW 95.9 Radio Panamericana - Tegucigalpa
@@ -67,6 +69,8 @@ http://26653.live.streamtheworld.com/RADIO_CEIBAAAC_SC
 https://rr5100.globalhost1.com:7328/stream
 #EXTINF:-1,Stereo Exitos 88.1 Tegucigalpa
 http://ice42.securenetsystems.net/EXITOS
+#EXTINF:-1,Stereo Mass - 98.5fm
+https://radio.fiberstreams.com:2000/stream/8432
 #EXTINF:-1,Suave FM 102.5 Tegucigalpa
 http://ice42.securenetsystems.net/SUAVE
 #EXTINF:-1,Super 100 Tegucigalpa 100.1

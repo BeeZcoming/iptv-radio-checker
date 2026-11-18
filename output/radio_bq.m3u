@@ -7,6 +7,8 @@ http://bonfm5.primcast.com:6482/;
 https://proxy1.audiostreamen.nl/clubdedaltons.mp3
 #EXTINF:-1,KISS FM Nederland
 https://stream.kissfm.nl/kissfm
+#EXTINF:-1,Mega Hit FM
+https://megahitfm.krioyohosting.com:1012/stream
 #EXTINF:-1,RTV Purmerend
 http://stream.zxp.nl:8000/radiopurmerend_bb
 #EXTINF:-1,Solid FM 93.1

@@ -207,8 +207,6 @@ https://radio9.pro-fhi.net/flux-endvtlna/stream
 https://radio8.pro-fhi.net/flux-sinllzly/stream
 #EXTINF:-1,Algorythme Radio
 https://radio3.pro-fhi.net/flux-ejzloxke/stream
-#EXTINF:-1,Algorythme UK Garage
-https://ukg.algorythmeradio.com/stream
 #EXTINF:-1,Allzic Africa
 http://allzic49.ice.infomaniak.ch/allzic51.mp3
 #EXTINF:-1,Allzic Classic Piano
@@ -497,6 +495,8 @@ https://stream.rcs.revma.com/uzz0fgg64zcwv
 https://breniges.fr/flux/radio-browser-9df9.mp3
 #EXTINF:-1,Bretagne 5
 http://bretagne5.streamakaci.com/bretagne5.mp3
+#EXTINF:-1,bringthenoise
+https://radio.bringthenoi.se/listen/dj_nocide/default
 #EXTINF:-1,C Lab
 http://stream.c-lab.fr:8001/c-lab
 #EXTINF:-1,C-Lab
@@ -685,8 +685,6 @@ https://streaming.nrjaudio.fm/oumr938fnozc
 https://streaming.nrjaudio.fm/ouh89uapu6pb
 #EXTINF:-1,Chérie FM HD
 https://streaming.nrjaudio.fm/ouuku85n3nje?origine=fluxradios
-#EXTINF:-1,Chérie FM Holidays
-https://streaming.nrjaudio.fm/ou7dirf3s5gi
 #EXTINF:-1,Chérie FM Issoire
 https://streaming.nrjaudio.fm/ouvfwkoarp52
 #EXTINF:-1,Chérie FM Jazzy
@@ -713,8 +711,6 @@ https://streaming.nrjaudio.fm/ougocfrb92oc
 https://streaming.nrjaudio.fm/ousgzkm4z85f
 #EXTINF:-1,Chérie FM Marseille
 https://streaming.nrjaudio.fm/ouy57k36zcw2
-#EXTINF:-1,Chérie FM Martinique
-http://2stream.dyndns.org:8000/cheriefmmq
 #EXTINF:-1,Chérie FM Metz
 https://streaming.nrjaudio.fm/ou5kjbirv93h
 #EXTINF:-1,Chérie FM Montbelliard
@@ -1043,6 +1039,8 @@ http://essentielradioing.streamakaci.com/essentielradio.mp3
 http://cdnradio.streamakaci.com/essentielfr.mp3
 #EXTINF:-1,Est FM
 http://str0.creacast.com/estfm1
+#EXTINF:-1,EURadio
+https://euradio.fr/stream/
 #EXTINF:-1,EuroDance 90 radio
 https://stream-eurodance90.fr/radio/8000/128.mp3?1627933323
 #EXTINF:-1,Europa Radio Jazz HD
@@ -2353,7 +2351,7 @@ https://streams.dez.ovh/listen/chillofi/radio.mp3
 http://kernews.ice.infomaniak.ch:8000/kernews-128.mp3
 #EXTINF:-1,KFM
 http://10191.go2stream.fr:8000/stream
-#EXTINF:-1,KickDrum
+#EXTINF:-1,Kickdrum
 https://kickdrum.internal-server.work/radio.mp3
 #EXTINF:-1,Kif Radio
 http://eagle.streemlion.com:4168/stream
@@ -3289,8 +3287,6 @@ https://streaming.nrjaudio.fm/oujy27nxeb5p
 https://streaming.nrjaudio.fm/ouqufdyoeo8p
 #EXTINF:-1,NRJ Extra Vadance France
 https://streaming.nrjaudio.fm/ousrnpm4z85f?origine=fluxradios&aw_0_1st.station=NRJ-Extravadance
-#EXTINF:-1,NRJ Extravadance Summer Dance
-https://streaming.nrjaudio.fm/ouf274tx4thg
 #EXTINF:-1,NRJ Fan Power
 https://streaming.nrjaudio.fm/ou87u4gk7oiu
 #EXTINF:-1,NRJ Fiesta
@@ -3305,8 +3301,6 @@ https://streaming.nrjaudio.fm/oumvmk8fnozc
 https://streaming.nrjaudio.fm/ou2n9fpw5hs7
 #EXTINF:-1,NRJ Fuego Latino
 https://streaming.nrjaudio.fm/oug75trb92oc
-#EXTINF:-1,NRJ Full Moon Party
-https://streaming.nrjaudio.fm/ou5zuqirv93h
 #EXTINF:-1,NRJ Funky
 https://streaming.nrjaudio.fm/oubqddj25zuw
 #EXTINF:-1,NRJ Futurs Hits 2026
@@ -3461,8 +3455,6 @@ https://streaming.nrjaudio.fm/ouam5dw2dqao
 https://streaming.nrjaudio.fm/oufxwitx4thg
 #EXTINF:-1,NRJ POP
 https://streaming.nrjaudio.fm/oumrai8fnozc?origine=fluxurlradio&aw_0_1st.station=NRJ-Best-Hits-Ever
-#EXTINF:-1,NRJ Pop 2026
-https://streaming.nrjaudio.fm/ouagthw2dqao
 #EXTINF:-1,NRJ Pop Rock
 https://streaming.nrjaudio.fm/ou76jwf3s5gi
 #EXTINF:-1,NRJ Porto-Vecchio
@@ -3531,8 +3523,6 @@ https://streaming.nrjaudio.fm/outd4t6ubafg
 https://streaming.nrjaudio.fm/ouotrj7nfibk
 #EXTINF:-1,NRJ Summer Classics
 https://streaming.nrjaudio.fm/ougf5frb92oc
-#EXTINF:-1,NRJ Summer Hits 2026
-https://streaming.nrjaudio.fm/ougfztrb92oc
 #EXTINF:-1,NRJ Sunset
 https://streaming.nrjaudio.fm/ousv9cm4z85f
 #EXTINF:-1,NRJ Supperstars 2000
@@ -3817,8 +3807,6 @@ https://publichealthradioar.ice.infomaniak.ch/publichealthradioar-128.mp3
 https://publichealthradiode.ice.infomaniak.ch/publichealthradiode-128.mp3
 #EXTINF:-1,Public Health Radio Espanol
 https://publichealthradioes.ice.infomaniak.ch/publichealthradioes-128.mp3
-#EXTINF:-1,Public Health Radio Italiano
-https://publichealthradioit.ice.infomaniak.ch/publichealthradioit-128.mp3
 #EXTINF:-1,Public Health Radio Polish
 https://publichealthradiopl.ice.infomaniak.ch/publichealthradiopl-128.mp3
 #EXTINF:-1,Public Health Radio Portugues
@@ -3858,7 +3846,7 @@ https://icecast.pulsradio.com/mxHD.mp3
 #EXTINF:-1,PulsRadio Hits
 http://193.200.43.23/hitpartyHD.mp3
 #EXTINF:-1,PulsRadio Lounge
-https://icecast.pulsradio.com/relaxHD.mp3
+https://sc7.gergosnet.com/relaxHD.mp3
 #EXTINF:-1,PulsRadio Trance
 https://sc4.gergosnet.com/pulstranceHD.mp3
 #EXTINF:-1,PulsRadio Trance
@@ -4215,6 +4203,10 @@ https://hosting.radiomedia.fr:1615/stream
 https://www.mistercouzin.net/listen
 #EXTINF:-1,Radio Giscard
 http://evodial.fr:8000/radio
+#EXTINF:-1,RADIO GOODLIFE
+https://gestream.fr/g-radio-hd.mp3
+#EXTINF:-1,RADIO GOODLIFE
+https://gestream.fr/g-radio-sd.aac
 #EXTINF:-1,Radio Graf'Hit
 http://109.238.10.2:8000/grafhit.mp3
 #EXTINF:-1,Radio Grand Brive
@@ -4787,16 +4779,14 @@ https://replaynewssport.ice.infomaniak.ch/replaynewssport-128.mp3
 https://replaynewsstory.ice.infomaniak.ch/replaynewsstory-128.mp3
 #EXTINF:-1,Retro Souvenirs Radio
 https://listen.radioking.com/radio/108/stream/890
-#EXTINF:-1,RFI Afrique
-http://live02.rfi.fr/rfiafrique-64.mp3
 #EXTINF:-1,RFI Anglais - English
 http://live02.rfi.fr/rfienanglais-64.mp3
-#EXTINF:-1,RFI Monde
-http://live02.rfi.fr/rfimonde-64.mp3
 #EXTINF:-1,RFI Musique
 http://live02.rfi.fr/rfimusiquemonde-64k.mp3
 #EXTINF:-1,RFI Musique
 http://live02.rfi.fr/rfimusiquemonde-96k.mp3
+#EXTINF:-1,RFI Persian
+http://live02.rfi.fr/rfienpersan-64k.mp3
 #EXTINF:-1,RFI Portugais
 https://rfienportugais64k.ice.infomaniak.ch/rfienportugais-64.mp3
 #EXTINF:-1,RFI Russe

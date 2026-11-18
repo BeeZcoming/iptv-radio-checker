@@ -56,7 +56,7 @@ http://online.hitfm.ua/HitFM_Top
 #EXTINF:-1,Holos.FM
 http://holos.fm:8000/holos
 #EXTINF:-1,Hotswinki
-https://stream.laut.fm/hotswinki
+https://hotswinki.stream.laut.fm/hotswinki?uuid=707b0458-303e-131d-6859-86d2dbf40264&t302=2026-11-17_17-13-58
 #EXTINF:-1,Hromadske Radio
 http://91.218.212.67:8000/stream
 #EXTINF:-1,Informator FM
@@ -241,6 +241,8 @@ http://stream.zeno.fm/71ntub27u18uv
 https://sahaj.radio.fm/bhajans.mp3
 #EXTINF:-1,Segenswelle Ukrainisch
 http://www.segenswelle.de:8000/ukrainisch
+#EXTINF:-1,Sevastopol 102.0 FM
+http://air.volna.top/SFM
 #EXTINF:-1,Seven Rays - 7rays
 http://7rays.stream.laut.fm/7rays
 #EXTINF:-1,Smart Zeros 
@@ -259,8 +261,6 @@ https://stream320.galychyna.fm/WebSite
 http://uk2.internet-radio.com:8121/stream
 #EXTINF:-1,The West Pole Radio
 https://online.z-polus.info/hq
-#EXTINF:-1,Tik Tok Hits
-http://stream.europeanhitradio.com:8000/Stream_38.mp3
 #EXTINF:-1,TRANCE IS STAR RADIO
 https://myradio24.org/tisradio
 #EXTINF:-1,Trans World Radio Ukraine
@@ -277,6 +277,8 @@ https://listen7.myradio24.com/ulyublene
 https://streamer.radio.co/sdff2fd6a8/listen
 #EXTINF:-1,VsemirnoeOdesscoeRadio
 https://listen1.myradio24.com/odesradio
+#EXTINF:-1,Wolf Music Radio
+https://a3.asurahosting.com/listen/wolf_music_radio/radio.mp3
 #EXTINF:-1,Worship
 https://radio.dobreff.com/worship.mp3
 #EXTINF:-1,X Radio
@@ -357,6 +359,8 @@ http://online.melodiafm.ua/MelodiaFM_Disco_Live
 http://online.melodiafm.ua/MelodiaFM_Romantic_Live
 #EXTINF:-1,Мелодія Int
 http://online.melodiafm.ua/MelodiaFM_Int_Live
+#EXTINF:-1,На своїй хвилі Новодністровськ
+https://online-novodnistrovsk.pp.ua:8443/playHD
 #EXTINF:-1,навала
 http://listen1.myradio24.com/9857
 #EXTINF:-1,Надвірна FM
@@ -465,6 +469,8 @@ https://cast.mediaonline.net.ua/radiopyatnica320
 https://live.radio1.com.ua/liveradio64
 #EXTINF:-1,Радіо Промінь / Radio Promin
 http://radio.ukr.radio:8000/ur2-mp3
+#EXTINF:-1,Радіо ПТРК
+https://service.ptrk.tv:8443/PTRK
 #EXTINF:-1,Радіо РАІ
 https://radio.rai.ua:9000/rai
 #EXTINF:-1,Радіо С4

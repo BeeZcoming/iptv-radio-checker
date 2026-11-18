@@ -53,6 +53,8 @@ https://tigocloud.desdeparaguay.net/mov1330/mov1330.stream/chunklist_w1397196983
 https://radio.host.com.py/9572/stream
 #EXTINF:-1,Radio Conquistador 89.1 FM
 https://tigocloud.desdeparaguay.net/movconquistador/movconquistador.stream/chunklist_w1215257311.m3u8
+#EXTINF:-1,Radio Digital 88.5 Fm Paraguay 
+http://streaming.camaronhosting.com:8036/
 #EXTINF:-1,Radio Disney Paraguay FM 96.5
 https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_PAR_ASAAC.m3u8?dist=web-radiodisney
 #EXTINF:-1,Radio Estación 40 91.1 FM
@@ -91,8 +93,6 @@ http://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/62d81cdabff0bc082f8f1a2
 http://stream.zeno.fm/z07vyxbqz8quv
 #EXTINF:-1,Radio Ysapy 90.7 FM
 http://streamsoymedios.com:8014/stream
-#EXTINF:-1,Rock&Pop Paraguay
-https://cp9.serverse.com/proxy/rockandpop/stream
 #EXTINF:-1,Sin Fronteras 98.5 FM
 http://tigocloud.desdeparaguay.net/movsinfronteras/movsinfronteras.stream/playlist.m3u8
 #EXTINF:-1,super radio

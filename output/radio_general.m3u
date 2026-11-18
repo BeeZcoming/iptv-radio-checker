@@ -117,26 +117,10 @@ http://streams.80s80s.de/party/mp3-192/streams.80s80s.de/
 http://regiocast.streamabc.net/regc-80s80sevent014441101-mp3-128-1407618?sABC=6nsp0058%230%236q8s7o7o3p7411o9n0871834qs5r90so%23fgernzf.80f80f.qr&aw_0_1st.playerid=streams.80s80s.de&amsparams=playerid:streams.80s80s.de;skey:1794900056
 #EXTINF:-1,80s80s Depeche mode
 http://regiocast.streamabc.net/regc-80s80sdm4383853-mp3-192-4947593?sABC=6nso8sp8%230%236q8s7o7o3p7411o9n0871834qs5r90so%23fgernzf.80f80f.qr&aw_0_1st.playerid=streams.80s80s.de&amsparams=playerid:streams.80s80s.de;skey:1794871240
+#EXTINF:-1,80s80s Wave
+http://streams.80s80s.de/wave/mp3-192/streams.80s80s.de/
 #EXTINF:-1,89.0 RTL
 https://stream.89.0rtl.de/live/mp3-128/surfmusik/
-#EXTINF:-1,89.0 RTL - 2000er
-http://stream.89.0rtl.de/2000er/mp3-256
-#EXTINF:-1,89.0 RTL - Chill Zone
-http://stream.89.0rtl.de/chill-zone/mp3-256
-#EXTINF:-1,89.0 RTL - Christmas
-http://stream.89.0rtl.de/christmas/mp3-256
-#EXTINF:-1,89.0 RTL - Club-EDM
-http://stream.89.0rtl.de/club-edm/mp3-256
-#EXTINF:-1,89.0 RTL - Deutsch Rap
-http://stream.89.0rtl.de/deutsch-rap/mp3-256
-#EXTINF:-1,89.0 RTL - Workout
-http://stream.89.0rtl.de/workout/mp3-256
-#EXTINF:-1,90s90s Clubhits
-http://regiocast.streamabc.net/regc-90s90smain4920117-aacplus-64-9187460?sABC=6nsorn95%230%236q8s7o7o3p7411o9n0871834qs5r90so%23fgernzf.90f90f.qr&aw_0_1st.playerid=streams.90s90s.de&amsparams=playerid:streams.90s90s.de;skey:1794894485
-#EXTINF:-1,90s90s Dance
-http://regiocast.streamabc.net/regc-90s90seurodance7558633-mp3-192-3419489?sABC=6nsos856%230%236q8s7o7o3p7411o9n0871834qs5r90so%23fgernzf.90f90f.qr&aw_0_1st.playerid=streams.90s90s.de&amsparams=playerid:streams.90s90s.de;skey:1794898006
-#EXTINF:-1,90s90s Sommerhits
-http://regiocast.streamabc.net/regc-90s90ssommerhits7739935-mp3-192-4515340?sABC=6nsp1sor%230%236q8s7o7o3p7411o9n0871834qs5r90so%23fgernzf.90f90f.qr&aw_0_1st.playerid=streams.90s90s.de&amsparams=playerid:streams.90s90s.de;skey:1794908094
 #EXTINF:-1,92.9 Radio Muelheim
 https://edge07.streamonkey.net/wf-radiomuelheim
 #EXTINF:-1,94,3 rs2 2000er
@@ -456,11 +440,17 @@ http://streams.bigfm.de/bigfm-sunsetlounge-64-aac
 #EXTINF:-1,BigFM Sunset Lounge
 http://streams.bigfm.de/bigfm-sunsetlounge-128-aac
 #EXTINF:-1,bigFM Urban Club Beats
+http://streams.bigfm.de/bigfm-urbanclubbeats-128-mp3
+#EXTINF:-1,bigFM Urban Club Beats
 http://streams.bigfm.de/bigfm-urbanclubbeats-128-aac
 #EXTINF:-1,bigFM Urban Club Beats
 http://streams.bigfm.de/bigfm-urbanclubbeats-64-aac
 #EXTINF:-1,bigFM US Rap
 http://streams.bigfm.de/bigfm-usrap-128-aac
+#EXTINF:-1,bigFM Worldbeats
+http://streams.bigfm.de/bigfm-worldbeats-64-aac
+#EXTINF:-1,bigFM Worldbeats
+http://streams.bigfm.de/bigfm-worldbeats-128-mp3
 #EXTINF:-1,Bizwebradio
 http://us1.streamingpulse.com:7104/stream
 #EXTINF:-1,BMRADIO.DE - 24/7 The finest in Black Music
@@ -1393,6 +1383,22 @@ http://regiocast.streamabc.net/regc-radiobobsouthernrock8560476-mp3-192-3976810?
 http://stream.laut.fm/radio_boogie-woogie
 #EXTINF:-1,Radio Brent
 https://patmos.cdnstream.com/proxy/radiobre/?mp=/stream
+#EXTINF:-1,Radio Brocken - 90er
+http://stream.radiobrocken.de/90er/mp3-256
+#EXTINF:-1,Radio Brocken - Best of
+http://stream.radiobrocken.de/bestof/mp3-256
+#EXTINF:-1,Radio Brocken - Chart-Hits
+http://stream.radiobrocken.de/chart-hits/mp3-256
+#EXTINF:-1,Radio Brocken - Kinderzeit
+http://stream.radiobrocken.de/kinderzeit/mp3-256
+#EXTINF:-1,Radio Brocken - Lovesongs
+http://stream.radiobrocken.de/love/mp3-256
+#EXTINF:-1,Radio Brocken - Osthits
+http://stream.radiobrocken.de/osthits/mp3-256
+#EXTINF:-1,Radio Brocken - Ü30 Partymix
+http://stream.radiobrocken.de/partymix/mp3-256
+#EXTINF:-1,Radio Brocken - Weihnachtsradio
+http://stream.radiobrocken.de/weihnachtsradio/mp3-256
 #EXTINF:-1,Radio C
 http://online.radioc.ru:8000/radioc
 #EXTINF:-1,Radio Caprice - Big Bands
@@ -1425,8 +1431,6 @@ http://sc2.radiocaroline.net:10558/
 http://sc2.radiocaroline.net:8000/;stream.mp3
 #EXTINF:-1,Radio centras
 https://transliacija.rc.lt/rc128.mp3
-#EXTINF:-1,Radio Centro Campania 
-https://eu7.fastcast4u.com/proxy/rcc0?mp=/1
 #EXTINF:-1,Radio Corax
 http://streaming.fueralle.org:8000/corax_256.mp3
 #EXTINF:-1,Radio DarkFire
@@ -1749,6 +1753,8 @@ https://listen.reyfm.de/raproyal_192kbps.mp3
 https://listen.reyfm.de/usrap_192kbps.mp3
 #EXTINF:-1,rfi
 http://live02.rfi.fr/rfimonde-32.mp3
+#EXTINF:-1,RFI Monde
+http://live02.rfi.fr/rfimonde-96k.mp3
 #EXTINF:-1,Rijnmond
 https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-mp3
 #EXTINF:-1,RMF 2 Pop
@@ -1813,6 +1819,8 @@ http://streams.rpr1.de/rpr-trier-64-aac
 https://listen.radioking.com/radio/230044/stream/273727
 #EXTINF:-1,RSA-Sachsen
 http://streams.rsa-sachsen.de/rsa-live/mp3-192/mediaplayerrsa
+#EXTINF:-1,RSH Live
+http://streams.rsh.de/rsh-live/mp3-128/streams.rsh.de
 #EXTINF:-1,RTL -  Deutschlands Hit-Radio
 https://stream.rtlradio.de/rtl-de-national/mp3-128/surfmusikDE/
 #EXTINF:-1,RTL - Deutschlands Hit-Radio
@@ -1843,6 +1851,26 @@ http://stream.laut.fm/satzentrale-deluxe
 http://stream.laut.fm/schallgrenzen
 #EXTINF:-1,Schattenspiel
 http://stream.laut.fm/schattenspiel
+#EXTINF:-1,SchlagerPlanet - 100% Best Of Karneval
+http://streams.schlagerplanetradio.com/karneval/mp3-192
+#EXTINF:-1,SchlagerPlanet - 100% Deutsch
+http://streams.schlagerplanetradio.com/deutsch/mp3-192
+#EXTINF:-1,SchlagerPlanet - 100% Roland Kaiser
+http://streams.schlagerplanetradio.com/kaiser/mp3-192
+#EXTINF:-1,SchlagerPlanet - 100% Schlager
+http://streams.schlagerplanetradio.com/schlager/mp3-192
+#EXTINF:-1,SchlagerPlanet - 100% Volksmusik
+http://streams.schlagerplanetradio.com/volksmusik/mp3-192
+#EXTINF:-1,SchlagerPlanet Radio - 100 % Best Of 2017
+http://streams.schlagerplanetradio.com/best16/mp3-192
+#EXTINF:-1,SchlagerPlanet Radio - 100% Andrea Berg
+http://streams.schlagerplanetradio.com/andrea/mp3-192
+#EXTINF:-1,SchlagerPlanet Radio - 100% Partyschlager
+http://streams.schlagerplanetradio.com/partyschlager/mp3-192
+#EXTINF:-1,SchlagerPlanet Radio - 100% Weihnachtsschlager
+http://streams.schlagerplanetradio.com/weihnachten/mp3-192
+#EXTINF:-1,SchlagerPlanet Radio - 100%Helene Fischer
+http://streams.schlagerplanetradio.com/hf/mp3-192
 #EXTINF:-1,Schranz.in
 http://schranz.in:8000/;stream/1
 #EXTINF:-1,Schranz.in - Hardtechno
@@ -1937,6 +1965,8 @@ http://svobodneradio.radioca.st:8859/;
 http://kmeathosting.com:8000/kymo2
 #EXTINF:-1,Tango Nuevo
 http://tango-nuevo.stream.laut.fm/tango-nuevo?t302=2026-11-17_00-53-44&uuid=7067ca1a-9973-4828-27e1-d44924d3b26a
+#EXTINF:-1,tequila fm
+http://necenzurat.radiotequila.ro:7000/stream
 #EXTINF:-1,Texas Blues - Radio Caprice
 http://79.111.14.76:8004/texasblues
 #EXTINF:-1,TF6

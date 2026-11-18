@@ -303,6 +303,10 @@ https://mcp1.mydataknox.com:8006/stream
 https://onlineradiobox.com/json/hr/bnm/play?platform=web
 #EXTINF:-1,Radio Boom Hits
 https://stream.zeno.fm/7n7hwy8s9k0uv
+#EXTINF:-1,Radio Brac
+http://s8.iqstreaming.com:8066/stream
+#EXTINF:-1,Radio Brac
+http://s8.iqstreaming.com:8066/stream
 #EXTINF:-1,Radio Centar - Studio Poreč
 http://radiocentar.hr:8282/stream.aac
 #EXTINF:-1,Radio Centar Studio Poreč

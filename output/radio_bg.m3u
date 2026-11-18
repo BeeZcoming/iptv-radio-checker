@@ -353,8 +353,12 @@ http://79.98.108.170:8078/autodj
 http://a1.virtualradio.eu:8000/family.mp3
 #EXTINF:-1,Radio Favorit
 http://79.98.108.170:8235/stream
+#EXTINF:-1,Radio FM+
+http://31.13.223.148:8000/fmplus.ogg
 #EXTINF:-1,Radio Focus
 http://213.91.195.242:2524/stream
+#EXTINF:-1,Radio Fresh
+http://31.13.223.148:8000/fresh.ogg
 #EXTINF:-1,Radio Fresh -Ruse 93,6 FM
 https://streamer2.atlantis.bg:8443/fresh
 #EXTINF:-1,Radio Fresh!
@@ -401,6 +405,8 @@ http://193.108.24.6:8000/melody?file=.mp3
 http://radiometronom.com:8010/
 #EXTINF:-1,Radio Music BG
 http://79.98.108.170:8243/stream
+#EXTINF:-1,Radio NET
+https://icecast.haskovo.net:9443/
 #EXTINF:-1,Radio Nostalgia
 https://sc.mpbnl.nl/radionostalgia.mp3
 #EXTINF:-1,Radio Nova

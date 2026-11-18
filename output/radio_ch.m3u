@@ -499,12 +499,6 @@ https://stream01.3fach.ch/live
 http://stream01.3fach.ch:8001/live
 #EXTINF:-1,Radio Alta
 https://transmiss.ion.ovh/listen/alta/radio.mp3
-#EXTINF:-1,Radio Argovia
-https://stream.streambase.ch/argovia/mp3-192/direct/
-#EXTINF:-1,Radio Argovia
-https://stream.streambase.ch/argovia/mp3-192/radiobrowser/
-#EXTINF:-1,Radio Argovia Hit Mix
-https://stream.streambase.ch/hitmix/mp3-192/direct/
 #EXTINF:-1,Radio Barix AAC
 http://barix.streamguys.net/barix_aacp
 #EXTINF:-1,Radio Basilisk

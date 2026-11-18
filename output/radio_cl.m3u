@@ -109,8 +109,6 @@ http://cityradio.ddns.net:8000/cityradio48flac
 https://sonic.portalfoxmix.club/8012/streamstream
 #EXTINF:-1,Club Dance Chile
 https://audio.bitsur.cl/8002/stream
-#EXTINF:-1,CLUB DANCE CHILE
-https://stream.clubdance.cl/
 #EXTINF:-1,Código Metal Radio
 https://streaming.viphosting.cl/8012/stream
 #EXTINF:-1,Concierto
@@ -181,8 +179,8 @@ https://stream10.usastreams.com/9314/stream
 https://stream10.usastreams.com/9314/stream/
 #EXTINF:-1,En La Noticia Radio 101.1 FM
 http://streaming.chiloestreaming.com:9920/;
-#EXTINF:-1,Estación Latina
-https://video.mediawebchile.com:8004/stream
+#EXTINF:-1,Esperanza FM 90.1 Ancud
+https://streaming.chiloestreaming.com:9654/stream
 #EXTINF:-1,Estilo FM
 https://audio3.tustreaming.cl/7120/stream
 #EXTINF:-1,ESTRELLA DEL MAR
@@ -196,7 +194,7 @@ http://archi-us.digitalproserver.com/femenina.aac
 #EXTINF:-1,Filarmonia Radio
 https://or.mysonicserver.com:8052/stream
 #EXTINF:-1,FM Dos
-http://26683.live.streamtheworld.com/FMDOSAAC_SC
+http://27423.live.streamtheworld.com:3690/FMDOSAAC_SC
 #EXTINF:-1,FM Music
 https://stream.fmmusic.cl/9980/stream
 #EXTINF:-1,FM Okey
@@ -217,6 +215,8 @@ https://audio5.tustreaming.cl/8010/fmmas
 https://live-audio-lite-1.digitalproserver.com/proxy/foreverclassic/foreverclassic
 #EXTINF:-1,Frecuencia Rock 95.3
 http://audio.streaminghd.cl:9206/stream
+#EXTINF:-1,Frecuencia Tropical FM
+https://sonic.portalfoxmix.cl/8236/stream
 #EXTINF:-1,Futuro
 http://24413.live.streamtheworld.com/FUTUROAAC_SC
 #EXTINF:-1,Generación 80s 90s Neltume
@@ -284,15 +284,15 @@ https://radio.libelulachile.cl/listen/rec/radio.mp3
 #EXTINF:-1,Llacolén
 http://sonando.us.digitalproserver.com/radiollacolen.aac
 #EXTINF:-1,Los 40 Principales Chile
-http://24503.live.streamtheworld.com:3690/LOS40_CHILE_SC
+http://24503.live.streamtheworld.com/LOS40_CHILE_SC
 #EXTINF:-1,LOS40 Chile
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CHILEAAC.aac
 #EXTINF:-1,Maldonado FM
 https://jm8n.net:7013/stream
-#EXTINF:-1,maray
-https://video.mediawebchile.com:2000/stream/8212/stream
 #EXTINF:-1,María
 http://dreamsiteradiocp4.com:8024/
+#EXTINF:-1,Maricón radio
+https://radio.maricon.org/vocaloid
 #EXTINF:-1,Mas Longaví FM
 https://radio.mediadev.cl/radio/8030/fmmas
 #EXTINF:-1,MasRadio 95.9fm
@@ -367,6 +367,8 @@ https://redirector.dps.live/p7temuco/aac/icecast.audio
 https://redirector.dps.live/p7valparaiso/aac/icecast.audio
 #EXTINF:-1,puntosiete
 https://unlimited11-cl.dps.live/p7concepcion/aac/icecast.audio
+#EXTINF:-1,Purranque FM
+https://sonic.portalfoxmix.club/8396//stream
 #EXTINF:-1,Radio  Estacion del Poder
 http://stream.zeno.fm/t7cdutykw38uv
 #EXTINF:-1,Radio 13c
@@ -393,8 +395,6 @@ https://sonic.portalfoxmix.club/8438/stream
 http://streaming01.xhost.cl/8048/;
 #EXTINF:-1,Radio Amiga de Talca
 http://archi-us.digitalproserver.com/amiga.aac
-#EXTINF:-1,Radio Amiga Fm 100.7
-https://streams.radiomast.io/aff8c0f0-5d0c-41d6-83b2-71daff574701
 #EXTINF:-1,Radio Ancoa La Radio de Linares
 https://audio2.tustreaming.cl:10991/;
 #EXTINF:-1,Radio Angelina 730 AM
@@ -445,6 +445,8 @@ https://archi-us.digitalproserver.com/buena-nueva.aac
 https://streaming.comunicacioneschile.net/8010/stream
 #EXTINF:-1,Radio Candela
 https://jireh-1-hls-audio-cl-isp.dps.live/hls-audio/716888c72e2079612211a7130f67a27d/candela/playlist/manifest/gotardisz/audio/now/livestream1.m3u8?dpssid=29655ee97d58fc6cbb68acea3ab0dbfc&sid=ba5t1l1xb21323264718688affc0e6864&ndvc=0
+#EXTINF:-1,Radio Caramelo San Vicente
+https://cast.radioservicios.cl:8316/sanvicente
 #EXTINF:-1,Radio Caribe FM 95.5
 http://149.56.241.149:8118/stream
 #EXTINF:-1,RADIO CARICIA FM
@@ -489,6 +491,8 @@ https://audio.bitsur.cl/8066/stream
 https://streaming01.xhost.cl/8156/stream
 #EXTINF:-1,Radio ColoColo
 https://audio2.tustreaming.cl:10997/stream
+#EXTINF:-1,Radio Colombina
+https://cast.radioservicios.cl:8314/radio
 #EXTINF:-1,Radio Concierto Chile
 https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTOAAC.aac
 #EXTINF:-1,Radio Concierto Chile
@@ -503,8 +507,6 @@ http://streaming.comunicacioneschile.net:9318/stream
 https://unlimited3-cl.dps.live/cooperativafm/mp3/icecast.audio
 #EXTINF:-1,Radio Cosmos FM
 https://audio3.tustreaming.cl/7410/stream
-#EXTINF:-1,Radio Creación FM
-https://archi-us.digitalproserver.com/creacion-fm.aac
 #EXTINF:-1,Radio Cristo Vive en Mi
 https://comunikadostreaming.us:10960/stream
 #EXTINF:-1,Radio Crucero
@@ -537,8 +539,6 @@ https://stream.zeno.fm/yo6udiulqhbvv
 https://stream.zeno.fm/kc5hofr05tavv
 #EXTINF:-1,Radio Dulce PETORCA- -CABILDO 104.7 FM
 https://stream.zeno.fm/uftblekcpxguv
-#EXTINF:-1,Radio Dulce SAN FELIPE y LOS ANDES 100.3 FM
-https://stream.zeno.fm/dzvavezs85ouv
 #EXTINF:-1,Radio Duna
 https://mdstrm.com/audio/67f42f96e464d19a6eda3c7d/icecast.audio
 #EXTINF:-1,Radio Ecos Del Valle
@@ -589,6 +589,8 @@ https://jm8n.com/proxy/radiofmlatina/stream
 https://playerservices.streamtheworld.com/api/livestream-redirect/FUTUROAAC.aac
 #EXTINF:-1,Radio Fututo
 https://playerservices.streamtheworld.com/api/livestream-redirect/FUTURO_SC.mp3
+#EXTINF:-1,Radio Gabriela
+https://sonic.streamingchilenos.com/8180/stream
 #EXTINF:-1,Radio Genoveva Valdivia
 https://audio.bitsur.cl/8032/stream
 #EXTINF:-1,Radio Gente 105.7 FM
@@ -703,8 +705,6 @@ https://audio3.tustreaming.cl/7320/stream
 https://sonic-us.arkeo.cl/8562/stream.mp3?ts=1769817329142
 #EXTINF:-1,Radio Paula
 http://unlimited3-cl.dps.live/radiopaula/gotardis/audio/now/livestream1.m3u8
-#EXTINF:-1,Radio Paula FM - 103.7 MHz - Laja (HD)
-http://escucha.radiopaulafm.com/
 #EXTINF:-1,RADIO PAULINA
 https://sp1.streamingssl.com/8058/stream
 #EXTINF:-1,Radio Pauta
@@ -715,8 +715,6 @@ https://video.mediawebchile.com:8134/stream
 https://grupcomunicados.us:8084/;
 #EXTINF:-1,Radio Picados
 https://a10.asurahosting.com:7630/radio.mp3
-#EXTINF:-1,Radio Picarona
-https://sonic.portalfoxmix.cl:7046/;
 #EXTINF:-1,Radio picarona
 https://sonic.portalfoxmix.cl:7045/;
 #EXTINF:-1,Radio Pilmaiquén
@@ -879,8 +877,6 @@ https://sonic.portalfoxmix.club/8394/stream
 https://sonic.portalfoxmix.cl/9942/stream
 #EXTINF:-1,Ritmo en Frecuencia
 https://stream.zeno.fm/9chucgdsqp8uv
-#EXTINF:-1,Ritmo FM
-https://sonic.portalfoxmix.cl/9976/stream
 #EXTINF:-1,Ritmo Urbano CL
 https://stream3.mcvhost.com/ritmourbano25/
 #EXTINF:-1,Ritoque

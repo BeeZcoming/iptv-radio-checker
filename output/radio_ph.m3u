@@ -39,6 +39,8 @@ http://209.126.124.126:8721/stream
 http://88.99.195.180:8027/stream
 #EXTINF:-1,106.7 LITE FM MEGA MANILA
 https://stream.zeno.fm/kc3cct89sxquv
+#EXTINF:-1,106.7 True FM - DWET
+https://radio.tv5.com.ph/truefm/audio.stream/playlist.m3u
 #EXTINF:-1,28.2 GoodVibes Fm
 
 
@@ -53,6 +55,8 @@ https://eu8.fastcast4u.com/proxy/lovefmradio?mp=/1&1729057858413
 https://stream.surfernetwork.com/aw84t8xe66ivv
 #EXTINF:-1,89.5 DWIZ EASTERN VISAYAS TACLOBAN
 https://stream.zeno.fm/ug8mkqpr7jtvv
+#EXTINF:-1,89.5 Subic Bay Radio
+http://143.44.245.11:8080/895subicbay.mp3
 #EXTINF:-1,90.5 Hot FM Baguio
 http://148.251.43.149:8675/stream
 #EXTINF:-1,90.7 Birada Fm Claver
@@ -95,12 +99,18 @@ https://azura.yesfm.com.ph/listen/yes_fm_manila/radio.mp3
 http://136.243.44.41:8010/stream
 #EXTINF:-1,96.9 POWER FM Naga City 
 https://stream.zeno.fm/n4q1s7r4qzzuv
+#EXTINF:-1,97.7 Sweet Radio Santiago
+https://stream.zeno.fm/ja3azzofj40tv
 #EXTINF:-1,97.9 Home Radio Manila - DWQZ
 http://142.44.212.114:9071/stream
 #EXTINF:-1,979 Home Radio Manila
 http://142.44.212.114:9071/stream
 #EXTINF:-1,98.3 Love Radio Dagupan
 https://loveradiodagupan.radioca.st/
+#EXTINF:-1,98.5 Radio John Binalbagan
+http://209.126.124.126:8033/stream
+#EXTINF:-1,98.5 RADIO JOHN BINALBAGAN
+https://us1.amfmph.com/ssl/radiojohn?mp=/hd&1639728501890
 #EXTINF:-1,98.5 Radyo Kaibigan Valencia City  
 https://us2.amfmph.com/ssl/vegiemaxplus?mp=/high&1681395562481
 #EXTINF:-1,98.7 DZFE The Master's Touch
@@ -125,24 +135,16 @@ https://stream3.awr.live/listen/adventist_radio_southph/radio.mp3
 http://192.53.113.120:8000/stream
 #EXTINF:-1,Aksyon Radyo Bacolod
 http://176.9.104.253:8095/stream
-#EXTINF:-1,Aksyon Radyo Catarman
-http://comet.shoutca.st:8165/stream
-#EXTINF:-1,Aksyon Radyo Catbalogan
-http://195.201.166.244:8149/stream
 #EXTINF:-1,Aksyon Radyo Cebu
 http://5.9.13.39:8110/stream
 #EXTINF:-1,Aksyon Radyo Cebu
 https://a9.asurahosting.com:8260/radio.mp3
 #EXTINF:-1,Aksyon Radyo Davao
 http://5.9.13.39:8140/stream
-#EXTINF:-1,Aksyon Radyo Iloilo
-http://148.251.43.149:8213/stream
 #EXTINF:-1,Aksyon Radyo La Union
 http://176.9.76.61:8004/stream
 #EXTINF:-1,Aksyon Radyo Laoag
 http://5.9.13.39:8136/stream
-#EXTINF:-1,Aksyon Radyo Pangasinan
-http://148.251.43.149:8238/stream
 #EXTINF:-1,Aksyon Radyo Tacloban
 http://142.4.216.144:8279/stream
 #EXTINF:-1,Aljem Magdula
@@ -258,8 +260,6 @@ https://stream.zeno.fm/1etogiwypoztv
 http://stream.zenolive.com/a0zn713mz9duv
 #EXTINF:-1,Bombo Radyo Tacloban
 https://stream.zeno.fm/e8zw1dg0xy5tv
-#EXTINF:-1,Bombo Radyo Tuguegarao
-https://stream.zenolive.com/w8pcsam29heuv
 #EXTINF:-1,Bombo Radyo Vigan
 http://stream.zenolive.com/wg8yn4cnz9duv
 #EXTINF:-1,Boracay Beach Radio
@@ -350,10 +350,6 @@ http://18.141.67.248:8076/stream/1/
 https://siargaostream.brigadanews.ph/
 #EXTINF:-1,Brigada News FM Tagum
 https://tagumstream.brigadanews.ph/
-#EXTINF:-1,Brigada News FM Toledo
-http://18.141.67.248:8036/stream/1/
-#EXTINF:-1,Brigada News FM Toledo
-https://toledostream.brigadanews.ph/
 #EXTINF:-1,Brigada News FM Trento
 https://trentostream.brigadanews.ph/
 #EXTINF:-1,Brigada News FM Valencia
@@ -392,8 +388,6 @@ https://rx.amfm.link:8000/dearfm
 https://voa-ingest.akamaized.net/hls/live/2035234/160_342L/playlist.m3u8
 #EXTINF:-1,Dream Radio Tacloban
 http://streamnavs.net:8133/live
-#EXTINF:-1,DWBL 91.9 Bright FM
-https://stream.zeno.fm/wx5hopniqfvtv
 #EXTINF:-1,DWDM Eagle FM 95.5
 https://stream.radiojar.com/yus0r2bghd3vv
 #EXTINF:-1,DWDM fm 95.5
@@ -472,8 +466,6 @@ http://58.97.187.52:5007/rp4
 https://n0d.radiojar.com/yus0r2bghd3vv?rj-ttl=5&rj-tok=AAABlJu7jsUAmyVUk6qFVdTweA
 #EXTINF:-1,Eagle FM 95.5
 https://n06.radiojar.com/yus0r2bghd3vv?rj-ttl=5&rj-tok=AAABkvtiUekApAzmoP0lG-3HVQ
-#EXTINF:-1,Easy Rock Bacolod
-http://142.132.158.102:8679/stream
 #EXTINF:-1,Easy Rock Baguio
 http://comet.shoutca.st:8274/stream
 #EXTINF:-1,Easy Rock Boracay
@@ -504,6 +496,8 @@ http://stream.zeno.fm/zihnvajzhtatv
 http://stream.zeno.fm/39kpfy2hplzvv
 #EXTINF:-1,Energy FM Davao
 https://s1.free-shoutcast.com/stream/18178
+#EXTINF:-1,Energy FM Dipolog
+https://stream.zeno.fm/xjtlneetbu0tv
 #EXTINF:-1,Energy FM Manila
 http://stream.zeno.fm/dnddzf0osc1uv
 #EXTINF:-1,Energy FM Naga
@@ -532,6 +526,8 @@ https://stream.zeno.fm/8yak4n5qf48uv
 https://www.fiaradio.org:8000/radio.mp3
 #EXTINF:-1,Filipino Music Central
 https://stream.zeno.fm/yqkru9yv3yzuv
+#EXTINF:-1,FM Radio Butuan
+https://stream.zeno.fm/rdnfm6z4ks7uv
 #EXTINF:-1,FM Radio Camiguin
 http://62.138.18.102:8673/stream
 #EXTINF:-1,FM Radio Camiguin
@@ -612,6 +608,8 @@ http://livestream.rmn.ph:8000/ifmdagupan
 http://62.138.18.102:8288/stream
 #EXTINF:-1,iFM Laoag
 http://livestream.rmn.ph:8000/ifmlaoag
+#EXTINF:-1,iFM Lucena
+https://livestream.rmn.ph/ifmlucena
 #EXTINF:-1,iFM Roxas
 https://livestream.rmn.ph/ifmroxas
 #EXTINF:-1,iFM Tacloban
@@ -646,6 +644,8 @@ http://209.126.124.126:8572/stream
 http://209.126.124.126:8584/stream
 #EXTINF:-1,K5 News FM Dumaguete
 http://209.126.124.126:8581/stream
+#EXTINF:-1,K5 News FM Guihulngan
+http://209.126.124.126:8846/stream
 #EXTINF:-1,K5 News FM Iloilo
 http://209.126.124.126:8647/stream
 #EXTINF:-1,K5 News FM San Carlos
@@ -1112,6 +1112,8 @@ http://livestream.rmn.ph:8000/dxmycotabato
 https://livestream.rmn.ph/dxdcdavao
 #EXTINF:-1,RMN DXDC Davao
 https://stream.zeno.fm/qrrgyy1hyuatv
+#EXTINF:-1,RMN DXDR 981 Dipolog
+https://livestream.rmn.ph/dxdrdipolog
 #EXTINF:-1,RMN DYHB Bacolod
 http://148.72.153.65:8848/stream
 #EXTINF:-1,RMN DYHB Bacolod
@@ -1124,6 +1126,8 @@ https://us1.amfmph.com/ssl/rmniloilo?mp=/stream
 http://209.126.124.126:8011/stream
 #EXTINF:-1,RMN Tacloban
 https://livestream.rmn.ph/rmntacloban
+#EXTINF:-1,RPN DXDX GenSan
+http://88.198.70.25:8952/stream
 #EXTINF:-1,RPN DXKO Cagayan de Oro
 http://88.198.70.25:8960/stream
 #EXTINF:-1,RPN DXKS Surigao
@@ -1140,6 +1144,8 @@ http://88.198.70.25:8169/stream
 http://dwizmanila.radioca.st:9079/stream
 #EXTINF:-1,RPN DZRL Batac
 http://88.198.70.25:8956/stream
+#EXTINF:-1,RTG FM ㋡
+https://regiocast.streamabc.net/regc-radiobobmetalcore1855704-mp3-192-1809267?sABC=67sn43rs%231%23ahyy%23ubzrcntr_jnpxra&mode=preroll&aw_0_1st.skey=1744454636&cb=424203436&listenerid=null&aw_0_1st.playerid=homepage_wacken&amsparams=playerid:homepage_wacken;skey:1744454639?.mp3;audio.mp3
 #EXTINF:-1,San Jose City Hottest Online Radio
 https://usa13.fastcast4u.com/proxy/itunerworldwide?mp=/1
 #EXTINF:-1,SANIB PWERSA 101.7 YLFM & 90.5 HFM
@@ -1182,6 +1188,8 @@ https://stream.zeno.fm/sa27v4d29heuv
 https://stream.zeno.fm/60cb36c29heuv
 #EXTINF:-1,Star FM Dagupan
 https://stream.zeno.fm/kw40qqc29heuv
+#EXTINF:-1,Star FM Davao
+https://stream.zeno.fm/sdtv271nz9duv
 #EXTINF:-1,Star FM Dipolog
 https://stream.zeno.fm/qd45x88q0y5tv.aac
 #EXTINF:-1,Star FM Manila
@@ -1194,6 +1202,8 @@ https://stream.zeno.fm/6qehcpd29heuv
 https://stream.zeno.fm/sfaqs2c29heuv
 #EXTINF:-1,STARR Radio Tayasan
 http://cast5.asurahosting.com/proxy/mosfet/stream
+#EXTINF:-1,Sweet 97.7 FM Santiago
+https://radio.garden/api/ara/content/listen/Cf0PBMJg/channel.mp3?1783643725859
 #EXTINF:-1,Switch FM
 http://stream.zeno.fm/st932y9xs98uv
 #EXTINF:-1,TAPS RADIO ALICIA
@@ -1234,8 +1244,6 @@ http://148.72.153.65:9247/stream
 http://148.72.153.65:9250/stream
 #EXTINF:-1,Wild FM Iloilo
 http://148.72.153.65:9253/stream
-#EXTINF:-1,Wild FM Valencia
-http://62.138.18.102:8137/stream
 #EXTINF:-1,Win Radio Cagayan de Oro 
 http://stream.zeno.fm/delhmcm1qhntv
 #EXTINF:-1,Win Radio Cagayan de Oro

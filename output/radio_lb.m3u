@@ -93,8 +93,6 @@ https://c7.radioboss.fm:18299/stream
 http://23623.live.streamtheworld.com/LIGHTFMAAC_SC
 #EXTINF:-1,Lob Anan Radio
 https://listen.radioking.com/radio/152170/stream/192625
-#EXTINF:-1,Maestro FM 90.9
-https://cast5.my-control-panel.com/proxy/tripoli1/stream
 #EXTINF:-1,Matrix FM 103.5 Lebanon
 https://play.matrixfmlebanon.com:8003/;stream.mp3
 #EXTINF:-1,Mazaj Music 98.7 FM
@@ -123,10 +121,6 @@ https://stream.zeno.fm/ycpk1j2dhqbuv
 https://stream.zeno.fm/mtyqgubeunhvv
 #EXTINF:-1,Quran Radio 93.3 FM Lebanon
 https://audio.osina.cloud:7987/stream
-#EXTINF:-1,Radio Delta Lebanon
-http://radiodelta.fm/live
-#EXTINF:-1,Radio Delta Lebanon
-https://radiodelta.fm/mp3
 #EXTINF:-1,Radio Enooma
 https://audio.osina.cloud:7777/stream
 #EXTINF:-1,Radio Joie

@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,-=PoWeR=-
 https://cast1.my-control-panel.com/proxy/eventas/stream
+#EXTINF:-1,Audiomastering.lt
+http://radio.audiomastering.lt:8000/hq
 #EXTINF:-1,BEVEIK RADIJAS
 https://halo.streamerr.co/listen/beveikradijas/radio.mp3
 #EXTINF:-1,Christmas Radio
@@ -85,6 +87,8 @@ https://mrpl.babrai.com/stream
 https://mrpl.babrai.com/stream.mp3
 #EXTINF:-1,Neringa FM
 http://radio.15min.lt:8000/neringafm
+#EXTINF:-1,Neringa FM – The soundtrack of endless holidays
+https://cast5.my-control-panel.com/proxy/mbadvent/neringafmnew_live
 #EXTINF:-1,Neringa fm *
 http://185.11.24.72:8000/neringafm
 #EXTINF:-1,Palanga Street Radio
@@ -147,6 +151,10 @@ http://193.70.34.27:20330/kdime
 https://stream1.relaxfm.lt/rrb128.mp3
 #EXTINF:-1,Radio stotis Laluna
 https://radio.m-1.fm/laluna/mp3
+#EXTINF:-1,Radio Vilnius
+https://transliacija.audiomastering.lt/radiovilnius-mp3
+#EXTINF:-1,radio.audiomastering.lt
+https://transliacija.audiomastering.lt/pure
 #EXTINF:-1,Radiocentras
 https://stream2.rockfm.lt/crf128.mp3
 #EXTINF:-1,Radiocentras

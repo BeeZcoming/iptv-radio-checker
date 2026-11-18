@@ -233,6 +233,8 @@ https://edge21.stream.maxfive.com/max5-joelive
 https://edge05.stream.maxfive.com/max5-joelive?aggregator=maxfive-homepage
 #EXTINF:-1,KroneHit Digital
 http://onair-ha1.krone.at/kronehit1058.mp3
+#EXTINF:-1,Kronehit Hardstyle
+https://kronehit.streamabc.net/50-fschannel2-aac-128-1016557
 #EXTINF:-1,KroneHit Radio
 http://onair-ha1.krone.at/kronehit64.aac
 #EXTINF:-1,KroneHit Radio
@@ -603,5 +605,7 @@ https://live.welle1.at:18256/stream
 https://live.welle1.at:19000/live
 #EXTINF:-1,XXXLutz Radio
 https://liferadio.streamabc.net/lfr_w97ylbvwcps_45m7-mp3-192-1637662?sABC=6n48o2p1%230%234s3p7qo16pq27op446q453s9s431o7q7%23jrofrvgr&1783149421175=&aw_0_1st.playerid=webseite&amsparams=playerid:webseite
+#EXTINF:-1,Yeshua.at Radio
+https://yeshua.at:8443/stream
 #EXTINF:-1,Yu Radio
 https://stream.radiotechnikum.at:80/YURADIO

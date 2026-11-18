@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1,24 Horas (720p)
-https://ztnr.rtve.es/ztnr/1694255.m3u8
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1,24 Horas Catalunya (720p)
-https://ztnr.rtve.es/ztnr/4952053.m3u8
+https://rtvelivestream.rtve.es/rtvesec/cat/24h_cat_main_dvr.m3u8

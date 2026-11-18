@@ -11,6 +11,8 @@ https://cast.skyradio105.com/proxy/skyradio105/stream
 https://stream.zeno.fm/7wozjkc8x0vvv
 #EXTINF:-1,Al Arabiya FM
 https://fm.alarabiya.net/fm/myStream/playlist.m3u8
+#EXTINF:-1,AlifAlif FM
+https://alifalifjobs.com/radio/8000/AlifAlifLive.mp3
 #EXTINF:-1,asmaaxx/ʙʏ _MX2
 https://stream.zeno.fm/nkukhjz4vgtuv
 #EXTINF:-1,Bestfriend FM 107.1
@@ -89,5 +91,3 @@ https://qurango.net/radio/ali_alhuthaifi_qalon
 http://usa3.fastcast4u.com:3826/stream
 #EXTINF:-1,عظمها وافي و غاربها طويل
 https://stream.zeno.fm/9i7dabxxfwsuv
-#EXTINF:-1,مقدمة رسالة ابن أبي زيد القيرواني1
-https://www.al-badr.net/download/esound/choroohat/abuzaid_alkirawani/001.mp3

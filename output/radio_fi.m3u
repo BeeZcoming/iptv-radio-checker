@@ -63,8 +63,6 @@ http://kohina.duckdns.org:8000/stream.ogg
 http://ice-sov.musicradio.com/LBCLondon
 #EXTINF:-1,Loop
 https://aud-stream-loop.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8
-#EXTINF:-1,NinjaBox 24/7
-https://djuplink.com/ninjabox.mp3
 #EXTINF:-1,Nostalgia
 https://stream-redirect.bauermedia.fi/nostalgia/nostalgia_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
 #EXTINF:-1,NRJ
@@ -177,6 +175,8 @@ http://kuuntele.radioverkko.fi:8000/live
 https://replaynewsfi.ice.infomaniak.ch/replaynewsfi-128.mp3
 #EXTINF:-1,Roll FM
 http://stream.rollfm.fi/
+#EXTINF:-1,RollFM
+https://rollfm.online/
 #EXTINF:-1,Rondo Classic Klasu
 https://iradio.fi/klasu.flac
 #EXTINF:-1,Rondo Classic Klasu

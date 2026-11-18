@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,Animax Radio
 https://sc.host-live.com:8150/stream
+#EXTINF:-1,Atlántida FM 903
+https://radio.atlantidafm903.com:8020/atlantida_radio.mp3
 #EXTINF:-1,Big Radio Bolivia
 http://stream.zeno.fm/cb4zhgss538uv
 #EXTINF:-1,Clásica 100.3 Cochabamba
@@ -13,10 +15,14 @@ http://classicafm.scbbs.net:8000/;
 https://stream20.usastreams.com:7000/stream
 #EXTINF:-1,El Fin del Silencio
 https://servidor24-1.brlogic.com:7302/live
+#EXTINF:-1,Emet 441
+https://radio.atlantidafm903.com:8010/emet441_radio.mp3
 #EXTINF:-1,Eres Radio 98.5 FM
 https://sp5.servidorrprivado.com/8789/stream
 #EXTINF:-1,esLatino Radio
 https://spanel.gcomstreaming.com/8030/stream
+#EXTINF:-1,Estelar Fm
+https://a3.asurahosting.com:6080/radio.mp3
 #EXTINF:-1,FM La Paz
 https://spanel.gcomstreaming.com:7008/stream
 #EXTINF:-1,Fm La Paz 96.7

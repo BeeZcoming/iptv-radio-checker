@@ -39,8 +39,6 @@ https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
 #EXTINF:-1,It's Supernatural! Network (1080p)
 https://content.uplynk.com/channel/b880a791bf95426d917a509e0c44796a.m3u8
-#EXTINF:-1,Marjaeyat TV Arabic (1080p)
-https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8
 #EXTINF:-1,Marjaeyat TV English (1080p)
 https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8
 #EXTINF:-1,Marjaeyat TV Persian (240p) [Not 24/7]
@@ -52,7 +50,7 @@ https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
 #EXTINF:-1,Pent TV (720p)
 https://playlist.dacast.com/live/a72117af-d78e-7ffe-7c12-1af6cd4a8483-live-42172a86-494b-a866-498f-dbaff4b5e3c0/master.m3u8
 #EXTINF:-1,Rhema TV (1080p)
-http://45.171.64.30:6060/play/a04k/index.m3u8
+http://45.166.93.156:9999/play/a0ff/index.m3u8
 #EXTINF:-1,TLN Media Chicago (720p)
 https://fuel-streaming-prod01.fuelmedia.io/v1/sem/cb165faa-41c9-42ad-83ee-ad5ca9fb927c.m3u8
 #EXTINF:-1,TLN Media San Francisco (720p)

@@ -7,8 +7,6 @@ https://c10.radioboss.fm:18095/stream
 https://radyo1.radyo-dinle.tc/8256/stream
 #EXTINF:-1,Capital Turk
 https://radyo1.radyo-dinle.tc/8210/stream
-#EXTINF:-1,Cool Radio 91.6 
-http://live3.istoikona.net/proxy/cooleradio/stream
 #EXTINF:-1,CYBC 1
 https://r1.cloudskep.com/cybcr/cybc1/playlist.m3u8
 #EXTINF:-1,CYBC 3
@@ -73,6 +71,8 @@ http://r1.cloudskep.com/cybcr/cybc1/icecast.audio
 https://server.streamcasthd.com:7092/;
 #EXTINF:-1,Radio Sfera 102.2
 https://securestreams3.autopo.st:1417/sfera
+#EXTINF:-1,Radio T.O.A
+https://live3.istoikona.net/proxy/radiotoa/stream
 #EXTINF:-1,Radio Turbo21
 https://radioturbo21.com/radio/stream
 #EXTINF:-1,Radyo Juke

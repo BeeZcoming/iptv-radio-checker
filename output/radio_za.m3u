@@ -169,6 +169,8 @@ https://kudu.fm/hls/radio.m3u8
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAFMAAC.aac
 #EXTINF:-1,Lekker FM
 https://zas3.ndx.co.za:8002/stream
+#EXTINF:-1,Lekoa fm
+https://zas1-2-3-6.ndx.co.za/stream/lekoafm?1743647827740
 #EXTINF:-1,Lesedi
 https://playerservices.streamtheworld.com/api/livestream-redirect/LESEDIAAC_SC
 #EXTINF:-1,Lifted Radio
@@ -189,8 +191,6 @@ https://streaming.fabrik.fm/magic828/echocast/audio/high/index.m3u8?
 https://streaming.fabrik.fm/magic828/echocast/audio/high/index.m3u8
 #EXTINF:-1,Magic 828
 http://cast.fabrik.fm:8106/
-#EXTINF:-1,Maluti FM
-https://cast3.my-control-panel.com/proxy/malutifm/stream
 #EXTINF:-1,Marley Music Radio
 https://marleymusic.online/listen/marleymusic/radio.mp3
 #EXTINF:-1,MC 90.3 FM
@@ -367,6 +367,8 @@ https://radio.baronvonvault.com/listen/vault_radio_404/radio.mp3
 https://radio2.eclipse-streaming.co.za/listen/vaal_community_radio/radio.mp3
 #EXTINF:-1,Victors Radio
 https://a13.asurahosting.com/listen/victors_radio_/radio.mp3
+#EXTINF:-1,Viper-Oceania Sound Revolution
+https://vipersoundrevolution.radioca.st/viper-oceania-sound-revolution.fm
 #EXTINF:-1,Viva Nation Radio
 https://servidor34-3.brlogic.com:7056/live?source=website
 #EXTINF:-1,VOC

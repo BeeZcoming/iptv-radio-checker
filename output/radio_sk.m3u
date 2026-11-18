@@ -83,8 +83,6 @@ https://play.radio7.sk/128
 http://stream.aetter.sk:8000/aetter
 #EXTINF:-1,Radio Basavel
 https://stream.zeno.fm/6gd9c6yn4nhvv
-#EXTINF:-1,Radio Bela
-http://65.109.81.84:8855/live
 #EXTINF:-1,Rádio BestFM
 https://stream3.bestfm.sk:8000/128.mp3
 #EXTINF:-1,RÁDIO BETA
@@ -157,6 +155,8 @@ https://mpc2.mediacp.eu:8214/stream
 https://extra.mediacp.eu/stream/RadioParada,o.z.
 #EXTINF:-1,Rádio Pyramída
 https://icecast.stv.livebox.sk/klasika_128.mp3
+#EXTINF:-1,Rádio Rebeca
+https://mpc2.mediacp.eu:8200/rebecaweb
 #EXTINF:-1,Rádio Regina Západ
 https://icecast.stv.livebox.sk/regina-ba_128.mp3
 #EXTINF:-1,Rádio Relax International

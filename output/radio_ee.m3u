@@ -239,8 +239,6 @@ http://icecast.err.ee/vikerraadio.mp3
 https://icecast.err.ee/vikerraadiokorge.mp3
 #EXTINF:-1,Vikerraadio (128 kbps Ogg Opus) | Eesti Rahvusringhääling | vikerraadio.err.ee
 http://icecast.err.ee/vikerraadio.opus
-#EXTINF:-1,Võmba FM
-https://c4.radioboss.fm:18123/stream
 #EXTINF:-1,XFM Eesti
 https://sc2.treraadio.ee/xfm-tallinn
 #EXTINF:-1,XL Radio Estonia
