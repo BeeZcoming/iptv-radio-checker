@@ -43,8 +43,6 @@ https://cp12.serverse.com/proxy/itnfm?mp=/stream
 https://cp12.serverse.com/proxy/itnfm?mp=/stream&1707017036
 #EXTINF:-1,Laksara
 https://5a1178b42cc03.streamlock.net/laksara/laksara/chunklist_w1617919055.m3u8
-#EXTINF:-1,Lakviru Radio
-http://cp11.serverse.com:7643/stream
 #EXTINF:-1,Lankasri fm
 http://media2.lankasri.fm/;stream.mp3
 #EXTINF:-1,Legends 96.6 FM
@@ -69,8 +67,6 @@ https://stream.zeno.fm/fz1quc2fzacuv
 https://stream.zeno.fm/n86me57rzv8uv
 #EXTINF:-1,Rajarata Sewaya
 http://220.247.227.20:8000/rajaratastream
-#EXTINF:-1,Ran FM
-https://a3.asurahosting.com/listen/ranfm/radio.mp3
 #EXTINF:-1,Rangiri Sri Lanka
 https://rangiri.radioca.st/stream
 #EXTINF:-1,Real Radio Sri Lanka 97.1

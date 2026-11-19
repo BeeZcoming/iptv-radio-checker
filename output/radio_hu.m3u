@@ -9,8 +9,6 @@ https://radio.adventnet.hu:8443/stream
 http://aktivradio.hu:8000/aktiv.mp3
 #EXTINF:-1,All-Star Radio 70's
 https://a2.asurahosting.com:7620/radio.mp3
-#EXTINF:-1,All-Star Radio 80's
-https://a3.asurahosting.com/listen/all-star_radio_80s_disco/radio.mp3
 #EXTINF:-1,Argentine Tango Radio
 https://ais-edge94-nyc04.cdnstream.com/2202_128.mp3
 #EXTINF:-1,Balatonica
@@ -451,6 +449,8 @@ http://icast.connectmedia.hu/5201/live.mp3
 https://icast.connectmedia.hu/5039/live.mp3
 #EXTINF:-1,Rádió 1 Debrecen
 http://91.82.85.44:8080/debrecenradiofm95
+#EXTINF:-1,Rádió 1 Eger
+https://www.radio1eger.hu/radio1eger.mp3
 #EXTINF:-1,Rádió 1 Miskolc
 https://icast.connectmedia.hu/5211/live.mp3
 #EXTINF:-1,Radio 1 Sopron
@@ -549,6 +549,10 @@ https://icast.connectmedia.hu/5001/live.mp3
 https://icast.connectmedia.hu/5301/live.mp3/
 #EXTINF:-1,Rock Paradicsom
 http://stream1.virtualisan.net:6590/live.mp3
+#EXTINF:-1,Rocker Rádió
+http://rockerradio.online/live.mp3
+#EXTINF:-1,Rocker Rádió
+https://rockerradio.online/live.mp3
 #EXTINF:-1,Roxy Rádió
 https://s2.audiostream.hu/roxy_192k
 #EXTINF:-1,Sárvár Rádió

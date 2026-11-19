@@ -106,13 +106,7 @@ https://cast.mediaonline.net.ua/terrace320
 #EXTINF:-1,Lounge Music
 https://radio.dobreff.com/lounge.mp3
 #EXTINF:-1,Lux FM
-http://lux.radio.tvstitch.com/kyiv/lux_adv_sd
-#EXTINF:-1,Lux FM
 https://streamvideo.luxnet.ua/lux/smil:lux.stream.smil/playlist.m3u8
-#EXTINF:-1,Lux FM Lviv
-https://lux.radio.tvstitch.com/lux_lviv_adv_sd
-#EXTINF:-1,Lux FM Lviv
-https://lux.radio.tvstitch.com/lux_lviv_adv_sd
 #EXTINF:-1,Lviv Wave Radio
 http://onair.lviv.fm:8000/lviv.fm
 #EXTINF:-1,MAGIC Radio
@@ -177,6 +171,8 @@ http://91.203.4.121:8000/stream160
 https://online-radio.nv.ua/radionv.mp3
 #EXTINF:-1,Radio Ppeople FM – House Music
 http://ppeople.fm:8000/main
+#EXTINF:-1,Radio Rehab
+https://radiorehab.duckdns.org/radio.mp3
 #EXTINF:-1,Radio Relax
 https://online.radiorelax.ua/RadioRelax
 #EXTINF:-1,Radio Relax Christmas
@@ -261,6 +257,8 @@ https://stream320.galychyna.fm/WebSite
 http://uk2.internet-radio.com:8121/stream
 #EXTINF:-1,The West Pole Radio
 https://online.z-polus.info/hq
+#EXTINF:-1,Tik Tok Hits
+http://stream.europeanhitradio.com:8000/Stream_38.mp3
 #EXTINF:-1,TRANCE IS STAR RADIO
 https://myradio24.org/tisradio
 #EXTINF:-1,Trans World Radio Ukraine
@@ -277,8 +275,6 @@ https://listen7.myradio24.com/ulyublene
 https://streamer.radio.co/sdff2fd6a8/listen
 #EXTINF:-1,VsemirnoeOdesscoeRadio
 https://listen1.myradio24.com/odesradio
-#EXTINF:-1,Wolf Music Radio
-https://a3.asurahosting.com/listen/wolf_music_radio/radio.mp3
 #EXTINF:-1,Worship
 https://radio.dobreff.com/worship.mp3
 #EXTINF:-1,X Radio
@@ -307,6 +303,8 @@ https://cast108372.customer.uar.net/live320
 https://listen.radioking.com/radio/562580/stream/622265
 #EXTINF:-1,Громадське радіо
 http://5.9.8.20:8000/stream
+#EXTINF:-1,Громадське радіо
+https://hromadske.radio/radio_https_upstream
 #EXTINF:-1,Громадське радіо
 http://91.218.212.67:8000/stream-ps-hi
 #EXTINF:-1,Гуляй Радіо
@@ -377,8 +375,6 @@ http://radio.moa.org.ua/Friday
 https://live.1tv.od.ua/radio/stream/icecast.audio
 #EXTINF:-1,Подільське
 https://podilske.com:8013/p-radio
-#EXTINF:-1,Просто Radi.O (Київ)
-http://85.238.113.60:8000/PRK128
 #EXTINF:-1,Прямий FM
 https://cast.mediaonline.net.ua/prmfm320
 #EXTINF:-1,Радио НВ

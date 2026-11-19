@@ -229,8 +229,6 @@ https://countryradioswitzerland.ice.infomaniak.ch/crs-128.mp3
 http://stream.countryradio.ch/crs-128.mp3
 #EXTINF:-1,DBC radio
 http://dbc.ice.infomaniak.ch/dbc-96.mp3?1775297507656
-#EXTINF:-1,Depeche Mode
-https://soundtouch.tailb8e360.ts.net:8443/radio.mp3
 #EXTINF:-1,DIKS ДИКС 
 https://icecast.correctiv.net/sacharow
 #EXTINF:-1,Dream Sequence
@@ -511,12 +509,6 @@ http://stream11.radiobeo.ch:8000/radiobeo.mp3
 https://stream.streambase.ch/radiobern1/mp3-192/direct/
 #EXTINF:-1,Radio Bollwerk
 https://radio.radio-bollwerk.ch/listen/radio_bollwerk/radio.mp3
-#EXTINF:-1,Radio Central
-https://stream.streambase.ch/rcentral/mp3-192/direct/
-#EXTINF:-1,Radio Central
-https://stream.streambase.ch/rcentral/mp3-192/chmedia-radio-web/1723615196409_33800762
-#EXTINF:-1,Radio Central
-https://stream.streambase.ch/rcentral/mp3-192/chmedia-radio-web/
 #EXTINF:-1,Radio Chablais
 http://radiochablais.ice.infomaniak.ch/radiochablais-high.mp3
 #EXTINF:-1,Radio Chablais Rock´N Blues
@@ -1023,8 +1015,6 @@ http://traxx007.ice.infomaniak.ch/traxx007-low.mp3
 http://traxx019.ice.infomaniak.ch/traxx019-low.mp3
 #EXTINF:-1,Traxx FM - Soul
 http://traxx006.ice.infomaniak.ch/traxx006-low.mp3
-#EXTINF:-1,Traxx FM - Tech Minimal
-http://traxx020.ice.infomaniak.ch/traxx020-low.mp3
 #EXTINF:-1,True House Chill
 https://stream.truehouse.net:8443/chill
 #EXTINF:-1,True House Radio

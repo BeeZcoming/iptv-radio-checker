@@ -121,6 +121,20 @@ http://regiocast.streamabc.net/regc-80s80sdm4383853-mp3-192-4947593?sABC=6nso8sp
 http://streams.80s80s.de/wave/mp3-192/streams.80s80s.de/
 #EXTINF:-1,89.0 RTL
 https://stream.89.0rtl.de/live/mp3-128/surfmusik/
+#EXTINF:-1,89.0 RTL
+http://fhhalle.streamabc.net/fhhal-rtllive-mp3-256-6495671?sABC=6nsoq3p1%230%236q8s7o7o3p7411o9n0871834qs5r90so%23qverxgyvaxUC&aw_0_1st.playerid=direktlinkHP&amsparams=playerid:direktlinkHP;skey:1794888641
+#EXTINF:-1,89.0 RTL - 2000er
+http://stream.89.0rtl.de/2000er/mp3-256
+#EXTINF:-1,89.0 RTL - Chill Zone
+http://stream.89.0rtl.de/chill-zone/mp3-256
+#EXTINF:-1,89.0 RTL - Christmas
+http://stream.89.0rtl.de/christmas/mp3-256
+#EXTINF:-1,89.0 RTL - Club-EDM
+http://stream.89.0rtl.de/club-edm/mp3-256
+#EXTINF:-1,89.0 RTL - Deutsch Rap
+http://stream.89.0rtl.de/deutsch-rap/mp3-256
+#EXTINF:-1,89.0 RTL - Workout
+http://stream.89.0rtl.de/workout/mp3-256
 #EXTINF:-1,92.9 Radio Muelheim
 https://edge07.streamonkey.net/wf-radiomuelheim
 #EXTINF:-1,94,3 rs2 2000er
@@ -409,48 +423,6 @@ http://streams.bigfm.de/bigfm-oldschool-128-aac
 http://streams.bigfm.de/bigfm-oldschool-64-aac
 #EXTINF:-1,bigFM Oldschool Rap & Hip-Hop
 http://streams.bigfm.de/bigfm-oldschool-128-mp3
-#EXTINF:-1,bigFM Rap Feature
-http://streams.bigfm.de/bigfm-rapfeature-128-aac
-#EXTINF:-1,bigFM Rap Feature
-http://streams.bigfm.de/bigfm-rapfeature-64-aac
-#EXTINF:-1,bigFM Reggae Vibez
-http://streams.bigfm.de/bigfm-reggaevibes-128-aac
-#EXTINF:-1,bigFM Reggae Vibez
-http://streams.bigfm.de/bigfm-reggaevibes-64-aac
-#EXTINF:-1,bigFM Reggae Vibez
-http://streams.bigfm.de/bigfm-reggaevibes-128-mp3
-#EXTINF:-1,bigFM Rheinland-Pfalz
-http://streams.bigfm.de/bigfm-rlp-64-aac
-#EXTINF:-1,bigFM Rheinland-Pfalz
-http://streams.bigfm.de/bigfm-rlp-128-mp3
-#EXTINF:-1,bigFM RnB
-http://streams.bigfm.de/bigfm-rnb-64-aac
-#EXTINF:-1,bigFM RnB
-http://streams.bigfm.de/bigfm-rnb-128-mp3
-#EXTINF:-1,bigFM RnB
-http://streams.bigfm.de/bigfm-rnb-128-aac
-#EXTINF:-1,bigFM Rock am Ring
-http://streams.bigfm.de/bigfm-rockamring-128-mp3
-#EXTINF:-1,bigFM Rock am Ring
-http://streams.bigfm.de/bigfm-rockamring-128-aac
-#EXTINF:-1,bigFM Rock am Ring
-http://streams.bigfm.de/bigfm-rockamring-64-aac
-#EXTINF:-1,BigFM Sunset Lounge
-http://streams.bigfm.de/bigfm-sunsetlounge-64-aac
-#EXTINF:-1,BigFM Sunset Lounge
-http://streams.bigfm.de/bigfm-sunsetlounge-128-aac
-#EXTINF:-1,bigFM Urban Club Beats
-http://streams.bigfm.de/bigfm-urbanclubbeats-128-mp3
-#EXTINF:-1,bigFM Urban Club Beats
-http://streams.bigfm.de/bigfm-urbanclubbeats-128-aac
-#EXTINF:-1,bigFM Urban Club Beats
-http://streams.bigfm.de/bigfm-urbanclubbeats-64-aac
-#EXTINF:-1,bigFM US Rap
-http://streams.bigfm.de/bigfm-usrap-128-aac
-#EXTINF:-1,bigFM Worldbeats
-http://streams.bigfm.de/bigfm-worldbeats-64-aac
-#EXTINF:-1,bigFM Worldbeats
-http://streams.bigfm.de/bigfm-worldbeats-128-mp3
 #EXTINF:-1,Bizwebradio
 http://us1.streamingpulse.com:7104/stream
 #EXTINF:-1,BMRADIO.DE - 24/7 The finest in Black Music
@@ -625,6 +597,8 @@ http://derhitsender2.stream.laut.fm/derhitsender2
 http://st01.dlf.de/dlf/01/128/mp3/stream.mp3
 #EXTINF:-1,DFM deep
 https://dfm-dfmdeep.hostingradio.ru/dfmdeep96.aacp
+#EXTINF:-1,di detroit house techno
+http://prem2.di.fm/detroithousentechno?df147c070a6e65c367db8d6b
 #EXTINF:-1,Die neue 107
 http://dieneue1077.cast.addradio.de/dieneue1077/oldie/high/stream.mp3?ar-purpose=web?ar-distributor=f0a5
 #EXTINF:-1,Die Neue 107.7 - OLDIES
@@ -1131,6 +1105,8 @@ http://streamlky.alsolnet.com:443/mantrafm
 https://martinique.ice.infomaniak.ch/martinique-128.mp3
 #EXTINF:-1,marusya FM
 http://radio-holding.ru:9000/marusya_default
+#EXTINF:-1,Masters of Hardcore Radio
+http://shoutcast3.hardcoreradio.nl/
 #EXTINF:-1,Mayak
 http://icecast.vgtrk.cdnvideo.ru:8000/mayakfm
 #EXTINF:-1,MCRADIO - La hit radio du massif central
@@ -1383,22 +1359,6 @@ http://regiocast.streamabc.net/regc-radiobobsouthernrock8560476-mp3-192-3976810?
 http://stream.laut.fm/radio_boogie-woogie
 #EXTINF:-1,Radio Brent
 https://patmos.cdnstream.com/proxy/radiobre/?mp=/stream
-#EXTINF:-1,Radio Brocken - 90er
-http://stream.radiobrocken.de/90er/mp3-256
-#EXTINF:-1,Radio Brocken - Best of
-http://stream.radiobrocken.de/bestof/mp3-256
-#EXTINF:-1,Radio Brocken - Chart-Hits
-http://stream.radiobrocken.de/chart-hits/mp3-256
-#EXTINF:-1,Radio Brocken - Kinderzeit
-http://stream.radiobrocken.de/kinderzeit/mp3-256
-#EXTINF:-1,Radio Brocken - Lovesongs
-http://stream.radiobrocken.de/love/mp3-256
-#EXTINF:-1,Radio Brocken - Osthits
-http://stream.radiobrocken.de/osthits/mp3-256
-#EXTINF:-1,Radio Brocken - Ü30 Partymix
-http://stream.radiobrocken.de/partymix/mp3-256
-#EXTINF:-1,Radio Brocken - Weihnachtsradio
-http://stream.radiobrocken.de/weihnachtsradio/mp3-256
 #EXTINF:-1,Radio C
 http://online.radioc.ru:8000/radioc
 #EXTINF:-1,Radio Caprice - Big Bands
@@ -1431,6 +1391,8 @@ http://sc2.radiocaroline.net:10558/
 http://sc2.radiocaroline.net:8000/;stream.mp3
 #EXTINF:-1,Radio centras
 https://transliacija.rc.lt/rc128.mp3
+#EXTINF:-1,Radio Centro Campania 
+https://eu7.fastcast4u.com/proxy/rcc0?mp=/1
 #EXTINF:-1,Radio Corax
 http://streaming.fueralle.org:8000/corax_256.mp3
 #EXTINF:-1,Radio DarkFire
@@ -1703,8 +1665,6 @@ http://tophits.radiomonster.fm/320.mp3
 https://radio.streemlion.com/radioprogram
 #EXTINF:-1,Radiosai global Harmony
 http://stream.radiosai.net:8008/
-#EXTINF:-1,RadioSEGA (HE-AAC v2)
-http://icecast.radiosega.net:8006/live
 #EXTINF:-1,radistudioplay
 http://studioplay.stream.laut.fm:8080/studioplay
 #EXTINF:-1,RADYO 7
@@ -1715,8 +1675,6 @@ http://46.20.4.42/pozitif/smil:voyage.smil/chunklist_w1740540301_b128000.m3u8
 https://wowza1.radyotvonline.com/saran/radyospor.stream/playlist.m3u8
 #EXTINF:-1,Rainwave Chiptunes
 http://allrelays.rainwave.cc/chiptune.mp3
-#EXTINF:-1,Rastapuls Reggae Music
-http://radio.rastapuls.com:8000/rastapuls
 #EXTINF:-1,Red FM Cork
 https://edge.audioxi.com/RED
 #EXTINF:-1,Regenbogen 2
@@ -1753,8 +1711,6 @@ https://listen.reyfm.de/raproyal_192kbps.mp3
 https://listen.reyfm.de/usrap_192kbps.mp3
 #EXTINF:-1,rfi
 http://live02.rfi.fr/rfimonde-32.mp3
-#EXTINF:-1,RFI Monde
-http://live02.rfi.fr/rfimonde-96k.mp3
 #EXTINF:-1,Rijnmond
 https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-mp3
 #EXTINF:-1,RMF 2 Pop
@@ -1817,20 +1773,10 @@ http://streams.rpr1.de/rpr-mainz-64-aac
 http://streams.rpr1.de/rpr-trier-64-aac
 #EXTINF:-1,rpsfm2
 https://listen.radioking.com/radio/230044/stream/273727
-#EXTINF:-1,RSA-Sachsen
-http://streams.rsa-sachsen.de/rsa-live/mp3-192/mediaplayerrsa
 #EXTINF:-1,RSH Live
 http://streams.rsh.de/rsh-live/mp3-128/streams.rsh.de
 #EXTINF:-1,RTL -  Deutschlands Hit-Radio
 https://stream.rtlradio.de/rtl-de-national/mp3-128/surfmusikDE/
-#EXTINF:-1,RTL - Deutschlands Hit-Radio
-http://stream.rtlradio.de/rtl-de-national/mp3-192
-#EXTINF:-1,RTL - Deutschlands Hit-Radio
-http://stream.rtlradio.de/rtl-de-national/aac-64
-#EXTINF:-1,RTL - Deutschlands Hit-Radio / Regional
-http://stream.rtlradio.de/rtl-de-ukw/aac-64
-#EXTINF:-1,RTL - Deutschlands Hit-Radio / Regional
-http://stream.rtlradio.de/rtl-de-ukw/mp3-192
 #EXTINF:-1,RTL Radio Lëtzebuerg
 http://sc-rtllive.newmedia.lu/;stream.nvs
 #EXTINF:-1,RTS La Première
@@ -1923,8 +1869,6 @@ http://socketfm.stream.laut.fm/socketfm
 http://stream.laut.fm/socketfm
 #EXTINF:-1,Soho Radio London - Music Channel
 https://sohoradiomusic.doughunt.co.uk:8010/320mp3
-#EXTINF:-1,Soulful House
-http://pub0101.101.ru:8000/stream/trust/mp3/128/184?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6Ijg0LjQxLjI1LjExMCIsInVzZXJhZ2VudCI6Ik1vemlsbGFcLzUuMCAoWDExOyBMaW51eCB4ODZfNjQpIEFwcGxlV2ViS2l0XC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWVcLzc5LjAuMzk0NS4xMTcgU2FmYXJpXC81MzcuMzYgT1BSXC82Ni4wLjM1MTUuMzYiLCJ1aWRfY2hhbm5lbCI6IjE4NCIsInR5cGVfY2hhbm5lbCI6ImNoYW5uZWwiLCJleHAiOjE1ODMxMDAyMzZ9.IgICK2wYPzAfqGfoK9e8vV_1qkmU7amL8qhyj3ZqMwU
 #EXTINF:-1,Sounds of the Sixties
 http://streams.fluxfm.de/60er/mp3-320/streams.de/play.m2u
 #EXTINF:-1,SpokoinoeRadio
@@ -1965,8 +1909,6 @@ http://svobodneradio.radioca.st:8859/;
 http://kmeathosting.com:8000/kymo2
 #EXTINF:-1,Tango Nuevo
 http://tango-nuevo.stream.laut.fm/tango-nuevo?t302=2026-11-17_00-53-44&uuid=7067ca1a-9973-4828-27e1-d44924d3b26a
-#EXTINF:-1,tequila fm
-http://necenzurat.radiotequila.ro:7000/stream
 #EXTINF:-1,Texas Blues - Radio Caprice
 http://79.111.14.76:8004/texasblues
 #EXTINF:-1,TF6

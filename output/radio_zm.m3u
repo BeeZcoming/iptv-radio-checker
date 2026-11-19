@@ -133,6 +133,8 @@ http://live.rcast.net:8768/;stream.mp3
 http://11233.cloudrad.io:9102/live
 #EXTINF:-1,Supreme Sports Radio
 https://custom-azura1.asurahosting.com/listen/ssradio_channel_2/radio.mp3
+#EXTINF:-1,Tuta Radio
+https://s11.myradiostream.com/24282/;?type=http&nocache=1791494215
 #EXTINF:-1,Urban FM Zambia
 https://stream.zeno.fm/b9angvotehftv
 #EXTINF:-1,Utuntu FM

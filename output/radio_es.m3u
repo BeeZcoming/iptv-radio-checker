@@ -111,8 +111,6 @@ http://streaming.enantena.com:8000/antenacaro128.mp3
 https://sonic.mediatelekom.net/9980/stream
 #EXTINF:-1,Antena Cemu Radio 89.2 FM
 http://str1.mediatelekom.net:8110/;
-#EXTINF:-1,Antena Huelva 97.3 FM
-http://stm1.emiteonline.com:8024/antenahuelva
 #EXTINF:-1,ANTENITA
 https://vps-9f1e2662.vps.ovh.net/antenitafm
 #EXTINF:-1,ApopcalipsisRadio
@@ -467,6 +465,8 @@ https://wecast-bl01.flumotion.com/copesedes/lacoruna.mp3
 https://wecast06-o-cloud.flumotion.com/copesedes/albacete.mp3
 #EXTINF:-1,COPE Alicante
 https://wecast-bl01.flumotion.com/copesedes/alicante.mp3
+#EXTINF:-1,COPE Asturias
+https://wecast-bl01.flumotion.com/copesedes/asturias.mp3
 #EXTINF:-1,Cope Carballiño
 http://radio.copecarballino.es:8000/directo.mp3
 #EXTINF:-1,COPE Cartagena
@@ -475,8 +475,6 @@ http://wecast20-h-cloud.flumotion.com/copesedes/cartagena.mp3
 https://sonic.mediatelekom.net/8448/;?type=http&nocache=107036
 #EXTINF:-1,Cope Granada
 http://flucast13-h-cloud.flumotion.com/cope/net1.mp3
-#EXTINF:-1,COPE Granada-Sta.Fe
-https://granada-copesedes-rrcast.flumotion.com/copesedes/granada-low.mp3
 #EXTINF:-1,COPE Málaga
 http://flucast26-h-cloud.flumotion.com/cope/net1.mp3
 #EXTINF:-1,COPE Más Santander
@@ -899,6 +897,8 @@ https://s.streampunk.cc/irola_irratia.mp3
 https://stream3.itacafm.com:8443/_a
 #EXTINF:-1,Italiana FM
 https://online.radioplayer.ua/RadioItaliana
+#EXTINF:-1,Jam 66
+https://eu4.fastcast4u.com/proxy/jam66?mp=/1
 #EXTINF:-1,Jamm FM Radio Costa del Sol
 https://stream.jammfmradio.com:8082/stream?sid=1
 #EXTINF:-1,Jarvis FM
@@ -1415,8 +1415,6 @@ https://server8.emitironline.com:9402/radio
 https://server8.emitironline.com:18593/stream
 #EXTINF:-1,pp
 https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/radio/media_0.m3u8
-#EXTINF:-1,punk irratia
-https://punkirratia.net:8443/punk
 #EXTINF:-1,PuntalRadio
 https://a5.asurahosting.com:6700/radio.mp3
 #EXTINF:-1,Pure Ibiza Radio
@@ -1671,6 +1669,8 @@ http://stream.zeno.fm/ra4a8ebe0rhvv
 https://s5.radio.co/s58f5759a4/listen
 #EXTINF:-1,Radio Hostafrancs 
 https://radiohostafrancs.cat/directe.mp3
+#EXTINF:-1,Radio Humor FM
+https://stream.radiohumorfm.com/stream
 #EXTINF:-1,Radio Ibizing
 https://a8.asurahosting.com:6850/radio.mp3
 #EXTINF:-1,Radio Intercontinental - Madrid
@@ -1873,6 +1873,8 @@ http://radioradio.es:8000/stream
 https://enacast.com/radiorapita/streams/SD
 #EXTINF:-1,Radio Red
 https://streams.radio.co/s450f67578/listen
+#EXTINF:-1,Radio Redondela
+https://stream.visualtec.host:8000/redondela.mp3
 #EXTINF:-1,Radio Relativa
 https://streamer.radio.co/sd6131729c/listen
 #EXTINF:-1,Radio Remember
@@ -2113,6 +2115,8 @@ https://rtvelivestream.rtve.es/rtvesec/rne/rne_r1_main.m3u8
 https://dispatcher.rndfnk.com/crtve/rne1/alm/mp3/high
 #EXTINF:-1,RNE Radio Nacional Cantabria
 https://dispatcher.rndfnk.com/crtve/rne1/ctb/mp3/high
+#EXTINF:-1,ROCK FM
+https://rockfm-cope-rrcast.flumotion.com/cope/rockfm-low.mp3
 #EXTINF:-1,Rock FM
 https://rockfm-cope.flumotion.com/playlist.m3u8
 #EXTINF:-1,Rock FM
@@ -2133,6 +2137,8 @@ https://stream.emisorasmusicales.net/radio/8060/rockstar.mp3
 https://stream.radio-pv.com/
 #EXTINF:-1,RTV Mogán
 https://streaming.elitecomunicacion.cloud:8334/stream
+#EXTINF:-1,RTVCE
+https://5924d3ad0efcf.streamlock.net/ceutaradio/ceutaradiolive/playlist.m3u8
 #EXTINF:-1,RTVE 24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1,Rumberos FM
@@ -2185,8 +2191,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_LUCENA
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SORIA.mp3
 #EXTINF:-1,SER Torrelavega
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_TORRELAVEGA.mp3
-#EXTINF:-1,SER Zaragoza
-https://zaragoza-copesedes-rrcast.flumotion.com/copesedes/zaragoza-low.mp3
 #EXTINF:-1,Sevilla FC Radio
 https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
 #EXTINF:-1,Shock FM

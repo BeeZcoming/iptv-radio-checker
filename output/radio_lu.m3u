@@ -43,21 +43,13 @@ http://stream.peitengonair.lu:9000/live
 https://uk1.listen2myradio.com:2199/listen.php?port=8312&type=s2&mount=/stream
 #EXTINF:-1,Radio RADIJACIJA
 https://a12.asurahosting.com/listen/radio_radijacija/radio.mp3
-#EXTINF:-1,RTL Die besten Hits aller Zeiten
-http://stream.rtlradio.de/rtl-de-beste-hits/aac-64
 #EXTINF:-1,RTL Gold
 https://live-edge.rtl.lu/radio/rtlgold/playlist.m3u8
 #EXTINF:-1,RTL Gold
 https://shoutcast.rtl.lu/rtlgold
-#EXTINF:-1,RTL Radio - Deutschlands Hit-Radio
-http://stream.rtlradio.de/rtl-de-national/mp3-192/
-#EXTINF:-1,RTL Radio - Die besten Hits aller Zeiten
-http://stream.rtlradio.de/rtl-de-beste-hits/mp3-192
 #EXTINF:-1,RTL Radio Lëtzebuerg
 https://live-edge.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
 #EXTINF:-1,RTL Radio Letzebuerg
 http://sc-rtllive.newmedia.lu/
-#EXTINF:-1,RTL Schlagerliebe
-http://stream.rtlradio.de/schlagerliebe/mp3-192/
 #EXTINF:-1,RTL Today
 https://shoutcast.rtl.lu/rtltodayradio

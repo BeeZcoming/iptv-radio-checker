@@ -121,6 +121,8 @@ http://stream.tujuh.my/proxy/rpmfm/stream
 https://stream.zeno.fm/0245ew03ekhvv
 #EXTINF:-1,Sabah FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/SABAH_FMAAC.aac
+#EXTINF:-1,Sabah Vfm 92.7
+https://playerservices.streamtheworld.com/api/livestream-redirect/SABAH_VFMAAC.aac
 #EXTINF:-1,Sinar FM
 https://n08a-eu.rcs.revma.com/azatk0tbv4uvv/8_1ksmof3jo7vso02/playlist.m3u8
 #EXTINF:-1,SkyChatzFM

@@ -65,6 +65,8 @@ http://server1.tnt.ba:9010/
 http://188.40.62.20:8070/;
 #EXTINF:-1,Novi Radio Bihać
 https://webtvstream.bhtelecom.ba/novi_radio_bihac.m3u8
+#EXTINF:-1,Običan Radio - Mostar 
+https://stream.leftor.com/proxy/obicanin/stream/;stream.mp3
 #EXTINF:-1,Pakao Radio
 https://securestream.pakaoradio.net/live
 #EXTINF:-1,patrisamato radio
@@ -155,6 +157,10 @@ https://radio.laktasiturizam.org/live
 https://s8.iqstreaming.com:8044/stream
 #EXTINF:-1,Radio M
 http://www.team-data.ba:8030/stream/
+#EXTINF:-1,Radio M Cafe
+https://team-data.ba:9032/play?sid=1&t=1781439858301
+#EXTINF:-1,Radio M plus
+https://team-data.ba:10000/stream
 #EXTINF:-1,Radio Magic
 http://stream.iradio.pro:8034/radiomagic
 #EXTINF:-1,Radio Magic Milići

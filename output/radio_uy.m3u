@@ -111,18 +111,16 @@ https://inolvidable-2.nty.uy/
 https://streaming3.hostingmontevideo.com:8074/stream
 #EXTINF:-1,FM La Ley
 https://streaming2.locucionar.com/proxy/laleyfm?mp=/stream
+#EXTINF:-1,FM Naturaleza 88.1
+http://stm.gmpro.top:7006/
 #EXTINF:-1,Galaxia FM 105.9
 https://stream-30.zeno.fm/bf4gt1pem0quv
 #EXTINF:-1,Horizonte - FM 106.3
 http://1063fm.ddns.net:8025/online
-#EXTINF:-1,Impacto FM - Fray Bentos
-https://a3.asurahosting.com:7740/radio.mp3
 #EXTINF:-1,Indie Pop en Español
 https://radioandres.mooo.com/stream
 #EXTINF:-1,INOLVIDABLE FM
 https://inolvidable-1.nty.uy/
-#EXTINF:-1,Kairos FM Uruguay
-https://panel.streamenviron.com:8264/radiokairos
 #EXTINF:-1,La Bottega Radio Online
 https://streaming6.locucionar.com:24048/stream
 #EXTINF:-1,La Clave Uruguay 92.9 FM
@@ -221,8 +219,6 @@ https://usa2.fastcast4u.com/proxy/wqzjjais?mp=/;
 https://medios.ciudaddigital.com.uy:18164/RioBranco
 #EXTINF:-1,Radio Rivera CX144 AM 1440
 http://usa15.ciudaddigital.com.uy:8060/RiveraAM
-#EXTINF:-1,Radio San Carlos
-http://198.49.65.43:10396/;
 #EXTINF:-1,Radio Señales
 https://s1.radiosenialesfm.com:8030/radio.mp3
 #EXTINF:-1,Radio Uno FM

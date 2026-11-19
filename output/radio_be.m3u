@@ -25,12 +25,8 @@ https://play.ajoinmusic.be/ajoinmusic.mp3
 https://antipodev2.dev.itsquared.be/antipodestream.mp3
 #EXTINF:-1,Arabel 106.8 Bruxelles, be
 http://arabelfm.ice.infomaniak.ch/arabelprodcastfm.mp3
-#EXTINF:-1,AudioDrama Radio
-https://fritske.be:8000/stream
 #EXTINF:-1,Be One - Xmas
 http://live.radiostudio.be/beonexmas
-#EXTINF:-1,Beiaard - Dendermonde, be
-http://beiaard.ddns.net:8066/;
 #EXTINF:-1,Bel RTL
 http://broadcast.infomaniak.ch/belrtl-mp3-192.mp3
 #EXTINF:-1,Bel RTL
@@ -151,6 +147,10 @@ http://s43.myradiostream.com:18192/
 http://geelfm.nsupdate.info:8080/geelfm.mp3
 #EXTINF:-1,Goeiedag Radio
 https://stream.goeiedagradio.be/
+#EXTINF:-1,GOLD FM
+https://onair.goldfm.be:8000/stream
+#EXTINF:-1,Gold FM
+http://stream.goldfm.be:1061/station.mp3
 #EXTINF:-1,Goldies Radio
 http://eu1.reliastream.com:7064/stream
 #EXTINF:-1,Gothville radio 
@@ -639,6 +639,10 @@ http://streams.movemedia.eu:8440/
 http://server7.radio-streams.net:8157/stream
 #EXTINF:-1,Rowyna Music (nw.strm)
 https://server7.radio-streams.net/proxy/rowynamu/stream
+#EXTINF:-1,RTBF Classic 21
+http://radio.rtbf.be/c21/aac-128/fl
+#EXTINF:-1,RTBF Mix
+http://radio.rtbf.be/mix/aac-128/fl
 #EXTINF:-1,scorpio
 https://stream.radioscorpio.be/stream
 #EXTINF:-1,Slow Radio
@@ -827,6 +831,10 @@ https://radio.xbeat.org/stream1
 https://streamingv2.shoutcast.com/yolo-life-is-like-a-dance
 #EXTINF:-1,YOUFM 106.9 Mons, be
 http://youfm.ice.infomaniak.ch/youfm-96
+#EXTINF:-1,Zen Garden (myNoise Radio)
+http://zengarden.radio.mynoise.net/
+#EXTINF:-1,Zen Garden (myNoise Radio)
+https://zengarden-mynoise.radioca.st/stream
 #EXTINF:-1,ZenFm
 http://str.topradio.be/zenfm.mp3
 #EXTINF:-1,ZOE.radio

@@ -81,8 +81,6 @@ http://radio-stream.cmc.com.hr:8090/autodj
 http://radio-stream.cmc.com.hr:8030/autodj
 #EXTINF:-1,CMC Radio
 https://radio-stream.cmc.com.hr:9011/live
-#EXTINF:-1,CMC Rock
-http://radio-stream.cmc.com.hr:8060/autodj
 #EXTINF:-1,CMC Tambure
 http://radio-stream.cmc.com.hr:8050/autodj
 #EXTINF:-1,CMC Zabavni
@@ -399,8 +397,6 @@ http://comet.shoutca.st:8050/
 https://slusaj.hr:10445/stream?type=http&nocache=634
 #EXTINF:-1,Radio Orahovica
 https://ec2s.crolive.com.hr:2595/stream
-#EXTINF:-1,Radio Otok Krk
-https://s8.iqstreaming.com:8014/stream
 #EXTINF:-1,Radio Prkos
 http://eu7.fastcast4u.com:6124/stream
 #EXTINF:-1,Radio Quirinus 91.7
@@ -441,6 +437,8 @@ https://cast5.asurahosting.com/proxy/tvornica_main/stream
 https://s8.iqstreaming.com:2020/stream/rvg
 #EXTINF:-1,Radio Vinkovci
 https://onlineradiobox.com/json/hr/vinkovci/play?platform=web
+#EXTINF:-1,Radio Zagora
+https://azuracast.myautodj.com/listen/radio_zagora/radio.mp3
 #EXTINF:-1,Radio Zelina
 https://ec2s.crolive.com.hr:1690/stream
 #EXTINF:-1,Radio Zlatar

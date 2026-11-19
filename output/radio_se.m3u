@@ -31,8 +31,6 @@ https://sc.dansbandsradio.se/dbr64.aac
 http://icy.aweradio.app/delusions/music
 #EXTINF:-1,Dunken FM
 http://stream.nsp.se:8000/DFM_AAC_Hi
-#EXTINF:-1,Dunken FM
-http://stream.nsp.se:8000/DFM_MP3_Hi
 #EXTINF:-1,ericade.radio
 https://radio.ericade.net/sc/stream/1/
 #EXTINF:-1,FUN RADIO 95,3 Sweden
@@ -179,8 +177,6 @@ https://radio.mediarosenqvist.com/listen/radio-uppsala/radio.mp3
 https://streaming.943.se/radio45
 #EXTINF:-1,Radioapans knattekanal (aac-320)
 https://live1.sr.se/knattekanalen-aac-320
-#EXTINF:-1,Redback Radio
-https://redback.mywire.org/stream.mp3
 #EXTINF:-1,REPLAY NEWS - Svenska
 https://replaynewsse.ice.infomaniak.ch/replaynewsse-128.mp3
 #EXTINF:-1,Retreat Radio

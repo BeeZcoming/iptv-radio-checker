@@ -207,6 +207,8 @@ https://radio9.pro-fhi.net/flux-endvtlna/stream
 https://radio8.pro-fhi.net/flux-sinllzly/stream
 #EXTINF:-1,Algorythme Radio
 https://radio3.pro-fhi.net/flux-ejzloxke/stream
+#EXTINF:-1,Algorythme UK Garage
+https://ukg.algorythmeradio.com/stream
 #EXTINF:-1,Allzic Africa
 http://allzic49.ice.infomaniak.ch/allzic51.mp3
 #EXTINF:-1,Allzic Classic Piano
@@ -375,8 +377,6 @@ http://amigaparadise.com:8000/amigaparadise.mp3
 https://stream.revma.ihrhls.com/zc9419/hls.m3u8
 #EXTINF:-1,Antxeta irratia
 https://streaming.antxetamedia.eus:8443/antxeta1
-#EXTINF:-1,Ariane Web Radio
-https://radio.de-lussigny.com/listen/guy-de-lussigny/radio.mp3
 #EXTINF:-1,ARL - Aquitaine Radio Live
 http://n38a-eu.rcs.revma.com/rxdsv41g88hvv
 #EXTINF:-1,Arvorig FM
@@ -699,6 +699,8 @@ https://streaming.nrjaudio.fm/ouq5r7yoeo8p
 https://streaming.nrjaudio.fm/ouhscyapu6pb
 #EXTINF:-1,Chérie FM Lens
 https://streaming.nrjaudio.fm/ouamznw2dqao
+#EXTINF:-1,Chérie FM Lille
+https://streaming.nrjaudio.fm/ou769xf3s5gi
 #EXTINF:-1,Chérie FM Limoges
 https://streaming.nrjaudio.fm/ou62rsxp336f
 #EXTINF:-1,Chérie FM Lons-le-Saunier
@@ -711,6 +713,8 @@ https://streaming.nrjaudio.fm/ougocfrb92oc
 https://streaming.nrjaudio.fm/ousgzkm4z85f
 #EXTINF:-1,Chérie FM Marseille
 https://streaming.nrjaudio.fm/ouy57k36zcw2
+#EXTINF:-1,Chérie FM Martinique
+http://2stream.dyndns.org:8000/cheriefmmq
 #EXTINF:-1,Chérie FM Metz
 https://streaming.nrjaudio.fm/ou5kjbirv93h
 #EXTINF:-1,Chérie FM Montbelliard
@@ -721,8 +725,6 @@ https://streaming.nrjaudio.fm/oumr948fnozc
 https://streaming.nrjaudio.fm/ouw83osk6j4d
 #EXTINF:-1,Chérie FM Montpellier
 https://streaming.nrjaudio.fm/ou4wikhtd2ko
-#EXTINF:-1,Chérie FM Nantes
-https://streaming.nrjaudio.fm/ouhsczapu6pb
 #EXTINF:-1,Chérie FM Narbonne
 https://streaming.nrjaudio.fm/ouqudjyoeo8p
 #EXTINF:-1,Chérie FM Nice
@@ -759,8 +761,6 @@ https://streaming.nrjaudio.fm/ou3c87uizv6i
 https://streaming.nrjaudio.fm/oupqhgbgddr9
 #EXTINF:-1,Chérie FM Roanne
 https://streaming.nrjaudio.fm/ouotm27nfibk
-#EXTINF:-1,Chérie FM Rodez
-https://streaming.nrjaudio.fm/outdrn6ubafg
 #EXTINF:-1,Chérie FM Rouen
 https://streaming.nrjaudio.fm/ou2jf5pw5hs7
 #EXTINF:-1,Chérie FM Sablé-sur-Sarthe
@@ -1625,8 +1625,6 @@ http://frequencek.ice.infomaniak.ch/frequencek-64.aac
 http://frequencek.ice.infomaniak.ch/frequencek-128
 #EXTINF:-1,Frequence Luz
 https://stream-ssl.radios-arra.fr:8443/frequenceluz
-#EXTINF:-1,Fréquence Mutine
-http://icecast.infini.fr:8000/mutine
 #EXTINF:-1,Frequence Paris Plurielle FPP
 https://direct.rfpp.net/fpp.mp3
 #EXTINF:-1,Fréquence Plus
@@ -2695,8 +2693,6 @@ https://maritima936.ice.infomaniak.ch/maritima936-128.mp3
 http://maritima936.ice.infomaniak.ch/maritima936-128.mp3
 #EXTINF:-1,MATHIS FM
 https://mathis-fm-le-meilleur-radio.stream.laut.fm/mathis-fm-le-meilleur-radio?uuid=ff6402c7-3475-6a18-eee7-ca47a59eda48&t302=2026-11-17_05-16-56
-#EXTINF:-1,Maurice Radio Libre
-https://radio13.pro-fhi.net/live/MauriceRadioLibre
 #EXTINF:-1,Max Radio Grenoble
 https://maxfm.ice.infomaniak.ch/maxfm-945.mp3
 #EXTINF:-1,Maxi 80
@@ -3591,12 +3587,6 @@ https://puma.streemlion.com:5505/stream
 https://api.cuberadio.fr/play
 #EXTINF:-1,Only Radio
 https://flux.onlyradio.fr/live
-#EXTINF:-1,Open Sky
-https://audio.opensky.radio:8082/stream
-#EXTINF:-1,Open Sky (128kbps mp3, "HD")
-https://audio.opensky.radio:8082/stream128
-#EXTINF:-1,Opensky (flac)868kb
-https://audio.opensky.radio:8082/flac?_res_tag_=audio
 #EXTINF:-1,Ouest FM Guyane
 http://srv2.streaming-ingenierie.fr:8162/;
 #EXTINF:-1,Ouest Track Radio
@@ -3677,10 +3667,6 @@ http://str0.creacast.com/oxy-montereau
 https://radio.oxnya-group.com/listen/oxnya_radio/radio.mp3?t=1793531824292
 #EXTINF:-1,OZ FM
 https://ozfm.streamb.live/SB00174?ver=460097
-#EXTINF:-1,OZ Tarkan Radio
-https://eu8.fastcast4u.com/proxy/oztarkan/stream
-#EXTINF:-1,OZ Tarkan Radio
-https://eu8.fastcast4u.com/proxy/oztarkan?mp=/stream
 #EXTINF:-1,Oz'Ondes
 https://radio2.pro-fhi.net/live/OzOndes%20FM
 #EXTINF:-1,Paroles et Musique
@@ -3807,6 +3793,8 @@ https://publichealthradioar.ice.infomaniak.ch/publichealthradioar-128.mp3
 https://publichealthradiode.ice.infomaniak.ch/publichealthradiode-128.mp3
 #EXTINF:-1,Public Health Radio Espanol
 https://publichealthradioes.ice.infomaniak.ch/publichealthradioes-128.mp3
+#EXTINF:-1,Public Health Radio Italiano
+https://publichealthradioit.ice.infomaniak.ch/publichealthradioit-128.mp3
 #EXTINF:-1,Public Health Radio Polish
 https://publichealthradiopl.ice.infomaniak.ch/publichealthradiopl-128.mp3
 #EXTINF:-1,Public Health Radio Portugues
@@ -4065,8 +4053,6 @@ http://mixie.fr:8000/radiocraponne
 http://stream.inovacast.fr:8888/stream
 #EXTINF:-1,RADIO DANCE années 90
 https://radiodance.streamingmedia.it/fr.aac
-#EXTINF:-1,Radio de la Save
-https://sd-151888.dedibox.fr/proxy/radiodelasave/rdls
 #EXTINF:-1,Radio de Noël 
 https://stream1.jupinfo.fr:8443/radiodenoel
 #EXTINF:-1,Radio Deep Space
@@ -4297,8 +4283,6 @@ http://5.39.71.39:8004/stream
 http://dreamsiteradiocp2.com:8110/stream
 #EXTINF:-1,Radio Maria France
 http://dreamsiteradiocp4.com:8056/
-#EXTINF:-1,Radio Marseillette
-https://rcast.pro-fhi.net:9006/stream
 #EXTINF:-1,Radio Mavoix Digital
 https://radio.mavoixdigital.pro/flux/mavoix.mp3
 #EXTINF:-1,Radio MBS
@@ -4473,8 +4457,6 @@ http://91.121.59.45:8169/rcu
 https://stream10.vestaradio.com/RadioReel
 #EXTINF:-1,Radio Rempart
 https://radio.pro-fhi.net:19112/;stream1
-#EXTINF:-1,Radio Rencontre Dunkerque
-https://listen.radioking.com/radio/153745/stream/194338
 #EXTINF:-1,Radio Rennes
 https://stream4.vestaradio.com/RADIORENNES
 #EXTINF:-1,Radio RMB
@@ -4779,6 +4761,8 @@ https://replaynewssport.ice.infomaniak.ch/replaynewssport-128.mp3
 https://replaynewsstory.ice.infomaniak.ch/replaynewsstory-128.mp3
 #EXTINF:-1,Retro Souvenirs Radio
 https://listen.radioking.com/radio/108/stream/890
+#EXTINF:-1,RFI Afrique
+http://live02.rfi.fr/rfiafrique-64.mp3
 #EXTINF:-1,RFI Anglais - English
 http://live02.rfi.fr/rfienanglais-64.mp3
 #EXTINF:-1,RFI Musique
@@ -4793,8 +4777,6 @@ https://rfienportugais64k.ice.infomaniak.ch/rfienportugais-64.mp3
 http://live02.rfi.fr/rfienrusse-64.mp3
 #EXTINF:-1,RFI Russia
 https://rfiukraine.ice.infomaniak.ch/rfiukraine-96.mp3
-#EXTINF:-1,RFI Tieng Viet
-http://live02.rfi.fr/rfivietnamien-96k.mp3
 #EXTINF:-1,RFI-Afrique
 http://live02.rfi.fr/rfiafrique-96k.mp3
 #EXTINF:-1,RFI-Chinese
@@ -4835,8 +4817,6 @@ http://haute-tension.ice.infomaniak.ch/haute-tension-high.aac
 http://haute-tension.ice.infomaniak.ch/haute-tension-high.mp3
 #EXTINF:-1,RIG
 https://stream.rigfm.fr/listen/rigfm/rigfm-320
-#EXTINF:-1,Ringard Willycat
-https://listen.radioking.com/radio/441272/stream/495536
 #EXTINF:-1,Rinse France
 https://radio10.pro-fhi.net/radio/9041/stream
 #EXTINF:-1,Rire & Chansons 3 Ans de Rire
@@ -4851,8 +4831,6 @@ https://streaming.nrjaudio.fm/ouukrq5n3nje
 https://streaming.nrjaudio.fm/ouhmszapu6pb
 #EXTINF:-1,Rire & Chansons Duos
 https://streaming.nrjaudio.fm/ourf7gvukkaq
-#EXTINF:-1,Rire & Chansons Florence Foresti
-https://streaming.nrjaudio.fm/oumof78fnozc
 #EXTINF:-1,Rire & Chansons Futurs Talents
 https://streaming.nrjaudio.fm/ousvdfm4z85f
 #EXTINF:-1,Rire & Chansons Gad Elmaleh
@@ -4893,6 +4871,8 @@ https://stream.rjrradio.fr/rjr.ogg
 https://stream.rjrradio.fr/rjr.mp3
 #EXTINF:-1,RJR (Radio Jeunes Reims)
 https://stream.rjrradio.fr/rjr.aac
+#EXTINF:-1,RLF, Radio Loire Forez
+https://rlf-laplusbelleplaylist.ice.infomaniak.ch/radiorlf.mp3
 #EXTINF:-1,RLM Bastia
 https://listen.radioking.com/radio/653326/stream/719476
 #EXTINF:-1,Rlocale Radio
@@ -5225,9 +5205,7 @@ https://azuracast.mahoro-net.org/listen/tsumugi/radio.mp3
 #EXTINF:-1,TT Node
 http://stream.p-node.org/dab.mp3
 #EXTINF:-1,TürkVox Radio
-https://radiomixia.fr/stream/mixia.mp3
-#EXTINF:-1,Ulia.radio
-https://audio.opensky.radio:8082/stream96
+https://turkvox.eu/stream/turkvox.mp3
 #EXTINF:-1,Unfazed OnAir
 https://srv.webradiomanager.fr:1045/stream
 #EXTINF:-1,Universal Health Radio (Français)

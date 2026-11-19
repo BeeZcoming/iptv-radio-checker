@@ -49,14 +49,10 @@ https://stream.zeno.fm/fu24r3f24c9uv
 https://a6.asurahosting.com:6540/radio.mp3
 #EXTINF:-1,702 Dzas
 http://sg-icecast.eradioportal.com:8000/febc_dzas
-#EXTINF:-1,89.1 LOVE FM
-https://eu8.fastcast4u.com/proxy/lovefmradio?mp=/1&1729057858413
 #EXTINF:-1,89.3 Beat FM Bunal
 https://stream.surfernetwork.com/aw84t8xe66ivv
 #EXTINF:-1,89.5 DWIZ EASTERN VISAYAS TACLOBAN
 https://stream.zeno.fm/ug8mkqpr7jtvv
-#EXTINF:-1,89.5 Subic Bay Radio
-http://143.44.245.11:8080/895subicbay.mp3
 #EXTINF:-1,90.5 Hot FM Baguio
 http://148.251.43.149:8675/stream
 #EXTINF:-1,90.7 Birada Fm Claver
@@ -135,16 +131,24 @@ https://stream3.awr.live/listen/adventist_radio_southph/radio.mp3
 http://192.53.113.120:8000/stream
 #EXTINF:-1,Aksyon Radyo Bacolod
 http://176.9.104.253:8095/stream
+#EXTINF:-1,Aksyon Radyo Catarman
+http://comet.shoutca.st:8165/stream
+#EXTINF:-1,Aksyon Radyo Catbalogan
+http://195.201.166.244:8149/stream
 #EXTINF:-1,Aksyon Radyo Cebu
 http://5.9.13.39:8110/stream
 #EXTINF:-1,Aksyon Radyo Cebu
 https://a9.asurahosting.com:8260/radio.mp3
 #EXTINF:-1,Aksyon Radyo Davao
 http://5.9.13.39:8140/stream
+#EXTINF:-1,Aksyon Radyo Iloilo
+http://148.251.43.149:8213/stream
 #EXTINF:-1,Aksyon Radyo La Union
 http://176.9.76.61:8004/stream
 #EXTINF:-1,Aksyon Radyo Laoag
 http://5.9.13.39:8136/stream
+#EXTINF:-1,Aksyon Radyo Pangasinan
+http://148.251.43.149:8238/stream
 #EXTINF:-1,Aksyon Radyo Tacloban
 http://142.4.216.144:8279/stream
 #EXTINF:-1,Aljem Magdula
@@ -260,6 +264,8 @@ https://stream.zeno.fm/1etogiwypoztv
 http://stream.zenolive.com/a0zn713mz9duv
 #EXTINF:-1,Bombo Radyo Tacloban
 https://stream.zeno.fm/e8zw1dg0xy5tv
+#EXTINF:-1,Bombo Radyo Tuguegarao
+https://stream.zenolive.com/w8pcsam29heuv
 #EXTINF:-1,Bombo Radyo Vigan
 http://stream.zenolive.com/wg8yn4cnz9duv
 #EXTINF:-1,Boracay Beach Radio
@@ -350,6 +356,10 @@ http://18.141.67.248:8076/stream/1/
 https://siargaostream.brigadanews.ph/
 #EXTINF:-1,Brigada News FM Tagum
 https://tagumstream.brigadanews.ph/
+#EXTINF:-1,Brigada News FM Toledo
+http://18.141.67.248:8036/stream/1/
+#EXTINF:-1,Brigada News FM Toledo
+https://toledostream.brigadanews.ph/
 #EXTINF:-1,Brigada News FM Trento
 https://trentostream.brigadanews.ph/
 #EXTINF:-1,Brigada News FM Valencia
@@ -510,8 +520,6 @@ https://ewtn-sgrewind.streamguys1.com/sgrewind/philippines/playlist.m3u8
 https://ewtn-ice.streamguys1.com/philippines-aac
 #EXTINF:-1,Exotica Radio
 https://www.exotica.radio/stream/radio-browser
-#EXTINF:-1,Extreme Online Radio
-https://stream.zeno.fm/s7vpxyv9gv8uv?t=1779627154371
 #EXTINF:-1,Extreme Online Radio 2
 https://ca.azura.linkodev.ch/listen/extreme_online_radio_2/radio.mp3
 #EXTINF:-1,Extreme radio
@@ -602,6 +610,8 @@ https://icecast.theanchor.app/ibcd
 https://cast3.asurahosting.com/proxy/idmzsayawpinoy/stream
 #EXTINF:-1,Idol FM 105.5 Naga
 https://edge.mixlr.com/channel/gtqpn?listening-from-radio-garden=1654604184
+#EXTINF:-1,iFM Baguio
+http://livestream.rmn.ph:8000/ifmbaguio
 #EXTINF:-1,iFM Dagupan
 http://livestream.rmn.ph:8000/ifmdagupan
 #EXTINF:-1,iFM Iloilo
@@ -650,8 +660,6 @@ http://209.126.124.126:8846/stream
 http://209.126.124.126:8647/stream
 #EXTINF:-1,K5 News FM San Carlos
 http://209.126.124.126:8590/stream
-#EXTINF:-1,K5 News FM Siaton
-http://209.126.124.126:8632/stream
 #EXTINF:-1,K5 News FM Tacloban
 http://209.126.124.126:8788/stream
 #EXTINF:-1,Kaboses Teleradyo
@@ -882,6 +890,8 @@ https://drive.uber.radio/uber/boomerang1990s/icecast.audio
 http://148.72.153.65:9265/live
 #EXTINF:-1,Prime FM Tagalog
 http://148.72.153.65:9268/stream
+#EXTINF:-1,Pure Depeche Mode
+https://soundtouch.tailb8e360.ts.net:8443/radio.aac
 #EXTINF:-1,R597
 https://stream3.hornhost.com:8136/stream
 #EXTINF:-1,R6 News FM
@@ -1126,8 +1136,6 @@ https://us1.amfmph.com/ssl/rmniloilo?mp=/stream
 http://209.126.124.126:8011/stream
 #EXTINF:-1,RMN Tacloban
 https://livestream.rmn.ph/rmntacloban
-#EXTINF:-1,RPN DXDX GenSan
-http://88.198.70.25:8952/stream
 #EXTINF:-1,RPN DXKO Cagayan de Oro
 http://88.198.70.25:8960/stream
 #EXTINF:-1,RPN DXKS Surigao
@@ -1144,8 +1152,6 @@ http://88.198.70.25:8169/stream
 http://dwizmanila.radioca.st:9079/stream
 #EXTINF:-1,RPN DZRL Batac
 http://88.198.70.25:8956/stream
-#EXTINF:-1,RTG FM ㋡
-https://regiocast.streamabc.net/regc-radiobobmetalcore1855704-mp3-192-1809267?sABC=67sn43rs%231%23ahyy%23ubzrcntr_jnpxra&mode=preroll&aw_0_1st.skey=1744454636&cb=424203436&listenerid=null&aw_0_1st.playerid=homepage_wacken&amsparams=playerid:homepage_wacken;skey:1744454639?.mp3;audio.mp3
 #EXTINF:-1,San Jose City Hottest Online Radio
 https://usa13.fastcast4u.com/proxy/itunerworldwide?mp=/1
 #EXTINF:-1,SANIB PWERSA 101.7 YLFM & 90.5 HFM

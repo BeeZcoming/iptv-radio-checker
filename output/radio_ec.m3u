@@ -131,6 +131,8 @@ https://streamingecuador.com:7030/stream?1657848016283
 http://190.57.161.179:8000/stream
 #EXTINF:-1,Radio Andina
 https://grupomundodigital.com:8580/stream
+#EXTINF:-1,RADIO ANTENA SUR 89.5FM (LA SEñAL DE ORO DESDE PONCE ENRIQUEZ(
+https://grupomundodigital.com:8504/antenashd
 #EXTINF:-1,Radio Armonía 100.1 FM
 https://radiohdstreaming.com/radio/8040/armonia
 #EXTINF:-1,Radio Atenas
@@ -151,6 +153,8 @@ https://canelaradio.makrodigital.com/stream/canelaradiocuenca
 https://canelaradio.makrodigital.com/stream/canelaradiochimborazo
 #EXTINF:-1,Radio Canela El Oro 100.7 FM
 https://canelaradio.makrodigital.com/stream/canelaradiomachala
+#EXTINF:-1,Radio Canela Guayas 90.5 FM
+https://canelaradio.makrodigital.com/stream/canelaradioguayaquil
 #EXTINF:-1,Radio Canela Imbabura 92.7 FM
 https://canelaradio.makrodigital.com/stream/canelaradioibarra
 #EXTINF:-1,Radio Canela Manabí 102.5 FM

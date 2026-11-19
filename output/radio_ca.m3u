@@ -115,6 +115,8 @@ https://stream.zeno.fm/97qzdqafuqzuv
 https://vistaradio.streamb.live/SB00385
 #EXTINF:-1,97.7 htz-fm
 https://29318.live.streamtheworld.com/CHTZFMAAC.aac?tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=909a491d-9ba0-49d0-f692-b63f1c429553
+#EXTINF:-1,98.5 CKWR Real Community Radio
+https://stream2.statsradio.com:8150/stream
 #EXTINF:-1,98.5 FM Montreal
 https://14133.live.streamtheworld.com/CHMPFMAAC/HLS/playlist.m3u8
 #EXTINF:-1,98.5 fm.ca
@@ -175,6 +177,10 @@ https://audiofumes.ca:8443/AudiofumesRadio
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
 #EXTINF:-1,AzStarTV
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
+#EXTINF:-1,AZUR7 Jazz
+https://webradio.azur7.pro/jazz
+#EXTINF:-1,AZUR7 Pulse
+https://webradio.azur7.pro/pulse
 #EXTINF:-1,Beach Booster Radio - Wasaga Beach, ON
 http://us3.streamingpulse.com:8082/stream
 #EXTINF:-1,Beach Paradise Radio
@@ -683,6 +689,8 @@ https://securestreams6.autopo.st:2111/?1731303876903=
 http://chma-nicecast.mta.ca:8000/listen
 #EXTINF:-1,CHMB AM1320 Mainstream Broadcasting Corporation
 http://n05.radiojar.com/nugqupcv8qzuv?1611015943=&rj-tok=AAABdxgRmqYARTfy-oDrHGtfeA&rj-ttl=5
+#EXTINF:-1,CHMB FM1320华侨之声网络音乐台
+https://stream.radiojar.com/60sqadqu97zuv.mp3
 #EXTINF:-1,CHME-FM 94.9 Les Escoumins, QC
 http://149.56.234.138:8278/stream
 #EXTINF:-1,CHMK 93.1 Manawan
@@ -729,6 +737,8 @@ http://icecast-choi.rncm.ca/choi.mp3
 https://streamer.radio.co/s66f2626b4/listen
 #EXTINF:-1,CHOK 103.9 FM & 1070 AM  "Country CHOK" Sarnia, ON  (AAC Stream)
 http://live.leanstream.co/CHOKAM
+#EXTINF:-1,CHOK 103.9 FM & 1070 AM  "Country CHOK" Sarnia, ON  (MP3 Stream)
+http://live.leanstream.co/CHOKAM-MP3
 #EXTINF:-1,CHOM 97.7 Montréal
 https://rogers-hls.leanstream.co/rogers/chomfm.stream/playlist.m3u8
 #EXTINF:-1,CHOO-FM "Boom 99.5" Drumheller, AB
@@ -853,6 +863,8 @@ https://stream2.statsradio.com:8130/stream
 https://ais-sa1.streamon.fm/7176_32k.aac/playlist.m3u8
 #EXTINF:-1,CIDG-FM "Rebel Rock101.7" Ottawa, ON
 https://torres-media.streamb.live/SB00189
+#EXTINF:-1,CIDI-FM 99.1 Knowlton, QC
+http://s2.radioservers.biz:9998/;stream
 #EXTINF:-1,CIFA 104.1 FM
 https://stream2.statsradio.com:8080/stream
 #EXTINF:-1,CIFM-FM 98.3 Kamloops, BC
@@ -973,8 +985,14 @@ http://137.82.188.97:8000/live.mp3
 http://live.citr.ca:8000/live.mp3
 #EXTINF:-1,CityNews 101.1 Ottawa  
 https://rogers-hls.leanstream.co/rogers/ott1011.stream/icy?environment=tunein&args=tunein_01
+#EXTINF:-1,CityNews 570 Kitchener
+https://rogers-hls.leanstream.co/rogers/kit570.stream/icy?environment=tunein&args=tunein_01
+#EXTINF:-1,CityNews 95.7 Halifax
+http://rogers-hls.leanstream.co/rogers/hal957.stream/icy?environment=tunein&args=tunein_01
 #EXTINF:-1,CityNews Toronto
 https://rogers-hls.leanstream.co/rogers/tor680.stream/icy?environment=tunein&args=tunein_01
+#EXTINF:-1,CityNews Vancouver
+https://rogers.leanstream.co/rogers/van1130.stream/icy?environment=tunein&args=tunein_01
 #EXTINF:-1,CIUP-FM "Up 99.3" Edmonton, AB  
 https://stream.jpbgdigital.com/CIUP.m3u8
 #EXTINF:-1,CIUR-FM "Now Country 104.7" Winnipeg, MB
@@ -1029,8 +1047,6 @@ https://goldenwest.leanstream.co/goldenwest/CJAWFM.stream/playlist.m3u8
 https://rogers-hls.leanstream.co/rogers/van969.stream/playlist.m3u8
 #EXTINF:-1,CJBB 103.1 "Ranch Country" Englehart, ON
 https://ice10.securenetsystems.net/CJBB
-#EXTINF:-1,CJBP-FM "CJ 97.1"  Neepawa, MB
-http://dns4.83north.ca:8000/cjbp.mp3
 #EXTINF:-1,CJBQ 800 Belleville, ON
 http://live.leanstream.co/CJBQAM-MP3
 #EXTINF:-1,CJBZ-FM 93.3."B-93" Lethbridge, AB
@@ -1151,8 +1167,6 @@ http://live.leanstream.co/CJOBAM-MP3
 https://vistaradio.streamb.live/SB00093
 #EXTINF:-1,CJOK "Country 93.3" Fort McMurray, AB
 https://rogers-hls.leanstream.co/rogers/for933.stream/playlist.m3u8
-#EXTINF:-1,CJOY 1460 "Greatest Hits" Guelph, ON
-http://live.leanstream.co/CJOYAM
 #EXTINF:-1,CJPB-FM 90.7 "La Voix de St-Lo" Saint-Laurent, QC 
 https://listen.radioking.com/radio/11310/stream/22574
 #EXTINF:-1,CJPG-FM "Mix 96.5" Portage la Prairie, MB   
@@ -1199,8 +1213,6 @@ https://goldenwest.leanstream.co/CJSLAM
 https://vin-live2-ais-relay1.leanstream.co/goldenwest/CJSLAM.stream/playlist.m3u8
 #EXTINF:-1,CJSN 1490 Shaunavon, SK
 https://vin-live2-ais-relay1.leanstream.co/goldenwest/CJSNAM.stream/playlist.m3u8
-#EXTINF:-1,CJSP/CJWF "Windsor's Country 95.9 & 92.7" Leamington, ON
-http://live.leanstream.co/CJWFFM
 #EXTINF:-1,CJSR 88.5 University of Alberta, Edmonton, AB
 http://cjsr.streamon.fm:8000/CJSR-24k.aac
 #EXTINF:-1,CJSU-FM 89.7 "Sun FM" Duncan, BC
@@ -1307,8 +1319,6 @@ http://mbsradio.leanstream.co/CKCWFM-MP3
 http://mbsradio.leanstream.co/CKDHFM-MP3
 #EXTINF:-1,CKDJ "AIR-AM 1700" Algonquin College-Ottawa, ON 
 https://live.leanstream.co/AIR1700
-#EXTINF:-1,CKDJ 107.9 Algonquin College, Ottawa
-http://live.leanstream.co/CKDJFM-MP3?tunein
 #EXTINF:-1,CKDJ-FM 107.9 Algonquin College, Ottawa, ON (AAC Stream)
 https://live.leanstream.co/CKDJFM
 #EXTINF:-1,CKDJ-FM 107.9 Algonquin College, Ottawa, ON (MP3 Stream) 
@@ -1547,10 +1557,6 @@ https://centova.radioservers.biz/proxy/cktpradi/stream
 https://ais-sa1.streamon.fm/7000_64k.mp3
 #EXTINF:-1,CKUA Radio Network
 https://ais-sa1.streamon.fm/7000_48k.aac
-#EXTINF:-1,CKUE "Cool 95.1" Chatham, ON
-http://live.leanstream.co/CKUEFM
-#EXTINF:-1,CKUE-FM2 "Cool 100.7" Windsor, ON
-http://live.leanstream.co/CKUEF2
 #EXTINF:-1,CKUL "Mix 96.5" Halifax, NS
 http://newcap.leanstream.co/CKULFM
 #EXTINF:-1,CKUT 90.3 FM
@@ -2257,14 +2263,8 @@ https://s5.radio.co/sec326ff8a/listen
 https://playerservices.streamtheworld.com/api/livestream-redirect/CBFFM_SRC.mp3
 #EXTINF:-1,radio.reorg
 https://stream.radio.reorg.dev/listen/radio.reorg/radio.mp3
-#EXTINF:-1,RadioInternet.ca
-https://eu8.fastcast4u.com/proxy/radiointernet/stream
 #EXTINF:-1,RadioProgram
 http://radio.streemlion.com:2190/radioprogram
-#EXTINF:-1,RadioSEGA (MP3 LQ)
-https://icecast.radiosega.net/rs-mpeg.mp3
-#EXTINF:-1,RadioSEGA (Opus LQ)
-https://icecast.radiosega.net/rs-opus-low.ogg
 #EXTINF:-1,RadioSky Music Jazz
 http://jazz.radioskymusic.com:7006/live
 #EXTINF:-1,RadioSkyMusic Jazz

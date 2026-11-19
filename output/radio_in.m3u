@@ -19,6 +19,8 @@ https://centova.aarenworld.com/proxy/894tamilfm/stream
 https://stream.zeno.fm/tqnws2eafwzuv.aac
 #EXTINF:-1,93.5 jamshedpur
 https://stream-281.surfernetwork.com/9phrkb1e3v8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5cGhya2IxZTN2OHV2IiwiaG9zdCI6InN0cmVhbS0yODEuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJIc2hqLVN5dVJoMm5ZZ0Fvbi1Fbm13IiwiaWF0IjoxNzkzMTE2MDcxLCJleHAiOjE3OTMxMTYxMzF9.NyLqCeI1zRJzbG5WcSSBHDNUC07p0mSR-O9hsmopGUk
+#EXTINF:-1,986 FM Malayalam ( Added By Hari krishnan)
+https://stream.qfmradio.qa/986fm
 #EXTINF:-1,986malayalamradio
 https://stream.zeno.fm/512rbf1e3qzuv
 #EXTINF:-1,a9radionewhits
@@ -53,8 +55,6 @@ https://stream-179.surfernetwork.com/nam8d1h6gxquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzd
 https://stream.zeno.fm/m1krtxpk11zuv
 #EXTINF:-1,Ahalia FM
 https://cast1.my-control-panel.com/proxy/ahaliafm/stream
-#EXTINF:-1,AIR Akashvani Malayalam ( Added By Hari Krishnan )
-https://d3hrxqn1tritdh.cloudfront.net/6ff13de7ea9b53d7/6ff13de7ea9b53d7.m3u8
 #EXTINF:-1,AIR Alwar
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio153/playlist.m3u8
 #EXTINF:-1,AIR bhopal
@@ -621,12 +621,8 @@ https://d3n2o48cmfppr2.cloudfront.net/svymradio.m3u8
 https://radiosavre.com:8060/radio.mp3
 #EXTINF:-1,Jap Radio
 http://stream.zeno.fm/r3m0whh0kxquv
-#EXTINF:-1,JAVA MASTIKHOR 
-https://javamastikhor.duckdns.org/live
 #EXTINF:-1,Jay Jagannath
 https://stream.zeno.fm/xm5ezmsj7efuv
-#EXTINF:-1,jcbroadcast
-https://eu9.fastcast4u.com/proxy/simon?mp=/1
 #EXTINF:-1,jehovahrapha-fm
 https://c22.radioboss.fm:8532/jehovahrapha
 #EXTINF:-1,jeifm
@@ -717,8 +713,6 @@ https://c14.radioboss.fm:8033/stream
 https://stream.zeno.fm/zfuilo1cevduv
 #EXTINF:-1,Love Station Odisha
 https://stream-156.zeno.fm/dkpdmc8e0chvv?zs=uhX7-GwNR1-D5EAX_NJ1lQ
-#EXTINF:-1,LoverClub
-http://201.7.16.154:40001/LoversClub
 #EXTINF:-1,Luminious radio hindi
 http://patmos.cdnstream.com:8601/app
 #EXTINF:-1,luminous-radio
@@ -937,6 +931,8 @@ http://radio.rudeep.ru:8000/stream
 https://stream.zeno.fm/1t5ceyhcxbruv
 #EXTINF:-1,Radio Chinar 90.4FM
 https://d3413g2ooyoexr.cloudfront.net/radiochinar.m3u8
+#EXTINF:-1,Radio City chennai
+http://radios.crabdance.com:8002/5
 #EXTINF:-1,Radio Deewana
 https://stream.zeno.fm/x1q3r3qdxy8uv
 #EXTINF:-1,Radio Dhanjee
@@ -1075,8 +1071,6 @@ http://sp14.instainternet.com:8248/stream
 https://servidor19-4.brlogic.com:7002/live
 #EXTINF:-1,Radio Sangwari
 https://servidor19.brlogic.com:7002/live
-#EXTINF:-1,RADIO SANSKAR
-https://mehramedia.com:9318/stream.mp3
 #EXTINF:-1,Radio Sanskrit Bharati
 https://stream.zeno.fm/c0adewsyw8quv
 #EXTINF:-1,Radio Saptarang
@@ -1171,8 +1165,6 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_SUNO_TAMI
 https://sathees.radioca.st/;
 #EXTINF:-1,radiovoxa
 https://stream.zeno.fm/zrfx7zy2wwzuv.aac
-#EXTINF:-1,radiozindagi
-https://us9.maindigitalstream.com/ssl/RadioZindagi
 #EXTINF:-1,Rafi hit songs
 https://stream-143.zeno.fm/0zkr7x8ztm0uv?zs=WTPQx8TiQXSo11XU0iyTAQ
 #EXTINF:-1,Raja Radio HD
@@ -1285,6 +1277,8 @@ https://usa19.fastcast4u.com/swiss
 https://radio.mbconline.xyz/hls/tallfm.m3u8
 #EXTINF:-1,Taj 92.3 FM
 https://ice66.securenetsystems.net/TAJ
+#EXTINF:-1,Tamil Catholic Radio தமிழ் கத்தோலிக்க வானொலி
+https://listen.radioking.com/radio/224683/stream/268186
 #EXTINF:-1,Tamil_Murasam FM
 https://tamilmurasam.radioca.st/live
 #EXTINF:-1,tamil-2021-latest-hits

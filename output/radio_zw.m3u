@@ -25,6 +25,8 @@ https://radio.meeknesstapera.co.zw/listen/kingdom_radio/radio.mp3
 https://backupradiostreaming.zbc.co.zw:8010/radio.mp3
 #EXTINF:-1,National FM ZBC
 https://mainradiostreaming.zbc.co.zw:8020/national.mp3
+#EXTINF:-1,Nehanda Radio
+https://eu4.fastcast4u.com/proxy/lancguma?mp=/1
 #EXTINF:-1,nust.fm
 https://stream.zeno.fm/zz40oe1wtfwtv
 #EXTINF:-1,Platinum FM

@@ -191,6 +191,8 @@ https://streaming.fabrik.fm/magic828/echocast/audio/high/index.m3u8?
 https://streaming.fabrik.fm/magic828/echocast/audio/high/index.m3u8
 #EXTINF:-1,Magic 828
 http://cast.fabrik.fm:8106/
+#EXTINF:-1,Maluti FM
+https://cast3.my-control-panel.com/proxy/malutifm/stream
 #EXTINF:-1,Marley Music Radio
 https://marleymusic.online/listen/marleymusic/radio.mp3
 #EXTINF:-1,MC 90.3 FM

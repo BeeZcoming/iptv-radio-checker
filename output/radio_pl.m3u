@@ -211,6 +211,8 @@ https://waw.ic.smcdn.pl/2540-1.aac
 http://ic1.smcdn.pl/2260-1.mp3
 #EXTINF:-1,Eska Tarnów
 https://ic1.smcdn.pl/2160-1.mp3
+#EXTINF:-1,ESKA Tarnów 98.1 FM
+http://ic2.smcdn.pl/2160-1.aac
 #EXTINF:-1,Eska zamość 128
 https://ic2.smcdn.pl/2230-1.mp3
 #EXTINF:-1,ESKA2 Szczecin
@@ -717,6 +719,8 @@ http://graj.radiokolobrzeg.pl:8000/
 http://graj.radiokolobrzeg.pl:8000/;
 #EXTINF:-1,Radio Kolor
 https://stream.rcs.revma.com/zbq79057xd3vv
+#EXTINF:-1,Radio Kradów z Tarnowa
+http://stream3.nadaje.com:9118/radiokrakow
 #EXTINF:-1,Radio Krakow
 http://stream3.nadaje.com:9116/radiokrakow
 #EXTINF:-1,Radio Kraków - Sport
@@ -755,8 +759,6 @@ https://stream.radiolodz.pl/RadioLodz-2-HQ.aac
 https://stream.radiolodz.pl/RadioLodz-NW-HQ.aac
 #EXTINF:-1,RADIO ŁÓDŹ SPORT
 https://stream.radiolodz.pl/RadioLodz-3-HQ.aac
-#EXTINF:-1,Radio Macabrismix
-https://panel.macabrismix.com.pl/listen/macabris_mix_radio_station_1-2c6_ghz/autodj.mp3
 #EXTINF:-1,Radio Magic Dance
 http://s1.slotex.pl:7686/stream
 #EXTINF:-1,Radio MagMa
@@ -1161,6 +1163,8 @@ https://zt06.cdn.eurozet.pl/ZETSWI.mp3
 http://stream2.nadaje.com:8022/;stream
 #EXTINF:-1,Radio Zlote Przeboje Wroclaw
 https://radiostream.pl/tuba8940-1.mp3
+#EXTINF:-1,Radio Złote Przboje Tarnów
+https://radiostream.pl/tuba8932-1.mp3
 #EXTINF:-1,radio złote przeboje
 http://radiostream.pl/tuba8928-1.mp3
 #EXTINF:-1,Radio Złote Przeboje - Bieszczady
@@ -1225,6 +1229,8 @@ http://s01.toksyna.fm:8100/
 https://stream.radiumfm.com/warsaw
 #EXTINF:-1,RaveFM
 http://ravefm.org:9850/ravefm
+#EXTINF:-1,RDN Małopolska Tarnów
+http://stream1.dabcom.pl:8000/rdnmpl_hq.mp3
 #EXTINF:-1,Red7 - Kanał EDM
 https://s.red7.pl/edm256
 #EXTINF:-1,Red7.pl
@@ -1639,6 +1645,8 @@ http://s01.toksyna.fm:8030/
 https://top80.pl:8000/listen.mp3
 #EXTINF:-1,Trendy Radio
 http://stream.trendyradio.pl:8000/h
+#EXTINF:-1,Trendy Radio Mobile
+https://stream.trendyradio.pl/m
 #EXTINF:-1,Trendy Radio Online
 http://stream.trendyradio.pl:8000/h
 #EXTINF:-1,trip radio

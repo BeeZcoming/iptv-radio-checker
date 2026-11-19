@@ -178,6 +178,8 @@ https://mouthfull-radio.radiocult.fm/stream
 #EXTINF:-1,MPR Manawatu People's Radio
 https://live.accessmedia.nz/MPR.stream/playlist.m3u8
 #EXTINF:-1,Mushroom Escape
+https://cast3.my-control-panel.com/proxy/jonatha1/escape?1664781783632
+#EXTINF:-1,Mushroom Escape
 http://65.108.124.70:8676/escape
 #EXTINF:-1,Mushroom FM
 http://65.108.124.70:8676/live

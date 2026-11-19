@@ -33,8 +33,6 @@ https://rozhlas.stream/karlovy_vary.mp3
 https://rozhlas.stream/region.mp3
 #EXTINF:-1,Chat R�dio
 https://radio.chatradio.cz/chatradio
-#EXTINF:-1,Chat Rádio
-https://radio.chatujme.cz:8000/chatradio
 #EXTINF:-1,City Milenium
 http://ice.abradio.cz:8000/citymi128.mp3
 #EXTINF:-1,Classic Prague
@@ -53,10 +51,6 @@ http://ice4.abradio.cz/coop128.mp3
 http://icecast2.play.cz:8000/country128aac
 #EXTINF:-1,County
 http://icecast4.play.cz/country128.mp3
-#EXTINF:-1,Crazy Rádio
-http://live.topradio.cz:8000/crazy128
-#EXTINF:-1,CrazyRadio.cz
-https://stream.rcast.net/72851
 #EXTINF:-1,ČRo D-dur
 https://rozhlas.stream/ddur.mp3
 #EXTINF:-1,ČRo D-dur HD
@@ -243,6 +237,8 @@ https://cz.radio-streamhosting.com:8443/metalheartradio128mp3
 http://ice.abradio.cz/metalomanie128.mp3
 #EXTINF:-1,Mňau TV
 https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
+#EXTINF:-1,MOBILE ONE
+https://mobile-one-audio-staging.up.railway.app/live/mobile-one/index.m3u8
 #EXTINF:-1,MUSIC BOX CLASSIC
 https://dash2.antik.sk/live/mb_classic/index.m3u8
 #EXTINF:-1,Netro Life Radio 100,8 FM

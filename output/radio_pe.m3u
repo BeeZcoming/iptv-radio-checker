@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Andina Radio
+http://panel.innovatestream.pe:7058/;
 #EXTINF:-1,Antena Rock
 https://stream-176.zeno.fm/nxrzmaij5zouv?zt=
 #EXTINF:-1,Antena Sur 90.3 FM
@@ -29,8 +31,6 @@ https://panel.streamenviron.com:8158/stream.mp3
 https://stream-142.zeno.fm/93kksqvkeg8uv?zs=N9EUqjz8RdOQAaV215SUFg
 #EXTINF:-1,Enzzo Radio
 https://stream.zeno.fm/mvztq1kum18uv
-#EXTINF:-1,Estación 90's Radio.com
-https://radio.ismaplay.com:8084/stream
 #EXTINF:-1,Estacion radio cumbia
 https://stream-155.zeno.fm/q66qxthr0uhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxNjZxeHRocjB1aHZ2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlAxQ2otQXRPUXZ1NE5QTHo4MGs4VGciLCJpYXQiOjE3Mzg3ODUyMTEsImV4cCI6MTczODc4NTI3MX0.OByDpXd4iTYTysGAIQJO63P7ugNbv8OAAXbN8WjhZcY
 #EXTINF:-1,Fama Sur (Tarata)
@@ -61,6 +61,8 @@ https://stream.zeno.fm/nhu7v3guz08uv
 https://stream-281.surfernetwork.com/nhu7v3guz08uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW
 #EXTINF:-1,Htr musica andina online
 https://stream-285.surfernetwork.com/9m28hxg42rhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5bTI4aHhnNDJyaHZ2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJRMmhBQno1SFFuaUZFV0I1eFlwbnRRIiwiaWF0IjoxNzg4MzE3OTQ2LCJleHAiOjE3ODgzMTgwMDZ9.dcSrHDlpSYeq-eZVyjtaroKCsjcuKv0c6fvzor-Mf2Y
+#EXTINF:-1,Huascarán radio(Huaraz)
+https://stream.mediatexcomunicaciones.com:7029/
 #EXTINF:-1,Jov Radio
 https://stream.zeno.fm/ssr3g09333duv
 #EXTINF:-1,JVM la Estación (Cusco)
@@ -145,6 +147,8 @@ https://mdstrm.com/audio/6598b751261d9e088a6deadd/icecast.audio
 http://n06.radiojar.com/2fse67zuv8hvv?1669054401=&rj-tok=AAABhJtuNOUAIi7Le3h5PA-2VA&rj-ttl=5
 #EXTINF:-1,Peru Folk radio
 https://raymistream.net/listen/perufolkradio/live
+#EXTINF:-1,Peruana Radio
+https://cloudstream2036.conectarhosting.com/8352/stream
 #EXTINF:-1,Pop latino retro Radio online 
 https://stream-287.surfernetwork.com/rbpepvx2dxhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyYnBlcHZ4MmR4aHZ2IiwiaG9zdCI6InN0cmVhbS0yODcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InEzVGZBdDRQUlltZTFORlI4M0tWV2ciLCJpYXQiOjE3ODU3MTA2NzgsImV4cCI6MTc4NTcxMDczOH0.sZFfGWcEQbxWlba-2MS-_2UeJ2JteGDWpVakDBOnvwk
 #EXTINF:-1,Progreferon
@@ -167,6 +171,8 @@ https://stream-288.surfernetwork.com/qxsaiqu7pn4tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzd
 https://jml-stream.com/radio/8000/radio.mp3
 #EXTINF:-1,Radio Activa 93.7 FM Jaen
 https://sp.onliveperu.com/8108/stream
+#EXTINF:-1,Radio Alegria - La Rompe
+https://radio.sistemasandinos.org:10974/;stream
 #EXTINF:-1,Radio Amo la Música
 http://stream-179.surfernetwork.com/aqmct15qmchvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhcW1jdDE1cW1jaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkJsSXF2NUNPUnhLUGpicWZXczF5SkEiLCJpYXQiOjE3OTQ5MDc4ODYsImV4cCI6MTc5NDkwNzk0Nn0.OWIPItpUNcgF8QhQXg5d_fbv2rNb8DyvcOUpFxCBO80
 #EXTINF:-1,Radio Andina Tarata
@@ -175,6 +181,8 @@ http://sp.oyotunstream.com:8064/
 https://radio.perustream.com/8014/stream
 #EXTINF:-1,Radio Armonía
 https://radio.sistemasandinos.org:10978/;
+#EXTINF:-1,Radio Armonía Cristiana 94.9 FM (El Sonido Celestial)
+http://eu6.fastcast4u.com:5264/;
 #EXTINF:-1,Radio Baladitas 
 https://stream.zeno.fm/hf2gsfm1mp8uv
 #EXTINF:-1,Radio Bambamarca 1020 AM - Cajamarca, Bambamarca
@@ -271,8 +279,6 @@ https://shoutcast.tmcreativos.com/proxy/radiokar?mp=/stream
 https://panel.innovatestream.pe:10970/stream
 #EXTINF:-1,Radio La Cheverísima - Utcubamba 
 https://sp.onliveperu.com/8114/stream/;
-#EXTINF:-1,Radio La Gloria Es De Dios
-https://radio101.mjwebexperts.com/8006/stream
 #EXTINF:-1,Radio La Inolvidable
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6839e24cf4eacd81ada4e6b4/playlist.m3u8
 #EXTINF:-1,Radio la inolvidable fm
@@ -295,6 +301,8 @@ https://radio.pjcks.com/9944/stream
 https://stream.zeno.fm/y6uubjcdoopuv
 #EXTINF:-1,Radio Loreto
 https://sp.oyotunstream.com/8006/stream
+#EXTINF:-1,radio los andes 99.5 fm
+https://sonic.dattassd.com:8190/stream
 #EXTINF:-1,Radio Los Angeles - Chepen
 http://94.23.159.187:9950/;
 #EXTINF:-1,Radio Mágica 88.3 FM
@@ -413,8 +421,6 @@ https://dattavolt.com:7134/stream
 https://stream.zeno.fm/ktk1db7xywzuv
 #EXTINF:-1,RADIO YARAVI
 https://tupanel.info/stream/radioyaravi/stream
-#EXTINF:-1,RADIOCRICONLINE
-https://stream20.usastreams.com/8040/stream/;
 #EXTINF:-1,Radiomar
 https://mdstrm.com/audio/6839e261d2efddf5bfbc2d3d/live.m3u8
 #EXTINF:-1,Radiomar

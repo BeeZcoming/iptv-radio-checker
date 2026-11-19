@@ -23,6 +23,8 @@ https://29073.live.streamtheworld.com/KAN_88.mp3
 https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio
 #EXTINF:-1,94fm רדיו גלי ישראל
 https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio
+#EXTINF:-1,AVIVmedia
+http://176.9.7.145:8127/stream
 #EXTINF:-1,Eco 99fm 
 https://eco01.livecdn.biz/ecolive/99fm_aac/icecast.audio?hash=1559501510715.m4a
 #EXTINF:-1,ECO99FM

@@ -133,6 +133,8 @@ https://nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-media12/index.m3u8
 https://nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-media13/index.m3u8
 #EXTINF:-1,NHK WORLD RADIO-5
 https://nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-media3/index.m3u8
+#EXTINF:-1,NHK-FM
+http://mnet.x10.mx/nhkfm.m3u8
 #EXTINF:-1,NHKワールド・ラジオ日本
 https://masterpl.hls.nhkworld.jp/hls/r1/live/master.m3u8
 #EXTINF:-1,Nightwave Plaza (HLS)

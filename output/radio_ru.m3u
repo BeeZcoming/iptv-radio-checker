@@ -711,10 +711,6 @@ https://ice.drumfunk.ru:8050/on.mp3
 http://79.111.14.76:8000/dub
 #EXTINF:-1,DWG Radio ru
 https://server32349.streamplus.de/;stream.mp3
-#EXTINF:-1,Dzhon Radio
-https://stream.drugradio.ru/listen/dzradio/stream128
-#EXTINF:-1,Dzhon Radio
-https://stream.drugradio.ru:8000/stream128
 #EXTINF:-1,E68B099E4E55
 https://region-ru2.tunio.ai/stream/radio-b8c048449cbf42cbb683d9a8f3ec2a4f.aac
 #EXTINF:-1,East of Russia (Восток России)
@@ -1023,8 +1019,6 @@ https://stream5.radiogoose.ru/listen/hypertechno/play
 https://grandfm.ru:8005/radio
 #EXTINF:-1,GRELLA
 https://listen6.myradio24.com/grella
-#EXTINF:-1,GTF
-https://stream.gtfinstrumental.com/stream
 #EXTINF:-1,Guf
 https://stream.pcradio.ru/Guf-hi
 #EXTINF:-1,Guitar Jazz
@@ -1119,8 +1113,6 @@ http://stream.keygen-fm.ru:8082/listen.mp3
 http://stream.keygen-fm.ru:8042/live.ogg
 #EXTINF:-1,Keygen-FM
 http://stream.keygen-fm.ru:8042/live.ogg
-#EXTINF:-1,KIDS HITS
-https://myradio24.org/kidshits
 #EXTINF:-1,Kinozal.TV
 https://listen4.myradio24.com/kinozaltv
 #EXTINF:-1,Kitap Radiosy
@@ -1189,8 +1181,6 @@ https://listen7.myradio24.com/9083
 https://makkirus.amgradio.ru/makkirus
 #EXTINF:-1,Manowar Радио
 https://stream.pcradio.ru/Manowar-hi
-#EXTINF:-1,Maximum Heavy Monday
-https://s.fmplay.ru/3ce8899d
 #EXTINF:-1,MAXIMUM Ozzy Osbourne
 https://maximum-ozzy.hostingradio.ru/ozzy96.aacp
 #EXTINF:-1,maximum punk
@@ -1383,6 +1373,8 @@ https://online.pilotfm.ru/pilot_dance
 https://online.pilotfm.ru/pilot?v=1788326407182
 #EXTINF:-1,piter fm
 https://icecast-piterfm.cdnvideo.ru/piterfm
+#EXTINF:-1,Polygon FM
+https://eu6.fastcast4u.com/proxy/polygonf?mp=/stream
 #EXTINF:-1,Pop
 http://79.120.77.11:8000/pop
 #EXTINF:-1,Pop Punk
@@ -2413,8 +2405,6 @@ https://rodniki.hostingradio.ru/rodniki128.mp3?cache-ignore=1741424716148
 https://stream1.radiord.ru:8000/live128.aac
 #EXTINF:-1,Radio RUS Belgorod
 http://radio-holding.ru:9000/rus
-#EXTINF:-1,Radio Salyut
-http://stream.salyutfm.ru:8000/stream
 #EXTINF:-1,RADIO SARATOV MUSIC
 http://radiosaratovmusic.com:1060/stream
 #EXTINF:-1,Radio Sefon
@@ -2775,8 +2765,6 @@ https://ec5.yesstreaming.net:2590/stream
 http://aska.ru-hoster.com:8000/stream
 #EXTINF:-1,SUPER RADIO remix
 https://listen2.myradio24.com/serz
-#EXTINF:-1,Super Радио
-https://stream.salyutfm.ru:8080/hls/channel_4/playlist.m3u8
 #EXTINF:-1,super-radio
 http://aska.ru-hoster.com:8000/stream
 #EXTINF:-1,Superrock KYOI 
@@ -2931,6 +2919,8 @@ https://radio.azbyka.ru/znamennye-pesnopenija
 https://stream03.pcradio.app/Alla_Pugacheva-hi
 #EXTINF:-1,Алмазный край
 https://stream.almaz-media.tv/radio
+#EXTINF:-1,Алтай ФМ Предгорье
+https://fmstream.ru/altay-fm-predgorie
 #EXTINF:-1,Андрей Губин
 https://stream03.pcradio.app/andrey_gubin-hi
 #EXTINF:-1,Андрей Князев (КняZz)
@@ -3117,6 +3107,8 @@ https://media.govoritmoskva.ru/radio/ru64.mp3
 https://media.govoritmoskva.ru/radio/rufm.mp3
 #EXTINF:-1,Говорит Севастополь
 https://sevfm.ru:9006/govsev
+#EXTINF:-1,Говору нет FM
+https://82.146.46.30:8443/govorunetfm
 #EXTINF:-1,ГОЛОС АНГАРЫ 
 http://91.189.162.134:8016/stream
 #EXTINF:-1,Голос Бирмы
@@ -3201,8 +3193,6 @@ http://listen7.myradio24.com/76923
 http://radio90s.stream.laut.fm/radio90s?t302=2026-11-17_04-30-22&uuid=d574f464-63f9-4d2d-8dbd-8bf5082fce4a
 #EXTINF:-1,ДИСКОТЕКА 90-Х
 https://radiorecord.hostingradio.ru/sd9096.aacp?0968d4a7
-#EXTINF:-1,Доброе старое радио
-http://91.189.162.134:8008/;stream
 #EXTINF:-1,Дождь ТВ (Звук)
 https://wl.tvrain.tv/transcode/ses_audio_only/playlist.m3u8
 #EXTINF:-1,дорожное радио (Dorognoe Radio)
@@ -3377,6 +3367,8 @@ http://iskatel.hostingradio.ru:8015/iskatel-128.mp3
 https://c18.radioboss.fm:8475/stream
 #EXTINF:-1,й
 https://rufm.amgradio.ru/rufm
+#EXTINF:-1,Кавказ Радио Волна (Владикавказ, 90.8 FM)
+http://radio.alania.net:8000/kvk
 #EXTINF:-1,Казак ФМ Краснодар 105.2 FM
 http://radio.kazak.fm/kazak_fm.mp3
 #EXTINF:-1,Кай Метов
@@ -3521,8 +3513,6 @@ http://radio.tvrts.ru:8000/kh.mp3
 https://s0.radioheart.ru:8000/RH23554
 #EXTINF:-1,Межзвёздное радио
 https://listen9.myradio24.com/97557
-#EXTINF:-1,Мелодия СПб
-http://stream.salyutfm.ru:4020/stream
 #EXTINF:-1,Мельница
 https://stream03.pcradio.app/melnitsa-hi
 #EXTINF:-1,Местное радио Костомукша 100.4 FM
@@ -3559,8 +3549,6 @@ https://stream03.pcradio.app/Mumyi_Trol-hi
 https://stream03.pcradio.app/Muslim_Magomaev-hi
 #EXTINF:-1,Мята Gold
 https://drh-connect.dline-media.com/gold
-#EXTINF:-1,Н-Радио 
-https://s.fmplay.ru/fc6fcf8a
 #EXTINF:-1,На шашлыки!
 https://hls-01-radiorecord.hostingradio.ru/record-nashashlyki/playlist.m3u8
 #EXTINF:-1,нафталин fm
@@ -3631,14 +3619,14 @@ https://listen8.myradio24.com/71400
 http://stream1.hostingradio.ru:8010/19_mp3_128
 #EXTINF:-1,Ночной звонок
 https://listen7.myradio24.com/74828
+#EXTINF:-1,Ноябрьск 24 
+https://noyabrsk24.ru:8443/live.mp3
 #EXTINF:-1,НХА
 https://radio.4m3.ru/listen/nha/radio.mp3
 #EXTINF:-1,ОГОНËК
 https://misato.ru-hoster.com:8037/stream
 #EXTINF:-1,Олег Газманов
 https://stream03.pcradio.app/oleg_gazmanov-hi
-#EXTINF:-1,Олегатор ФМ / OlegatorFM
-https://radio.spec-host.ru:8000/live.mp3
 #EXTINF:-1,Омский Благгвестник
 http://segenswelle.de:8000/BG-Omsk
 #EXTINF:-1,Орфей - Музыка кино
@@ -3737,6 +3725,8 @@ http://radio7server.streamr.ru:8040/radio7256.mp3
 https://radio7.hostingradio.ru:8040/radio7_happiness64.aacp
 #EXTINF:-1,Радио 7 Нижний Новгород 100.0 FM
 https://online2.gkvr.ru:8000/radio7_nno_64.aac
+#EXTINF:-1,Радио 7 Петрозаводск 101.8 FM
+http://217.77.59.76:8000/radio7
 #EXTINF:-1,Радио ASMR - Массаж для ваших ушей!😍
 http://live.lofiradio.ru:8000/asmr_mp3_320
 #EXTINF:-1,Радио Capital-ФМ
@@ -3956,6 +3946,8 @@ https://sea.1tvcrimea.ru:19003/stream_sea.mp3
 https://icecast-vgtrk.cdnvideo.ru/moscowtalk128?v=1640610887877
 #EXTINF:-1,Радио Москвы 105.3 FM
 http://icecast-vgtrk.cdnvideo.ru/moscowtalk128
+#EXTINF:-1,Радио МСС Владикавказ 104.9 FM
+http://85.172.206.196:8000/radio
 #EXTINF:-1,Радио НВДА
 http://sib-fm.ru:8000/stream
 #EXTINF:-1,Радио Новая Жизнь
@@ -4216,6 +4208,8 @@ https://online.radioc.ru/radioc
 https://online.radioc.ru/radioc_aacplus?v=1702736359326
 #EXTINF:-1,Радио Сибирь
 https://stream.radiosibir.ru:8093/HQ
+#EXTINF:-1,Радио Сибирь Абакан 103.7 FM
+https://ctv7.ru/radio/
 #EXTINF:-1,Радио Сигма Новый Уренгой 102.3 FM
 http://radio.sigma-ktv.ru:8000/sigma
 #EXTINF:-1,Радио Сиртаки / Radio Sirtaki
@@ -4467,12 +4461,6 @@ https://sovetskie-pesni.ru:8005/stream
 http://radio.tatmedia.com:8800/Saba
 #EXTINF:-1,Садовод
 https://stream.cassiopeia-station.ru:1315/stream
-#EXTINF:-1,Салют Fm 90Стые
-https://stream.salyutfm.ru:8100/stream
-#EXTINF:-1,Салют Fm Rock
-https://stream.salyutfm.ru:8050/stream
-#EXTINF:-1,Салют Fm Мелодия
-https://stream.salyutfm.ru:4020/stream
 #EXTINF:-1,Самара Максимум
 http://85.236.172.22:8000/maximum
 #EXTINF:-1,Самарское губернское радио 92.5 FM
@@ -4537,8 +4525,6 @@ https://radio.mediacdn.ru/sputnik_fm.mp3?aa21
 https://radio3.4m3.ru/listen/stan/radio.mp3
 #EXTINF:-1,Станция Кассиопея
 https://stream.cassiopeia-station.ru:1075/stream
-#EXTINF:-1,Старое доброе радио
-http://91.189.162.134:8008/;
 #EXTINF:-1,Старое радио - Old Radio
 http://195.91.237.50:8000/ices128
 #EXTINF:-1,Старое радио - Old Radio 32
@@ -4691,8 +4677,6 @@ http://radio.mediacdn.ru/uldash_new.mp3
 http://radio.mediacdn.ru/uldash.mp3
 #EXTINF:-1,Юмор FM
 http://pub0101.101.ru:8000/stream/air/aac/64/102
-#EXTINF:-1,Юмор ФМ
-https://fed.fmplay.ru:8000/humor-32.aac
 #EXTINF:-1,Юмор ФМ Вологда 106.5 FM
 http://online-2.gkvr.ru:8000/yumorfm11_vld_64.aac
 #EXTINF:-1,Юмор ФМ Сыктывкар 99.9 FM

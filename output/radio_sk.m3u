@@ -3,8 +3,6 @@
 http://stream.bbfm.sk/bbfm128.mp3
 #EXTINF:-1,BestFM
 https://stream3.bestfm.sk:8000/160.aac
-#EXTINF:-1,Československé radio 
-http://live.topradio.cz:8000/csradio128
 #EXTINF:-1,Detské Rádio
 http://stream.21.sk/detskeradio-192.mp3
 #EXTINF:-1,Detské rádio
@@ -83,6 +81,8 @@ https://play.radio7.sk/128
 http://stream.aetter.sk:8000/aetter
 #EXTINF:-1,Radio Basavel
 https://stream.zeno.fm/6gd9c6yn4nhvv
+#EXTINF:-1,Radio Bela
+http://65.109.81.84:8855/live
 #EXTINF:-1,Rádio BestFM
 https://stream3.bestfm.sk:8000/128.mp3
 #EXTINF:-1,RÁDIO BETA
@@ -119,8 +119,6 @@ https://icecast.stv.livebox.sk/fm_128.mp3
 https://mpc1.mediacp.eu/stream/demo2
 #EXTINF:-1,Rádio Frontinus
 http://stream.frontinus.sk:8000/frontinus128.mp3
-#EXTINF:-1,Rádio Jazz
-http://stream.sepia.sk:8000/jazz128.mp3
 #EXTINF:-1,Rádio KIKS
 https://online.radiokiks.sk:8000/kiks_hq.mp3
 #EXTINF:-1,Rádio KIKS - Big 80s

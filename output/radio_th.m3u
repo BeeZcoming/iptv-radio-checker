@@ -79,8 +79,6 @@ http://103.246.19.203:8004/stream?type=http&nocache=145
 https://radio9.plathong.net/7054/;stream.mp3
 #EXTINF:-1,KRB Radio 1
 https://radio1.ohmi-design.com/8086/;
-#EXTINF:-1,KRB Radio 2
-https://nontawat3664.i234.me:8443/stream
 #EXTINF:-1,KRB Radio 3
 https://pakeefm.org/stream/300006/
 #EXTINF:-1,Looktung Eingdoi
@@ -123,14 +121,6 @@ http://radio1.serverradio.net:8592/;?type=http
 https://stream.chiliradio.app/radiored
 #EXTINF:-1,Radio Samui Online
 https://stream.mixadance.fm/radiosamui
-#EXTINF:-1,RequestRadio Inter (Alt)
-https://ozone2.javmemory.com/Inter.mp3
-#EXTINF:-1,RequestRadio String (Alt)
-https://ozone2.javmemory.com/Music.mp3
-#EXTINF:-1,RequestRadio ลูกทุ่ง (Alt)
-https://ozone2.javmemory.com/Looktung.mp3
-#EXTINF:-1,RequestRadio เพื่อชีวิต (Alt)
-https://ozone2.javmemory.com/Forlife.mp3
 #EXTINF:-1,Smooth 105.5 (RStream)
 http://rstream.mcot.net:8000/fm1055
 #EXTINF:-1,sunshine radio Pattaya
