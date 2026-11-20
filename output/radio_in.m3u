@@ -55,8 +55,6 @@ https://stream-179.surfernetwork.com/nam8d1h6gxquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzd
 https://stream.zeno.fm/m1krtxpk11zuv
 #EXTINF:-1,Ahalia FM
 https://cast1.my-control-panel.com/proxy/ahaliafm/stream
-#EXTINF:-1,AIR Alwar
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio153/playlist.m3u8
 #EXTINF:-1,AIR bhopal
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio212/chunklist.m3u8
 #EXTINF:-1,AIR Bhuj
@@ -215,6 +213,8 @@ https://stream-175.surfernetwork.com/ozta21if4wiuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzd
 https://stream.ap9fm.in/radio/8000/radio.mp3
 #EXTINF:-1,AR RADIO
 https://free.rcast.net/200660
+#EXTINF:-1,AR Rahman Radio
+http://psrweb1.listenon.in/arr?station=arrahmanradio
 #EXTINF:-1,Arijit Singh
 https://drive.uber.radio/uber/bollywoodaruitsingh/icecast.audio
 #EXTINF:-1,Arni City FM
@@ -623,6 +623,8 @@ https://radiosavre.com:8060/radio.mp3
 http://stream.zeno.fm/r3m0whh0kxquv
 #EXTINF:-1,Jay Jagannath
 https://stream.zeno.fm/xm5ezmsj7efuv
+#EXTINF:-1,jcbroadcast
+https://eu9.fastcast4u.com/proxy/simon?mp=/1
 #EXTINF:-1,jehovahrapha-fm
 https://c22.radioboss.fm:8532/jehovahrapha
 #EXTINF:-1,jeifm
@@ -775,14 +777,14 @@ http://stream.zeno.fm/t2ekq8zsgtzuv
 https://stream.zeno.fm/p5ny63td1d0uv
 #EXTINF:-1,Mohammed Rafi
 https://stream.zeno.fm/6yqvumgfxtzuv
-#EXTINF:-1,Mohan Radio
-https://psrlive4.listenon.in/mohan?station=mohanradio
 #EXTINF:-1,mohanhits
 https://stream.zeno.fm/wkqvzsg1238uv
 #EXTINF:-1,Mohanlal hits
 https://stream.zeno.fm/5vva7u4ts0quv
 #EXTINF:-1,mohanlalhits
 http://stream.zeno.fm/5vva7u4ts0quv
+#EXTINF:-1,MR.JAWAAN HOME RADIO
+http://201.7.16.154:40001/Mr.Jawaan
 #EXTINF:-1,mtrfm
 https://radio.mediacp.eu/stream/mtr-fm/stream
 #EXTINF:-1,Mukesh Radio 
@@ -933,6 +935,8 @@ https://stream.zeno.fm/1t5ceyhcxbruv
 https://d3413g2ooyoexr.cloudfront.net/radiochinar.m3u8
 #EXTINF:-1,Radio City chennai
 http://radios.crabdance.com:8002/5
+#EXTINF:-1,RADIO daijiworld Konkani (कोन्कनि ಕೊ೦ಕಣಿ )
+https://radio.garden/api/ara/content/listen/wnpDPXNr/channel.mp3
 #EXTINF:-1,Radio Deewana
 https://stream.zeno.fm/x1q3r3qdxy8uv
 #EXTINF:-1,Radio Dhanjee
@@ -1165,6 +1169,8 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_SUNO_TAMI
 https://sathees.radioca.st/;
 #EXTINF:-1,radiovoxa
 https://stream.zeno.fm/zrfx7zy2wwzuv.aac
+#EXTINF:-1,radiozindagi
+https://us9.maindigitalstream.com/ssl/RadioZindagi
 #EXTINF:-1,Rafi hit songs
 https://stream-143.zeno.fm/0zkr7x8ztm0uv?zs=WTPQx8TiQXSo11XU0iyTAQ
 #EXTINF:-1,Raja Radio HD

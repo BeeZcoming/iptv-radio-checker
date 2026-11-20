@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,106.3 fm.az
 https://audiostr.atv.az/106.3fm
+#EXTINF:-1,106fm
+https://audiostr.atv.az/106fm
 #EXTINF:-1,Anti Radio
 https://stream.antiradio.net/listen/anti_radio/mp3
 #EXTINF:-1,Anti Radio
@@ -21,16 +23,18 @@ https://radio.autoliferadio.com:8005/radio
 http://radio.autoliferadio.com:8090/radio
 #EXTINF:-1,AVTO FM
 http://5.191.241.101:8000/avtofm
+#EXTINF:-1,Baku Hit FM
+https://stream.bakuradioalliance.az/hitfm
 #EXTINF:-1,Baku Jazz Radio
 https://a9.asurahosting.com/listen/bakujazzredio/radio.mp3
+#EXTINF:-1,Baku Retro FM
+https://stream.bakuradioalliance.az/retrofm
 #EXTINF:-1,Bravo Supermarket Radio
 http://5.191.241.101:8000/bravo
 #EXTINF:-1,Dalga fm 92.5
 https://live.dinle.az/dalgafm
 #EXTINF:-1,İctimai Radio – 90 FM
 https://stream.itv.az/rtmp:/radio/playlist.m3u8
-#EXTINF:-1,Kepez FM
-http://85.132.78.122:3344/now
 #EXTINF:-1,KN Music TV
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Max tv Azerbaycan

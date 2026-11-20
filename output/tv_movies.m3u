@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTINF:-1,30A TV Classic Movies (720p)
 https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
+#EXTINF:-1,&pictures HD (1080p)
+http://116.90.120.149:8000/play/a132/index.m3u8
+#EXTINF:-1,&TV HD (1080p)
+http://116.90.120.149:8000/play/a133/index.m3u8
+#EXTINF:-1,&xplor HD (1080p)
+http://116.90.120.149:8000/play/a11o/index.m3u8
 #EXTINF:-1,AVI Rewind (1080p)
 http://45.70.201.81:8000/play/a010/index.m3u8
 #EXTINF:-1,AXN Latin America Andes (1080p)
@@ -25,6 +31,8 @@ https://cityeden.catcast.tv/content/41333/index.m3u8
 https://cityeden.catcast.tv/content/38398/index.m3u8
 #EXTINF:-1,City Eden KinoAsia [Not 24/7]
 https://cityeden.catcast.tv/content/34393/index.m3u8
+#EXTINF:-1,City Eden KinoDetektiv [Not 24/7]
+https://cityeden.catcast.tv/content/41327/index.m3u8
 #EXTINF:-1,City Eden KinoDrama [Not 24/7]
 https://cityeden.catcast.tv/content/45269/index.m3u8
 #EXTINF:-1,City Eden KinoFantastika [Not 24/7]
@@ -59,6 +67,14 @@ https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlis
 https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
 #EXTINF:-1,Kino 1 (Russia) [Not 24/7]
 http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1,MNX (576p)
+http://116.90.120.149:8000/play/a11e/index.m3u8
+#EXTINF:-1,MNX HD (1080p)
+http://116.90.120.149:8000/play/a11m/index.m3u8
+#EXTINF:-1,Movies Now HD (1080p)
+http://116.90.120.149:8000/play/a11f/index.m3u8
+#EXTINF:-1,Movies Now + (1080p)
+http://116.90.120.149:8000/play/a11k/index.m3u8
 #EXTINF:-1,MovieSphere AU (1080p)
 https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
 #EXTINF:-1,MovieSphere Gold WFXT (1080p)
@@ -79,6 +95,10 @@ https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-s
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Fthor1.syndula001.cfd%2Fschi1%2Fusergendxn430rnd-got.htm
 #EXTINF:-1,SkyShowtime 2
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Fthor1.syndula001.cfd%2Fschi2%2Fusergendxj85trnd-got.htm
+#EXTINF:-1,Sony Max HD (1080p)
+http://116.90.120.149:8000/play/a123/index.m3u8
+#EXTINF:-1,Sony Pix HD (1080p)
+http://116.90.120.149:8000/play/a138/index.m3u8
 #EXTINF:-1,Sundance TV (Poland) (576i)
 http://92.114.85.87:8003/play/a004/index.m3u8
 #EXTINF:-1,TV 21 International (576p)
@@ -97,7 +117,5 @@ http://46.53.200.153:7777/play/a01g/index.m3u8
 http://46.53.200.153:7777/play/Viju_Megahit_HD/index.m3u8
 #EXTINF:-1,viju+ Premiere HD (1080p)
 http://46.53.200.153:7777/play/Viju_Premiere/index.m3u8
-#EXTINF:-1,Warner Channel Colombia (1080p)
-http://38.134.250.110:8000/play/a029/index.m3u8
 #EXTINF:-1,Zee Cinema APAC (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8

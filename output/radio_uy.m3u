@@ -37,8 +37,6 @@ https://icecasthd.net/proxy/fmcaraguatalavoz/stream
 https://streamingcasazorrilla.innovanexo.com:8000/carvedeportiva.mp3
 #EXTINF:-1,Carve Deportiva
 https://streamingcasazorrilla.innovanexo.com:8000/radiocarve850.mp3
-#EXTINF:-1,Casupá FM 94.1
-https://stm1.ifantasy.com.br:7256/;
 #EXTINF:-1,Causes FM 89.1
 https://streaming.radiosenlinea.com.ar/8870/stream
 #EXTINF:-1,Celestial Fm 90.7
@@ -121,6 +119,8 @@ http://1063fm.ddns.net:8025/online
 https://radioandres.mooo.com/stream
 #EXTINF:-1,INOLVIDABLE FM
 https://inolvidable-1.nty.uy/
+#EXTINF:-1,Kairos FM Uruguay
+https://panel.streamenviron.com:8264/radiokairos
 #EXTINF:-1,La Bottega Radio Online
 https://streaming6.locucionar.com:24048/stream
 #EXTINF:-1,La Clave Uruguay 92.9 FM
@@ -219,6 +219,8 @@ https://usa2.fastcast4u.com/proxy/wqzjjais?mp=/;
 https://medios.ciudaddigital.com.uy:18164/RioBranco
 #EXTINF:-1,Radio Rivera CX144 AM 1440
 http://usa15.ciudaddigital.com.uy:8060/RiveraAM
+#EXTINF:-1,Radio San Carlos
+http://198.49.65.43:10396/;
 #EXTINF:-1,Radio Señales
 https://s1.radiosenialesfm.com:8030/radio.mp3
 #EXTINF:-1,Radio Uno FM

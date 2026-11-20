@@ -33,6 +33,8 @@ https://rozhlas.stream/karlovy_vary.mp3
 https://rozhlas.stream/region.mp3
 #EXTINF:-1,Chat R�dio
 https://radio.chatradio.cz/chatradio
+#EXTINF:-1,Chat Rádio
+https://radio.chatujme.cz:8000/chatradio
 #EXTINF:-1,City Milenium
 http://ice.abradio.cz:8000/citymi128.mp3
 #EXTINF:-1,Classic Prague
@@ -51,6 +53,10 @@ http://ice4.abradio.cz/coop128.mp3
 http://icecast2.play.cz:8000/country128aac
 #EXTINF:-1,County
 http://icecast4.play.cz/country128.mp3
+#EXTINF:-1,Crazy Rádio
+http://live.topradio.cz:8000/crazy128
+#EXTINF:-1,CrazyRadio.cz
+https://stream.rcast.net/72851
 #EXTINF:-1,ČRo D-dur
 https://rozhlas.stream/ddur.mp3
 #EXTINF:-1,ČRo D-dur HD

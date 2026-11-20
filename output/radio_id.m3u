@@ -137,8 +137,6 @@ https://streaming.live365.com/a06375
 http://stream.classyfm.co.id:1034/stream.mp3
 #EXTINF:-1,CLASSY NetRadio
 https://streaming.classynetradio.com:8000/classySD
-#EXTINF:-1,Classy Worship
-https://streaming.classynetradio.com/listen/classyworship/worshipLQ
 #EXTINF:-1,COCOJO RADIO
 https://live.cocojoradio.com/listen/cocojoradio/cocojoradio
 #EXTINF:-1,Comfy Radio
@@ -195,8 +193,6 @@ http://streaming.fressfm.com:11185/stream
 https://server.radioimeldafm.co.id:8040/gajahmadafm
 #EXTINF:-1,Gajahmada FM Semarang
 https://server.radioimeldafm.co.id/radio/8040/gajahmadafm
-#EXTINF:-1,Galau Jikan FM - Indonesia
-https://radio.gjfm.my.id/listen/gjfm/siaran
 #EXTINF:-1,Galuh FM Bali
 https://a12.siar.us:8390/stream
 #EXTINF:-1,Galuh Media Streaming Cianjur Indonesia
@@ -277,6 +273,8 @@ http://stream.radiojar.com/4ywdgup3bnzuv
 https://server.radioimeldafm.co.id:8030/imeldafm
 #EXTINF:-1,Inayah Radio Suryalaya
 https://s3.alhastream.com/listen/station_38/radio
+#EXTINF:-1,Insania FM Ternate
+https://stream-sg1.galuhmedia.co.id/listen/insaniaternate/876ternate
 #EXTINF:-1,inspiradio
 https://listen.inspiradio.id/stream
 #EXTINF:-1,Iradio FM
@@ -347,16 +345,6 @@ https://stream.radiokis.id/kisfm2
 http://live.kisifm.com/kisifm
 #EXTINF:-1,KISS FM Jember
 https://i.klikhost.com/8894/;stream.aac?1737215476182
-#EXTINF:-1,KLCBS
-https://streaming.klcbs.id/listen/klcbs/klcbs-hd
-#EXTINF:-1,KLCBS
-https://streaming.klcbsofficial.com/listen/klcbs/klcbs
-#EXTINF:-1,KLCBS Fusion
-https://streaming.klcbsofficial.com/listen/fusion/klcbs-fusion
-#EXTINF:-1,KLCBS New Age
-https://streaming.klcbsofficial.com/listen/newage/klcbs-newage
-#EXTINF:-1,KLCBS Tropical
-https://streaming.klcbsofficial.com/listen/tropical/klcbs-tropical
 #EXTINF:-1,Klik Radio
 https://pu.klikhost.com/proxy/klikhost/autodj
 #EXTINF:-1,Komodo
@@ -891,6 +879,8 @@ https://i.klikhost.com/8822/;
 https://a2.alhastream.com/listen/station_13/radio
 #EXTINF:-1,Swara Radio
 https://s3.radio.co/s162c52c51/listen
+#EXTINF:-1,Synchronize Radio
+https://streaming.shoutcast.com/synchronizeradio
 #EXTINF:-1,Tarakan FM
 https://live.tarakanfm.com/listen/tarakanfm/stream
 #EXTINF:-1,Tarbiyah Sunnah
@@ -915,8 +905,6 @@ https://tiktokhits.funstream.net/listen/tiktokhits/radio.aac
 https://live.tjandrafm.com/listen/tjandrafm/stream
 #EXTINF:-1,Topfm
 http://streaming.topfm951.net:9510/stream
-#EXTINF:-1,Trangkil FM
-https://i.klikhost.com/8228/;radio
 #EXTINF:-1,Trax FM
 https://traxfm.radioca.st/live
 #EXTINF:-1,trax fm semarang

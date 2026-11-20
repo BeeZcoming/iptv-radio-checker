@@ -3,6 +3,8 @@
 http://stream.bbfm.sk/bbfm128.mp3
 #EXTINF:-1,BestFM
 https://stream3.bestfm.sk:8000/160.aac
+#EXTINF:-1,Československé radio 
+http://live.topradio.cz:8000/csradio128
 #EXTINF:-1,Detské Rádio
 http://stream.21.sk/detskeradio-192.mp3
 #EXTINF:-1,Detské rádio
@@ -69,6 +71,8 @@ https://stream.bauermedia.sk/oldies-party-hi.aac
 https://listen.radioking.com/radio/263218/stream/308365
 #EXTINF:-1,Mirjam Rádio - Mária Rádió Felvidék
 http://193.87.81.131:8081/MariaRadioFelvidek
+#EXTINF:-1,NUCROOZE (189AAC)
+https://stream.nucrooze.com/listen/nucrooze/radio.aac
 #EXTINF:-1,Party Mix Radio
 http://stream.zeno.fm/rw6ckefezs8uv
 #EXTINF:-1,Party Radio

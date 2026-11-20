@@ -675,6 +675,8 @@ https://stream.zeno.fm/v9wqm1gztk8uv
 http://89.238.227.6:8332/;stream/1
 #EXTINF:-1,Radio Coresi
 http://master.shoutcast.com:8000/radio-coresi
+#EXTINF:-1,Radio Coresi -Brașov
+http://streaming.shoutcast.com/radio-coresi
 #EXTINF:-1,Radio Coresi 80s -Brașov
 https://s5.radio.co/sfb029759c/listen
 #EXTINF:-1,Radio Coresi Oldies -Brașov
@@ -705,8 +707,6 @@ https://radiodacia03.live.nt.ro/
 https://radiodacia06.live.nt.ro/
 #EXTINF:-1,Radio Dada
 https://live.laris.ro:8004/radiodada128.mp3
-#EXTINF:-1,Radio Damblagii
-https://radio.rodnuk.com/hls/radio_damblagii/live.m3u8
 #EXTINF:-1,Radio DEEA
 http://radiocdn.nxthost.com/radio-deea
 #EXTINF:-1,Radio DEEA -Onești
@@ -847,10 +847,10 @@ https://live.radio-impuls.ro/stream
 http://86.127.68.115:18000/infinit64.ogg
 #EXTINF:-1,Radio Iubire
 http://ssl.radios.show:8026/;
-#EXTINF:-1,Radio Kibut
-https://listen.radioking.com/radio/380248/stream/431281
 #EXTINF:-1,Radio Killer Câmpia Turzii
 https://s12.myradiostream.com/17492/listen.mp3
+#EXTINF:-1,Radio Killer Turda
+https://s47.myradiostream.com/16234/listen.mp3
 #EXTINF:-1,Rádió KoKo
 https://az10.yesstreaming.net:8210/radiokoko.mp3
 #EXTINF:-1,Radio Koko
@@ -1151,10 +1151,6 @@ https://listen.radioking.com/radio/494884/stream/551902
 http://162.244.80.32:6700/
 #EXTINF:-1,Radio Vocea Speranței RVS
 https://live.rvs.ro/play
-#EXTINF:-1,Radio Voces Campi
-http://vocescampi.ro:8001/;
-#EXTINF:-1,Radio Voces Campi -Călărași 101,1 FM
-https://vocescampi.ro:8443/;
 #EXTINF:-1,Radio Xtream
 https://ssl.radios.show:7008/;
 #EXTINF:-1,Radio Xtream Romania
@@ -1337,6 +1333,8 @@ https://online.webcastradio.ro/star
 https://sp.totalstreaming.net:8125/
 #EXTINF:-1,Station Offline
 https://live.station-offline.com/listen/station-offline/live.aac
+#EXTINF:-1,Stil FM -Dej 106.1 FM
+http://92.180.18.201:8000/;
 #EXTINF:-1,Stil FM Radio - Călărași 105.5 FM
 http://5.2.233.147:8000/live
 #EXTINF:-1,Stil FM Radio - Oltenița 88.2 FM
@@ -1401,6 +1399,8 @@ http://5.2.208.222:8000/stream
 https://petrecere.radiotequila.ro/7000/stream
 #EXTINF:-1,Terra FM
 https://stream.terrafm.ro/stream
+#EXTINF:-1,TERRA FM
+https://radiosentir.sytes.net/stream?1774626668225
 #EXTINF:-1,Terra Radio -Medgidia 97.5 FM
 http://188.26.110.59:8000/terra_hq.mp3
 #EXTINF:-1,Terra Radio -Murfatlar 97.5 FM
@@ -1427,6 +1427,8 @@ https://panel.radiocaleasprecer.com/radio/8020/radio.mp3
 https://radio.ascultatare.ro/7000/stream
 #EXTINF:-1,Trance Energy
 https://fra-pioneer01.dedicateware.com:2990/stream
+#EXTINF:-1,Transilvania -statia Baia Mare 106.1 FM
+https://stream2.radiotransilvania.ro/BaiaMare
 #EXTINF:-1,Transilvania -statia Beclean 91.5 FM
 http://stream2.radiotransilvania.ro/Bistrita
 #EXTINF:-1,Transilvania -statia Luduș 100.4 FM

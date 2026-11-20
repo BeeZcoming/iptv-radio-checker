@@ -111,6 +111,8 @@ http://streaming.enantena.com:8000/antenacaro128.mp3
 https://sonic.mediatelekom.net/9980/stream
 #EXTINF:-1,Antena Cemu Radio 89.2 FM
 http://str1.mediatelekom.net:8110/;
+#EXTINF:-1,Antena Huelva 97.3 FM
+http://stm1.emiteonline.com:8024/antenahuelva
 #EXTINF:-1,ANTENITA
 https://vps-9f1e2662.vps.ovh.net/antenitafm
 #EXTINF:-1,ApopcalipsisRadio
@@ -363,6 +365,8 @@ http://streamer.radio.co/sd7b28e5f3/listen
 http://streaming.enantena.com:8000/calafellradio128.mp3?_=1
 #EXTINF:-1,CalamarRradio
 http://www.calamarrradio.org:8000/stream
+#EXTINF:-1,Calimbre Radio
+https://control.streaming-pro.com:6048/stream
 #EXTINF:-1,Camino FM
 https://www.radioking.com/play/camino-fm/668404
 #EXTINF:-1,Canal 4 Tenerife
@@ -475,6 +479,8 @@ http://wecast20-h-cloud.flumotion.com/copesedes/cartagena.mp3
 https://sonic.mediatelekom.net/8448/;?type=http&nocache=107036
 #EXTINF:-1,Cope Granada
 http://flucast13-h-cloud.flumotion.com/cope/net1.mp3
+#EXTINF:-1,COPE Granada-Sta.Fe
+https://granada-copesedes-rrcast.flumotion.com/copesedes/granada-low.mp3
 #EXTINF:-1,COPE Málaga
 http://flucast26-h-cloud.flumotion.com/cope/net1.mp3
 #EXTINF:-1,COPE Más Santander
@@ -487,6 +493,8 @@ http://wecast-bl01.flumotion.com/copesedes/sevilla.mp3
 https://wecast-bl02.flumotion.com/copesedes/tenerife-mas.mp3
 #EXTINF:-1,COPE Valencia
 https://wecast-bl01.flumotion.com/copesedes/valencia.mp3
+#EXTINF:-1,Cope Yecla
+https://eu1.lhdserver.es:9169/stream
 #EXTINF:-1,copesal
 https://salamanca-copesedes-rrcast.flumotion.com/copesedes/salamanca-low.mp3
 #EXTINF:-1,Corazón FM 89.2
@@ -1415,6 +1423,8 @@ https://server8.emitironline.com:9402/radio
 https://server8.emitironline.com:18593/stream
 #EXTINF:-1,pp
 https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/radio/media_0.m3u8
+#EXTINF:-1,punk irratia
+https://punkirratia.net:8443/punk
 #EXTINF:-1,PuntalRadio
 https://a5.asurahosting.com:6700/radio.mp3
 #EXTINF:-1,Pure Ibiza Radio
@@ -1577,8 +1587,6 @@ http://stream.zeno.fm/4vwgvyq82k8uv
 https://streaming12.elitecomunicacion.es:8228/stream?type=.mp3
 #EXTINF:-1,Ràdio Desvern
 https://enacast.com/radiodesvern/streams/HD
-#EXTINF:-1,Radio Dikela (AAC+ Móvil)
-https://dikela.org/radio_mobile
 #EXTINF:-1,Radio Disco Melodia FM
 https://sonic.mediatelekom.net/8020/stream
 #EXTINF:-1,Radio DOS 84
@@ -1673,6 +1681,8 @@ https://radiohostafrancs.cat/directe.mp3
 https://stream.radiohumorfm.com/stream
 #EXTINF:-1,Radio Ibizing
 https://a8.asurahosting.com:6850/radio.mp3
+#EXTINF:-1,Radio Ilíberis
+https://streaming2.elitecomunicacion.es:8074/stream?type=.mp3
 #EXTINF:-1,Radio Intercontinental - Madrid
 https://cast5.servcast.net/proxy/inter/stream
 #EXTINF:-1,Radio Intereconomía
@@ -1687,8 +1697,6 @@ http://s7.voscast.com:7618/;stream1699883723182/1
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_JODAR.mp3
 #EXTINF:-1,Radio Kras
 http://www.giss.tv:8000/RadioKras.mp3
-#EXTINF:-1,Ràdio l'Hospitalet de l'Infant en directe Ràdio l'Hospitalet de l'Infant
-https://streaming.enacast.com/radiohospitalet56.mp3
 #EXTINF:-1,Ràdio l'Om
 http://radiolom.es:8800/;stream.mp3
 #EXTINF:-1,Radio La Botica
@@ -1811,8 +1819,6 @@ http://stream.zeno.fm/sfpqezsh6f0uv
 https://srv7031.dns-lcinternet.com/8030/stream
 #EXTINF:-1,Radio Nervión
 https://gruponervion.streaming-pro.com:6131/
-#EXTINF:-1,Radio O Drom
-https://dikela.org/radio_stream
 #EXTINF:-1,Ràdio Olot
 http://chrome.frilab.com:8000/radiolot
 #EXTINF:-1,Radio Oro
@@ -1823,8 +1829,6 @@ http://185.23.192.118:8004/;stream.mp3
 http://streaming.enantena.com:8000/radiopalafolls128.mp3
 #EXTINF:-1,Ràdio Palafrugell
 https://radio.martiproduccions.com/radiopalafrugell
-#EXTINF:-1,Ràdio Pego 107.8
-http://www.radiopego.com:8000/stream
 #EXTINF:-1,Radio Pimienta
 https://www.ivoox.com/emision-1451_mh_120373925_feed_1.mp3
 #EXTINF:-1,Ràdio Pineda
@@ -2115,8 +2119,6 @@ https://rtvelivestream.rtve.es/rtvesec/rne/rne_r1_main.m3u8
 https://dispatcher.rndfnk.com/crtve/rne1/alm/mp3/high
 #EXTINF:-1,RNE Radio Nacional Cantabria
 https://dispatcher.rndfnk.com/crtve/rne1/ctb/mp3/high
-#EXTINF:-1,ROCK FM
-https://rockfm-cope-rrcast.flumotion.com/cope/rockfm-low.mp3
 #EXTINF:-1,Rock FM
 https://rockfm-cope.flumotion.com/playlist.m3u8
 #EXTINF:-1,Rock FM
@@ -2191,6 +2193,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_LUCENA
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SORIA.mp3
 #EXTINF:-1,SER Torrelavega
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_TORRELAVEGA.mp3
+#EXTINF:-1,SER Zaragoza
+https://zaragoza-copesedes-rrcast.flumotion.com/copesedes/zaragoza-low.mp3
 #EXTINF:-1,Sevilla FC Radio
 https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
 #EXTINF:-1,Shock FM
@@ -2225,8 +2229,6 @@ https://stream-179.surfernetwork.com/zkbtmkgkechuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzd
 https://pl.crystalweb.net:6640/stream
 #EXTINF:-1,Sorgintxu Irratia
 https://stream.zeno.fm/42qzmgdu4tzuv
-#EXTINF:-1,Soul FM
-https://soul-fm.com/live/soul.fm
 #EXTINF:-1,SoundDigital
 http://radio.hostlagarto.com:9770/;
 #EXTINF:-1,Spectrum FM Costa Almeria

@@ -207,6 +207,8 @@ http://kesintisizyayin.com:1656/
 https://yayin.turkhosted.com:6032/
 #EXTINF:-1,Deva FM Oyun Havası
 https://radyo.radyoimza.com/8034/stream
+#EXTINF:-1,Devrek FM
+https://stream.turkiyeradyolari.com:8116/stream
 #EXTINF:-1,Dijital radyo
 https://anadolu.liderhost.com.tr:10961/;
 #EXTINF:-1,dijital slow
@@ -347,8 +349,6 @@ https://listen.powerapp.com.tr/powerdance/abr/playlist.m3u8
 https://moondigitaledge.radyotvonline.net/garajradyo/playlist.m3u8
 #EXTINF:-1,GELİŞİM RADYO 
 http://radyo.yayindakiler.com:4008/stream
-#EXTINF:-1,Genç FM
-https://yayin1.canlitv.fun/radyo/gencfm/chunklist_w1257533803.m3u8
 #EXTINF:-1,GENÇ KRAL FM
 https://anadolu.liderhost.com.tr:10853/;
 #EXTINF:-1,GENÇ RADYO
@@ -649,8 +649,6 @@ http://yayin.netradyom.com:8050/PARKFM/
 http://yayin.pazarcikfm.com:9090/
 #EXTINF:-1,Pir Yolu
 http://radyopiryolu.canliyayinda.com:8165/
-#EXTINF:-1,playdanceradio
-https://radyo1.radyo-dinle.tc/playdanceradio/stream
 #EXTINF:-1,POP 90
 https://playerservices.streamtheworld.com/api/livestream-redirect/POP90128AAC.aac
 #EXTINF:-1,pop 90 turkey
@@ -829,12 +827,12 @@ https://icecast.netmedya.net/rbasaksehir
 https://playerservices.streamtheworld.com/api/livestream-redirect/BASKA.mp3
 #EXTINF:-1,Radyo Bilkent
 https://stream.netradyom.com/listen/radyobilkent/radio.mp3
-#EXTINF:-1,Radyo Bi̇tli̇s Eren
-https://sslyayin.netyayin.net/1313/stream
 #EXTINF:-1,RADYO BLACK
 https://anadolu.liderhost.com.tr:10966/
 #EXTINF:-1,RADYO BLACK LOVE
 https://anadolu.liderhost.com.tr:10964/
+#EXTINF:-1,Radyo Bozcaada
+http://23.88.71.53:4000/stream
 #EXTINF:-1,RADYO BU
 https://radyo.yayindakiler.com:8006/
 #EXTINF:-1,Radyo Can
@@ -849,6 +847,8 @@ https://radyo.duhnet.tv/radyod
 https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8
 #EXTINF:-1,Radyo Dede Bilişim Test Yayını
 https://live.sinirsizhost.com.tr/8080/stream
+#EXTINF:-1,Radyo Dejavu
+https://radyodejavu.80.yayin.com.tr/stream
 #EXTINF:-1,Radyo Delal
 https://wowza1.radyotvonline.com/idilpr/radyodelal.stream/playlist.m3u8
 #EXTINF:-1,Radyo Deva Adana
@@ -907,6 +907,8 @@ https://studio21.radiolize.com/radio/8100/radio.mp3?1647021999
 http://radyofitrat.radyotvonline.net/
 #EXTINF:-1,RADYO FLAS
 https://radyo.yayindakiler.com:4096/
+#EXTINF:-1,Radyo General Zonguldak
+https://anadolu.liderhost.com.tr/8014/stream
 #EXTINF:-1,Radyo Gerçek
 https://radyogercek.ozelip.com:8368/
 #EXTINF:-1,Radyo Gökçeada
@@ -953,6 +955,8 @@ https://radyo.yayin.com.tr:5894/
 https://stores.powerapp.com.tr/kocschool/mpeg/icecast.audio
 #EXTINF:-1,RADYO KTU
 https://sslyayin.netyayin.net:8076/
+#EXTINF:-1,Radyo Kulüp Zonguldak
+http://radyo.yayin.com.tr:5894/;stream.mp3
 #EXTINF:-1,Radyo light
 https://yayin.radiolight.net:8005/live
 #EXTINF:-1,RADYO LOJİK
@@ -975,6 +979,8 @@ http://mega.netradyom.com:7900/radio.mp3
 http://mega.netradyom.com:7900/;
 #EXTINF:-1,RADYO MEYDAN
 https://live.sinirsizhost.com/8042/stream
+#EXTINF:-1,Radyo Meyhane
+https://stream.radiojar.com/14wbvawntg0uv
 #EXTINF:-1,radyo mezopotamya
 https://anadolu.liderhost.com.tr/9404/stream
 #EXTINF:-1,RADYO MONİ
@@ -1149,6 +1155,8 @@ https://endustriradyo.radyotvonline.net/endustriradyo
 https://moondigitaledge.radyotvonline.net/standartfm/playlist.m3u8
 #EXTINF:-1,Star FM 95.5
 https://anadolu.liderhost.com.tr/9078/stream
+#EXTINF:-1,Süleymanlı Haber
+https://radyo2.fkbs.com.tr/8048/stream
 #EXTINF:-1,Süper 2 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC.mp3
 #EXTINF:-1,Super Fm

@@ -69,8 +69,6 @@ https://61ff3340258d2.streamlock.net/jtv_radio/myStream/chunklist_w111659793.m3u
 http://kmeathosting.com:8000/kmeat
 #EXTINF:-1,K-RADIO
 https://s5.radio.co/s0a9796fe3/listen
-#EXTINF:-1,kbs해피fm
-https://2radio-bora.gscdn.kbs.co.kr/2radio-bora-01/2radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ycmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMnJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTE0ODQxMX19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=Kn42K-7fwX1RZ5mz7vPrQ5eNAN4I0CQjsuHXySF8EeelTvanOgIbU-NTXn3YS07yhwxpOKyoh3jK5jvO85E~mmFdx9D7w~tniOGYe74pzEocKjBxTcIWS338BK~18oFWYsReMDweI-4E45RsP8SGTkA3hL65ZA8jb1vbwE2j~~Lg59Odds-9CkWWPese0AgoOyDWhg0y-TO~FJCGll1YXr8hrQ5kF2fo-ckF3HjZ7Qx0DezaDgS9WuOK~LwQbzlmloVLlDg0l91LUS5Rg26xpDdaFLFsOdiAZmivHyNe4MIZoVd3303BZBz4NCPYW42YKCVcmvpOu5RmJIuR9L~doA__
 #EXTINF:-1,Korean city pop
 http://65.21.61.215:8000/citypoptwo
 #EXTINF:-1,Listen.moe Kpop (MP3)
@@ -85,6 +83,8 @@ http://211.33.246.4:32954/radio_fm/myStream.sdp/playlist.m3u8
 http://211.33.246.4:32954/radio_fm/myStream.sdp/chunklist_w348337231.m3u8
 #EXTINF:-1,MBC충북 표준FM
 http://211.33.246.4:32954/radio_stfm/myStream.sdp/chunklist_w392819215.m3u8
+#EXTINF:-1,OBS 라디오
+https://vod3.obs.co.kr:444/live/obsstream1/radio.stream/playlist.m3u8
 #EXTINF:-1,Oldpop Cafe
 http://cast.oldpopcafe.net:7080/
 #EXTINF:-1,REPLAY NEWS - 한국어   5분마다 뉴스 라디오
@@ -113,6 +113,8 @@ https://stream.yojosuknam.com/live.mp3
 https://radiolive.ytn.co.kr/radio/_definst_/20211118_fmlive/playlist.m3u8
 #EXTINF:-1,경인방송
 https://stream.ifm.kr/live/aod1/playlist.m3u8
+#EXTINF:-1,국방FM
+https://mediaworks.dema.mil.kr/live_edge/audio.sdp/playlist.m3u8
 #EXTINF:-1,마포FM
 http://115.85.182.39/mapofm?type=.mp3
 #EXTINF:-1,안동MBC AM

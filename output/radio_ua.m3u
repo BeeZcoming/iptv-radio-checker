@@ -21,10 +21,6 @@ https://m.axradio.net/stream.mp3
 http://radio.bestfm.ua/bestfm
 #EXTINF:-1,Blues & Rock Radio
 http://stream.laut.fm/bluesrock
-#EXTINF:-1,Brokenbeats
-https://brokenbeats.net/stream/aac
-#EXTINF:-1,Brokenbeats
-https://stream.brokenbeats.net/tune
 #EXTINF:-1,Classic Radio
 http://online.classicradio.ua/ClassicRadio_HD
 #EXTINF:-1,Classic Radio
@@ -106,7 +102,13 @@ https://cast.mediaonline.net.ua/terrace320
 #EXTINF:-1,Lounge Music
 https://radio.dobreff.com/lounge.mp3
 #EXTINF:-1,Lux FM
+http://lux.radio.tvstitch.com/kyiv/lux_adv_sd
+#EXTINF:-1,Lux FM
 https://streamvideo.luxnet.ua/lux/smil:lux.stream.smil/playlist.m3u8
+#EXTINF:-1,Lux FM Lviv
+https://lux.radio.tvstitch.com/lux_lviv_adv_sd
+#EXTINF:-1,Lux FM Lviv
+https://lux.radio.tvstitch.com/lux_lviv_adv_sd
 #EXTINF:-1,Lviv Wave Radio
 http://onair.lviv.fm:8000/lviv.fm
 #EXTINF:-1,MAGIC Radio
@@ -245,8 +247,6 @@ http://7rays.stream.laut.fm/7rays
 https://s61.radiolize.com//radio//8000//radio.mp3
 #EXTINF:-1,STYLE FM
 https://myradio24.org/station
-#EXTINF:-1,Sun FM
-https://stream.sunfmua.com/live
 #EXTINF:-1,Svitle
 https://online.svitle.org/hls/svitle/default.m3u8
 #EXTINF:-1,Teren.fm
@@ -467,8 +467,6 @@ https://live.radio1.com.ua/liveradio64
 http://radio.ukr.radio:8000/ur2-mp3
 #EXTINF:-1,Радіо ПТРК
 https://service.ptrk.tv:8443/PTRK
-#EXTINF:-1,Радіо РАІ
-https://radio.rai.ua:9000/rai
 #EXTINF:-1,Радіо С4
 https://radio.c4.com.ua:8443/320
 #EXTINF:-1,Радіо Світанок

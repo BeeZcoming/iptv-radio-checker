@@ -137,6 +137,34 @@ http://stream.89.0rtl.de/deutsch-rap/mp3-256
 http://stream.89.0rtl.de/workout/mp3-256
 #EXTINF:-1,92.9 Radio Muelheim
 https://edge07.streamonkey.net/wf-radiomuelheim
+#EXTINF:-1,93,6 JAM FM 2010er
+http://stream.jam.fm/2010er/mp3-192
+#EXTINF:-1,93,6 JAM FM 90er
+http://stream.jam.fm/90er/mp3-192
+#EXTINF:-1,93,6 JAM FM Black Label
+http://stream.jam.fm/jamfm-bl/mp3-192
+#EXTINF:-1,93,6 JAM FM Charts
+http://stream.jam.fm/charts/mp3-192
+#EXTINF:-1,93,6 JAM FM Chill
+http://stream.jam.fm/chill/mp3-192
+#EXTINF:-1,93,6 JAM FM DJ Cooper
+http://stream.jam.fm/djcooper/mp3-192
+#EXTINF:-1,93,6 JAM FM Elektro
+http://stream.jam.fm/elektro/mp3-192
+#EXTINF:-1,93,6 JAM FM Live
+http://stream.jam.fm/jamfm-live/mp3-192
+#EXTINF:-1,93,6 JAM FM New Music
+http://stream.jam.fm/jamfm-nmr/mp3-192
+#EXTINF:-1,93,6 JAM FM Party
+http://stream.jam.fm/party/mp3-192
+#EXTINF:-1,93,6 JAM FM Rap
+http://stream.jam.fm/rap/mp3-192
+#EXTINF:-1,93,6 JAM FM Russkiye Khity
+http://stream.jam.fm/russkiye/mp3-192
+#EXTINF:-1,93,6 JAM FM Study
+http://stream.jam.fm/study/mp3-192
+#EXTINF:-1,93,6 JAM FM Workout
+http://stream.jam.fm/workout/mp3-192
 #EXTINF:-1,94,3 rs2 2000er
 https://stream.rs2.de/rs2-2000er/mp3-192
 #EXTINF:-1,94,3 rs2 Ed Sheeran
@@ -423,6 +451,24 @@ http://streams.bigfm.de/bigfm-oldschool-128-aac
 http://streams.bigfm.de/bigfm-oldschool-64-aac
 #EXTINF:-1,bigFM Oldschool Rap & Hip-Hop
 http://streams.bigfm.de/bigfm-oldschool-128-mp3
+#EXTINF:-1,bigFM Rap Feature
+http://streams.bigfm.de/bigfm-rapfeature-128-aac
+#EXTINF:-1,bigFM Rap Feature
+http://streams.bigfm.de/bigfm-rapfeature-64-aac
+#EXTINF:-1,bigFM Reggae Vibez
+http://streams.bigfm.de/bigfm-reggaevibes-128-aac
+#EXTINF:-1,bigFM Rheinland-Pfalz
+http://streams.bigfm.de/bigfm-rlp-64-aac
+#EXTINF:-1,bigFM Rheinland-Pfalz
+http://streams.bigfm.de/bigfm-rlp-128-mp3
+#EXTINF:-1,bigFM RnB
+http://streams.bigfm.de/bigfm-rnb-128-aac
+#EXTINF:-1,bigFM Rock am Ring
+http://streams.bigfm.de/bigfm-rockamring-128-mp3
+#EXTINF:-1,bigFM Rock am Ring
+http://streams.bigfm.de/bigfm-rockamring-128-aac
+#EXTINF:-1,bigFM Rock am Ring
+http://streams.bigfm.de/bigfm-rockamring-64-aac
 #EXTINF:-1,Bizwebradio
 http://us1.streamingpulse.com:7104/stream
 #EXTINF:-1,BMRADIO.DE - 24/7 The finest in Black Music
@@ -1035,8 +1081,6 @@ http://stream.laut.fm/kuschelrock
 http://stream2.cprnetwork.org:8000/cpr2_lo
 #EXTINF:-1,KWMU 90.7 FM
 https://kwmu1-ice.streamguys1.com/kwmu1
-#EXTINF:-1,KX93.5
-http://ice9.securenetsystems.net/KXRN?&playSessionID=5C251077-C9C7-7951-F6D9B2C9465CED08
 #EXTINF:-1,KYKN 1430 AM
 https://ice8.securenetsystems.net/KYKN
 #EXTINF:-1,KZYR "The Zephyr" Vail, Colorado
@@ -1359,6 +1403,22 @@ http://regiocast.streamabc.net/regc-radiobobsouthernrock8560476-mp3-192-3976810?
 http://stream.laut.fm/radio_boogie-woogie
 #EXTINF:-1,Radio Brent
 https://patmos.cdnstream.com/proxy/radiobre/?mp=/stream
+#EXTINF:-1,Radio Brocken - 90er
+http://stream.radiobrocken.de/90er/mp3-256
+#EXTINF:-1,Radio Brocken - Best of
+http://stream.radiobrocken.de/bestof/mp3-256
+#EXTINF:-1,Radio Brocken - Chart-Hits
+http://stream.radiobrocken.de/chart-hits/mp3-256
+#EXTINF:-1,Radio Brocken - Kinderzeit
+http://stream.radiobrocken.de/kinderzeit/mp3-256
+#EXTINF:-1,Radio Brocken - Lovesongs
+http://stream.radiobrocken.de/love/mp3-256
+#EXTINF:-1,Radio Brocken - Osthits
+http://stream.radiobrocken.de/osthits/mp3-256
+#EXTINF:-1,Radio Brocken - Ü30 Partymix
+http://stream.radiobrocken.de/partymix/mp3-256
+#EXTINF:-1,Radio Brocken - Weihnachtsradio
+http://stream.radiobrocken.de/weihnachtsradio/mp3-256
 #EXTINF:-1,Radio C
 http://online.radioc.ru:8000/radioc
 #EXTINF:-1,Radio Caprice - Big Bands
@@ -1665,6 +1725,8 @@ http://tophits.radiomonster.fm/320.mp3
 https://radio.streemlion.com/radioprogram
 #EXTINF:-1,Radiosai global Harmony
 http://stream.radiosai.net:8008/
+#EXTINF:-1,RadioSEGA (HE-AAC v2)
+http://icecast.radiosega.net:8006/live
 #EXTINF:-1,radistudioplay
 http://studioplay.stream.laut.fm:8080/studioplay
 #EXTINF:-1,RADYO 7
@@ -1771,12 +1833,72 @@ http://streams.rpr1.de/rpr-mainz-128-mp3
 http://streams.rpr1.de/rpr-mainz-64-aac
 #EXTINF:-1,RPR1. - Trier
 http://streams.rpr1.de/rpr-trier-64-aac
+#EXTINF:-1,RPR1.2000er
+http://streams.rpr1.de/rpr-2000er-128-mp3
+#EXTINF:-1,RPR1.2000er
+http://streams.rpr1.de/rpr-2000er-64-aac
+#EXTINF:-1,RPR1.70er
+http://streams.rpr1.de/rpr-70er-128-mp3
+#EXTINF:-1,RPR1.70er
+http://streams.rpr1.de/rpr-70er-64-aac
+#EXTINF:-1,RPR1.90er
+http://streams.rpr1.de/rpr-90er-64-aac
+#EXTINF:-1,RPR1.90er
+http://streams.rpr1.de/rpr-90er-128-mp3
+#EXTINF:-1,RPR1.Country
+http://streams.rpr1.de/rpr-country-64-aac
+#EXTINF:-1,RPR1.Country
+http://streams.rpr1.de/rpr-country-128-mp3
+#EXTINF:-1,RPR1.Deutsch-Pop
+http://streams.rpr1.de/rpr-deutschpop-128-mp3
+#EXTINF:-1,RPR1.Deutsch-Pop
+http://streams.rpr1.de/rpr-deutschpop-64-aac
+#EXTINF:-1,RPR1.Heavy Metal
+http://streams.rpr1.de/rpr-metal-64-aac
+#EXTINF:-1,RPR1.Heavy Metal
+http://streams.rpr1.de/rpr-metal-128-mp3
+#EXTINF:-1,RPR1.Kinderlieder
+http://streams.rpr1.de/rpr-kinder-128-mp3
+#EXTINF:-1,RPR1.Kinderlieder
+http://streams.rpr1.de/rpr-kinder-64-aac
+#EXTINF:-1,RPR1.Neue Deutsche Welle
+http://streams.rpr1.de/rpr-ndw-64-aac
+#EXTINF:-1,RPR1.Neue Deutsche Welle
+http://streams.rpr1.de/rpr-ndw-128-mp3
+#EXTINF:-1,RPR1.Old School Hip-Hop
+http://streams.rpr1.de/rpr-hiphop-128-mp3
+#EXTINF:-1,RPR1.Old School Hip-Hop
+http://streams.rpr1.de/rpr-hiphop-64-aac
+#EXTINF:-1,RPR1.Oldies
+http://streams.rpr1.de/rpr-oldies-128-mp3
+#EXTINF:-1,RPR1.Oldies
+http://streams.rpr1.de/rpr-oldies-64-aac
+#EXTINF:-1,RPR1.Pappnasen-Playlist
+http://streams.rpr1.de/rpr-pappnasen-64-aac
+#EXTINF:-1,RPR1.Pappnasen-Playlist
+http://streams.rpr1.de/rpr-pappnasen-128-mp3
+#EXTINF:-1,RPR1.Schlagerhits
+http://streams.rpr1.de/rpr-schlagerhits-64-aac
+#EXTINF:-1,RPR1.Schlagerhits
+http://streams.rpr1.de/rpr-schlagerhits-128-mp3
+#EXTINF:-1,RPR1.Sommerhits
+http://streams.rpr1.de/rpr-summerfeeling-128-mp3
+#EXTINF:-1,RPR1.Sommerhits
+http://streams.rpr1.de/rpr-summerfeeling-64-aac
+#EXTINF:-1,RPR1.Tanzbar
+http://streams.rpr1.de/rpr-tanzbar-128-mp3
+#EXTINF:-1,RPR1.Tanzbar
+http://streams.rpr1.de/rpr-tanzbar-64-aac
+#EXTINF:-1,RPR1.Weihnachtslieder
+http://streams.rpr1.de/rpr-weihnachten-128-mp3
+#EXTINF:-1,RPR1.Weihnachtslieder
+http://streams.rpr1.de/rpr-weihnachten-64-aac
 #EXTINF:-1,rpsfm2
 https://listen.radioking.com/radio/230044/stream/273727
+#EXTINF:-1,RSA-Sachsen
+http://streams.rsa-sachsen.de/rsa-live/mp3-192/mediaplayerrsa
 #EXTINF:-1,RSH Live
 http://streams.rsh.de/rsh-live/mp3-128/streams.rsh.de
-#EXTINF:-1,RTL -  Deutschlands Hit-Radio
-https://stream.rtlradio.de/rtl-de-national/mp3-128/surfmusikDE/
 #EXTINF:-1,RTL Radio Lëtzebuerg
 http://sc-rtllive.newmedia.lu/;stream.nvs
 #EXTINF:-1,RTS La Première

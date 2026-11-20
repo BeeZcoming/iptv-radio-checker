@@ -22,7 +22,7 @@ https://stream.laut.fm/conexionkpop
 #EXTINF:-1,Conexion Kpop Girls groups
 https://stream.laut.fm/conexiongirlsgroups
 #EXTINF:-1,Corazon Andino
-https://stream-204.surfernetwork.com/59fr3kg60tzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1OWZyM2tnNjB0enV2IiwiaG9zdCI6InN0cmVhbS0yMDQuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiIyeUxUdUh1X1REdTRfQnlyRTZ0bXFBIiwiaWF0IjoxNzk0Njg1MjcwLCJleHAiOjE3OTQ2ODUzMzB9.2ttGE5RykjNABRFqzRvvk7zgsUWj_Y1qgYGjSQ8Nnak
+https://stream-175.surfernetwork.com/59fr3kg60tzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1OWZyM2tnNjB0enV2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJxTHZPbVhFRFM4dUJnNDFJR1F5bjNBIiwiaWF0IjoxNzk1MTE3MzU1LCJleHAiOjE3OTUxMTc0MTV9.kMxdPpCA07dtwcZCXCxEl2OgaWggh-ZQNXioP_Ms4go
 #EXTINF:-1,Edwin Abdon Ramirez Acuña
 https://panel.innovatestream.pe:10995/stream
 #EXTINF:-1,El Sembrador Radio 590 AM Y 100.1 FM
@@ -221,6 +221,8 @@ https://stream.zeno.fm/z7re4u64gd0uv
 https://stream.zeno.fm/8s6b3v091k8uv
 #EXTINF:-1,radio Disney Perú
 https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_PER_LMAAC.m3u8
+#EXTINF:-1,Radio Dragonux
+https://usa3.fastcast4u.com/proxy/dragonux?mp=/stream
 #EXTINF:-1,Radio El WebVeo
 https://sp.oyotunstream.com/8148/stream/;
 #EXTINF:-1,Radio Esfera Uchiza
@@ -291,6 +293,8 @@ https://tupanel.info:7410/stream/;
 http://stream.zeno.fm/8dppgdapxneuv
 #EXTINF:-1,Radio La tremenda
 https://radio.latremenda.pe/X7K9F2M4P8Q1W3R5T6Y
+#EXTINF:-1,Radio La Unika
+https://cloud9.ldwebstudios.net:7011/;
 #EXTINF:-1,Radio La Voz del Nor Oriente - Utcubamba
 https://sp.onliveperu.com:7038/;
 #EXTINF:-1,Radio La Zona Urbana
@@ -301,8 +305,6 @@ https://radio.pjcks.com/9944/stream
 https://stream.zeno.fm/y6uubjcdoopuv
 #EXTINF:-1,Radio Loreto
 https://sp.oyotunstream.com/8006/stream
-#EXTINF:-1,radio los andes 99.5 fm
-https://sonic.dattassd.com:8190/stream
 #EXTINF:-1,Radio Los Angeles - Chepen
 http://94.23.159.187:9950/;
 #EXTINF:-1,Radio Mágica 88.3 FM
@@ -421,6 +423,8 @@ https://dattavolt.com:7134/stream
 https://stream.zeno.fm/ktk1db7xywzuv
 #EXTINF:-1,RADIO YARAVI
 https://tupanel.info/stream/radioyaravi/stream
+#EXTINF:-1,RADIOCRICONLINE
+https://stream20.usastreams.com/8040/stream/;
 #EXTINF:-1,Radiomar
 https://mdstrm.com/audio/6839e261d2efddf5bfbc2d3d/live.m3u8
 #EXTINF:-1,Radiomar

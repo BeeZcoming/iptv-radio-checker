@@ -495,8 +495,12 @@ https://stream.streambase.ch/r32goldies/mp3-192/direct/
 https://stream01.3fach.ch/live
 #EXTINF:-1,Radio 3FACH
 http://stream01.3fach.ch:8001/live
-#EXTINF:-1,Radio Alta
-https://transmiss.ion.ovh/listen/alta/radio.mp3
+#EXTINF:-1,Radio Argovia
+https://stream.streambase.ch/argovia/mp3-192/direct/
+#EXTINF:-1,Radio Argovia
+https://stream.streambase.ch/argovia/mp3-192/radiobrowser/
+#EXTINF:-1,Radio Argovia Hit Mix
+https://stream.streambase.ch/hitmix/mp3-192/direct/
 #EXTINF:-1,Radio Barix AAC
 http://barix.streamguys.net/barix_aacp
 #EXTINF:-1,Radio Basilisk
@@ -509,6 +513,12 @@ http://stream11.radiobeo.ch:8000/radiobeo.mp3
 https://stream.streambase.ch/radiobern1/mp3-192/direct/
 #EXTINF:-1,Radio Bollwerk
 https://radio.radio-bollwerk.ch/listen/radio_bollwerk/radio.mp3
+#EXTINF:-1,Radio Central
+https://stream.streambase.ch/rcentral/mp3-192/direct/
+#EXTINF:-1,Radio Central
+https://stream.streambase.ch/rcentral/mp3-192/chmedia-radio-web/1723615196409_33800762
+#EXTINF:-1,Radio Central
+https://stream.streambase.ch/rcentral/mp3-192/chmedia-radio-web/
 #EXTINF:-1,Radio Chablais
 http://radiochablais.ice.infomaniak.ch/radiochablais-high.mp3
 #EXTINF:-1,Radio Chablais Rock´N Blues
@@ -779,6 +789,10 @@ https://radiotop.ice.infomaniak.ch/radiotop96.aac
 https://radiovintage.ice.infomaniak.ch/radiovintage-128.mp3?ua=RADIO%20VINTAGE%20-%20audio%20player%201
 #EXTINF:-1,Radio Vostok
 http://radiovostok.ice.infomaniak.ch/radiovostok.aac
+#EXTINF:-1,Radio X Basel (MP3 Stream)
+http://mp3.radiox.ch:8000/standard.mp3
+#EXTINF:-1,Radio X Basel (OGG Stream)
+http://mp3.radiox.ch:8000/standard.ogg
 #EXTINF:-1,Radio Zuerich Nord: Musikbox
 https://bayern.streampanel.cloud:11145/stream
 #EXTINF:-1,Radio Zuerisee
@@ -811,6 +825,8 @@ https://radio.second-hands.org/listen/radiopungis/radio.mp3
 http://radio12.pro-fhi.net/radio/9136/stream
 #EXTINF:-1,Radioswiss 
 http://stream.laut.fm/radioswiss
+#EXTINF:-1,radiox.ch
+https://mp3.radiox.ch/standard.ogg
 #EXTINF:-1,RCM La radio 13 étoiles 
 https://listen.radioking.com/radio/873226/stream/943281
 #EXTINF:-1,Redline Radio 
@@ -893,6 +909,8 @@ https://rundfunkfm.broadcast.brandsarelive.com/listen/rundfunk.fm/radio.mp3
 https://rundfunkfm.broadcast.brandsarelive.com/listen/rundfunk.fm/radio.mp3
 #EXTINF:-1,Skuizz Hits 90s-00s
 https://traxx024.ice.infomaniak.ch/traxx024-1.mp3
+#EXTINF:-1,SONIXUS Radio
+https://radio.sonixus.live/stream.mp3
 #EXTINF:-1,soundz
 https://stream.mysoundz.ch/streams/radio-browser/3602b6f9ee3c4521bdec84ec/shared/stream
 #EXTINF:-1,soundz
@@ -939,8 +957,6 @@ http://stream.srg-ssr.ch/m/regi_zh_sh/aacp_96
 http://stream.srg-ssr.ch/srgssr/srf3/aac/192
 #EXTINF:-1,SRF4
 https://stream.srg-ssr.ch/srgssr/srf4news/mp3/128
-#EXTINF:-1,Sunshine Radio (Switzerland)
-https://stream.streambase.ch/rsunshine/mp3-192/chmedia-radio-web/1699795900047_8633080
 #EXTINF:-1,Superyachtradio
 https://stream.radio.co/s43a403d3a/listen
 #EXTINF:-1,Swiss Country Radio
@@ -1015,6 +1031,8 @@ http://traxx007.ice.infomaniak.ch/traxx007-low.mp3
 http://traxx019.ice.infomaniak.ch/traxx019-low.mp3
 #EXTINF:-1,Traxx FM - Soul
 http://traxx006.ice.infomaniak.ch/traxx006-low.mp3
+#EXTINF:-1,Traxx FM - Tech Minimal
+http://traxx020.ice.infomaniak.ch/traxx020-low.mp3
 #EXTINF:-1,True House Chill
 https://stream.truehouse.net:8443/chill
 #EXTINF:-1,True House Radio

@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,4 Fun Dance
 http://92.114.85.87:8018/play/a00k/index.m3u8
+#EXTINF:-1,8XM (576p)
+http://116.90.120.149:8000/play/a0tw/index.m3u8
 #EXTINF:-1,9X Jhakaas (1080p)
 https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
 #EXTINF:-1,9X Tashan (1080p)
@@ -45,12 +47,16 @@ http://92.114.85.87:8016/play/a008/index.m3u8
 http://46.53.200.153:7777/play/EuropaPlus/index.m3u8
 #EXTINF:-1,HTV (720p)
 http://45.171.64.30:6060/play/a012/index.m3u8
+#EXTINF:-1,Jalwa TV (576p)
+http://116.90.120.149:8000/play/a0tv/index.m3u8
 #EXTINF:-1,La 100 (1080p)
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 #EXTINF:-1,La Clave (720p)
 https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
 #EXTINF:-1,Live Music Channel HD (1080p)
 http://46.53.200.153:7777/play/Live_music_channel/index.m3u8
+#EXTINF:-1,MCM Pop
+http://176.65.153.78:8201/play/a070/index.m3u8
 #EXTINF:-1,mfm (1080p)
 https://hms.pfs.gdn/hms/v1/broadcast/hlmvmp2hfriode891/playlist.m3u8
 #EXTINF:-1,Mi Musica Popular (1080p)

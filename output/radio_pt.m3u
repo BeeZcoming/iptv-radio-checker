@@ -33,8 +33,6 @@ http://centova.radio.com.pt:8547/;
 https://smartmedia.stmxp.net:8068/stream
 #EXTINF:-1,Alto Tamega FM
 http://188.93.231.97:9300/;
-#EXTINF:-1,Alvor FM
-http://centova.radio.com.pt:8469/;
 #EXTINF:-1,Antena 1 - Main
 https://radiocast.rtp.pt/antena180a.mp3
 #EXTINF:-1,Antena 1 (Portugal)
@@ -451,6 +449,8 @@ https://radio.nitro-server.uk/listen/rdioperlpia/radio.mp3
 http://centova.radios.pt:9420/stream
 #EXTINF:-1,Rádio Popular Afifense
 http://centova.radio.com.pt:8471/;
+#EXTINF:-1,Rádio Popular de Source
+https://nl.digitalrm.pt:8072/stream?1671016403075=
 #EXTINF:-1,Rádio Portalegre
 http://centova.radio.com.pt:9492/;
 #EXTINF:-1,Radio Portugal Mais

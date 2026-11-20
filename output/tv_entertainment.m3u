@@ -5,10 +5,12 @@ https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 https://30a-tv.com/sidewalks.m3u8
 #EXTINF:-1,30A Television Channel (720p)
 https://30a-tv.com/feeds/masters/30atv.m3u8
+#EXTINF:-1,.black (576p)
+http://116.90.120.149:8000/play/a0s4/index.m3u8
+#EXTINF:-1,.black HD (1080p)
+http://116.90.120.149:8000/play/a0ac/index.m3u8
 #EXTINF:-1,ANT1 Cyprus (1080p)
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
-#EXTINF:-1,like Gecko) Chrome/154.0.0.0 Safari/537.36" group-title="Entertainment",Antena HD
-http://92.114.85.87:8010/play/a00g/index.m3u8
 #EXTINF:-1,Belarus-2 HD (1080p)
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 #EXTINF:-1,Bonce TV (480p) [Not 24/7]
@@ -29,6 +31,8 @@ http://92.114.85.87:8015/play/a00d/index.m3u8
 http://45.171.64.30:6060/play/a032/index.m3u8
 #EXTINF:-1,Discovery World (1080p)
 http://168.196.127.137:6001/play/a097/index.m3u8
+#EXTINF:-1,E! (Poland) (576p)
+http://116.90.120.149:8000/play/a0kz/index.m3u8
 #EXTINF:-1,Enterr 10 Bangla (720p)
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 #EXTINF:-1,ETV+ (720p)
@@ -53,6 +57,8 @@ http://205.235.6.29:8000/play/a0wp/index.m3u8
 https://amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv/playlist/amg01911-mangomassmedia-mangotv-xiaomiin/playlist.m3u8
 #EXTINF:-1,MC TV (720p)
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1,MTV (India) HD (1080p)
+http://116.90.120.149:8000/play/a136/index.m3u8
 #EXTINF:-1,NHTV (720p)
 http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
 #EXTINF:-1,ON E Channel (1080p)

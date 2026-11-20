@@ -16,7 +16,7 @@ https://stream.zeno.fm/bckqpsxrqv8uv
 #EXTINF:-1,Rádio 8000
 https://stream1.svrdedicado.org:7020/stream
 #EXTINF:-1,Rádio Adventus
-https://stream-176.surfernetwork.com/kxu1vjyliqguv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJreHUxdmp5bGlxZ3V2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJYS1pPUXMyZ1NwaVZ5WU03NVBsVGlRIiwiaWF0IjoxNzk0NzAyMzcxLCJleHAiOjE3OTQ3MDI0MzF9.4WYDjyX-nO-QAtrahOFV9G8HL88vNWAQgagWe8oPdwY
+https://stream-176.surfernetwork.com/kxu1vjyliqguv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJreHUxdmp5bGlxZ3V2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJlSnZFbGFSbFNVMktNX3pnVDQtQk53IiwiaWF0IjoxNzk1MTM0NDE3LCJleHAiOjE3OTUxMzQ0Nzd9.n-JJnlU1gq41kyAqtWNIrGXIrgZf9mTOixNm_4Lz35A
 #EXTINF:-1,Rádio Benguela
 https://paineldj5.com.br:20096/stream
 #EXTINF:-1,Rádio Cazenga
@@ -27,16 +27,18 @@ https://stream.zeno.fm/n5r034egx4zuv
 https://paineldj.com.br:20145/stream
 #EXTINF:-1,Rádio Cultura Angola
 https://paineldj5.com.br:20091/stream
+#EXTINF:-1,Rádio Cuquema
+https://radios2.justweb.pt:8034/stream
 #EXTINF:-1,Rádio D'Agosto 92.0
 https://live.paineldj.com.br/proxy/radio1ago?mp=/stream
 #EXTINF:-1,Rádio Ecclésia de Caxito
-https://stream-178.surfernetwork.com/y4bcgcqifbbtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5NGJjZ2NxaWZiYnR2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJyQkdsNEtrUVROV3VVejJhVmpEdjh3IiwiaWF0IjoxNzk0NzMyMzA2LCJleHAiOjE3OTQ3MzIzNjZ9.SZRO2cSd3LzsSV-aYH13npM6T5iHPDc8I12Brx62aBo
+https://stream-178.surfernetwork.com/y4bcgcqifbbtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5NGJjZ2NxaWZiYnR2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJEbDRRZUJ4ZVQ5S0QwTFl2S2VRS093IiwiaWF0IjoxNzk1MTY0MzcyLCJleHAiOjE3OTUxNjQ0MzJ9.hs6HSn9-X5E5eKUq2yT2EaUoGhLMGRnnKL8PZ8fgUUE
 #EXTINF:-1,Rádio Escola
 https://centova87.instainternet.com/proxy/cfjluanda?mp=/stream
 #EXTINF:-1,Rádio Essencial
 https://servidor22-3.brlogic.com:7338/live
 #EXTINF:-1,Rádio Estalagem
-https://stream-178.surfernetwork.com/rsjv86wfioovv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyc2p2ODZ3Zmlvb3Z2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJKRm10WnNjS1Q2U1lvV0oyUTlLaHFnIiwiaWF0IjoxNzk0NzE3OTYzLCJleHAiOjE3OTQ3MTgwMjN9.dTC1lZ_qHPgvf5XXxx25LJAHKON41CCtGu-vpqymaMY
+https://stream-178.surfernetwork.com/rsjv86wfioovv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyc2p2ODZ3Zmlvb3Z2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJBZ1NydUxpYlNKdW0waUNzOFNES3Z3IiwiaWF0IjoxNzk1MTQ5OTk3LCJleHAiOjE3OTUxNTAwNTd9.Qv-77V2JGM8GmX7cKVisWqV0mwcU_UT-u53qiAltCmg
 #EXTINF:-1,Radio FamaStar
 http://sirius.shoutca.st:8527/stream/;
 #EXTINF:-1,Rádio Fé Angola
@@ -47,10 +49,8 @@ https://stream.zeno.fm/p31ewqfadchvv
 https://radios2.justweb.pt/8058/stream
 #EXTINF:-1,Rádio Jeova Sabaoth
 https://stream.zeno.fm/ji8igeihp1avv
-#EXTINF:-1,Rádio Kairós Angola
-https://www.radiokairosangola.ao/livenow
 #EXTINF:-1,Rádio Kamwenho Notícias
-https://stream-179.surfernetwork.com/e6mfzggsjsmuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlNm1memdnc2pzbXV2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJUYklqcXB3bFF6MmEtT1E0cldtNllBIiwiaWF0IjoxNzk0NzA0Mjk3LCJleHAiOjE3OTQ3MDQzNTd9.0hQmXUiqeNeUyOz1CZJTfbYP0fCH-fhlrdHVCDwyDcw
+https://stream-179.surfernetwork.com/e6mfzggsjsmuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlNm1memdnc2pzbXV2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJqOVpCMjBkYVJTU2ZJQWxRcHpNMVJBIiwiaWF0IjoxNzk1MTM2MzU3LCJleHAiOjE3OTUxMzY0MTd9.COBxfaEIoQPb-ZxtLmcS35Y0B0IkFSQ2uQZxf0iBgV8
 #EXTINF:-1,Radio Karixi.com - A Samba nos teus Ouvidos
 https://stream.zeno.fm/fww0uref9w6tv
 #EXTINF:-1,Radio Kuia Bue
@@ -94,13 +94,13 @@ https://ssl.srvstm.com:6756/NossoTempo
 #EXTINF:-1,Rádio Nova 102.5 FM
 https://stream.zeno.fm/0k4sknvq1p8uv
 #EXTINF:-1,RÁDIO NXT FM 98.7
-https://stream-179.surfernetwork.com/wnez02wihrevv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3bmV6MDJ3aWhyZXZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJkMjF0NGk4Q1JxZXdwa2wwN0JIMVJ3IiwiaWF0IjoxNzk0NzE3OTYxLCJleHAiOjE3OTQ3MTgwMjF9.eVkRuWd6hA2-ZUAA9WX8A5NtTVhSJRpJLPbaHmUOQg4
+https://stream-179.surfernetwork.com/wnez02wihrevv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3bmV6MDJ3aWhyZXZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJzaUhZWlRvWFJMNjFMU0RrbUxSXy1RIiwiaWF0IjoxNzk1MTQ5OTk3LCJleHAiOjE3OTUxNTAwNTd9.TAVWZzhgrrbPSm8FATaMwTXuBfwJlIS42-ypzD_gn9c
 #EXTINF:-1,Rádio Ondjo Yetu
 https://stream-178.surfernetwork.com/my2frbh3wx7vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJteTJmcmJoM3d4N3Z2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImR4cGhtYWlSUlplWkQ2SjFaVGFCZUEiLCJpYXQiOjE3OTQ4Njg2NzMsImV4cCI6MTc5NDg2ODczM30.Iz5p158oyBo2bJ0P53ElezpHjhETyHTTKTZpUXYuBwA
 #EXTINF:-1,Rádio Romântica
 https://paineldj5.com.br:20129/stream
 #EXTINF:-1,Rádio Sambila
-https://stream-176.surfernetwork.com/4uwoveqkmitvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0dXdvdmVxa21pdHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiIzSkpuUVJsMFM5U3hacDlmZTNPS1BnIiwiaWF0IjoxNzk0NzA0Mjk0LCJleHAiOjE3OTQ3MDQzNTR9.JYaYQmGPNHKGjwJGQqgRFc-K8HgDTdlSWeAo5x0Pfao
+https://stream-176.surfernetwork.com/4uwoveqkmitvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0dXdvdmVxa21pdHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJINlBlcVI2MFN6aWFONmlrdFVkMWpBIiwiaWF0IjoxNzk1MTM2MzU2LCJleHAiOjE3OTUxMzY0MTZ9.OxIjJ7H8aYnziLL86SpoF3HRm5hP5rbtwWaHsG0H8Fw
 #EXTINF:-1,Rádio Solidária
 https://link.radio.br:16052/stream
 #EXTINF:-1,Rádio STTOP FM
@@ -108,7 +108,7 @@ https://wz7.servidoresbrasil.com:8478/stream
 #EXTINF:-1,Rádio Sucupira
 https://stream2.svrdedicado.org:8048/stream
 #EXTINF:-1,Rádio Valerfm
-https://stream-177.surfernetwork.com/qz19u05s538uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxejE5dTA1czUzOHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJSelFOanpMY1JIaXRaNnB6X2JhOU5RIiwiaWF0IjoxNzk0NzAyMzc2LCJleHAiOjE3OTQ3MDI0MzZ9.j4XWzYJbTbZdUtx7RwXKj5YmtFTS2COMuOD4TzVZjFg
+https://stream-177.surfernetwork.com/qz19u05s538uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxejE5dTA1czUzOHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiI5SGl0VU5adVNERzVaZ3JoVll0Q1hBIiwiaWF0IjoxNzk1MTM0NDI2LCJleHAiOjE3OTUxMzQ0ODZ9.ZNkzBSlv6-DUIxApXIAlilgcnM5XVbduPUMO6_6bU2w
 #EXTINF:-1,Rádio Viana
 https://paineldj5.com.br:20093/stream
 #EXTINF:-1,radio viana aovivo

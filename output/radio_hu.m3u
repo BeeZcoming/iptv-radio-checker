@@ -476,8 +476,6 @@ http://stream.radioantritt.hu:8000/Antritt
 #EXTINF:-1,Rádió Bézs
 http://195.210.29.82:8001/bezs
 #EXTINF:-1,Rádió Comedy
-https://a7.asurahosting.com:8430/radio.mp3
-#EXTINF:-1,Rádió Comedy
 https://a7.asurahosting.com/listen/radio_comedy/radio.mp3
 #EXTINF:-1,Rádió Dabas
 http://stream3.virtualisan.net:7040/;

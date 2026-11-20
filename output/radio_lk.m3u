@@ -43,6 +43,8 @@ https://cp12.serverse.com/proxy/itnfm?mp=/stream
 https://cp12.serverse.com/proxy/itnfm?mp=/stream&1707017036
 #EXTINF:-1,Laksara
 https://5a1178b42cc03.streamlock.net/laksara/laksara/chunklist_w1617919055.m3u8
+#EXTINF:-1,Lakviru Radio
+http://cp11.serverse.com:7643/stream
 #EXTINF:-1,Lankasri fm
 http://media2.lankasri.fm/;stream.mp3
 #EXTINF:-1,Legends 96.6 FM
@@ -115,5 +117,7 @@ https://mbc.thestreamtech.com:7032/
 http://live.trusl.com:1150/
 #EXTINF:-1,Yes FM Online
 http://live.trusl.com:1150/;
+#EXTINF:-1,Youth FM
+https://ec6.yesstreaming.net:1920/stream
 #EXTINF:-1,தமிழீழ வானொலி -​ Tamil​ Eelam Radio (North​ &​ East)​
 http://stream.zeno.fm/c6mgmtfg8e9uv

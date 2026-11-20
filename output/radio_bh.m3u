@@ -11,6 +11,8 @@ https://5c7b683162943.streamlock.net/live/ngrp:radio-106-1_all/playlist.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:radio-93-3_all/playlist.m3u8
 #EXTINF:-1,ccc
 https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/playlist.m3u8
+#EXTINF:-1,Live FM
+https://stream.aiir.com/dbv0rxpwp6ytv
 #EXTINF:-1,Panorama FM
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
 #EXTINF:-1,Radio Suno 87.6 FM ( Added By Hari Krishnan )

@@ -89,8 +89,6 @@ https://inter.lannaradio.com/radio/8000/radio.mp3
 https://lcdn.mcot.net/RadioLive/smil:fm1005_live.smil/playlist.m3u8
 #EXTINF:-1,MCOT Chumphon (Amphoe Lang Suan) FM 104.75
 https://lb-media.mcot.net/RegionRadio/ChumphonLangsuan.stream_aac/playlist.m3u8
-#EXTINF:-1,MCOT Loei FM 100.00
-https://lb-media.mcot.net/RegionRadio/Loei.stream_aac/playlist.m3u8
 #EXTINF:-1,Mommaemradio
 http://112.121.150.133:9386/autodj
 #EXTINF:-1,Mommaemradio
@@ -121,6 +119,14 @@ http://radio1.serverradio.net:8592/;?type=http
 https://stream.chiliradio.app/radiored
 #EXTINF:-1,Radio Samui Online
 https://stream.mixadance.fm/radiosamui
+#EXTINF:-1,RequestRadio Inter (Alt)
+https://ozone2.javmemory.com/Inter.mp3
+#EXTINF:-1,RequestRadio String (Alt)
+https://ozone2.javmemory.com/Music.mp3
+#EXTINF:-1,RequestRadio ลูกทุ่ง (Alt)
+https://ozone2.javmemory.com/Looktung.mp3
+#EXTINF:-1,RequestRadio เพื่อชีวิต (Alt)
+https://ozone2.javmemory.com/Forlife.mp3
 #EXTINF:-1,Smooth 105.5 (RStream)
 http://rstream.mcot.net:8000/fm1055
 #EXTINF:-1,sunshine radio Pattaya

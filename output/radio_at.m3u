@@ -181,8 +181,6 @@ http://stream.erf.at:8000/erfplus_a1
 http://stream.erf.at:8000/erfplus_320
 #EXTINF:-1,ERF Plus Oesterreich 96k
 http://stream.erf.at:8000/erfplus_96
-#EXTINF:-1,ERF Süd
-https://erfradio.com/ERF_Sued
 #EXTINF:-1,ERF Suedtirol 192k
 http://stream.erf.at:8000/erfplus_192
 #EXTINF:-1,Eurodance-X-Press
@@ -233,8 +231,6 @@ https://edge21.stream.maxfive.com/max5-joelive
 https://edge05.stream.maxfive.com/max5-joelive?aggregator=maxfive-homepage
 #EXTINF:-1,KroneHit Digital
 http://onair-ha1.krone.at/kronehit1058.mp3
-#EXTINF:-1,Kronehit Hardstyle
-https://kronehit.streamabc.net/50-fschannel2-aac-128-1016557
 #EXTINF:-1,KroneHit Radio
 http://onair-ha1.krone.at/kronehit64.aac
 #EXTINF:-1,KroneHit Radio
