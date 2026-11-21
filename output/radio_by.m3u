@@ -33,6 +33,8 @@ http://hls.alesia.live/alesia/aac_hifi.m3u8
 https://hls.alesia.live/alesia/aac_hifi.m3u8
 #EXTINF:-1,Radio ALESIA
 https://air.alesia.live/alesia
+#EXTINF:-1,Radio Grodno 101.2 FM
+http://live.alpha.by:7000/tuner_grodno
 #EXTINF:-1,Radio Monte Carlo Lounge
 https://strw3.openstream.co/344?aw_0_1st.collectionid%3D7411%26stationId%3D7411%26publisherId%3D164%26k%3D1769798199
 #EXTINF:-1,Radio R

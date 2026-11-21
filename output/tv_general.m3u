@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,12tv (1080p)
 https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8
-#EXTINF:-1,50 Canale (720p)
-https://load-balancer.azotosolutions.com/cdnedge37/canale50/playlist.m3u8
 #EXTINF:-1,ABC KITV (720p)
 https://fuel-streaming-prod01.fuelmedia.io/v1/sem/c4067ddc-0e67-4928-b7ec-624481f721a6.m3u8
 #EXTINF:-1,ABC KMGH-TV (720p)
@@ -53,8 +51,6 @@ http://190.181.61.93:8000/play/a001/index.m3u8
 http://190.181.61.93:8000/play/a00j/index.m3u8
 #EXTINF:-1,Bug-TV (1080p)
 http://46.53.200.153:7777/play/Bug_TV_HD/index.m3u8
-#EXTINF:-1,Cadena A (576p)
-http://190.181.61.93:8000/play/a00k/index.m3u8
 #EXTINF:-1,CaliTV (1080p)
 https://tdcdigital-streams.github.io/iptv/CaliTV.m3u8
 #EXTINF:-1,Canal 1 (Colombia) (1080p)
@@ -121,8 +117,6 @@ https://amg00312-amg00312c37-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playli
 http://187.245.231.226:8000/play/a0ss/index.m3u8
 #EXTINF:-1,Comercio TV (1080p)
 http://45.70.201.81:8000/play/a014/index.m3u8
-#EXTINF:-1,Cooperativa (720p)
-https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
 #EXTINF:-1,Decima TV (720p)
 https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8
 #EXTINF:-1,Distrito TV (1080p)
@@ -199,8 +193,6 @@ http://200.115.120.1:8000/play/ca128/index.m3u8
 http://190.181.61.93:8000/play/a00d/index.m3u8
 #EXTINF:-1,Guada TV (720p) [Not 24/7]
 https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8
-#EXTINF:-1,HLKJ-DTV (720p) [Not 24/7]
-http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1,hr-fernsehen (1080p)
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
 #EXTINF:-1,Hunan Economy Channel
@@ -217,6 +209,8 @@ https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8
 https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8
 #EXTINF:-1,Kuban 24 SD [Geo-blocked]
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
+#EXTINF:-1,La Metro TV (1080p)
+https://jireh-8-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8
 #EXTINF:-1,Line TV (720p) [Not 24/7]
 https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8
 #EXTINF:-1,like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="General",Lux TV (1080p)
@@ -297,6 +291,8 @@ https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 http://92.114.85.87:8004/play/a00c/index.m3u8
 #EXTINF:-1,SUR TV Itapua
 http://45.170.130.224:8000/play/a036/index.m3u8?hls
+#EXTINF:-1,Szlagier TV
+http://92.114.85.87:8010/play/a00l/index.m3u8
 #EXTINF:-1,T18 (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
 #EXTINF:-1,Teleangol (720p)

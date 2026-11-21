@@ -181,6 +181,8 @@ http://strm112.1.fm/ajazz_mobile_mp3
 https://stream.zeno.fm/0r0xa792kwzuv
 #EXTINF:-1,Ahuga laut.fm
 http://stream.laut.fm/ahuga
+#EXTINF:-1,Akkini FI
+https://akkinifm-unicast2u.radioca.st/stream
 #EXTINF:-1,All time Urban Gospel
 https://strm112.1.fm/gospel_mobile_mp3
 #EXTINF:-1,Alti Radio
@@ -513,12 +515,6 @@ http://stream11.radiobeo.ch:8000/radiobeo.mp3
 https://stream.streambase.ch/radiobern1/mp3-192/direct/
 #EXTINF:-1,Radio Bollwerk
 https://radio.radio-bollwerk.ch/listen/radio_bollwerk/radio.mp3
-#EXTINF:-1,Radio Central
-https://stream.streambase.ch/rcentral/mp3-192/direct/
-#EXTINF:-1,Radio Central
-https://stream.streambase.ch/rcentral/mp3-192/chmedia-radio-web/1723615196409_33800762
-#EXTINF:-1,Radio Central
-https://stream.streambase.ch/rcentral/mp3-192/chmedia-radio-web/
 #EXTINF:-1,Radio Chablais
 http://radiochablais.ice.infomaniak.ch/radiochablais-high.mp3
 #EXTINF:-1,Radio Chablais Rock´N Blues
@@ -619,6 +615,8 @@ http://stream.srg-ssr.ch/m/rr/mp3_128
 https://stream.radio-s.ch/stream
 #EXTINF:-1,Radio Schlagerpark
 https://radio.schlagerpark.com/
+#EXTINF:-1,Radio Smash
+https://stream.radiosmash.ch/
 #EXTINF:-1,Radio SRF 1
 http://stream.srg-ssr.ch/srgssr/srf1/aac/96
 #EXTINF:-1,Radio SRF 1 (AAC 192)
@@ -957,6 +955,8 @@ http://stream.srg-ssr.ch/m/regi_zh_sh/aacp_96
 http://stream.srg-ssr.ch/srgssr/srf3/aac/192
 #EXTINF:-1,SRF4
 https://stream.srg-ssr.ch/srgssr/srf4news/mp3/128
+#EXTINF:-1,Sunshine Radio (Switzerland)
+https://stream.streambase.ch/rsunshine/mp3-192/chmedia-radio-web/1699795900047_8633080
 #EXTINF:-1,Superyachtradio
 https://stream.radio.co/s43a403d3a/listen
 #EXTINF:-1,Swiss Country Radio
@@ -981,8 +981,6 @@ https://symphoniyawave.ice.infomaniak.ch/symphoniyawave-128.aac
 https://stream.taradio.ch/dab
 #EXTINF:-1,TA RADIO
 http://stream.taradio.ch/dab
-#EXTINF:-1,Thaalam FM
-http://thaalam.out.airtime.pro/thaalam_b
 #EXTINF:-1,toxic.fm
 http://toxicfm.ice.infomaniak.ch/toxicfm-128.mp3
 #EXTINF:-1,toxic.fm
@@ -1031,8 +1029,6 @@ http://traxx007.ice.infomaniak.ch/traxx007-low.mp3
 http://traxx019.ice.infomaniak.ch/traxx019-low.mp3
 #EXTINF:-1,Traxx FM - Soul
 http://traxx006.ice.infomaniak.ch/traxx006-low.mp3
-#EXTINF:-1,Traxx FM - Tech Minimal
-http://traxx020.ice.infomaniak.ch/traxx020-low.mp3
 #EXTINF:-1,True House Chill
 https://stream.truehouse.net:8443/chill
 #EXTINF:-1,True House Radio

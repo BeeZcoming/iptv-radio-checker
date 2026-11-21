@@ -61,6 +61,8 @@ http://149.56.175.167:5654/;
 https://usa14.fastcast4u.com/proxy/gfloresc?mp=/1
 #EXTINF:-1,Radio Fides Cochabamba 94.9 FM
 http://usa14.fastcast4u.com:5654/stream
+#EXTINF:-1,Radio Fides La Paz
+https://usa13.fastcast4u.com/proxy/fideslapaz?mp=/1
 #EXTINF:-1,Radio Fides Tarija
 https://usa14.fastcast4u.com/proxy/fidestarija?mp=/1
 #EXTINF:-1,Radio Folklorica Uyuni

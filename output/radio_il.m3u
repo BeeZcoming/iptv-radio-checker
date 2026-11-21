@@ -73,8 +73,6 @@ https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/radio/kan_reshet_bet/l
 https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3?dist=tunein
 #EXTINF:-1,Kan Tarbut
 https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3?dist
-#EXTINF:-1,KHZ - רדיו קול הצפון
-https://live.ecast.co.il/stream/khz
 #EXTINF:-1,kol hai
 https://live.kcm.fm/livemusic
 #EXTINF:-1,Kol Rega קול רגע 91.5/96
@@ -111,8 +109,6 @@ https://cast.radionahariya.com:8443/main.mp3
 https://cdna.streamgates.net/RadioNas/Live-Audio/icecast.audio
 #EXTINF:-1,Radio Qualita
 https://www.radioking.com/play/radio-qualita
-#EXTINF:-1,Radio Sahar
-https://live.ecast.co.il/stream/sahar/stream
 #EXTINF:-1,RADIO TIKVA
 https://stream10.vestaradio.com/radiotikva
 #EXTINF:-1,RadioPlus

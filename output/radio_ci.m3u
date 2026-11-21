@@ -23,6 +23,8 @@ https://stream.zeno.fm/m0982tsy908uv
 https://radio.geyetv.com:8010/radio.mp3
 #EXTINF:-1,Guémon FM 102.3
 https://stream.zeno.fm/w9g4bgjcaicvv
+#EXTINF:-1,Hit Radio (Côte d'Ivoire)
+https://hrci.ice.infomaniak.ch/ci-abidjan-128.mp3
 #EXTINF:-1,Horizonfm CI
 https://sky.doscast.com/proxy/firmin/stream
 #EXTINF:-1,Impact FM Sud Ouest
@@ -73,8 +75,6 @@ https://listen.radioking.com/radio/322058/stream/369815
 https://listen.radioking.com/radio/281332/stream/327067
 #EXTINF:-1,Radio Kabadougou FM
 https://stream.zeno.fm/gfvm7pxkv98uv
-#EXTINF:-1,Radio khadim
-https://stream2.rcast.net/73857
 #EXTINF:-1,Radio Maria Ivory Coast
 https://dreamsiteradiocp6.com/proxy/rmcosta?mp=/stream
 #EXTINF:-1,Radio MEDIA - Yamoussoukro

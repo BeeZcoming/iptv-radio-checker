@@ -39,6 +39,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=179
 http://138.59.227.20:8000/play/a05t/index.m3u8
 #EXTINF:-1,Polsat JimJam (576i)
 http://92.114.85.87:8014/play/a00d/index.m3u8
+#EXTINF:-1,TeenNick (Poland) (576i)
+http://92.114.85.87:8010/play/a009/index.m3u8
 #EXTINF:-1,Tiny Pop (1080p)
 https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8
 #EXTINF:-1,ToonGoggles (720p)

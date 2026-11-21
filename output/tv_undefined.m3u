@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,3TV (1080p) [Geo-blocked]
 https://amg00312-amg00312c59-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c59-amgplt0022/playlist.m3u8
+#EXTINF:-1,An Ninh TV HD (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=20
 #EXTINF:-1,Bir TV (720p)
 https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8
 #EXTINF:-1,BST (576p)
@@ -167,7 +169,5 @@ https://live.dc.beltelecom.by/vtv/vitebsk.stream/playlist.m3u8
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 #EXTINF:-1,Yu-Gi-Oh! en espanol (1080p)
 https://amg01796-amg01796c18-rakuten-es-7491.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugiohees-rakutenes/playlist.m3u8
-#EXTINF:-1,Zee TV Asia Pacific (720p)
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeTVHDAPAC.m3u8
 #EXTINF:-1,Zona Latina (576p)
 http://45.170.130.224:8000/play/a00x/index.m3u8

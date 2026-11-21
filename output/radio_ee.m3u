@@ -91,6 +91,8 @@ https://le305.euddn.net/775465f850ecc77be62447c056f94f69fbd91fea471a33b9146e5f3a
 https://le301.euddn.net/3ee7892c6a7030cb629ebfb31829e8f4aaa516c19cf197a28a31740b73acd790327f10019c33b07b8a567d8030d897e2095802f4749e4af53b70c7cafa3395e07da38094a1ade6d879528f0ae0d09acce84402704c4620b273331c0f1a33cdda4a63ea223a5e2e00ab8c6dd5fdeb94c3b87ed995ded029ecf20c9dcddc9a1ea8533c4f4c5a5dafa5dd8eb1ef6437502be786b89758d7e98bb5845ae082da4c8317158848a101f84d64ed4ed3ac618c0fa38d5e0d933b9a4eaa7443832bec947a/MHR_myhitsrock.aac
 #EXTINF:-1,NEUROSCOPE FM
 https://a13.asurahosting.com/listen/neuroscope_fm/radio.mp3
+#EXTINF:-1,NEUROSCOPE FM (mobile 128k)
+https://a13.asurahosting.com/listen/neuroscope_fm/mobile.mp3
 #EXTINF:-1,NRJ
 https://edge01.cdn.bitflip.ee:8888/NRJ?_i=5b8169cb
 #EXTINF:-1,NRJ DnB
@@ -205,6 +207,8 @@ https://skymedia-live.bitflip.ee/SKYPLUS
 https://stream.skymedia.ee/live/SKYPLUS
 #EXTINF:-1,Sky-Radio
 https://stream.skymedia.ee/live/SKY
+#EXTINF:-1,Space FM
+https://stream.spacefm.ee/live
 #EXTINF:-1,SSS-Radio
 https://uvn-67-97.tll01.zonevs.eu/sss-radio
 #EXTINF:-1,Star Fm

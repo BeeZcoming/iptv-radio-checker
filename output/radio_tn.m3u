@@ -13,10 +13,8 @@ https://stream.zeno.fm/0rehsamc9xxtv
 https://radio.babnet.net/?type=https
 #EXTINF:-1,Diwan FM
 https://streaming.diwanfm.net/stream
-#EXTINF:-1,Jawhara FM
-http://streaming2.toutech.net:8000/jawharafm
-#EXTINF:-1,Jawhara FM
-https://streaming2.toutech.net/jawharafm
+#EXTINF:-1,Irada FM 102.9
+https://stream.zeno.fm/kr2zu0uqtkutv
 #EXTINF:-1,KnOOz FM
 http://streaming.knoozfm.net:8000/knoozfm
 #EXTINF:-1,Lotfi Slama
@@ -33,6 +31,8 @@ https://radio.mosaiquefm.net/mosagold
 https://radio.mosaiquefm.net/mosatarab
 #EXTINF:-1,Mosaique FM Tounsi
 https://radio.mosaiquefm.net/mosatounsi
+#EXTINF:-1,Myra Radio
+https://play.radioking.io/myra/624068
 #EXTINF:-1,oxygene fm
 http://stream.radios-arra.fr:8000/oxygenefm
 #EXTINF:-1,radio coran
@@ -49,6 +49,8 @@ https://streaming.live365.com/a82574
 http://rtstream.tanitweb.com/gafsa
 #EXTINF:-1,Radio Kef
 http://rtstream.tanitweb.com/kef
+#EXTINF:-1,Radio Med Tunisie
+http://stream6.tanitweb.com/radiomed
 #EXTINF:-1,Radio Misk
 https://live.misk.art/stream
 #EXTINF:-1,Radio Monastir

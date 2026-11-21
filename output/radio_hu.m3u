@@ -235,6 +235,10 @@ https://stream.frekvenci.com/romance
 https://stream.frekvenci.com/space
 #EXTINF:-1,Friss FM 93.4
 http://stream.frissfm.hu:10050/;
+#EXTINF:-1,Groove Cafe (192kbps)
+https://www.radiogroove.hu/cafe.mp3
+#EXTINF:-1,Groove City
+https://www.radiogroove.hu/city.mp3/
 #EXTINF:-1,H�r FM
 https://stream.rcs.revma.com/ar1n48k8b2uvv
 #EXTINF:-1,Hír FM
@@ -457,6 +461,8 @@ https://icast.connectmedia.hu/5211/live.mp3
 http://icast.connectmedia.hu/5015/live.mp3
 #EXTINF:-1,Rádió 1 Szeged
 http://icast.connectmedia.hu/5232/live.mp3
+#EXTINF:-1,Rádió 1 Szombathely
+https://icast.connectmedia.hu/5216/live.mp3
 #EXTINF:-1,Rádió 47
 https://s01.diazol.hu:9102/live.mp3
 #EXTINF:-1,Rádió 7
@@ -487,8 +493,6 @@ http://radioe.net:8080/efm_high
 https://s03.diazol.hu:35112/mobil.aac
 #EXTINF:-1,Rádió ICE
 https://streaming4u.synology.me:8444/ice
-#EXTINF:-1,RADIO INSIDE
-https://radioinside.eu/live.mp3
 #EXTINF:-1,RADIO MARIA HUNGARY
 http://dreamsiteradiocp.com:8032/stream
 #EXTINF:-1,Rádió Most
@@ -551,6 +555,8 @@ http://stream1.virtualisan.net:6590/live.mp3
 http://rockerradio.online/live.mp3
 #EXTINF:-1,Rocker Rádió
 https://rockerradio.online/live.mp3
+#EXTINF:-1,RockRadio32
+https://rockradio32.com/listen/rockradio32/radio.mp3
 #EXTINF:-1,Roxy Rádió
 https://s2.audiostream.hu/roxy_192k
 #EXTINF:-1,Sárvár Rádió

@@ -281,6 +281,8 @@ https://shoutcast.tmcreativos.com/proxy/radiokar?mp=/stream
 https://panel.innovatestream.pe:10970/stream
 #EXTINF:-1,Radio La Cheverísima - Utcubamba 
 https://sp.onliveperu.com/8114/stream/;
+#EXTINF:-1,Radio La Gloria Es De Dios
+https://radio101.mjwebexperts.com/8006/stream
 #EXTINF:-1,Radio La Inolvidable
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6839e24cf4eacd81ada4e6b4/playlist.m3u8
 #EXTINF:-1,Radio la inolvidable fm
@@ -389,6 +391,8 @@ https://c30.radioboss.fm:18415/stream
 https://panelautodj.innovatestream.pe:10685/
 #EXTINF:-1,Radio Sol De Los Andes
 https://cloudstream2036.conectarhosting.com/8036/stream
+#EXTINF:-1,Radio Sonica
+http://167.114.131.90:4242/stream
 #EXTINF:-1,Radio Stereo 99 - Bagua Grande
 https://sechin.grupocentroserver.com/radio/8300/radio.mp3
 #EXTINF:-1,Radio Stereo G La Grande - Rodriguez de Mendoza

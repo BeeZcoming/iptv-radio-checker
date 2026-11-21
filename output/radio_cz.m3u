@@ -379,8 +379,6 @@ http://icecast3.play.cz/radiomb.mp3
 https://icecast3.play.cz/radio-nostalgie128.mp3
 #EXTINF:-1,Rádio Orlicko
 https://mediaservice.radioorlicko.cz/stream192.mp3
-#EXTINF:-1,Radio Ostravan
-http://icecast9.play.cz/radio-ostravan-256.mp3
 #EXTINF:-1,Radio Otava
 https://radiootava.trefcon.cz:8889/radio.mp3
 #EXTINF:-1,Rádio Písnička

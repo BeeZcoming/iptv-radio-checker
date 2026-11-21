@@ -244,11 +244,7 @@ https://edge.iono.fm/xice/65_medium.aac
 #EXTINF:-1,Pretoria FM
 https://edge.iono.fm/xice/362_medium.aac?ref=https%3A%2F%2Fwww.pretoriafm.co.za%2F
 #EXTINF:-1,Radio 786
-http://stream.krypton.co.za:8040/stream/
-#EXTINF:-1,Radio 786
 https://stream.krypton.co.za:8052/index.html?sid=1
-#EXTINF:-1,Radio 786
-https://stream.krypton.co.za/proxy/radio786?mp=/stream
 #EXTINF:-1,Radio Atlantis 107.9FM
 https://edge.iono.fm/xice/127_medium.aac?ref=https%3A%2F%2Fwww.radioatlantis.org.za%2F&adToken=
 #EXTINF:-1,Radio Bloem
@@ -317,8 +313,6 @@ https://iceant.antfarm.co.za/Salaam
 https://edge.iono.fm/xice/301_low.aac
 #EXTINF:-1,SFM Streek Radio
 http://capeant.antfarm.co.za:8000/SFM
-#EXTINF:-1,Simply Making Success Radio
-https://stream.zeno.fm/ylvoyhv6tbntv
 #EXTINF:-1,Smile 90.4 FM
 https://edge.iono.fm/xice/212_medium.aac
 #EXTINF:-1,Southside Stereo

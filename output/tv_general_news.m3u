@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Arirang TV HD (1080p)
-https://freem3u.xyz/api/live/play.m3u8?vid=111
-#EXTINF:-1,Dong Nai TV 1 (1080p)
-https://freem3u.xyz/api/live/play.m3u8?vid=53
 #EXTINF:-1,NH (1080p)
 https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1,NTD TV English (1080p)

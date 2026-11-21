@@ -49,10 +49,14 @@ http://stream.kaaosradio.fi:8000/stream
 https://aud-stream-kantriradio.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8
 #EXTINF:-1,Karjalainen Syke
 https://radio.diks.fi/karjalainensyke
+#EXTINF:-1,Kasari
+https://stream-redirect.bauermedia.fi/kasari/kasari_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
 #EXTINF:-1,Kerhoradio
 https://c40.radioboss.fm:8056/stream
 #EXTINF:-1,Kesäseuraradio
 https://kesaseuraradio.out.airtime.pro/kesaseuraradio_b
+#EXTINF:-1,Kiss
+https://stream-redirect.bauermedia.fi/kiss/kiss_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
 #EXTINF:-1,Kohina - Old School Game and Demo Music
 http://kohina.duckdns.org:8000/stream.ogg
 #EXTINF:-1,LBC
@@ -63,6 +67,8 @@ https://aud-stream-loop.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8
 https://djuplink.com/ninjabox.mp3
 #EXTINF:-1,Nostalgia
 https://stream-redirect.bauermedia.fi/nostalgia/nostalgia_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
+#EXTINF:-1,NRJ
+https://stream-redirect.bauermedia.fi/nrj/nrj_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
 #EXTINF:-1,POP fm
 http://stream.nsp.se:8000/pop
 #EXTINF:-1,Pride Radio
@@ -125,6 +131,8 @@ https://moreenistream.tuni.fi/moreeni.mp3
 http://n09.radiojar.com/n6yg5q0z8vzuv.m4a
 #EXTINF:-1,Radio Nostalgia
 https://streaming.radioplay.fi/nostalgia/nostalgia_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_ukrp&aw_0_req.userConsentV2=~TCSTRING~&rp_source=1&aw_0_1st.skey=1770708690
+#EXTINF:-1,Radio Nova
+https://stream-redirect.bauermedia.fi/radionova/radionova_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
 #EXTINF:-1,Radio Nova
 http://live-bauerfi.sharp-stream.com/fi_radionova_64.aac?direct=true&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1784119314&aw_0_1st.bauer_loggedin=true
 #EXTINF:-1,Radio Patmos

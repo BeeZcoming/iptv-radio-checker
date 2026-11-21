@@ -25,8 +25,6 @@ http://radio.domiplay.net:8002/;
 https://stream.zeno.fm/3fdfdb8g0hhvv
 #EXTINF:-1,BE 99.7
 https://stream1.rcast.net/61186
-#EXTINF:-1,Bravisima fm
-http://radio.hostlagarto.com/9924/stream
 #EXTINF:-1,BUEN PASTOR RADIO
 https://c22.radioboss.fm:8394/stream
 #EXTINF:-1,Canal 105.1 FM 
@@ -177,6 +175,8 @@ https://streaming.fastglobalserver.com:8122/stream
 http://radio.domiplay.net:2002/;
 #EXTINF:-1,Salsa 92.7 FM
 https://stream.zeno.fm/h7lnwv51bh5uv
+#EXTINF:-1,Ser Mejor Radio
+http://ca2.rcast.net:8068/;stream.mp3
 #EXTINF:-1,Suave 107.3 FM
 https://stream.zeno.fm/cta80ru8na0uv
 #EXTINF:-1,Super K FM

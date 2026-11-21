@@ -181,6 +181,8 @@ http://stream.erf.at:8000/erfplus_a1
 http://stream.erf.at:8000/erfplus_320
 #EXTINF:-1,ERF Plus Oesterreich 96k
 http://stream.erf.at:8000/erfplus_96
+#EXTINF:-1,ERF Süd
+https://erfradio.com/ERF_Sued
 #EXTINF:-1,ERF Suedtirol 192k
 http://stream.erf.at:8000/erfplus_192
 #EXTINF:-1,Eurodance-X-Press
@@ -231,6 +233,8 @@ https://edge21.stream.maxfive.com/max5-joelive
 https://edge05.stream.maxfive.com/max5-joelive?aggregator=maxfive-homepage
 #EXTINF:-1,KroneHit Digital
 http://onair-ha1.krone.at/kronehit1058.mp3
+#EXTINF:-1,Kronehit Hardstyle
+https://kronehit.streamabc.net/50-fschannel2-aac-128-1016557
 #EXTINF:-1,KroneHit Radio
 http://onair-ha1.krone.at/kronehit64.aac
 #EXTINF:-1,KroneHit Radio
@@ -461,14 +465,10 @@ http://listen.radiomax.technology/billa
 http://listen.radiomax.technology/bipa
 #EXTINF:-1,Radio Max Penny
 http://listen.radiomax.technology/penny
-#EXTINF:-1,Radio MORA
-https://server4.streamserver24.com:26250/stream?1655820557881
 #EXTINF:-1,Radio MORA - HQ
 http://server4.streamserver24.com:26253/stream
 #EXTINF:-1,Radio Nachtvogel
 https://stream.tramp-cast.ch/8012/stream
-#EXTINF:-1,Radio OP
-https://server4.streamserver24.com:26250/stream
 #EXTINF:-1,Radio Osttirol
 http://streamplus20.leonex.de:28768/
 #EXTINF:-1,Radio Rot Weiß Rot
@@ -513,8 +513,6 @@ http://stream.radiofabrik.at/rf_low.mp3
 http://mp3.radioypsilon.at:8000/mp3-160
 #EXTINF:-1,Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1,ReplayScape
-https://radio.replayscape.com:8443/128k.mp3
 #EXTINF:-1,RES.RADIO
 https://edge.mixlr.com/channel/zwtuo
 #EXTINF:-1,Revisited
@@ -537,6 +535,8 @@ https://rrth.stream.laut.fm/rrth
 https://s1.bcmsol.ro/8002/stream
 #EXTINF:-1,Schlager Antenne Österreich
 https://edge68.streamonkey.net/antschlager-live
+#EXTINF:-1,Servus Radio
+https://streams.radio.co/sd1bcd1376/listen
 #EXTINF:-1,Sinfonia Radio - Sinfonia Technica
 https://sinfonia.ruthner.at/radio
 #EXTINF:-1,Sinfonia Technica – Rewiring Classics Radio

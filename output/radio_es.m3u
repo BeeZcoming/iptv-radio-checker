@@ -173,6 +173,8 @@ https://server8.emitironline.com:18392/stream
 https://server8.emitironline.com:18392//stream
 #EXTINF:-1,Blackstreet Radio
 https://listen.antonioesteve.es/listen/blackstreet_radio/live128.aac
+#EXTINF:-1,Bloom Radio
+https://bloomradio.nl/ruudradio/stream
 #EXTINF:-1,Bloom Radio 
 https://ruuddj.duckdns.org/ruud-dj/stream
 #EXTINF:-1,Blue Marlin Ibiza
@@ -481,6 +483,8 @@ https://sonic.mediatelekom.net/8448/;?type=http&nocache=107036
 http://flucast13-h-cloud.flumotion.com/cope/net1.mp3
 #EXTINF:-1,COPE Granada-Sta.Fe
 https://granada-copesedes-rrcast.flumotion.com/copesedes/granada-low.mp3
+#EXTINF:-1,Cope Madrid FM
+https://net1-cope-rrcast.flumotion.com/cope/net1-low.mp3
 #EXTINF:-1,COPE Málaga
 http://flucast26-h-cloud.flumotion.com/cope/net1.mp3
 #EXTINF:-1,COPE Más Santander
@@ -529,6 +533,8 @@ https://radio.daleradio.es/listen/dale_radio/radio.mp3
 https://audiostream.hkprime.com/stream
 #EXTINF:-1,Das Inselradio Mallorca
 http://addrad.io/445fxk9
+#EXTINF:-1,Das Inselradio Mallorca Sommerhits
+https://n07-eu3.rcs.revma.com/inselradiosommer?rj-ttl=5&rj-tok=AAABofjQfHoAzRHdBXTNHpzvUw
 #EXTINF:-1,Das Inselradio Malorca
 https://addrad.io/445fxk9
 #EXTINF:-1,DAVID MADRID RAMIREZ
@@ -991,8 +997,6 @@ https://stream.emisorasmusicales.net/listen/la_indie/laindie.mp3
 https://stream.emisorasmusicales.net/listen/la_indie/laindie-madrid.mp3
 #EXTINF:-1,LA JUNGLA RADIO
 https://streaming12.elitecomunicacion.es:8626/stream?type=.mp3
-#EXTINF:-1,La Más FM
-https://streaming2.elitecomunicacion.es:8142/stream
 #EXTINF:-1,La mega
 https://stream.emisorasmusicales.net/listen/la_mega/lamega.mp3
 #EXTINF:-1,La Mega Costa Del Sol
@@ -1013,8 +1017,6 @@ https://server2.ejeserver.com:8400/stream
 https://lapatrona-zikoxweb2.radioca.st/stream
 #EXTINF:-1,LA PENCA RADIO FM
 http://82.145.63.6:5746/stream
-#EXTINF:-1,La Plana Ràdio
-https://enacast.com/laplanaradio/streams/HD
 #EXTINF:-1,La Urban Radio
 https://st1.urbanrevolution.es:8443/laurbanfm.mp3
 #EXTINF:-1,La Villa Fm
@@ -1587,6 +1589,8 @@ http://stream.zeno.fm/4vwgvyq82k8uv
 https://streaming12.elitecomunicacion.es:8228/stream?type=.mp3
 #EXTINF:-1,Ràdio Desvern
 https://enacast.com/radiodesvern/streams/HD
+#EXTINF:-1,Radio Dikela (AAC+ Móvil)
+https://dikela.org/radio_mobile
 #EXTINF:-1,Radio Disco Melodia FM
 https://sonic.mediatelekom.net/8020/stream
 #EXTINF:-1,Radio DOS 84
@@ -1819,6 +1823,8 @@ http://stream.zeno.fm/sfpqezsh6f0uv
 https://srv7031.dns-lcinternet.com/8030/stream
 #EXTINF:-1,Radio Nervión
 https://gruponervion.streaming-pro.com:6131/
+#EXTINF:-1,Radio O Drom
+https://dikela.org/radio_stream
 #EXTINF:-1,Ràdio Olot
 http://chrome.frilab.com:8000/radiolot
 #EXTINF:-1,Radio Oro
@@ -1877,8 +1883,6 @@ http://radioradio.es:8000/stream
 https://enacast.com/radiorapita/streams/SD
 #EXTINF:-1,Radio Red
 https://streams.radio.co/s450f67578/listen
-#EXTINF:-1,Radio Redondela
-https://stream.visualtec.host:8000/redondela.mp3
 #EXTINF:-1,Radio Relativa
 https://streamer.radio.co/sd6131729c/listen
 #EXTINF:-1,Radio Remember
@@ -2229,6 +2233,8 @@ https://stream-179.surfernetwork.com/zkbtmkgkechuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzd
 https://pl.crystalweb.net:6640/stream
 #EXTINF:-1,Sorgintxu Irratia
 https://stream.zeno.fm/42qzmgdu4tzuv
+#EXTINF:-1,Soul FM
+https://soul-fm.com/live/soul.fm
 #EXTINF:-1,SoundDigital
 http://radio.hostlagarto.com:9770/;
 #EXTINF:-1,Spectrum FM Costa Almeria

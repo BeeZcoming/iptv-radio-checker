@@ -479,8 +479,6 @@ https://phoebe.streamerr.co:3650/;?type=http&nocache=123
 https://phoebe.streamerr.co:3650/;?type=http&nocache=1739137731
 #EXTINF:-1,Jungle Planet Radio
 https://phoebe.streamerr.co:3650/;?type=http&nocache=1740335216
-#EXTINF:-1,Kazuki Anime Radio
-https://nrf1.newradio.it:10328/alfaanime
 #EXTINF:-1,Kiss Kiss History Lounge
 https://kk.fluidstream.eu/kk_history_lounge.mp3
 #EXTINF:-1,Kiss kiss italia
@@ -683,8 +681,6 @@ http://oberimaradio.radioca.st/live
 https://nr14.newradio.it:8775/stream
 #EXTINF:-1,Onda Latina Radio
 https://nr15.newradio.it:9278/stream
-#EXTINF:-1,ONDA RADIO FIRENZE
-http://5.39.82.157:8058/;
 #EXTINF:-1,Onda Radio Sicilia,
 https://mpc2.mediacp.eu:8042/
 #EXTINF:-1,One Dance 
@@ -747,6 +743,10 @@ http://nr1.newradio.it:9112/stream
 http://nr11.newradio.it:9112/;stream.mp3
 #EXTINF:-1,Punto Radio
 http://sr10.inmystream.info:8011/stream
+#EXTINF:-1,Purple Piper - Progressive Rock
+http://s2.shoutitaly.com:8030/;
+#EXTINF:-1,Purple Piper - Progressive Rock
+http://s2.shoutitaly.com:8030/radio.mp3
 #EXTINF:-1,PyRadio
 http://buraglio.it:8000/pyradio
 #EXTINF:-1,Q8 Radio
@@ -887,6 +887,8 @@ http://onair18.xdevel.com:8128/listen.pls
 http://sr9.inmystream.info:8068/stream
 #EXTINF:-1,Radio al Serv della Divina Misericordia
 https://nr9.newradio.it/proxy/mpalmisa?mp=/stream?ext=.mp3
+#EXTINF:-1,Radio Ala
+https://cast.radioala.it:8443/stream?type=.mp3
 #EXTINF:-1,RADIO ALABASTRO
 https://broadcast.shoutcheap.com/proxy/palabram/stream
 #EXTINF:-1,Radio Alba
@@ -1021,6 +1023,8 @@ http://stream.radio-base.it:8184/;
 https://sr11.inmystream.it/proxy/radiobase?mp=/stream
 #EXTINF:-1,Radio Bau & Co.
 http://icy.unitedradio.it/RadioBAU.mp3
+#EXTINF:-1,Radio Beckwith - RBE
+https://stream.rcs.revma.com/4dh2uqk7sg3vv
 #EXTINF:-1,Radio Befed Plus
 http://onair20.xdevel.com:7052/;
 #EXTINF:-1,Radio Bella Vita
@@ -1087,6 +1091,8 @@ http://nr5.newradio.it:8659/stream
 https://geminione.it/proxy/test/;
 #EXTINF:-1,Radio Calabria 27
 https://stream.zeno.fm/rtndtqysyq5tv
+#EXTINF:-1,Radio Calabria International
+https://www.radiocalabriainternational.com/listen/rci/radio.mp3
 #EXTINF:-1,Radio California
 http://onair22.streaming.xdevel.com:10084/;stream.mp3
 #EXTINF:-1,Radio Canale Italia FM 90.4
@@ -1483,6 +1489,10 @@ http://sp3.server89.com:9330/
 https://ice02.fluidstream.net/gelosa.mp3?FLID=1&type=.mp3
 #EXTINF:-1,Radio Gelosa
 http://ice02.fluidstream.net/gelosa
+#EXTINF:-1,Radio Gemini
+https://geminione.it/proxy/gemini/stream
+#EXTINF:-1,Radio Gemini
+https://geminione.it/proxy/gemini/;
 #EXTINF:-1,Radio Gemini Centrale
 https://nr8.newradio.it/proxy/vzambito?mp=/stream?ext=.mp3
 #EXTINF:-1,Radio Gemini Iternational
@@ -1579,8 +1589,6 @@ http://ice10.fluidstream.net/anni60tn.aac
 https://ice04.fluidstream.net/ria60_bo.mp3
 #EXTINF:-1,Radio Italia Anni 60 (Sicilia-Messina)
 https://ice04.fluidstream.net/ria60_me.mp3
-#EXTINF:-1,Radio Italia Anni 60 (Sicilia-Palermo)
-https://ice16.fluidstream.net/ria60_pa.mp3
 #EXTINF:-1,Radio Italia Anni 60 (Sicilia-Trapani)
 https://ice12.fluidstream.net/ria60_tp.aac
 #EXTINF:-1,Radio Italia Anni 60 Sardegna
@@ -2311,8 +2319,6 @@ https://stream.rcs.revma.com/5tbxc6f39yuvv
 https://live.sunshine.it/shoutcast
 #EXTINF:-1,RADIO SUONO ITALIANO
 https://stream.zeno.fm/dcfhwr72dy8uv
-#EXTINF:-1,RADIO SUPER La Leonessa
-https://audio.streamshow.it/proxy/supertv?mp=/stream
 #EXTINF:-1,Radio Super Sound
 http://51.254.76.66:8010/;stream.mp3
 #EXTINF:-1,Radio Supersound
@@ -2447,14 +2453,14 @@ https://eu2.fastcast4u.com/proxy/radiox?mp=/1
 http://eu1.fastcast4u.com:2014/stream
 #EXTINF:-1,Radio Yacht Sunsation - Always Summer
 https://sr12.inmystream.it:2020/stream/radioyacht
+#EXTINF:-1,Radio YES
+https://stream1.aswifi.it/radioyes/live/index.m3u8
 #EXTINF:-1,Radio Zai.net
 http://stream.mandragola.com/radiozainet
 #EXTINF:-1,Radio Zenith (Messina)
 https://stream1.xdevel.com/audio0s975884-460/stream/icecast.audio
 #EXTINF:-1,Radio Zeppelin
 https://radiozeppelin.servemp3.com/stream
-#EXTINF:-1,Radio Zeta
-https://streamingv2.shoutcast.com/radio-zeta_48.aac
 #EXTINF:-1,Radio Zoe
 http://nr6.newradio.it:9427/stream
 #EXTINF:-1,RADIO ZOUK EMOTION
@@ -2507,6 +2513,8 @@ https://sr6.inmystream.it/proxy/rrshout?mp=/stream
 https://stream3.xdevel.com/audio0s975522-197/stream/icecast.audio
 #EXTINF:-1,Radiorizzonti inBlu
 http://stream.radiorizzonti.com/orizzonti
+#EXTINF:-1,radioscintillablog
+https://dreamsiteradiocp3.com/proxy/radioscintilla?mp=/
 #EXTINF:-1,RADIOSPEAKER.IT
 https://nr5.newradio.it/proxy/webradfest?mp=/stream2
 #EXTINF:-1,RadiostART
@@ -2771,26 +2779,12 @@ https://stream.studiocentrale.it/radio/8020/radio.mp3?_=1
 http://www.shoutcastitalia.com:8068/;
 #EXTINF:-1,RSS Radio Santo Stefano
 https://nr8.newradio.it:19556/;
-#EXTINF:-1,rtl 102.5
-https://stream.rcast.net/210096
 #EXTINF:-1,RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_audio.m3u8
-#EXTINF:-1,RTL 102.5 - Groove
-https://streamingv2.shoutcast.com/rtl-1025-broandsis
-#EXTINF:-1,RTL 102.5 [Mobile 48kbps]
-https://streamingv2.shoutcast.com/rtl-1025_48.aac
 #EXTINF:-1,RTL 102.5 Best
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/fYNIdrsfP3xC/playlist_audio.m3u8
-#EXTINF:-1,RTL 102.5 Best
-https://streamingv2.shoutcast.com/rtl-1025-best
-#EXTINF:-1,RTL 102.5 Best [Mobile 48kbps]
-https://streamingv2.shoutcast.com/rtl-1025-best_48.aac
-#EXTINF:-1,RTL 102.5 Bro & Sis [Mobile 48kbps]
-https://streamingv2.shoutcast.com/rtl-1025-broandsis_48.aac
 #EXTINF:-1,RTL 102.5 Disco
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/Sz3kCA55PrRh/playlist_audio.m3u8
-#EXTINF:-1,RTL 102.5 Disco [Mobile 48kbps]
-https://streamingv2.shoutcast.com/rtl-1025-doc_48.aac
 #EXTINF:-1,RTL 102.5 news
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/aJMOUBAFc2Bc/playlist_audio.m3u8
 #EXTINF:-1,RTR 99 Canale Pooh
@@ -3109,6 +3103,8 @@ http://streaming.gheri.it:8020/;
 https://sr9.inmystream.it:18106/stream
 #EXTINF:-1,wise radio
 https://ice.creacast.com/wise-radio
+#EXTINF:-1,wrn radio
+http://sr2.webradionetwork.eu:8000/;
 #EXTINF:-1,YES! Radio Dance
 http://sr2.inmystream.info:8082/stream
 #EXTINF:-1,Young Radio

@@ -21,6 +21,10 @@ https://m.axradio.net/stream.mp3
 http://radio.bestfm.ua/bestfm
 #EXTINF:-1,Blues & Rock Radio
 http://stream.laut.fm/bluesrock
+#EXTINF:-1,Brokenbeats
+https://brokenbeats.net/stream/aac
+#EXTINF:-1,Brokenbeats
+https://stream.brokenbeats.net/tune
 #EXTINF:-1,Classic Radio
 http://online.classicradio.ua/ClassicRadio_HD
 #EXTINF:-1,Classic Radio
@@ -215,8 +219,6 @@ http://vtsu.org.ua:8000/vtsu-pop
 https://online.radiorelax.ua/RadioRelax_Instrumental_HD
 #EXTINF:-1,RadiumFM Kyiv
 https://stream.radiumfm.com/kyiv
-#EXTINF:-1,RadiumFM Lviv
-https://stream.radiumfm.com/lviv
 #EXTINF:-1,RadiVo
 https://radivo.thx8te.kh.ua/listen/radivo/radio.mp3
 #EXTINF:-1,relax int
@@ -321,8 +323,6 @@ http://195.234.148.51:8000/;
 https://online.z-polus.info/mobilehq
 #EXTINF:-1,Звичайне україномовне радіо
 https://whsh4u-panel.com/proxy/yvlxzzdx?mp=/stream
-#EXTINF:-1,Канал Благодаті
-http://noasrv.caster.fm:10001/live
 #EXTINF:-1,Комета
 http://donetsk.kometa.fm:8000/live
 #EXTINF:-1,Коростень фм
@@ -375,6 +375,8 @@ http://radio.moa.org.ua/Friday
 https://live.1tv.od.ua/radio/stream/icecast.audio
 #EXTINF:-1,Подільське
 https://podilske.com:8013/p-radio
+#EXTINF:-1,Просто Radi.O (Київ)
+http://85.238.113.60:8000/PRK128
 #EXTINF:-1,Прямий FM
 https://cast.mediaonline.net.ua/prmfm320
 #EXTINF:-1,Радио НВ
@@ -461,12 +463,12 @@ https://online.novezhitya.net:8000/nlradio_ua-hi.aac
 https://stream.zeno.fm/4rv8rzsdyjttv
 #EXTINF:-1,Радіо П'ятниця
 https://cast.mediaonline.net.ua/radiopyatnica320
-#EXTINF:-1,Радіо Перше
-https://live.radio1.com.ua/liveradio64
 #EXTINF:-1,Радіо Промінь / Radio Promin
 http://radio.ukr.radio:8000/ur2-mp3
 #EXTINF:-1,Радіо ПТРК
 https://service.ptrk.tv:8443/PTRK
+#EXTINF:-1,Радіо РАІ
+https://radio.rai.ua:9000/rai
 #EXTINF:-1,Радіо С4
 https://radio.c4.com.ua:8443/320
 #EXTINF:-1,Радіо Світанок

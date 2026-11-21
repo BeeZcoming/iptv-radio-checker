@@ -5,7 +5,7 @@ https://30a-tv.com/feeds/vidaa/golf.m3u8
 http://149.100.11.252:8000/play/a065/index.m3u8
 #EXTINF:-1,Belarus-5 (1080p) [Not 24/7]
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1,Canal+ Sport (France) (1080p) [Geo-blocked]
+#EXTINF:-1,Canal+ Sport (1080p) [Geo-blocked]
 http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
 #EXTINF:-1,CBS Sports Golazo Network (720p)
 https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
@@ -61,6 +61,10 @@ http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8
 https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
 #EXTINF:-1,Premier Sports (1080p)
 https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
+#EXTINF:-1,Prima Sport 1 HD
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk1%2Fusergenrx0cir27aq-got.htm
+#EXTINF:-1,Prima Sport 2 HD
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk2%2Fusergenrnd0clv03fyt-got.htm
 #EXTINF:-1,Prima Sport PPV 1
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuki1%2Fusergendx6kal0r2bsm-got.htm
 #EXTINF:-1,Prima Sport PPV 2
@@ -75,6 +79,20 @@ https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
 http://46.53.200.153:7777/play/test_krask1/index.m3u8
 #EXTINF:-1,Sky Sports 1 (1080p)
 http://45.228.234.9:8000/play/a06b/index.m3u8
+#EXTINF:-1,Sony Sports Ten 1 (576p)
+http://116.90.120.149:8000/play/a126/index.m3u8
+#EXTINF:-1,Sony Sports Ten 1 HD (1080p)
+http://116.90.120.149:8000/play/a11t/index.m3u8
+#EXTINF:-1,Sony Sports Ten 2 HD (1080p)
+http://116.90.120.149:8000/play/a137/index.m3u8
+#EXTINF:-1,Sony Sports Ten 5 (576p)
+http://116.90.120.149:8000/play/a117/index.m3u8
+#EXTINF:-1,Star Sports 1 HD (1080p)
+http://116.90.120.149:8000/play/a11x/index.m3u8
+#EXTINF:-1,Star Sports 1 Hindi HD (1080p)
+http://116.90.120.149:8000/play/a122/index.m3u8
+#EXTINF:-1,Star Sports 2 HD (1080p)
+http://116.90.120.149:8000/play/a120/index.m3u8
 #EXTINF:-1,TAP Sports (1080p) [Geo-blocked]
 https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c2-amgplt0351/playlist.m3u8
 #EXTINF:-1,Tennis Channel (1080p)
@@ -85,10 +103,14 @@ http://205.235.6.29:8000/play/a0xa/index.m3u8
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1,TyC Sports USA
 http://45.170.130.224:8000/play/a020/index.m3u8
+#EXTINF:-1,Unite8 Sports 1 (576p)
+http://116.90.120.149:8000/play/a11l/index.m3u8
+#EXTINF:-1,Unite8 Sports 1 HD (1080p)
+http://116.90.120.149:8000/play/a125/index.m3u8
+#EXTINF:-1,Unite8 Sports 2 HD (1080p)
+http://116.90.120.149:8000/play/a129/index.m3u8
 #EXTINF:-1,viju+ Sport HD (1080p)
 http://46.53.200.153:7777/play/a01l/index.m3u8
-#EXTINF:-1,Voyo Sport 1 (1080i)
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8
 #EXTINF:-1,Win+ Futbol (1080p)
 http://181.78.12.119:16123/play/ch19/index.m3u8
 #EXTINF:-1,World Poker Tour UK (1080p)

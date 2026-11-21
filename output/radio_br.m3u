@@ -91,8 +91,6 @@ https://server01.ouvir.radio.br:8018/stream?1771866095421
 https://stream-159.zeno.fm/zanz4xbdtg8uv
 #EXTINF:-1,Alagoas FM 102,5 Penedo
 https://stm26.xcast.com.br:11260/stream
-#EXTINF:-1,ALECE FM
-https://streaming.viralmidia.com/hls/audio/stream.m3u8
 #EXTINF:-1,Alerta Penedo
 http://stm28.srvaudio.com.br:11706/stream
 #EXTINF:-1,Alfa e Ômega
@@ -243,6 +241,8 @@ https://paineldj.com.br:20196/stream
 https://cloud1.cdnseguro.com:20038/stream
 #EXTINF:-1,Capão FM
 https://cast4.audiostream.com.br:2656/mp3
+#EXTINF:-1,Capinzal FM
+https://noar.capinzalfm.com.br/capinzalfm.mp3
 #EXTINF:-1,Capital
 https://stream.radionanet.com/radio/8000/capital
 #EXTINF:-1,Capital 95 - Campo Grande
@@ -289,8 +289,6 @@ https://streaming.livespanel.com:9910/stream
 https://streaming.livespanel.com:8860/stream
 #EXTINF:-1,Cidade FM de Matão
 https://virtues.live:8330/stream
-#EXTINF:-1,Cidade FM NET 
-https://08.stmip.net:8718/live
 #EXTINF:-1,Cidade FM Tupaciguara
 https://5a2b083e9f360.streamlock.net/radiorural/radiorural.stream/playlist.m3u8
 #EXTINF:-1,Class FM Sorocaba
@@ -421,6 +419,8 @@ https://26683.live.streamtheworld.com/ENERGIA_97_FM.mp3?dist=site
 https://8345.brasilstream.com.br/stream?rand=dITCD
 #EXTINF:-1,EPFM Campinas
 https://8216.brasilstream.com.br/stream?rand=dseRm
+#EXTINF:-1,Escuta FM
+http://stm3.srvif.com:8054/stream
 #EXTINF:-1,Esmeralda
 https://stm7.conectastreaming.com:8476/stream
 #EXTINF:-1,Espacial FM - Pará de Minas 105.5 FM
@@ -431,8 +431,6 @@ https://cp-1.owh.radio.br/listen/owh_s35409/radio-mp3
 http://paineldj4.com.br:8047/stream
 #EXTINF:-1,Estação Missionária
 https://radiosnet.site/stream/radioestacaomissionaria
-#EXTINF:-1,Estação POP
-https://s46.hstbr.net:8026/live?id=1530746592431
 #EXTINF:-1,Estância FM
 http://paineldj4.com.br:8290/stream?type=.mp3
 #EXTINF:-1,Estção FM 89.5
@@ -481,10 +479,6 @@ https://stm23.xcast.com.br:11038/stream
 http://foreverinrock.radioca.st:9560/stream
 #EXTINF:-1,Forró em Milão
 https://forroemmilao.com/stream.mp3
-#EXTINF:-1,Francês FM 103,6 Penedo
-https://s16.maxcast.com.br:8711/live
-#EXTINF:-1,Francês FM 106,1 Maceió
-https://26643.live.streamtheworld.com/FRANCESFM_MACAAC.aac?dist=RadiosNet
 #EXTINF:-1,Freestyle Brasil
 https://centova2.ipstm.net/proxy/svyglwqk/;
 #EXTINF:-1,Frei Caneca FM
@@ -521,6 +515,8 @@ https://stream.geracaoradios.com.br/listen/samba/radio
 https://stream.geracaoradios.com.br/listen/sertanejouniversitario/radio
 #EXTINF:-1,GFM 90.1
 http://ice.fabricahost.com.br/radiogfm
+#EXTINF:-1,Global Funk Radio
+https://securestreams2.autopo.st:1148/stream?1782913063744
 #EXTINF:-1,Globo FM 88,1
 https://26583.live.streamtheworld.com:443/RADIO_GLOBO_RJAAC.aac?dist=radioscombr
 #EXTINF:-1,GOLD CLASSIC
@@ -629,8 +625,6 @@ http://26493.live.streamtheworld.com:3690/JBFMAAC_SC
 http://jeanmajolo.com.br:8000/radio
 #EXTINF:-1,Jornal web rádio de Penedo
 https://09.stmip.net:2380/stream
-#EXTINF:-1,Jovem Fm
-http://wz3.dnip.com.br/aycomau1/aycomau1.stream/playlist.m3u8
 #EXTINF:-1,Jovem Pan (Porto Alegre)
 http://centova6.ciclanohost.com.br:9256/;
 #EXTINF:-1,Jovem pan 100,7 FM Maceió
@@ -695,6 +689,8 @@ http://centova6.ciclanohost.com.br:9256/
 https://r15.ciclano.io/proxy/radiomu1/stream
 #EXTINF:-1,Kacopi Web Rádio
 https://radio.kacopi.com.br/radio
+#EXTINF:-1,Kero Rock
+https://stm1.painelwshost.com.br:7012/
 #EXTINF:-1,Kiel FM
 https://radio.radiokiel.com.br/listen/kielfm/radio.mp3
 #EXTINF:-1,Kiss FM - 92.5 - São Paulo 
@@ -811,8 +807,6 @@ https://player-ssl.painelstream.net:8174/live
 https://hts01.brascast.com:9194/live
 #EXTINF:-1,Metal Zone Radio
 https://srv8.ipstm.net:32224/stream
-#EXTINF:-1,Metropolitana FM 93.7 Foz
-https://8624.brasilstream.com.br/stream
 #EXTINF:-1,Metropolitana FM 97,7 Maceió
 https://streaming.livespanel.com:8032/maceiofm
 #EXTINF:-1,Metropolitana MPB São Paulo
@@ -1089,6 +1083,8 @@ https://radio.app019.com/live.mp3
 https://stream.barcelosnanet.com.br/listen/barcelos/radio.mp3
 #EXTINF:-1,R�dio Luciano Kik�o
 https://lucianokikao.com.br/radio/kikao.mp3
+#EXTINF:-1,R�dio RCP
+https://paineldj5.com.br:2199/proxy/rcpfm?mp=/stream
 #EXTINF:-1,Radi Ouro Negro FM 100,7
 http://stm50.conectastm.com:24964/stream?1773415212921
 #EXTINF:-1,Rádio  Clássica
@@ -1107,6 +1103,8 @@ https://radios.braviahost.com.br:8000/radio.mp3?1732983388728
 https://wz7.servidoresbrasil.com:8070/stream?1771865978025
 #EXTINF:-1,Rádio 105 FM - Rondonópolis
 https://s01.brascast.com:9914/live
+#EXTINF:-1,Rádio 107 FM BH
+https://stm3.srvif.com:8304/;
 #EXTINF:-1,Rádio 107.1 FM
 https://servidor25.brlogic.com:7024/live
 #EXTINF:-1,Radio 1ª Classe
@@ -1131,8 +1129,6 @@ http://zoeweb.net:8176/stream
 http://wz5.dnip.com.br:1935/riograndefmhd/riograndefmhd.stream/chunklist_w2010560414.m3u8
 #EXTINF:-1,Rádio 95 FM 95.7 Alagoinhas
 https://stream.zenolive.com/t799cry0yv8uv
-#EXTINF:-1,Rádio 95 FM Jequié - BA
-https://stream01.ouveai.com.br:1040/stream?1716398413708=
 #EXTINF:-1,Rádio 96 FM
 https://cast4.hoost.com.br:20079/stream
 #EXTINF:-1,Radio 97 Nova FM
@@ -1227,6 +1223,10 @@ https://stm10.voxhd.com.br:7846/;
 https://stm4.voxhd.com.br:7086/
 #EXTINF:-1,Rádio Amorim 104.1 FM
 http://streaming05.maxcast.com.br:8080/live
+#EXTINF:-1,Radio Animu [MP3 192Kbps]
+https://stream.animu.moe/192
+#EXTINF:-1,Radio Animu [MP3 320Kbps]
+https://stream.animu.moe/320
 #EXTINF:-1,Rádio Anos 80
 http://live2.livemus.com.br:27400/live
 #EXTINF:-1,Rádio Antena 1 - São Paulo (94.7 FM)
@@ -1385,6 +1385,8 @@ https://server08.srvsh.com.br:8484/stream
 https://catarinensefm.streams.com.br/stream
 #EXTINF:-1,Rádio Catedral FM 102,3 MHz (Juiz de Fora - MG)
 https://5a2b083e9f360.streamlock.net//catedral/catedral.stream/playlist.m3u8
+#EXTINF:-1,Rádio Catedral FM 106.7
+https://hts10.brascast.com:13728/live
 #EXTINF:-1,Rádio Católica 
 https://stm5.painelcast.com:7574/stream
 #EXTINF:-1,Rádio Caturité
@@ -1473,6 +1475,8 @@ https://r11.ciclano.io/proxy/radiojo1/stream
 https://s18.maxcast.com.br:8702/live
 #EXTINF:-1,Rádio Colméia 98.7 FM
 https://stm04.virtualcast.com.br:8024/colmeiamaringa?1771884660703
+#EXTINF:-1,Rádio Comunitária Aconchego
+https://fm.radioaconchego.org
 #EXTINF:-1,Rádio Comunitária Santa Cruz 105.9 FM
 http://paineldj.com.br:9218/stream
 #EXTINF:-1,Radio Comunitaria Serrana FM
@@ -1507,8 +1511,6 @@ https://centova4.transmissaodigital.com:20156/stream
 https://servidor36.brlogic.com:7048/live
 #EXTINF:-1,Rádio Cultura FM 100.9 Brasília DF
 https://ssl1.transmissaodigital.com:20028/live
-#EXTINF:-1,Rádio Cultura Rio Grande
-https://casthttps.suaradionanet.net/10402/stream
 #EXTINF:-1,Rádio CV Mais 97.5 FM
 https://ssl1.transmissaodigital.com:20098/;?1771932556038
 #EXTINF:-1,Radio da Bibi
@@ -1605,8 +1607,6 @@ https://servidor39.brlogic.com:7146/live
 https://srv2.braudio.com.br/7598//stream
 #EXTINF:-1,Rádio Estação Gospel
 https://radiosnet.site/stream/radioestacaogospeloficial
-#EXTINF:-1,Rádio Estação Pop
-https://s46.maxcast.com.br:8026/live?1771884575757
 #EXTINF:-1,Rádio Estádio 
 https://stm5.painelcast.com:7556/stream
 #EXTINF:-1,Rádio Estância FM São Lourenço MG
@@ -1621,6 +1621,8 @@ https://9981.brasilstream.com.br/stream
 https://radiosnet.site/stream/radioestreitogospel
 #EXTINF:-1,Rádio Eterna Canção
 https://radiosnet.site/stream/radioeternacancao
+#EXTINF:-1,radio eu aqui com jesus
+http://166.stm-ip.net:7212/stearm
 #EXTINF:-1,Rádio Evangelho Pleno
 https://radiosnet.site/stream/radioevangelhopleno
 #EXTINF:-1,Rádio Evangelica Calafate
@@ -1749,8 +1751,6 @@ https://casthttps1.suaradionanet.net/13175/stream
 https://stm1.srvif.com:13938/stream
 #EXTINF:-1,Rádio Harpa Cristã
 https://radiosnet.site/stream/reliquiasgospel
-#EXTINF:-1,Rádio Hits 106.9 FM
-https://wz7.servidoresbrasil.com:9984/stream?1771864365030
 #EXTINF:-1,Rádio Hits 87.9 FM
 https://stm24.srvaudio.com.br:10082/stream?1771863883280
 #EXTINF:-1,Rádio Hospício Tricolor
@@ -1777,8 +1777,6 @@ https://stm2.matutos.com.br:10980/;
 https://radiosnet.site/stream/radioimpactogospel
 #EXTINF:-1,Radio Impacto Web
 https://s19.maxcast.com.br:8746/live?id=981443262354
-#EXTINF:-1,Rádio Imprensa FM 101,5
-http://rrdns-imprensafm.webnow.com.br/imprensafm64k.mp3
 #EXTINF:-1,Rádio Inconfidência 880 AM
 https://ssl.zoeweb.net/proxy/inconfidencia2?mp=/stream&1771865214032
 #EXTINF:-1,Radio Inconfidencia AM
@@ -1831,6 +1829,8 @@ https://stream.zeno.fm/xuh02vfzurhvv
 https://stream-173.zeno.fm/xuh02vfzurhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4dWgwMnZmenVyaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkJHc3RGbW5SUmtHcGZRaU1BeWYwQVEiLCJpYXQiOjE3MzIzMTc5ODQsImV4cCI6MTczMjMxODA0NH0.hliqQ3jfax1Meam5u3WqqW_DM-nDoS3rj-ZgxCB4b0M
 #EXTINF:-1,Rádio Jaraguá 101.3 FM
 https://wz7.servidoresbrasil.com:8066/stream?1771932661160
+#EXTINF:-1,Radio Jauense
+https://s38.maxcast.com.br:8091/live
 #EXTINF:-1,Rádio JB FM 99.9
 https://26573.live.streamtheworld.com/JBFMAAC.aac?1771934687401
 #EXTINF:-1,Rádio JC Guassussê
@@ -2285,6 +2285,8 @@ https://stm1.srvif.com:7704/
 https://live9.livemus.com.br:27802/stream?1732977845423
 #EXTINF:-1,Radio S D S
 https://radio.serradosul.com.br/listen/serra_do_sul_/live
+#EXTINF:-1,RÁDIO S.H.O
+https://sv11.hdradios.net:8092/steam
 #EXTINF:-1,Rádio Sabiá FM 92.1 Coité
 http://stm18.xcast.com.br:11414/stream
 #EXTINF:-1,Rádio Santa Cecília FM - Santos (107.7 FM)
@@ -2309,8 +2311,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SAUDADE_FMAAC.
 https://radiosnet.site/stream/radiosaudadegospel
 #EXTINF:-1,Rádio SB 106.3 FM
 https://s02.taaqui.org:9004/live
-#EXTINF:-1,Rádio Scalla Instrumental São Paulo / SP - Brasil
-https://s01.svrdedicado.org:6782/stream
 #EXTINF:-1,Rádio Seabra FM 104.9
 http://stm17.marqhost.com.br:7148/stream
 #EXTINF:-1,Rádio Seara 102.7 FM
@@ -2431,8 +2431,6 @@ http://stream-284.surfernetwork.com/6gnr5yq68nhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdH
 https://stm1.colossocastpro.com.br:7116/index
 #EXTINF:-1,Rádio TMC 100.1 FM
 https://24373.live.streamtheworld.com/RT_SP.mp3?dist=RadiosComBr-TMC&1771879327541
-#EXTINF:-1,RADIO TOK
-https://cast2.hoost.com.br:20088/stream
 #EXTINF:-1,Rádio Tom Gospel
 https://radiosnet.site/stream/radiotomgospel
 #EXTINF:-1,Rádio Top 104.9 FM
@@ -2603,8 +2601,6 @@ https://radio02.zas.media/proxy/wordday/stream
 https://radio.terrapreta.org.br/listen/xibe/radio.mp3
 #EXTINF:-1,Rádio Xodó 89.9 FM -  Aracaju Sergipe
 http://09.stmip.net:8824/stream
-#EXTINF:-1,Rádio XPsky
-https://radio.xpsky.online/stream
 #EXTINF:-1,Rádio Yard Sounds
 https://hts10.brascast.com:7966/live
 #EXTINF:-1,Rádio yeshua 103.5 FM WEB
@@ -2867,6 +2863,8 @@ https://radio.universalhealthradio.org/uhr-pt.mp3
 http://painel.sintonizar.tv.br:10024/stream
 #EXTINF:-1,Universidade FM 106,9
 http://s26.maxcast.com.br:8280/live
+#EXTINF:-1,Universitária FM 102.1
+https://stm3.srvif.com:7726/stream
 #EXTINF:-1,Urbania Underground
 https://s11.w3bserver.com/listen/urbaniaunderground_a93984/radio.mp3
 #EXTINF:-1,USP FM

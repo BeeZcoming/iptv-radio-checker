@@ -17,8 +17,6 @@ https://stream.100p.nl/web02_mp3
 http://server-27.stream-server.nl:8192/stream
 #EXTINF:-1,192 Radio Nederland
 http://server-27.stream-server.nl:8192/192radio
-#EXTINF:-1,192 Radio Veronica
-http://server-14.stream-server.nl:8030/
 #EXTINF:-1,1Achterhoek
 https://nlpo.stream.vip/achterhoek/mp3-192/nlpo.stream.vip/
 #EXTINF:-1,1Zwolle
@@ -283,28 +281,26 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/Q_DANCE.mp3
 https://caster04.streampakket.com/proxy/8031/stream
 #EXTINF:-1,Concertgebouworkest Webradio
 https://i2.cdn.jetstre.am:8000/sz=RCOLiveWebradio=mp3-192?token=574b9ab1904fb5420aa2eaeae31feff2&time=6703887c
-#EXTINF:-1,Concertzender - Hard Bop
-http://streams.greenhost.nl:8080/hardbop
-#EXTINF:-1,Concertzender Crosslinks
-http://streams.greenhost.nl:8080/pop
-#EXTINF:-1,Concertzender Filmmuziek
-http://streams.greenhost.nl:8080/film
-#EXTINF:-1,Concertzender Folk it!
-http://streams.greenhost.nl:8080/folkit
-#EXTINF:-1,Concertzender Gregoriaans
-http://streams.greenhost.nl:8080/gregoriaans
-#EXTINF:-1,Concertzender Jazznotjazz
-http://streams.greenhost.nl:8080/jazznotjazz
-#EXTINF:-1,Concertzender Nieuwe Muziek
-http://streams.greenhost.nl:8080/nieuwemuziek
-#EXTINF:-1,Concertzender Oriënt Express
-http://streams.greenhost.nl:8080/orientexpress
+#EXTINF:-1,Concertzender - De Gehoorde Stilte
+http://streams.greenhost.nl:8080/gehoordestilte
+#EXTINF:-1,Concertzender De Muzikant
+http://streams.greenhost.nl:8080/amateurmuziek
+#EXTINF:-1,Concertzender Jazz
+http://streams.greenhost.nl:8080/jazz
+#EXTINF:-1,ConcertZender Klassieke Muziek
+http://streams.greenhost.nl:8080/klassiek
 #EXTINF:-1,Concertzender Oude Muziek
 http://streams.greenhost.nl:8080/oudemuziek
 #EXTINF:-1,Concertzender Raakvlakken
 http://streams.greenhost.nl:8080/raakvlakken
+#EXTINF:-1,Concertzender Radiophonics
+http://streams.greenhost.nl:8080/radiophonics
+#EXTINF:-1,Concertzender Utrecht Muziek
+http://streams.greenhost.nl:8080/vredenburg
 #EXTINF:-1,Concertzender Wereldmuziek
 http://streams.greenhost.nl:8080/wereldmuziek
+#EXTINF:-1,Concertzender X-Rated
+http://streams.greenhost.nl:8080/concertzenderlive
 #EXTINF:-1,Cool Dance Radio
 https://stream.cooldanceradio.com/stream1/stream.mp3
 #EXTINF:-1,Country Station
@@ -449,6 +445,8 @@ http://149.202.22.75:8246/live
 https://s3.radio.co/sc83fe614c/listen
 #EXTINF:-1,Extra Gold 
 http://extragold.stream-server.nl/stream?type=http&nocache=124795
+#EXTINF:-1,Falcon Radio
+http://server-16.stream-server.nl:8926/;
 #EXTINF:-1,Fantasy Italo Dance 90s radio
 https://mscp2.live-streams.nl:8152/italodance
 #EXTINF:-1,Fantasy Italo Radio
@@ -539,6 +537,8 @@ https://stream23.gal.io/GLXY_CF01
 https://stream.wildfm.nl/GOD_Radio
 #EXTINF:-1,GodenzonenFM
 https://live.godenzonenfm.nl/mp3
+#EXTINF:-1,Golden Oldies Radio
+https://sonic.magicdragon.nl/8022/stream
 #EXTINF:-1,Golden Oldies Radio
 https://sonic.magicdragon.nl/8034/stream
 #EXTINF:-1,Good Life Radio
@@ -909,6 +909,10 @@ https://server-23.stream-server.nl:18476/;&type=mp3
 https://mcp.stream-provider.nl/stream/loudrift
 #EXTINF:-1,Lucky Joe Radio
 https://radio.luckyjoe.nl/stream/lucky-joe
+#EXTINF:-1,LX Classics
+https://mcp-1.streampanel.nl:8020/lxclassics_mp3
+#EXTINF:-1,LX Classics
+https://mcp-1.streampanel.nl:8020/lxclassics_mp3
 #EXTINF:-1,Maasland Radio
 http://stream.maaslandradio.nl:9094/player.mp3
 #EXTINF:-1,Maasland Radio
@@ -921,6 +925,8 @@ https://server-28.stream-server.nl:8904/stream
 https://server-67.stream-server.nl:8818/stream
 #EXTINF:-1,mArt radio
 https://beta.surilive.com/mart/stream
+#EXTINF:-1,Maxhitradio24
+https://streaming.shoutcast.com/maxhitradio24
 #EXTINF:-1,MaXX FM
 http://i2.streams.ovh:7070/stream
 #EXTINF:-1,MBhitradio
@@ -1009,6 +1015,8 @@ http://audiostreamen.nl:8400/stream
 https://stream.radio.co/sf82104afb/listen
 #EXTINF:-1,NixxFM
 https://mediacp.shoutcastradio.nl:8002/NixxFM.m3u
+#EXTINF:-1,NL Nieuwsradio
+https://nieuwsradio.nexradio.nl/nieuwsradio/stream
 #EXTINF:-1,NLROXX Radio
 https://a13.asurahosting.com/listen/nlvoxx_radio/radio.mp3
 #EXTINF:-1,Noderunners Radio
@@ -1457,12 +1465,8 @@ http://22333.live.streamtheworld.com:3690/TLPSTR16_SC
 http://22713.live.streamtheworld.com:3690/TLPSTR21_SC
 #EXTINF:-1,Radio 794
 https://ats.jammfm.nl:20080/radio794/
-#EXTINF:-1,Radio 80
-https://nlpo.stream.vip/rtv80/mp3-192/nlpo
 #EXTINF:-1,Radio 80 (Nonstop)
 http://81.169.251.143:7900/live
-#EXTINF:-1,Radio A-FM
-https://nlpo.stream.vip/radioafm/mp3-192/nlpo.stream.vip/
 #EXTINF:-1,Radio Aalsmeer
 http://radioaalsmeer.nl:8000/live
 #EXTINF:-1,Radio Acacia
@@ -1735,6 +1739,8 @@ https://mcp-2.mm-stream.nl:8017/stream
 https://origin.streamnerd.nl/worm/worm/icecast.audio
 #EXTINF:-1,Radio Zilverdroom
 https://radio.radiozilverdroom.nl/listen/radio_zilverdroom/radio.mp3
+#EXTINF:-1,Radio Zuyd
+http://radiozuyd.shoutcaststream.com:8199/stream
 #EXTINF:-1,Radio-Goldenwave 
 http://mscp3.live-streams.nl:8070/radio
 #EXTINF:-1,Radio-Goldenwave
@@ -1765,6 +1771,8 @@ https://22663.live.streamtheworld.com/RADIO538.mp3
 https://stream.radioachterhoek.nl/live
 #EXTINF:-1,Radioachterhoek.nl
 https://stream.radioachterhoek.nl/index.html?sid=1
+#EXTINF:-1,RadioBonita
+http://everestcastprohostingbudget.nl:1040/stream
 #EXTINF:-1,RadioFRL
 https://player.radiofrl.com/listen/radio_frl/Mobiel
 #EXTINF:-1,RadioFRL 2

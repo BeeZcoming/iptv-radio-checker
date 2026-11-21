@@ -233,6 +233,8 @@ http://mediaserv38.live-streams.nl:8107/stream
 https://live1.sr.se/ekotdirekt-aac-320
 #EXTINF:-1,Sveriges Radio - P1
 https://live1.sr.se/p1-aac-320
+#EXTINF:-1,Sveriges Radio - P1
+http://sverigesradio.se/topsy/direkt/srapi/132-hi-aac-http
 #EXTINF:-1,Sveriges Radio - P2
 https://live1.sr.se/p2-aac-320
 #EXTINF:-1,Sveriges Radio - P2 Språk och musik

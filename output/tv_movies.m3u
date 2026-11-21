@@ -99,6 +99,18 @@ https://rundle.tv/proxy5.php?src=https%3A%2F%2Fthor1.syndula001.cfd%2Fschi2%2Fus
 http://116.90.120.149:8000/play/a123/index.m3u8
 #EXTINF:-1,Sony Pix HD (1080p)
 http://116.90.120.149:8000/play/a138/index.m3u8
+#EXTINF:-1,Star Gold 2 (576p)
+http://116.90.120.149:8000/play/a12b/index.m3u8
+#EXTINF:-1,Star Gold HD (1080p)
+http://116.90.120.149:8000/play/a12a/index.m3u8
+#EXTINF:-1,Star Gold Romance (576p)
+http://116.90.120.149:8000/play/a12c/index.m3u8
+#EXTINF:-1,Star Gold Select HD (1080p)
+http://116.90.120.149:8000/play/a131/index.m3u8
+#EXTINF:-1,Star Movies (India) HD (1080p)
+http://116.90.120.149:8000/play/a13a/index.m3u8
+#EXTINF:-1,Star Movies Select HD (1080p)
+http://116.90.120.149:8000/play/a139/index.m3u8
 #EXTINF:-1,Sundance TV (Poland) (576i)
 http://92.114.85.87:8003/play/a004/index.m3u8
 #EXTINF:-1,TV 21 International (576p)
@@ -117,5 +129,11 @@ http://46.53.200.153:7777/play/a01g/index.m3u8
 http://46.53.200.153:7777/play/Viju_Megahit_HD/index.m3u8
 #EXTINF:-1,viju+ Premiere HD (1080p)
 http://46.53.200.153:7777/play/Viju_Premiere/index.m3u8
+#EXTINF:-1,Warner Channel Colombia (1080p)
+http://38.134.250.110:8000/play/a029/index.m3u8
 #EXTINF:-1,Zee Cinema APAC (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
+#EXTINF:-1,Zee Talkies HD (1080p)
+http://116.90.120.149:8000/play/a116/index.m3u8
+#EXTINF:-1,Zee Thirai HD (1080p)
+http://116.90.120.149:8000/play/a11q/index.m3u8

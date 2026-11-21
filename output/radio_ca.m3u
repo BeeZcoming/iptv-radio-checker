@@ -533,6 +533,8 @@ http://mbsradio.leanstream.co/CFQMFM-MP3
 https://stream.jpbgdigital.com/CFQX.m3u8
 #EXTINF:-1,CFRA "News Talk Radio 580" Ottawa, ON
 http://18063.live.streamtheworld.com/CFRAAMAAC_SC
+#EXTINF:-1,CFRB News/Talk 1010 (Toronto, ON)
+http://26103.live.streamtheworld.com/CFRBAMAAC_SC
 #EXTINF:-1,CFRK "New Country 92.3" Fredericton, NB
 http://newcap.leanstream.co/CFRKFM
 #EXTINF:-1,CFRM-FM 100.7 "Hits 100" Little Current, ON
@@ -809,6 +811,8 @@ https://rogers-hls.leanstream.co/rogers/vic1031.stream/playlist.m3u8
 https://stream.jpbgdigital.com/CHUB.m3u8
 #EXTINF:-1,CHUB-FM 105.5 Big 105
 https://redirect.jpbgdigital.com/CHUB.m3u8?
+#EXTINF:-1,CHUM TSN 1050 Toronto
+http://26103.live.streamtheworld.com/CHUMAMAAC_SC
 #EXTINF:-1,CHUP "Soft Rock 97.7" Calgary, AB
 http://rawlco.leanstream.co/CHUPFM-MP3
 #EXTINF:-1,CHUR-FM "KISS 100.5" North Bay, ON 
@@ -957,6 +961,10 @@ https://cast5.my-control-panel.com/proxy/michell2/live
 http://cisffm.streamon.fm/stream/CISFFM-48k.aac
 #EXTINF:-1,CISL "Sportsnet 650" Richmond, BC
 http://radioamd-i.akamaihd.net/hls/live/562166/cisl/master.m3u8
+#EXTINF:-1,CISM 89,3 MHz FM Université de Montréal, QC
+http://stream03.ustream.ca/cism128.mp3
+#EXTINF:-1,CISM 89.3 
+http://stream03.ustream.ca:8000/cism128.mp3
 #EXTINF:-1,CISO-FM 89.1 "MAX FM" Orillia, ON (AAC Stream)
 http://bayshore-ais.leanstream.co/CISOFM
 #EXTINF:-1,CISO-FM 89.1 "MAX FM" Orillia, ON (MP3 Stream)
@@ -979,14 +987,8 @@ http://137.82.188.97:8000/live.mp3
 http://live.citr.ca:8000/live.mp3
 #EXTINF:-1,CityNews 101.1 Ottawa  
 https://rogers-hls.leanstream.co/rogers/ott1011.stream/icy?environment=tunein&args=tunein_01
-#EXTINF:-1,CityNews 570 Kitchener
-https://rogers-hls.leanstream.co/rogers/kit570.stream/icy?environment=tunein&args=tunein_01
-#EXTINF:-1,CityNews 95.7 Halifax
-http://rogers-hls.leanstream.co/rogers/hal957.stream/icy?environment=tunein&args=tunein_01
 #EXTINF:-1,CityNews Toronto
 https://rogers-hls.leanstream.co/rogers/tor680.stream/icy?environment=tunein&args=tunein_01
-#EXTINF:-1,CityNews Vancouver
-https://rogers.leanstream.co/rogers/van1130.stream/icy?environment=tunein&args=tunein_01
 #EXTINF:-1,CIUP-FM "Up 99.3" Edmonton, AB  
 https://stream.jpbgdigital.com/CIUP.m3u8
 #EXTINF:-1,CIUR-FM "Now Country 104.7" Winnipeg, MB
@@ -1023,6 +1025,8 @@ http://rawlco.leanstream.co/CIZLFM
 http://newcap.leanstream.co/CIZZFM
 #EXTINF:-1,CJAB-FM "Energie Saguenay-Lac-Saint-Jean 94.5"  Saguenay, QC
 http://22983.live.streamtheworld.com/CJABFMAAC_SC
+#EXTINF:-1,CJAD 800
+https://26113.live.streamtheworld.com/CJADAM_SC
 #EXTINF:-1,CJAI 101.3 "Island Radio" - Stella, Ontario
 https://audio-edge-es6pf.mia.g.radiomast.io/949b775a-ba1f-4344-9d6f-b4c614892263
 #EXTINF:-1,CJAM
@@ -1199,12 +1203,16 @@ http://dns4.83north.ca:8000/cjsb.mp3
 http://cjsd.streamon.fm/stream/CJSD-32k.aac
 #EXTINF:-1,CJSE 89.5 "Country 89" Shediac, NB
 http://stream2.statsradio.com:8008/stream
+#EXTINF:-1,CJSF
+https://www.cjsf.ca/streaming
 #EXTINF:-1,CJSL "CJ 1150" Estevan, SK
 https://goldenwest.leanstream.co/CJSLAM
 #EXTINF:-1,CJSL "CJ-1150" Estevan SK
 https://vin-live2-ais-relay1.leanstream.co/goldenwest/CJSLAM.stream/playlist.m3u8
 #EXTINF:-1,CJSN 1490 Shaunavon, SK
 https://vin-live2-ais-relay1.leanstream.co/goldenwest/CJSNAM.stream/playlist.m3u8
+#EXTINF:-1,CJSP/CJWF "Windsor's Country 95.9 & 92.7" Leamington, ON
+http://live.leanstream.co/CJWFFM
 #EXTINF:-1,CJSR 88.5 University of Alberta, Edmonton, AB
 http://cjsr.streamon.fm:8000/CJSR-24k.aac
 #EXTINF:-1,CJSU-FM 89.7 "Sun FM" Duncan, BC
@@ -1255,6 +1263,8 @@ https://mbsradio.leanstream.co/CJYCFM-MP3
 http://newcap.leanstream.co/CJYQAM
 #EXTINF:-1,CJZN 91.3 FM Victoria, BC
 http://stream.jpbgdigital.com/CJZN/HEAAC/48k/playlist.m3u8
+#EXTINF:-1,CKAC 730 "Radio Circulation"  Montreal 
+https://17563.live.streamtheworld.com/CKACAMAAC_SC
 #EXTINF:-1,CKAC Montréal
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKACAMAAC_SC.aac
 #EXTINF:-1,CKAJ 92.5 & 99.7 Saguenay, QC
@@ -1309,6 +1319,8 @@ http://mbsradio.leanstream.co/CKCWFM-MP3
 http://mbsradio.leanstream.co/CKDHFM-MP3
 #EXTINF:-1,CKDJ "AIR-AM 1700" Algonquin College-Ottawa, ON 
 https://live.leanstream.co/AIR1700
+#EXTINF:-1,CKDJ 107.9 Algonquin College, Ottawa
+http://live.leanstream.co/CKDJFM-MP3?tunein
 #EXTINF:-1,CKDJ-FM 107.9 Algonquin College, Ottawa, ON (AAC Stream)
 https://live.leanstream.co/CKDJFM
 #EXTINF:-1,CKDJ-FM 107.9 Algonquin College, Ottawa, ON (MP3 Stream) 
@@ -1477,6 +1489,8 @@ https://rogers-hls.leanstream.co/rogers/til1013.stream/playlist.m3u8
 https://mybroadcasting.streamb.live/SB00444
 #EXTINF:-1,CKOU "K Country 93.7" Georgina, ON
 https://torres-media.streamb.live/SB00191
+#EXTINF:-1,CKOY "107.7 FM Estrie"  Sherbrooke, QC
+https://17563.live.streamtheworld.com/CKOYFMAAC_SC
 #EXTINF:-1,CKPC "Lite 92"
 https://evanov.streamb.live/SB00226?
 #EXTINF:-1,CKPE "The Cape 94.9" Sydney, NS
@@ -1547,6 +1561,8 @@ https://centova.radioservers.biz/proxy/cktpradi/stream
 https://ais-sa1.streamon.fm/7000_64k.mp3
 #EXTINF:-1,CKUA Radio Network
 https://ais-sa1.streamon.fm/7000_48k.aac
+#EXTINF:-1,CKUE "Cool 95.1" Chatham, ON
+http://live.leanstream.co/CKUEFM
 #EXTINF:-1,CKUE-FM2 "Cool 100.7" Windsor, ON
 http://live.leanstream.co/CKUEF2
 #EXTINF:-1,CKUL "Mix 96.5" Halifax, NS
@@ -1703,8 +1719,6 @@ https://s4.radio.co/sf54cd4560/listen
 https://securestreams6.autopo.st:2222/stream
 #EXTINF:-1,Epic Rock Radio TorontoCast
 https://443-1.autopo.st/107/stream/
-#EXTINF:-1,Estuary FM (recorded programmes, not 24/7)
-https://89-126-248-183.sslip.io:9443/estuary
 #EXTINF:-1,ETN.fm
 http://8.43.48.6:8130/;
 #EXTINF:-1,ETN.fm
@@ -1989,8 +2003,6 @@ https://radio.lighthouseradio.ca/listen/lighthouseradio/radio.mp3
 https://usa4.fastcast4u.com/proxy/lighthousefm?mp=/1
 #EXTINF:-1,lumiRadio - 24/7 Unofficial Homestuck Radio
 https://audio-edge-5r6yd.cdg.o.radiomast.io/abe5f558-c883-47de-91ea-e04a06ed1fd4
-#EXTINF:-1,Magic FM Montreal
-https://s7.yesstreaming.net/stream/8024
 #EXTINF:-1,Masalabeats Toronto
 http://usa10.fastcast4u.com:7070/
 #EXTINF:-1,Max FM 98.3 - CHER-FM
@@ -2105,6 +2117,8 @@ https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master
 https://stream-cjpx-rr01.leclerccom.com/cjpx.aac
 #EXTINF:-1,QUB Radio
 http://26293.live.streamtheworld.com/QUB_RADIOAAC_SC
+#EXTINF:-1,r-a-d
+https://relay1.r-a-d.io/main.mp3
 #EXTINF:-1,Radio 42° North (R42N) [AAC+ 64kbps]
 http://ice66.securenetsystems.net/R42N
 #EXTINF:-1,Radio 854

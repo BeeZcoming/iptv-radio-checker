@@ -193,6 +193,8 @@ http://streaming.fressfm.com:11185/stream
 https://server.radioimeldafm.co.id:8040/gajahmadafm
 #EXTINF:-1,Gajahmada FM Semarang
 https://server.radioimeldafm.co.id/radio/8040/gajahmadafm
+#EXTINF:-1,Galau Jikan FM - Indonesia
+https://radio.gjfm.my.id/listen/gjfm/siaran
 #EXTINF:-1,Galuh FM Bali
 https://a12.siar.us:8390/stream
 #EXTINF:-1,Galuh Media Streaming Cianjur Indonesia
@@ -345,6 +347,16 @@ https://stream.radiokis.id/kisfm2
 http://live.kisifm.com/kisifm
 #EXTINF:-1,KISS FM Jember
 https://i.klikhost.com/8894/;stream.aac?1737215476182
+#EXTINF:-1,KLCBS
+https://streaming.klcbs.id/listen/klcbs/klcbs-hd
+#EXTINF:-1,KLCBS
+https://streaming.klcbsofficial.com/listen/klcbs/klcbs
+#EXTINF:-1,KLCBS Fusion
+https://streaming.klcbsofficial.com/listen/fusion/klcbs-fusion
+#EXTINF:-1,KLCBS New Age
+https://streaming.klcbsofficial.com/listen/newage/klcbs-newage
+#EXTINF:-1,KLCBS Tropical
+https://streaming.klcbsofficial.com/listen/tropical/klcbs-tropical
 #EXTINF:-1,Klik Radio
 https://pu.klikhost.com/proxy/klikhost/autodj
 #EXTINF:-1,Komodo
@@ -353,8 +365,6 @@ https://komodo.out.airtime.pro/komodo_a
 https://stream.zeno.fm/uvlmugvqrnkvv
 #EXTINF:-1,Kosmonita FM Malanf
 http://202.58.200.26:1055/live
-#EXTINF:-1,KPFM Balikpapan
-https://pu.klikhost.com/proxy/kpfmbpn/stream
 #EXTINF:-1,KRADIO HSS
 https://live.kradionews.com/listen/kradio/stream
 #EXTINF:-1,Kuta Radio 106 FM
@@ -577,6 +587,10 @@ https://live.radiobola.co.id/listen/radiobola/stream
 https://c2.siar.us/listen/radiobudiluhur/stream
 #EXTINF:-1,Radio Campursari Yogyakarta
 https://a8.siar.us/listen/campursari/stream
+#EXTINF:-1,Radio CBB
+https://stream01-ssl.arenastreaming.com:8056/live
+#EXTINF:-1,RADIO CBB 105.4 FM
+http://45.32.103.238:8056/live
 #EXTINF:-1,Radio CDBS
 https://a1.siar.us/listen/radiocdbs/stream
 #EXTINF:-1,Radio CMN
@@ -607,10 +621,6 @@ https://streaming.fressfm.com:11185/stream
 https://gemarandik.mubakab.go.id:8443/stream
 #EXTINF:-1,Radio Gemas Rasisonia
 https://a7.alhastream.com:4090/radio
-#EXTINF:-1,Radio Gentara
-https://s1.gntr.net/listen/radio_gentara/gentara
-#EXTINF:-1,Radio Gentara
-https://s1.gntr.net/listen/radio_gentara/gentara64
 #EXTINF:-1,Radio Gentara Campursari
 https://s1.gntr.net/listen/gentara_campursari/radio
 #EXTINF:-1,Radio Hang FM
@@ -807,8 +817,6 @@ https://stream.radiojar.com/4ywdgup3bnzuv.mp3
 https://c4.siar.us/proxy/sheradio/stream
 #EXTINF:-1,Sindo Trijaya 104.6 FM Jakarta
 http://202.147.199.101:8000/;stream.nsv
-#EXTINF:-1,Singosari Fm Brebes (Official Station)
-https://s2.free-shoutcast.com/stream/18096
 #EXTINF:-1,Slipknot
 https://stream.pcradio.app/SlipKnot-hi
 #EXTINF:-1,SmartRadio Indonesia
@@ -863,8 +871,6 @@ https://live.suarasalira.com/listen/suarasalira/stream
 https://a2.siar.us//listen//suarasoneta//radio.mp3
 #EXTINF:-1,Suara Surabaya FM (HTTP)
 http://c5.siar.us/proxy/ssfm/stream
-#EXTINF:-1,Suara Tabalong
-http://scg.streamingmurah.com:8208/stream
 #EXTINF:-1,SUN FM 103.5MHZ Banjarmasin
 https://a1.siar.us/listen/sunfm/radio.mp3
 #EXTINF:-1,Sunda Radio
@@ -879,8 +885,6 @@ https://i.klikhost.com/8822/;
 https://a2.alhastream.com/listen/station_13/radio
 #EXTINF:-1,Swara Radio
 https://s3.radio.co/s162c52c51/listen
-#EXTINF:-1,Synchronize Radio
-https://streaming.shoutcast.com/synchronizeradio
 #EXTINF:-1,Tarakan FM
 https://live.tarakanfm.com/listen/tarakanfm/stream
 #EXTINF:-1,Tarbiyah Sunnah
@@ -895,6 +899,8 @@ https://c1.siar.us/radio/8030/stream
 https://streaming.live365.com/a92114
 #EXTINF:-1,The Rock! (Hard Rock)
 https://listen.181fm.com/181-hardrock_128k.mp3
+#EXTINF:-1,THE ROCKIN LIFE - BALI
+https://stream.radiojar.com/9k28wsbu5k8uv
 #EXTINF:-1,THE ROCKIN LIFE - JAKARTA
 https://stream.radiojar.com/7csmg90fuqruv
 #EXTINF:-1,Tidar Sakti FM Batu
@@ -905,6 +911,8 @@ https://tiktokhits.funstream.net/listen/tiktokhits/radio.aac
 https://live.tjandrafm.com/listen/tjandrafm/stream
 #EXTINF:-1,Topfm
 http://streaming.topfm951.net:9510/stream
+#EXTINF:-1,Trangkil FM
+https://i.klikhost.com/8228/;radio
 #EXTINF:-1,Trax FM
 https://traxfm.radioca.st/live
 #EXTINF:-1,trax fm semarang

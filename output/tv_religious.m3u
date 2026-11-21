@@ -15,6 +15,8 @@ https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
 https://mediaserver.abnvideos.com/streams/abnsat.m3u8
 #EXTINF:-1,Al Wafa Tarim (720p)
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
+#EXTINF:-1,Amigos TV Chiquimula (1080p)
+http://45.166.93.156:9999/play/a0j2/index.m3u8
 #EXTINF:-1,Ando TV (1080p)
 http://play.kankanlive.com/live/1711956137852982.m3u8
 #EXTINF:-1,BeitolAbbas TV Channel (720p)

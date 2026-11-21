@@ -10,7 +10,7 @@ https://camerhits.com/icecast/stream
 #EXTINF:-1,Camp Joy Revival Radio
 https://stream.campjoycameroon.org/live
 #EXTINF:-1,CHRISTRADIO Yaoundé
-https://stream-285.surfernetwork.com/gtb3znv0h2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJndGIzem52MGgyenV2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJtdzlVdnROYVI0cUo5NmdWOWszcHVnIiwiaWF0IjoxNzk0NzY1ODIzLCJleHAiOjE3OTQ3NjU4ODN9.tU8YNo6UFe1J8efx7dsSmz62O3mJgN0nOxVs-ooNJTw
+https://stream-285.surfernetwork.com/gtb3znv0h2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJndGIzem52MGgyenV2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiI3b0lLa2F4ZVI1UzZadkc1Zlp2TV9nIiwiaWF0IjoxNzk1MTk3ODc3LCJleHAiOjE3OTUxOTc5Mzd9.RfqGEzUN7oiCxjJS5rbhwnwXwQaPNNrs64hq1O3YJ2g
 #EXTINF:-1,City FM
 https://stream.zeno.fm/5fvvyvybabetv
 #EXTINF:-1,CRTV 237 Webradio
@@ -19,8 +19,6 @@ https://237webradio.ice.infomaniak.ch/crtv237webradio-128.aac
 https://10gb1.acangroup.org:8000/postenational
 #EXTINF:-1,Divine Mercy Radio and TV Service
 http://102.132.19.90:8080/DMRTVS/index.m3u8
-#EXTINF:-1,Dream FM
-https://stream.rcast.net/244422
 #EXTINF:-1,EASY RADIO CAMEROUN
 http://ecmanager2.pro-fhi.net:1580/
 #EXTINF:-1,EASY RADIO KRIBI
@@ -63,8 +61,6 @@ https://stream.zeno.fm/brrqmyub0xhvv
 https://stream.zeno.fm/43q33pgvbphvv
 #EXTINF:-1,Radio Bonabéri FM
 https://stream.zeno.fm/e7db27238nhvv
-#EXTINF:-1,Radio Bonne Nouvelle
-https://radiobonnenouvelle2.ice.infomaniak.ch/radiobonnenouvelle2-96.mp3
 #EXTINF:-1,Radio Equinoxe
 https://s6.citrus3.com/stream/radioequinoxe
 #EXTINF:-1,Radio Jésus Vient
@@ -77,6 +73,8 @@ https://stream.zeno.fm/h0g4eefuywzuv
 https://compassionglobale.org:4438/radiosync/index.m3u8
 #EXTINF:-1,Radio Veritas
 https://stream.zeno.fm/habvtzvnqxiuv
+#EXTINF:-1,Radio Vie Nouvelle
+https://lafrequencedevie.ice.infomaniak.ch/lafrequencedevie-64.mp3
 #EXTINF:-1,Radio Voice of the Cross (RVC) - Koumé
 https://www.radioking.com/play/radio-voice-of-the-cross-rvc
 #EXTINF:-1,Radio Voice of the Cross (RVC) - Yaounde

@@ -27,6 +27,8 @@ https://antipodev2.dev.itsquared.be/antipodestream.mp3
 http://arabelfm.ice.infomaniak.ch/arabelprodcastfm.mp3
 #EXTINF:-1,AudioDrama Radio
 https://fritske.be:8000/stream
+#EXTINF:-1,BE Nieuwsradio
+https://nieuwsradio.nexradio.nl/nieuwsbe/stream
 #EXTINF:-1,Be One - Xmas
 http://live.radiostudio.be/beonexmas
 #EXTINF:-1,Beiaard - Dendermonde, be
@@ -67,6 +69,8 @@ https://bx1radio.ice.infomaniak.ch/bx1radio.mp3?4376
 http://198.100.145.187:18304/;
 #EXTINF:-1,c-dance retro
 https://s45.myradiostream.com/:18304/;
+#EXTINF:-1,Charleking Radio
+http://charlekingradio.ice.infomaniak.ch/ckradio-192.mp3
 #EXTINF:-1,Chérie Belgique
 https://stream.rcs.revma.com/r3cprzsqtg0uv
 #EXTINF:-1,CityMusic
@@ -97,6 +101,8 @@ http://radios.rtbf.be/classic21-128.mp3
 http://www.clubfmserver.be:8000/radioclubfm.mp3
 #EXTINF:-1,Contact MAX
 https://contactmax.ice.infomaniak.ch/contactmax-192.mp3
+#EXTINF:-1,DAX FM RADIO
+http://master.shoutcast.com:8000/dax-fm
 #EXTINF:-1,De Jukebox
 http://s35.myradiostream.com:14472/
 #EXTINF:-1,De Tijdloze
@@ -375,12 +381,8 @@ https://icecast-qmusicbe-cdp.triple-it.nl/q-allstars.aac
 http://serverkw.quran-uni.com:8238/;*.mp3
 #EXTINF:-1,R.O.L Oldies Jukebox Radio - Lanaken, be
 http://listen.openstream.co/4628/audio
-#EXTINF:-1,Radio 1
-https://icecast.vrtcdn.be/radio1-mid.mp3
 #EXTINF:-1,Radio 100%
 http://live2.radiostudio.be:8000/pros
-#EXTINF:-1,RADIO 2
-https://quantumcast.vrtcdn.be/ra2ant/mp3-128/quantumcast.vrtcdn.be/
 #EXTINF:-1,Radio 2 Bene Bene
 http://icecast.vrtcdn.be/radio2_benebene-high.mp3
 #EXTINF:-1,Radio 4910
@@ -561,8 +563,6 @@ http://stream.radioscorpio.be/stream
 https://mscp2.live-streams.nl:8202/radiosingjaal
 #EXTINF:-1,Radio STAR
 https://stream.radiostar.be/
-#EXTINF:-1,Radio STAR 70-80's
-http://stream.radiostar.be:7080/stream
 #EXTINF:-1,Radio Stars 98.5 FM
 http://ks393340.kimsufi.com:8000/RadioStars-Ant
 #EXTINF:-1,Radio Stars 98.5 FM & DAB+ (Belgium)
@@ -819,8 +819,6 @@ https://icecast-qmusicbe-cdp.triple-it.nl/willy.mp3
 http://stream.wradio.es:9000/;stream/1
 #EXTINF:-1,XBeat
 https://radio.xbeat.org/stream1
-#EXTINF:-1,YOLO - Life is like a dance
-https://streamingv2.shoutcast.com/yolo-life-is-like-a-dance
 #EXTINF:-1,YOUFM 106.9 Mons, be
 http://youfm.ice.infomaniak.ch/youfm-96
 #EXTINF:-1,Zen Garden (myNoise Radio)
