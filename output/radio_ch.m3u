@@ -2,7 +2,7 @@
 #EXTINF:-1, Radio Bern RaBe (HD Stream)
 http://stream.rabe.ch/livestream/rabe-hd.mp3
 #EXTINF:-1,[1337 4M813N7] RADIO.MASCHINENGEIST.ORG Deep Field Transmissions
-https://stream.radio.maschinengeist.org:8000/13374m813n7.192k.mp3
+http://stream.radio.maschinengeist.org:8000/13374m813n7.192k.mp3
 #EXTINF:-1,1.FM - A List 80s
 http://strm112.1.fm/back280s_mobile_mp3
 #EXTINF:-1,1.FM - Absolute 70's Pop Radio
@@ -248,7 +248,7 @@ https://energybern.ice.infomaniak.ch/energybern-high.mp3
 #EXTINF:-1,Energy Blick Trendz
 http://energyzuerich.ice.infomaniak.ch/energyzuerich-high.mp3
 #EXTINF:-1,Energy Zürich (NRJ)
-http://broadcast.infomaniak.ch/energyzuerich-high.mp3
+http://energyzuerich.ice.infomaniak.ch/energyzuerich-high.mp3
 #EXTINF:-1,FEEL GOOD Jura
 https://stream.radiofeelgood.ch/feelgood
 #EXTINF:-1,FLASHBACK FM
@@ -302,7 +302,7 @@ https://jamesfm.ice.infomaniak.ch/jamesfm.mp3
 #EXTINF:-1,Jazz Black Music
 http://jazzblackmusic.ice.infomaniak.ch/jazzblackmusic-high.aac
 #EXTINF:-1,Jazz Radio
-http://broadcast.infomaniak.ch/jazzlounge-high.mp3
+http://jazzlounge.ice.infomaniak.ch/jazzlounge-high.mp3
 #EXTINF:-1,Jazz Radio Lounge
 http://jazzlounge.ice.infomaniak.ch/jazzlounge-high.aac
 #EXTINF:-1,Jukebox - Nonstop Music
@@ -515,6 +515,12 @@ http://stream11.radiobeo.ch:8000/radiobeo.mp3
 https://stream.streambase.ch/radiobern1/mp3-192/direct/
 #EXTINF:-1,Radio Bollwerk
 https://radio.radio-bollwerk.ch/listen/radio_bollwerk/radio.mp3
+#EXTINF:-1,Radio Central
+https://stream.streambase.ch/rcentral/mp3-192/direct/
+#EXTINF:-1,Radio Central
+https://stream.streambase.ch/rcentral/mp3-192/chmedia-radio-web/1723615196409_33800762
+#EXTINF:-1,Radio Central
+https://stream.streambase.ch/rcentral/mp3-192/chmedia-radio-web/
 #EXTINF:-1,Radio Chablais
 http://radiochablais.ice.infomaniak.ch/radiochablais-high.mp3
 #EXTINF:-1,Radio Chablais Rock´N Blues
@@ -606,7 +612,7 @@ https://play.radioking.io/radio-rocher/429886
 #EXTINF:-1,Radio Rocket
 https://i9.streams.ovh/sc/radioroc/stream
 #EXTINF:-1,RADIO ROTATION
-http://radio-rotation.stream.laut.fm/radio-rotation?t302=2026-11-17_04-47-57&uuid=15b99ee8-f84c-0b5f-f606-b1b040aaaa99
+http://radio-rotation.stream.laut.fm/radio-rotation?t302=2026-11-22_04-49-37&uuid=82cf66b7-66fb-3dc9-9f3c-980af7ca0393
 #EXTINF:-1,Radio RTR
 http://stream.srg-ssr.ch/srgssr/rr/aac/96
 #EXTINF:-1,Radio Rumantsch
@@ -817,8 +823,6 @@ https://radiofresh.ice.infomaniak.ch/radiofresh.aac
 http://radiofribourg.ice.infomaniak.ch/radiofribourg-high.mp3
 #EXTINF:-1,Radiopolis
 http://rs01.swissnwx.ch:20080/stream
-#EXTINF:-1,RadioPungis
-https://radio.second-hands.org/listen/radiopungis/radio.mp3
 #EXTINF:-1,RadioSouvenir.com
 http://radio12.pro-fhi.net/radio/9136/stream
 #EXTINF:-1,Radioswiss 
@@ -974,7 +978,7 @@ http://stream.srg-ssr.ch/m/rsp/mp3_128
 #EXTINF:-1,SWISSCLASSICA ITALIA
 http://stream.srg-ssr.ch/srgssr/rsc_it/mp3/128
 #EXTINF:-1,SwissGroove
-http://relay2.swissgroove.ch/
+http://relay1.swissgroove.ch/
 #EXTINF:-1,Symphoniya Wave — Symphoniya.com
 https://symphoniyawave.ice.infomaniak.ch/symphoniyawave-128.aac
 #EXTINF:-1,Ta Radio

@@ -15,8 +15,6 @@ http://89.219.34.117:8008/NEWENERGY
 https://listen.radio-greendance.su/listen/green_dance/green_dance
 #EXTINF:-1,KTK TV
 http://89.218.30.37/ktklive/live.hq/playlist.m3u8
-#EXTINF:-1,Love Radio Kazakhstan
-https://stream.gakku.tv:8443/love128.mp3
 #EXTINF:-1,Lux FM Kazakhstan
 https://service.luxfm.kz/bc/live
 #EXTINF:-1,MUZZONE RADIO
@@ -45,6 +43,8 @@ https://a4.radioheart.ru:9036/RH13170
 https://lux-radio.com:8015/stream
 #EXTINF:-1,Shalqar
 https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio
+#EXTINF:-1,SVETILO.ONLINE - духовно - осознанное
+https://streams.svetilo.online/listen/svetilo.online/radio.mp3
 #EXTINF:-1,Zhulduz Radio
 http://91.201.214.229:8000/zhulduz
 #EXTINF:-1,ВАШЕ РАДИО

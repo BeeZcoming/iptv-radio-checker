@@ -97,6 +97,8 @@ http://radio.solumedia.com.ar:8352/stream
 https://streaming1.locucionar.com/proxy/fmciudadela887?mp=/stream
 #EXTINF:-1,FM cordialidad 94.9
 https://cordialidad-zikoxweb2.radioca.st/stream
+#EXTINF:-1,FM Del Plata 95.5
+https://radiolatina.live:10850/stream
 #EXTINF:-1,FM Días de Gloria 101.9
 http://server.laradio.online:9114/;
 #EXTINF:-1,FM Digital 100.1
@@ -109,6 +111,8 @@ https://inolvidable-2.nty.uy/
 https://streaming3.hostingmontevideo.com:8074/stream
 #EXTINF:-1,FM La Ley
 https://streaming2.locucionar.com/proxy/laleyfm?mp=/stream
+#EXTINF:-1,FM Like 91.9
+https://radiolatina.live:10848/stream
 #EXTINF:-1,FM Naturaleza 88.1
 http://stm.gmpro.top:7006/
 #EXTINF:-1,Galaxia FM 105.9
@@ -173,6 +177,10 @@ https://streaming1.hostingmontevideo.com:7014/;
 https://onlineradiobox.com/json/uy/acuarela/play?platform=web
 #EXTINF:-1,Radio Carmelo
 https://server.laradio.online/proxy/martin_barragan05?mp=/stream
+#EXTINF:-1,Radio carve
+https://icecast21.innovanexo.com:9000/radiocarve850.mp3
+#EXTINF:-1,Radio Centenario
+https://streamusa.netgate.com.uy/listen/centenario/centenario
 #EXTINF:-1,Radio Chiveo
 https://comodin.uy/listen/chiveo/320.mp3
 #EXTINF:-1,Radio Chiveo
@@ -233,6 +241,8 @@ http://streamingcasazorrilla.innovanexo.com:9000/radiocero.mp3
 https://stream1.enperspectiva.net:8443/radio.mp4
 #EXTINF:-1,Sarandi 690
 https://radiolatina.live:10977/sarandi
+#EXTINF:-1,Sport 890
+https://radiolatina.live:10976/sport
 #EXTINF:-1,Uni Radio 107.7 FM - Montevideo
 http://uniradio.edu.uy:8008/uniradio
 #EXTINF:-1,Zorrilla de San Martin

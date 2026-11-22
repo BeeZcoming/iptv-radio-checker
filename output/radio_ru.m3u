@@ -13,12 +13,12 @@ https://stream03.pcradio.app/Sergej_trofimov-hi
 https://stream03.pcradio.app/Chaif-hi
 #EXTINF:-1, Chamber Pop
 http://79.111.14.76:8000/chamberpop
-#EXTINF:-1, Invoice  радио
-https://a6.radioheart.ru:9019/RH78566
 #EXTINF:-1, Nightwave Plaza 
 https://radio.plaza.one/ogg
 #EXTINF:-1, Radio Gameplay 
 https://c22.radioboss.fm:8144/GamePlay
+#EXTINF:-1, Radio Kontinental
+http://stream01.radiocon.ru:8000/hum_tbk
 #EXTINF:-1, Radio of Russia - Moscow 
 https://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
 #EXTINF:-1, Rodnoe radio VT
@@ -225,8 +225,6 @@ https://listen9.myradio24.com/77103
 http://79.120.39.202:8000/afrobeat
 #EXTINF:-1,AIST TV
 http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
-#EXTINF:-1,AK Laboratory
-http://anklab.ru/stream/sc.ogg
 #EXTINF:-1,Alex
 https://myradio24.org/walcon
 #EXTINF:-1,Alex - Best Lounge Music
@@ -252,7 +250,7 @@ http://79.111.14.76:8000/ambientdub
 #EXTINF:-1,Ambient House
 http://79.120.12.130:8000/ambienthouse
 #EXTINF:-1,AMG Radio
-http://rufm.amgradio.ru/rufm
+http://hfm.amgradio.ru/HypeFM
 #EXTINF:-1,ANDEAN / SOUTH AMERICAN MUSIC - Radio Caprice
 http://213.141.131.10:8000/andean
 #EXTINF:-1,AngelsRadio
@@ -672,7 +670,7 @@ https://radiorecord.hostingradio.ru/discofunk96.aacp
 #EXTINF:-1,Discothec 80-90
 https://listen4.myradio24.com/dance80
 #EXTINF:-1,DiscoverTranceRadio (MP3 HQ stereo 192kBit/s)
-http://paris.discovertrance.com:8006//
+http://uk01.discovertrance.com//
 #EXTINF:-1,Django Manouche
 http://79.120.77.11:8002/manouche
 #EXTINF:-1,DJIN FM
@@ -786,7 +784,7 @@ http://misato.ru-hoster.com:8038/live
 #EXTINF:-1,Everhoof
 http://everhoof.ru:8000/320
 #EXTINF:-1,Everhoof Radio
-http://everhoof.ru:8000/128
+http://everhoof.ru:8000/320
 #EXTINF:-1,Experimental/Avant Rock, Radio Caprice
 http://213.141.131.10:8004/avantrock
 #EXTINF:-1,Far Eastern Traditional Music - Radio Caprice
@@ -1017,6 +1015,8 @@ https://stream5.radiogoose.ru/listen/hypertechno/play
 https://grandfm.ru:8005/radio
 #EXTINF:-1,GRELLA
 https://listen6.myradio24.com/grella
+#EXTINF:-1,GTF
+https://stream.gtfinstrumental.com/stream
 #EXTINF:-1,Guf
 https://stream.pcradio.ru/Guf-hi
 #EXTINF:-1,Guitar Jazz
@@ -1090,7 +1090,7 @@ http://aska.ru-hoster.com:8061/stream
 #EXTINF:-1,Joy
 https://uk5.internet-radio.com/proxy/joyradio?mp=/stream;
 #EXTINF:-1,Joy Hits
-https://joyhits.online/joyhits2.aac
+http://joyhits.online/joyhits.aac
 #EXTINF:-1,JoyRadio
 http://airtime.joyradio.cc:8000/airtime_192.mp3
 #EXTINF:-1,Jump Blues - Caprice Radio
@@ -1345,10 +1345,10 @@ http://213.141.131.10:8004/oceania
 https://s0.radioheart.ru:8000/office
 #EXTINF:-1,Oldies
 http://79.120.77.11:8000/oldies
-#EXTINF:-1,Omsk FM
-http://www.omskfm.ru:8000/881-128.mp3
 #EXTINF:-1,Orchestral Rhythm & Soul Music (Listen DE) (MP3 256 kbps)
 https://globalic.stream:1535/stream
+#EXTINF:-1,orchestre national de Russie
+https://rnor.ru/data/radioRNO/radio128.mp3
 #EXTINF:-1,Orthodox
 http://79.111.14.76:8000/orthodox
 #EXTINF:-1,OTO Radio
@@ -1598,7 +1598,7 @@ https://myradio24.org/98107
 #EXTINF:-1,Radio AI FM
 https://radio.aifm.su/listen/aifm/radio.mp3
 #EXTINF:-1,Radio AnimKLATU
-https://animklatu.stream.laut.fm/animklatu?t302=2026-11-17_01-20-45&uuid=a4c98b66-a093-ab46-0e9f-4e05dda234fc
+https://animklatu.stream.laut.fm/animklatu?t302=2026-11-22_01-22-15&uuid=4942a672-d321-c5f2-c406-edb1b62cbd7f
 #EXTINF:-1,Radio Anonymous
 http://anon.fm:8000/radio
 #EXTINF:-1,Radio Blago
@@ -2197,8 +2197,6 @@ http://fantasyradioru.no-ip.biz:8008/
 http://myradio24.org/udmtuno
 #EXTINF:-1,Radio for 2
 https://icecast-radiofortwo.cdnvideo.ru/radiofortwo
-#EXTINF:-1,Radio Free Music
-https://radio-holding.ru:9433/rfm
 #EXTINF:-1,Radio Game play
 http://c22.radioboss.fm:8144/GamePlay
 #EXTINF:-1,Radio Golos Angary
@@ -2449,10 +2447,14 @@ http://91.203.176.214:8000/vesnafm
 http://live.lofiradio.ru:8000/vibe_mp3_320
 #EXTINF:-1,Radio Voice of Burma
 http://listen7.myradio24.com/39982
+#EXTINF:-1,Radio Xammep
+https://studio.radioxammep.ru/listen/xammepdance/radio.mp3
 #EXTINF:-1,Radio Yuldash
 https://radio.mediacdn.ru/uldash.mp3
 #EXTINF:-1,Radio ZVEZDA (Moscow) 95.6 FM
 https://zvezda-radio-rzv.mediacdn.ru/radio/zvezda/zvezda_128
+#EXTINF:-1,Radio-Continental Chelyabinsk
+https://stream01.radiocon.ru:8443/live
 #EXTINF:-1,RADIO-LINIYA
 http://a9.radioheart.ru:8050/RH8642
 #EXTINF:-1,Radio.Fish
@@ -2488,7 +2490,7 @@ https://online.rockarsenal.ru/rockwotalk
 #EXTINF:-1,Rebyachya Respublika
 http://live.radio7.su:9000/deti256
 #EXTINF:-1,Record
-https://radio-srv1.11one.ru/record192k.mp3
+https://radio-srv1.11one.ru/rec64k
 #EXTINF:-1,Record 80-х
 https://radiorecord.hostingradio.ru/198096.aacp
 #EXTINF:-1,Record Chill House
@@ -2551,8 +2553,6 @@ https://cst.res.ad/rw320
 https://retro.hostingradio.ru:8043/retro256.mp3
 #EXTINF:-1,Retrowave.One Radio
 http://77.108.192.88:8000/stream
-#EXTINF:-1,REVOLUTION Radio
-https://revolutionradio.ru:8443/live.mp3
 #EXTINF:-1,Riddim Dubstep
 http://79.111.119.111:8000/riddimdubstep
 #EXTINF:-1,Road Radio 91.2
@@ -2691,6 +2691,8 @@ http://segenswelle.de:8000/russisch
 https://seva.ru/radio/stream
 #EXTINF:-1,Sevastopol FM
 http://air6.amgradio.ru/SFM
+#EXTINF:-1,Shanson TV / Шансон ТВ
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 #EXTINF:-1,Shoot`em Up Radio Station
 https://stream.shmupradio.com/320
 #EXTINF:-1,Sideline FM
@@ -2861,6 +2863,8 @@ https://channel_2.waveani.fun/stream
 http://79.120.12.130:8000/westernswing
 #EXTINF:-1,Witch House on WaveRadio
 https://station.waveradio.org/witch
+#EXTINF:-1,Wow Chillout
+https://stream.vyshka24.ru/wowchillout
 #EXTINF:-1,Wow Cover
 https://stream.vyshka24.ru/wowcover
 #EXTINF:-1,Wow Gold
@@ -2981,8 +2985,6 @@ http://bfmreg.hostingradio.ru/spb.bfm128.mp3
 https://bimradio.hostingradio.ru/bimradio128.mp3
 #EXTINF:-1,БИМ-Радио Казань 102.8 FM
 http://av.bimradio.ru:8066/bim_mp3_128k
-#EXTINF:-1,Бирь 
-https://radio102.ru:8443/birskfm
 #EXTINF:-1,Благо
 https://live.radioblago.ru/live-2.mp3
 #EXTINF:-1,Благо
@@ -3188,7 +3190,7 @@ https://jecarchive.ru/radio.mp3
 #EXTINF:-1,Динамит FM
 http://listen7.myradio24.com/76923
 #EXTINF:-1,Дискач 90s Мегахит ДНР
-http://radio90s.stream.laut.fm/radio90s?t302=2026-11-17_04-30-22&uuid=d574f464-63f9-4d2d-8dbd-8bf5082fce4a
+http://radio90s.stream.laut.fm/radio90s?t302=2026-11-22_04-31-59&uuid=ed9c3549-2ad1-fc72-b892-fea4884a2fe7
 #EXTINF:-1,ДИСКОТЕКА 90-Х
 https://radiorecord.hostingradio.ru/sd9096.aacp?0968d4a7
 #EXTINF:-1,Доброе старое радио
@@ -3381,6 +3383,8 @@ https://stream03.pcradio.app/Kalinov_most-hi
 https://a3.radioheart.ru:9002/RH7347
 #EXTINF:-1,Кальян Рэп (DFM) 
 https://dfm-kalianrap.hostingradio.ru/kalianrap96.aacp
+#EXTINF:-1,Канитель
+http://srv.kanitelfm.ru:8002/stream
 #EXTINF:-1,Карибу Арт
 https://online.karibu.ru/Karibu-Art
 #EXTINF:-1,Кекс FM
@@ -3633,8 +3637,6 @@ http://segenswelle.de:8000/BG-Omsk
 https://channels.fonotron.ru:8000/Chan_67_256.mp3
 #EXTINF:-1,Орфей - Русская классика
 https://channels.fonotron.ru:8000/Chan_73_256.mp3
-#EXTINF:-1,Отклик — стихи и отклики нейросети
-https://otklik.taile7f452.ts.net/stream.mp3
 #EXTINF:-1,Открытие
 https://stream.discoveryfm.ru/discovery256.mp3
 #EXTINF:-1,Открытое Слово
@@ -3709,8 +3711,6 @@ http://37.113.131.86:8000/100fm
 https://stream.1000hit.ru:8000/stream320
 #EXTINF:-1,Радио 19-22
 http://onair.radio1922.ru:8000/192.mp3
-#EXTINF:-1,Радио 40
-http://195.112.119.187:8000/Radio40
 #EXTINF:-1,Радио 53 Боровичи 102.5 FM
 http://84.242.241.66:8000/;
 #EXTINF:-1,Радио 53 Великий Новгород
@@ -3765,12 +3765,10 @@ http://nashe1.hostingradio.ru/ultra-128.mp3
 https://nashe2.hostingradio.ru/ultra-128.mp3
 #EXTINF:-1,Радио ULTRA HD
 http://nashe1.hostingradio.ru/ultra-192.mp3
-#EXTINF:-1,Радио Алания Владикавказ 104.5 FM
-http://vgtrk15.hostingradio.ru:8011/vgtrk15128.mp3
 #EXTINF:-1,радио Алтай 
 http://146.158.96.114:8000/radio
 #EXTINF:-1,радио АЛЬФА
-https://stream1.alfafm.ru/alfa_mp3
+https://stream2.alfafm.ru/alfa_mp3
 #EXTINF:-1,Радио Ангелов
 https://listen6.myradio24.com/angels_low.aac
 #EXTINF:-1,Радио АСТВ
@@ -3857,6 +3855,8 @@ http://cafe.volna.top/Cafe
 http://bookradio.hostingradio.ru:8069/fm
 #EXTINF:-1,Радио Комета Донецк 98.6 FM
 http://online.kometa.fm:8000/kometa_donetsk_inet.ogg
+#EXTINF:-1,Радио Континенталь
+http://stream01.radiocon.ru:8000/live
 #EXTINF:-1,Радио Красная Армия Тюмень 104.6 FM
 http://live.rzs.ru/ka.128.mp3
 #EXTINF:-1,Радио Краснодар
@@ -4603,6 +4603,8 @@ https://radio.3angels.ru/live
 https://radio3.4m3.ru/listen/trud/radio.mp3
 #EXTINF:-1,Тюнтюгур
 https://radio2.4m3.ru/listen/ttg/radio.mp3
+#EXTINF:-1,У-ФМ 
+https://s.fmplay.ru/06643ef7
 #EXTINF:-1,Ульяновск FM
 https://online.ulskfm.ru/104i2_mp3
 #EXTINF:-1,Ульяновск FM

@@ -4,7 +4,7 @@ https://stream.bruce-radio.be/bruce-classic-rock
 #EXTINF:-1, Radio RGR Dance Rotselaar, Be
 https://stream2.rgrfm.be/
 #EXTINF:-1,"name": "'undefined' -> 'AFN 360 Benelux'",
-http://25553.live.streamtheworld.com/AFNE_BLX_SC
+http://27863.live.streamtheworld.com:3690/AFNE_BLX_SC
 #EXTINF:-1,1 Belgian On Demand Radio
 http://bodr.ddns.net:9052/;
 #EXTINF:-1,100,5
@@ -23,6 +23,8 @@ https://radio.afrikanabestsounds.com/listen/live_african/radio.mp3
 https://play.ajoinmusic.be/ajoinmusic.mp3
 #EXTINF:-1,Antipode Louvain-la-neuve
 https://antipodev2.dev.itsquared.be/antipodestream.mp3
+#EXTINF:-1,Antwerpen FM
+https://streaming.servicehosting.eu/listen/antwerpen_fm/radio.mp3
 #EXTINF:-1,Arabel 106.8 Bruxelles, be
 http://arabelfm.ice.infomaniak.ch/arabelprodcastfm.mp3
 #EXTINF:-1,AudioDrama Radio
@@ -158,7 +160,7 @@ https://onair.goldfm.be:8000/stream
 #EXTINF:-1,Gold FM
 http://stream.goldfm.be:1061/station.mp3
 #EXTINF:-1,Goldies Radio
-http://eu1.reliastream.com:7064/stream
+http://goldiesradio.radioca.st:8565/stream
 #EXTINF:-1,Gothville radio 
 http://streams.radio.co/s62583474c/listen
 #EXTINF:-1,Grand Prix Radio
@@ -255,6 +257,8 @@ https://stream.laclassica.be:18023/stream
 https://stream.laclassica.be:18023/stream2
 #EXTINF:-1,La Classica
 http://stream.laclassica.be:8023/stream
+#EXTINF:-1,La Première - Bruxelles
+http://radios.rtbf.be/laprem1erebxl-128.mp3
 #EXTINF:-1,Lazer Hot Hits
 https://streaming.servicehosting.eu/listen/lazer_hot_hits/radio.mp3
 #EXTINF:-1,Lehabs Radio
@@ -381,8 +385,12 @@ https://icecast-qmusicbe-cdp.triple-it.nl/q-allstars.aac
 http://serverkw.quran-uni.com:8238/;*.mp3
 #EXTINF:-1,R.O.L Oldies Jukebox Radio - Lanaken, be
 http://listen.openstream.co/4628/audio
+#EXTINF:-1,Radio 1
+https://icecast.vrtcdn.be/radio1-mid.mp3
 #EXTINF:-1,Radio 100%
 http://live2.radiostudio.be:8000/pros
+#EXTINF:-1,RADIO 2
+https://quantumcast.vrtcdn.be/ra2ant/mp3-128/quantumcast.vrtcdn.be/
 #EXTINF:-1,Radio 2 Bene Bene
 http://icecast.vrtcdn.be/radio2_benebene-high.mp3
 #EXTINF:-1,Radio 4910
@@ -441,8 +449,6 @@ http://shoutcast2.wirelessbelgie.be:8100/;
 http://radiocontact.ice.infomaniak.ch/radiocontact-mp3-192.mp3
 #EXTINF:-1,Radio contact
 http://radiocontact.ice.infomaniak.ch/radiocontact-mp3-128.mp3
-#EXTINF:-1,Radio Continu - the original
-https://streams.dutchmediacenter.nl/listen/radiocontinu/live
 #EXTINF:-1,Radio De Musketiers - Limburg, be
 https://demusketiers.beheerstream.nl/8022/stream
 #EXTINF:-1,Radio Demerstad
@@ -638,7 +644,7 @@ https://server7.radio-streams.net/proxy/rowynamu/stream
 #EXTINF:-1,scorpio
 https://stream.radioscorpio.be/stream
 #EXTINF:-1,Slow Radio
-http://stream5.slowradio.com/
+http://stream1.slowradio.com/
 #EXTINF:-1,Smart Radio City
 https://live.smartradio.city/listen/city/radio.mp3
 #EXTINF:-1,Soundtrackfm
@@ -819,6 +825,8 @@ https://icecast-qmusicbe-cdp.triple-it.nl/willy.mp3
 http://stream.wradio.es:9000/;stream/1
 #EXTINF:-1,XBeat
 https://radio.xbeat.org/stream1
+#EXTINF:-1,YOLO - Life is like a dance
+https://streamingv2.shoutcast.com/yolo-life-is-like-a-dance
 #EXTINF:-1,YOUFM 106.9 Mons, be
 http://youfm.ice.infomaniak.ch/youfm-96
 #EXTINF:-1,Zen Garden (myNoise Radio)

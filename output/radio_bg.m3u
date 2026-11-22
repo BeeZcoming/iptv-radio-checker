@@ -138,7 +138,7 @@ https://eilo.org/streamer.php?ch=mixotic
 #EXTINF:-1,EILO Psychedelic Radio
 https://eilo.org/streamer.php?ch=psychedelic
 #EXTINF:-1,Eilo Radio - Progressive Radio
-http://eilo.org:8000/progressive
+https://eilo.org/streamer.php?ch=progressive
 #EXTINF:-1,EILO Techno Radio
 https://eilo.org/streamer.php?ch=techno
 #EXTINF:-1,EILO Trance Radio
@@ -337,6 +337,8 @@ https://listen.radioking.com/radio/490082/stream/546899
 http://g5.turbohost.eu:8002/stream128
 #EXTINF:-1,Radio Dance With Me (MP3 320)
 http://g5.turbohost.eu:8002/stream320
+#EXTINF:-1,Radio Deep Disco
+http://79.98.108.170:8000/autodj
 #EXTINF:-1,Radio Dobrudja
 http://5.104.174.128:8000/radiodobrudja
 #EXTINF:-1,Radio Dolce Vita
@@ -413,8 +415,6 @@ https://25453.live.streamtheworld.com/RADIO_NOVAAAC_H.aac
 https://25453.live.streamtheworld.com/RADIO_NOVAAAC_L.aac
 #EXTINF:-1,Radio Nova Bulgaria
 https://play.global.audio/nova.opus
-#EXTINF:-1,Radio NRG
-https://home.radionrg.com/hls/live/live.m3u8
 #EXTINF:-1,Radio ORV
 http://radio.orvmedia.com:8005/stream
 #EXTINF:-1,Radio OxFM
@@ -423,6 +423,8 @@ https://mpc.my-control-panel.eu:8002/stream
 https://cast6.asurahosting.com/proxy/iliyan12/stream.mp3
 #EXTINF:-1,Radio Rashi online
 https://s2.free-shoutcast.com/stream/18214
+#EXTINF:-1,Radio Retro Folk
+http://79.98.108.170:8053/
 #EXTINF:-1,Radio Retro Samokov
 https://radio.jump.bg/proxy/stanimi1/radioRETRO
 #EXTINF:-1,Radio Rezonans
@@ -575,6 +577,8 @@ https://play.global.audio/radio1-koledahi.aac
 http://stream.radioextra-bg.net:8000/razgrad
 #EXTINF:-1,Радио „Епархийски глас“
 https://radio.mitropolia-sofia.org:7610/stream
+#EXTINF:-1,Радио Bulgaria ON AIR Русе 103.9 FM
+https://live.radio.bgonair.bg/RadioBOA
 #EXTINF:-1,Радио CITY
 http://31.13.223.148:8000/city.mp3
 #EXTINF:-1,Радио Energy Болгария Русе 100.5 FM

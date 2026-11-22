@@ -41,8 +41,6 @@ https://drdio.studio/stream/live.mp3
 https://listen1.myradio24.com/nazarik
 #EXTINF:-1,EQVE Radio - Экве Радио
 http://listen1.myradio24.com/nazarik
-#EXTINF:-1,FM 1 Перше Радіо
-http://195.138.81.134:8000/radio1-256
 #EXTINF:-1,FM Disco Melody
 https://online.melodiafm.ua/MelodiaFM_Disco
 #EXTINF:-1,Garmonia Mira
@@ -129,8 +127,6 @@ https://minatrix.fm:8002/play
 https://stream.mistofm.com/listen/misto_fm_juda/radio.mp3
 #EXTINF:-1,Mj Play FM
 https://mjplay.empirecraft.lv/stream
-#EXTINF:-1,Momingmy radio
-http://momingmy.tk:8880/music.ogg
 #EXTINF:-1,NRJ RADIO
 https://cast.mediaonline.net.ua/nrj320
 #EXTINF:-1,Pihota.FM

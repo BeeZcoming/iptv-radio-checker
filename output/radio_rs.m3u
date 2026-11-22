@@ -115,8 +115,6 @@ http://lux-naxinacional.streaming.rs:8605/
 https://lux-naxinacional.streaming.rs:8607/;
 #EXTINF:-1,Magnum Radio Zajecar
 http://magnum.web-srbija.net:8121/;
-#EXTINF:-1,MansionNET Radio
-https://radio.inthemansion.com/listen/mansionnet/radio.mp3
 #EXTINF:-1,Mária Rádió Szerbia
 http://dreamsiteradiocp.com:8014/;
 #EXTINF:-1,Moj Radio
@@ -348,7 +346,7 @@ https://as1.radioserveri.com:8220/radio.mp3
 #EXTINF:-1,Radio Cer
 http://stream1.contrateam.com:8040/
 #EXTINF:-1,Radio D
-http://213.239.205.210:6010/
+http://213.239.205.210:6010/;
 #EXTINF:-1,Radio D Lucani
 http://213.239.205.210:6010/;stream.nsv
 #EXTINF:-1,Radio Delta 31
@@ -443,8 +441,6 @@ https://radio.dukahosting.com:7033/
 http://213.239.205.210:8001/stream
 #EXTINF:-1,Radio Ritam Srca
 https://s4.radio.co/s0f65dad2d/listen
-#EXTINF:-1,Radio Ruf
-http://77.46.153.156:8000/;
 #EXTINF:-1,Radio S
 https://53be5ef2d13aa.streamlock.net/asmedia/radios/playlist.m3u8
 #EXTINF:-1,Radio S 2000-e
@@ -604,7 +600,7 @@ https://live.rtvvrnjackabanja.com/rvb.mp3
 #EXTINF:-1,Radio Zelengrad - Milwaukee - USA
 http://usa5.fastcast4u.com:16276/;stream.nsv
 #EXTINF:-1,RADIO.D59B
-http://n0f.radiojar.com/gn6dqzhf9mzuv
+http://n0e.radiojar.com/gn6dqzhf9mzuv
 #EXTINF:-1,Red radio Beograd
 https://stream.redradio.rs/sid=1
 #EXTINF:-1,Resavski radio
@@ -649,6 +645,8 @@ http://streaming.tdiradio.com:8000/tdiradio
 http://streaming.tdiradio.com:8000/love
 #EXTINF:-1,TDI Radio CRNA GORA
 https://streaming.tdiradio.com/crnagora.mp3
+#EXTINF:-1,Tempo Naxi Radio
+https://tempo.ipradio.rs:9034/
 #EXTINF:-1,TOP FM Belgrade - 106,8 MHz
 https://topfm64ssl.streaming.rs:9287/;stream.mp3
 #EXTINF:-1,UnderGRAND RADIO

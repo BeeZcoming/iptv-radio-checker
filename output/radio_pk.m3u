@@ -27,6 +27,8 @@ http://162.244.80.118:3024/stream.mp3?ver=349829
 https://whmsonic.radio.gov.pk:7008/stream
 #EXTINF:-1,FM 101 Karachi
 https://whmsonic.radio.gov.pk:8048/stream
+#EXTINF:-1,FM 101 Khairpur
+https://whmsonic.radio.gov.pk:8054/stream
 #EXTINF:-1,FM 101 Larkana
 https://whmsonic.radio.gov.pk:8050/stream
 #EXTINF:-1,FM 101 Mithi
@@ -83,8 +85,6 @@ https://whmsonic.radio.gov.pk:7000/Dikhan
 https://whmsonic.radio.gov.pk:8042/stream
 #EXTINF:-1,Radio Pakistan Islamabad
 https://whmsonic.radio.gov.pk:7003/stream
-#EXTINF:-1,Radio Pakistan Lahore 
-https://whmsonic.radio.gov.pk:8026/relay?type=http&nocache=9
 #EXTINF:-1,Radio Pakistan Lahore News and Current Affair AM 1332 KHZ
 https://whmsonic.radio.gov.pk:7004/stream?type=http&nocache=12
 #EXTINF:-1,Radio Pakistan Multan 
@@ -103,8 +103,6 @@ https://whmsonic.radio.gov.pk:7005/stream
 https://whmsonic.radio.gov.pk:7005/stream?type=http&nocache=12
 #EXTINF:-1,Shopen Anime Radio
 https://s97.radiolize.com:8040/radio.mp3
-#EXTINF:-1,Sindh fm
-http://167.114.131.90:2758/
 #EXTINF:-1,SOUTUL QURAN PBC FM 93.4 ISLAMABAD
 https://whmsonic.radio.gov.pk:7002/stream?type=http&nocache=12
 #EXTINF:-1,Universal Health Radio (اردو)

@@ -83,8 +83,10 @@ https://sp.unoredcdn.net:8044/stream
 https://audio.livecastnet.com:2105/stream
 #EXTINF:-1,WPAB 550 PONCE
 http://68.235.35.243:9059/stream
+#EXTINF:-1,WRPG-DB | Pura Gracia Radio
+http://c23.radioboss.fm/stream/296
 #EXTINF:-1,WRPG-DB Pura Gracia
-https://26343.live.streamtheworld.com:443/SAM05AAC459_SC
+https://24293.live.streamtheworld.com:443/SAM05AAC459_SC
 #EXTINF:-1,WUNO 630 "Noti Uno" San Juan
 http://68.235.35.243:9027/;stream.mp3
 #EXTINF:-1,WUPR Éxitos 1530

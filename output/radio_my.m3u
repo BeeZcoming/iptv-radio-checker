@@ -21,8 +21,6 @@ https://stream.zeno.fm/tf79rp6qg48uv
 http://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FM.mp3
 #EXTINF:-1,BFM 89.9
 https://22253.live.streamtheworld.com/BFM_SC
-#EXTINF:-1,BIGCOWFM大牛网络电台 | 马来西亚中文网络电台
-https://a.tunzilla.com/http://onairnow.ddns.net:8000/chinese.mp3
 #EXTINF:-1,Cats FM
 https://stream.rcs.revma.com/51qe53rv0y3vv.m4a
 #EXTINF:-1,Ceritera FM
@@ -79,6 +77,8 @@ https://stream.rcs.revma.com/3930238mtd3vv/hls.m3u8
 http://playerservices.streamtheworld.com/api/livestream-redirect/LANGKAWI_FM.mp3
 #EXTINF:-1,LITE FM Malaysia
 https://stream.rcs.revma.com/bn4ex8sbv4uvv
+#EXTINF:-1,LTFM Radio
+http://live.ltfmonline.com:8000/stream
 #EXTINF:-1,LTR FM Radio Music
 https://stream.zeno.fm/p1ddt1trwchvv
 #EXTINF:-1,Melody FM

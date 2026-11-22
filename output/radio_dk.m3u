@@ -271,6 +271,8 @@ http://komplex2.psyradio.org:8020/chillout/;
 https://s3.radio.co/s7cd1ffe2f/listen
 #EXTINF:-1,Radio 40plus
 http://stream.radiosolutions.dk/radio40plus
+#EXTINF:-1,Radio 7 Ravensburg
+https://streams.radio7.de/rv/mp3-192/web/
 #EXTINF:-1,Radio ABC
 http://netradio.radioabc.dk/
 #EXTINF:-1,Radio ABC
@@ -311,8 +313,6 @@ http://solid67.streamupsolutions.com:15507/stream
 https://stream.probroadcast.dk/radioglobus
 #EXTINF:-1,Radio Haderslev 
 http://media.wlmm.dk/radiohaderslevmp3
-#EXTINF:-1,Radio Helsingør FM
-https://stream.radiohelsingor.dk/rh
 #EXTINF:-1,Radio HSR
 https://a6.asurahosting.com:7680/radio.mp3
 #EXTINF:-1,Radio Humleborg

@@ -1,11 +1,5 @@
 #EXTM3U
-#EXTINF:-1,104.3 Boss FM
-https://ice10.securenetsystems.net/KIJI
 #EXTINF:-1,Harvest Family Radio Guam
 https://streaming.live365.com/a11295
-#EXTINF:-1,KIJI 104.3 FM Hagatna, Guam
-https://ice10.securenetsystems.net:80/KIJI
-#EXTINF:-1,KUSG
-https://ice10.securenetsystems.net/KUSG
 #EXTINF:-1,TFC Guam
 https://tfcguam-abscbn-ono.amagi.tv/index.m3u8

@@ -7,8 +7,6 @@ http://stream.zeno.fm/yawenmfp64zuv
 https://bliss1-alrayamedia.radioca.st/;
 #EXTINF:-1,Drdchati Radio
 https://radio.gorlk.net/drdchati
-#EXTINF:-1,FABULOUSXM
-http://s3.voscast.com:9830/;stream.mp3
 #EXTINF:-1,Fusha FM 102.9 - Jordan Academy of Arabic
 https://eu9.fastcast4u.com/proxy/arabicla?mp=/1
 #EXTINF:-1,Fyrozzzz
@@ -19,6 +17,8 @@ https://dc1.serverse.com/proxy/kjxwtpdt/stream
 https://jeishfm-alrayamedia.radioca.st/;
 #EXTINF:-1,JRRadio
 https://jrtv-live.ercdn.net/jrradio/englishradiovideo.m3u8
+#EXTINF:-1,JU FM 94.9 - University of Jordan Radio
+https://stream.streamgenial.stream/42t0df9z0f8uv
 #EXTINF:-1,Main Jo
 https://jrtv-live.ercdn.net/jrradio/jordanradiovideo.m3u8
 #EXTINF:-1,Mazaj FM

@@ -19,8 +19,6 @@ https://cast2.radiohost.ovh/onenewsradio?mp=/stream
 https://n0a.radiojar.com/kokkino-ath.mp3?rj-ttl=5&rj-tok=AAABh-0eIcYAVz1x8OviF1g8jw
 #EXTINF:-1,100 FM Radio 1
 http://s3.onweb.gr:8814/;
-#EXTINF:-1,101 FM1
-https://neos.win:59261/stream
 #EXTINF:-1,101 Rock Lamia
 http://sh.onweb.gr:9110/stream
 #EXTINF:-1,102.2 Αλιβέρι 1
@@ -45,8 +43,6 @@ https://s4.myradiostream.com/:14374/;?type=http&nocache=1695638039?0.80407654766
 https://radiostreaming.ert.gr/ert-trito
 #EXTINF:-1,14.ΕΡΑ 2 Παραδοσιακά
 https://radiostreaming.ert.gr/ert-defteroparadosiaka
-#EXTINF:-1,1431AM
-https://www.1431am.org:8001/1431high
 #EXTINF:-1,17.ΕΡΤ3 102 FM
 https://radiostreaming.ert.gr/ert-102fm
 #EXTINF:-1,18.ΕΡΑ-Η φωνή της Ελλάδας
@@ -159,6 +155,8 @@ http://icecast.902.gr:8000/904
 https://sh.onweb.gr:8905/stream?type=http&nocache=13
 #EXTINF:-1,905ROCK
 https://sh.onweb.gr:8905/stream
+#EXTINF:-1,90s Heaven
+https://sp3.streams.ovh/8070/stream
 #EXTINF:-1,97.3 Κανάλι 5
 https://solid1.streamupsolutions.com/proxy/kanali5?mp=/stream
 #EXTINF:-1,984 Kriti
@@ -192,7 +190,7 @@ https://a9.asurahosting.com/listen/aegean_vibes/radio.mp3
 #EXTINF:-1,Aegean Voice
 https://sh.onweb.gr:7000/;stream
 #EXTINF:-1,AFN 360 Souda Bay
-http://23623.live.streamtheworld.com:3690/AFNE_SDB_SC
+http://29333.live.streamtheworld.com/AFNE_SDB_SC
 #EXTINF:-1,Aigaio News
 http://europa.shoutca.st:8721/stream?type=http&nocache=24274
 #EXTINF:-1,AiSoto Radio
@@ -361,8 +359,6 @@ https://cast4.magicstreams.gr/sc/ctsiotra/stream?ver=989993
 https://netradio.live24.gr/radiohotlips
 #EXTINF:-1,b19 FM
 https://sc.cast-control.eu:2000/stream/b19fm
-#EXTINF:-1,Backtorave.com - Old School Techno Rave
-https://radiospromo.com/listen/tracksaudio.com_-_old_school/radio.mp3
 #EXTINF:-1,BAILA Radio
 https://i8.streams.ovh/sc/baila/stream
 #EXTINF:-1,Bar Legend Radio
@@ -745,10 +741,6 @@ http://radiostreaming.ert.gr/ert-proto
 http://radiostreaming.ert.gr/ert-trito
 #EXTINF:-1,Ermis 91.8
 https://streams.upg.gr/ermis
-#EXTINF:-1,EROTOKRITOS
-https://tls-chrome.live24.gr/1510?http://stream2.proradio.gr:8004/erotokritos
-#EXTINF:-1,Erotokritos 87.9 fm
-http://stream2.proradio.gr:8004/erotokritos
 #EXTINF:-1,ERT 90s
 https://radiostreaming.ert.gr/radio-90s
 #EXTINF:-1,ERT 958FM
@@ -857,6 +849,8 @@ https://audio-edge-5bkfj.fra.h.radiomast.io/f166df84-c91c-4b1d-b2b2-798776af0aed
 https://panel.gwebstream.com/stream/fm100skg/stream
 #EXTINF:-1,FM 100.6 Δημοτικό Ραδιόφωνο Θεσσαλονίκης
 https://panel.gwebstream.com/stream/fm1006stream/stream
+#EXTINF:-1,FM 106.5 GR
+https://shoutcast.k-planet.eu/9400/stream;
 #EXTINF:-1,FM Life 105.3
 http://s6.onweb.gr:8044/;
 #EXTINF:-1,FM Αγκάθι/Agathi
@@ -883,8 +877,6 @@ https://webinternetradio.eu:59402/
 http://192.99.14.191:8004/;stream&nocache=1
 #EXTINF:-1,Free Central Greece
 http://sh.onweb.gr:8634/stream?type=http&nocache=45
-#EXTINF:-1,Free GR
-http://63.141.244.222:59540/;?type=http&nocache=1640597117?0.15577311888249712
 #EXTINF:-1,Free radio
 https://n09.radiojar.com/e206r95qsp8uv?rj-ttl=5&rj-tok=AAABjTeegtEAWNPK06lYDhypDQ
 #EXTINF:-1,Freespirits Services
@@ -1130,7 +1122,7 @@ https://sp3.streams.ovh/8052/stream
 #EXTINF:-1,Kea
 https://cast5.magicstreams.gr/sc/radiokeabasic/stream
 #EXTINF:-1,Kefalonication Radio
-https://kefalonicationradio.stream.laut.fm/kefalonicationradio?t302=2026-11-17_02-26-09&uuid=cfb46e2b-9660-9ca4-7b93-6399eb91777b
+https://kefalonicationradio.stream.laut.fm/kefalonicationradio?uuid=78df4e63-bc6d-9120-6667-64d1fc0992f8&t302=2026-11-22_02-38-57
 #EXTINF:-1,Keratea
 https://i6.streams.ovh/sc/ioannis/stream
 #EXTINF:-1,Kids Radio
@@ -1239,8 +1231,6 @@ http://mediacp.32bit.gr:8014/stream
 https://s6.e-resellers.gr/8038/stream
 #EXTINF:-1,Lampros Hlios
 https://webinternetradio.eu:37068/
-#EXTINF:-1,Lampsi FM 92.3
-https://az11.yesstreaming.net:8140/radio.mp3
 #EXTINF:-1,Larissa DeeJay 95.7
 https://a6.asurahosting.com:7030/radio.mp3
 #EXTINF:-1,Laterna
@@ -2205,6 +2195,8 @@ http://air.radioart.com/fOpera.mp3
 http://air.radioart.com/fOvertures.mp3
 #EXTINF:-1,Radio Balance
 https://cast.radiohost.ovh/radiobalance?mp=/stream
+#EXTINF:-1,Radio Beat Radio
+http://62.38.241.82:8000/
 #EXTINF:-1,Radio City 102.8
 http://i2.streams.ovh:7050/live
 #EXTINF:-1,Radio Dee Jay
@@ -2297,8 +2289,6 @@ http://s6.onweb.gr:8058/
 https://s6.onweb.gr:7026/live
 #EXTINF:-1,Radio Politia
 https://eco.onestreaming.com/proxy/politia/stream
-#EXTINF:-1,Radio Rebetikes Melodies
-https://rebetis.duckdns.org:8545/live
 #EXTINF:-1,Radio Sarothron
 https://radios.studio110.eu/radio/8010/radio.mp3
 #EXTINF:-1,Radio Stournareika 92.5 FM Stereo (Trikala)
@@ -2576,7 +2566,7 @@ https://solid9.streamupsolutions.com/proxy/lrazisyb?mp=/live
 #EXTINF:-1,Sohos 88.7
 https://eu7.fastcast4u.com/proxy/sohosfm?mp=/1
 #EXTINF:-1,Sohos FM 88.7
-http://178.32.146.187:2046/stream
+http://212.95.45.82:32032/stream
 #EXTINF:-1,Sok 103.3
 https://n09-eu1.rcs.revma.com/sb84xcs9g8nwv?rj-ttl=5&rj-tok=AAABoUWWx7MAelEx5JBKepfBJA
 #EXTINF:-1,SokFM 104.8
@@ -2747,10 +2737,6 @@ https://netradio.live24.gr/topfm969xanthi
 https://radio.streamings.gr/proxy/topmelody?mp=/stream
 #EXTINF:-1,Toxotis FM
 https://eco.onestreaming.com/proxy/toxotis/stream
-#EXTINF:-1,Tracksaudio.com - 80s Music
-https://radiospromo.com/listen/tracksaudio.com_-_80s_music/radio.mp3
-#EXTINF:-1,Tracksaudio.com - Chill House Music
-https://radiospromo.com/listen/tracksaudio.com_-_chill_house_music/radio.mp3
 #EXTINF:-1,Traffic FM 91.8
 http://s5.onweb.gr:8506/stream
 #EXTINF:-1,Trance Athena Radio
@@ -2835,6 +2821,8 @@ https://ice.streams.ovh:1060/volosrtv.com
 https://sp1.32bit.gr/8018/;
 #EXTINF:-1,Wave FM 974 Patras GR
 http://sp1.32bit.gr:8018/
+#EXTINF:-1,We Radio 89.4
+https://radio.1055rock.gr:32667/live
 #EXTINF:-1,Weird Fishes
 http://n12.radiojar.com/w47v0ekgzp5tv.m4a?rj-ttl=5&rj-tok=AAABeNc8lwUA6BG833qwmOENGw
 #EXTINF:-1,Wild Radio 
@@ -3003,8 +2991,6 @@ http://onairmediagroup.live24.gr/glenti1011xanthi
 https://streamyourdream.org:8138/stream
 #EXTINF:-1,Γνώμη 93.7
 https://ice.greekstream.net/gnomi
-#EXTINF:-1,Γοητεία 106.8
-https://usa8.fastcast4u.com/proxy/billraf/stream:26066/;?download=false
 #EXTINF:-1,Δειλινά 103 FM
 https://cast2.radiohost.ovh/dilina103?mp=/stream
 #EXTINF:-1,Δέλτα Αλεξανδρούπολη
@@ -3017,6 +3003,8 @@ https://sh.onweb.gr/8464/;
 https://cast.magicstreams.gr:9164/stream?type=http&nocache=20
 #EXTINF:-1,Δημοτική Ραδιοφωνία Τρίπολης 91.5
 https://eco.onestreaming.com/proxy/drtice/stream
+#EXTINF:-1,Δημοτικό Ραδιόφωνο Ιωαννίνων 98.7
+https://tls-chrome.live24.gr/365?http://37.157.242.105:31127/stream
 #EXTINF:-1,Δημοτικό Ραδιόφωνο Κατερίνης 95.3
 https://www.953fm.gr/live.php?t=1792778816016
 #EXTINF:-1,Δημοτικό Ραδιόφωνο Ορεστιάδας 101.5
@@ -3101,8 +3089,6 @@ https://stream-mp3aac.live24.gr/max925-her
 http://live.sugarweb.gr/973.mp3
 #EXTINF:-1,Επικοινωνία 89.1
 https://tls-chrome.live24.gr/813?http://s2.onweb.gr:8608/;listen.pls
-#EXTINF:-1,Επικοινωνία 94
-https://radio.streamings.gr/proxy/epikoinwnia94fm?mp=/stream
 #EXTINF:-1,Επιλογές 102.8
 https://netradio.live24.gr/epiloges1028
 #EXTINF:-1,ΕΡΑ Δεύτερο Λαϊκά
@@ -3489,6 +3475,8 @@ https://sh.onweb.gr:7048/;
 https://sonic.streams.ovh/8014/stream%20?ver=661677
 #EXTINF:-1,Πρωινή Καβάλα
 http://62.103.31.151:8000/stream
+#EXTINF:-1,Πρώτος Τύπος Φαρσάλων
+https://ams-pioneer02.dedicateware.com:1955/stream
 #EXTINF:-1,Πτήση 103.2
 https://s6.e-resellers.gr:8098/stream?type=http&nocache=25
 #EXTINF:-1,Ρ/Σ Ιερά Μητρόπολις Σύρου 95.4
@@ -3567,8 +3555,6 @@ http://ice.streamcloud.mediacdn.com/rkykladwn
 http://s3.onweb.gr:8438/stream?type=http&nocache=56820
 #EXTINF:-1,Ρεμπέτικο για λίγους
 https://stream-177.zeno.fm/wqcp8gq67vzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3cWNwOGdxNjd2enV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Imd3bDUyOGR0UzJxWXkzX0xwUkdJVGciLCJpYXQiOjE3NzQ2NzYwNTYsImV4cCI6MTc3NDY3NjExNn0.Zj53dXOszIlXNR6FQQotK2mPos1MLdXqCDRf5rm97zE
-#EXTINF:-1,Ρίζες
-https://rdst.win:59670/stream
 #EXTINF:-1,Ριζίτες 92.4
 https://sh.onweb.gr:7014/;
 #EXTINF:-1,Ροδόπη 95.5

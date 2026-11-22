@@ -112,7 +112,7 @@ https://stream.pcradio.ru/Pain-hi
 #EXTINF:-1,Pirate Rock  Västkustens bästa rock
 http://stream.piraterock.se:8101/webradio
 #EXTINF:-1,Polushon
-https://whsh4u-clients.com:18323/proxy/ndhfnbqx?mp=/stream
+http://whsh4u-clients.com:9389/stream
 #EXTINF:-1,Pop & Rock
 http://62.101.46.15:8000/poporock
 #EXTINF:-1,Pop Radio Stockholm
@@ -161,8 +161,6 @@ https://live-bauerse-fm.sharp-stream.com/nostalgi_mp3
 https://icecast.radio-orinoco.com/orinoco
 #EXTINF:-1,Radio Rivendell
 https://play.radiorivendell.com/radio/8000/radio.mp3
-#EXTINF:-1,Radio Sandviken
-http://rssand.se:4027/;
 #EXTINF:-1,Radio Sandviken
 https://shout.rs8990.com/;
 #EXTINF:-1,Radio Sotenäs

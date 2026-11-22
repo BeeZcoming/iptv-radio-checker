@@ -69,6 +69,8 @@ http://radio-stream.cmc.com.hr:8090/autodj
 http://radio-stream.cmc.com.hr:8030/autodj
 #EXTINF:-1,CMC Radio
 https://radio-stream.cmc.com.hr:9011/live
+#EXTINF:-1,CMC Rock
+http://radio-stream.cmc.com.hr:8060/autodj
 #EXTINF:-1,CMC Tambure
 http://radio-stream.cmc.com.hr:8050/autodj
 #EXTINF:-1,CMC Zabavni
@@ -140,47 +142,47 @@ http://stream.hkr.hr:8000/hkr.mp3
 #EXTINF:-1,HRT Drugi program
 https://25453.live.streamtheworld.com/PROGRAM2AAC.aac
 #EXTINF:-1,HRT Glas Hrvatske
-http://22183.live.streamtheworld.com:3690/VOICEOFCROATIAAAC_SC
+http://29345.live.streamtheworld.com/VOICEOFCROATIAAAC_SC
 #EXTINF:-1,HRT HR 1 - Prvi program
-http://27743.live.streamtheworld.com:3690/PROGRAM1AAC_SC
+http://14153.live.streamtheworld.com:3690/PROGRAM1AAC_SC
 #EXTINF:-1,HRT HR 1 - Prvi program
-http://25703.live.streamtheworld.com:3690/PROGRAM1_SC
+http://23613.live.streamtheworld.com:3690/PROGRAM1_SC
 #EXTINF:-1,HRT HR 2
 https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM2.mp3
 #EXTINF:-1,HRT HR 2 - Drugi program
-http://22193.live.streamtheworld.com:3690/PROGRAM2AAC_SC
+http://23613.live.streamtheworld.com:3690/PROGRAM2AAC_SC
 #EXTINF:-1,HRT HR 3 - Treći program
-http://28573.live.streamtheworld.com/PROGRAM3AAC_SC
+http://29347.live.streamtheworld.com:3690/PROGRAM3AAC_SC
 #EXTINF:-1,HRT Prvi program
 https://27743.live.streamtheworld.com/PROGRAM1AAC.aac
 #EXTINF:-1,HRT Radio Dubrovnik
-http://22653.live.streamtheworld.com/DUBROVNIKAAC_SC
+http://27913.live.streamtheworld.com:3690/DUBROVNIKAAC_SC
 #EXTINF:-1,HRT Radio Knin
-http://21633.live.streamtheworld.com:3690/KNINAAC_SC
+http://22193.live.streamtheworld.com:3690/KNINAAC_SC
 #EXTINF:-1,HRT Radio Osijek
-http://28573.live.streamtheworld.com/OSIJEKAAC_SC
+http://22183.live.streamtheworld.com/OSIJEKAAC_SC
 #EXTINF:-1,HRT Radio Pula
-http://25683.live.streamtheworld.com:3690/PULAAAC_SC
+http://22733.live.streamtheworld.com:3690/PULAAAC_SC
 #EXTINF:-1,HRT Radio Rijeka
-http://29334.live.streamtheworld.com/RIJEKAAAC_SC
+http://29103.live.streamtheworld.com:3690/RIJEKAAAC_SC
 #EXTINF:-1,HRT Radio Sljeme
-http://29347.live.streamtheworld.com/SLJEMEAAC_SC
+http://28033.live.streamtheworld.com/SLJEMEAAC_SC
 #EXTINF:-1,HRT Radio Sljeme (mp3)
 https://playerservices.streamtheworld.com/api/livestream-redirect/SLJEME.mp3
 #EXTINF:-1,HRT Radio Split
-http://23613.live.streamtheworld.com/SPLITAAC_SC
+http://29341.live.streamtheworld.com:3690/SPLITAAC_SC
 #EXTINF:-1,HRT Radio Zadar
-http://28563.live.streamtheworld.com:3690/ZADARAAC_SC
+http://28563.live.streamtheworld.com/ZADARAAC_SC
 #EXTINF:-1,Hrvatski katolicki radio
 https://stream.hkr.hr/hkr.mp3
 #EXTINF:-1,Hrvatski radio - Klasik
-http://28513.live.streamtheworld.com/HR_CLASSICS_SC
+http://29345.live.streamtheworld.com/HR_CLASSICS_SC
 #EXTINF:-1,Hrvatski radio - Klasik (HRT)
-http://25653.live.streamtheworld.com:3690/HR_CLASSICSAAC_SC
+http://29339.live.streamtheworld.com/HR_CLASSICSAAC_SC
 #EXTINF:-1,Hrvatski radio - Pop glazba
-http://28513.live.streamtheworld.com:3690/HR_POP_SC
+http://29053.live.streamtheworld.com:3690/HR_POP_SC
 #EXTINF:-1,Hrvatski radio - Rock
-http://25693.live.streamtheworld.com:3690/HR_ROCK_SC
+http://25643.live.streamtheworld.com/HR_ROCK_SC
 #EXTINF:-1,Hrvatski radio Čakovec d.o.o. Stream
 http://live.radio-cakovec.hr:7020/stream
 #EXTINF:-1,Hrvatski radio Karlovac
@@ -443,6 +445,8 @@ https://a1.asurahosting.com/listen/radio_slatina/radio.mp3
 https://replaynewshr.ice.infomaniak.ch/replaynewshr-128.mp3
 #EXTINF:-1,Room FM
 http://65.108.198.245:8856/;
+#EXTINF:-1,Rovinj FM
+https://rovinj.fm:9000/
 #EXTINF:-1,Slavonski Radio
 https://ec2s.crolive.com.hr:8035/stream
 #EXTINF:-1,Soundset Ragusa

@@ -140,9 +140,9 @@ http://icecast5.play.cz:8000/expres128mp3
 #EXTINF:-1,Express FM
 http://icecast8.play.cz/expres128mp3
 #EXTINF:-1,Fajn Fresh
-http://ice.abradio.cz/fajnfresh128.mp3
+https://ice.abradio.cz/fajnfresh128.mp3
 #EXTINF:-1,Fajn Rádio
-http://ice.abradio.cz/fajn128.mp3
+https://ice.abradio.cz/fajn128.mp3
 #EXTINF:-1,Fajn rock music
 http://icecast2.play.cz/fajnrock192.mp3
 #EXTINF:-1,Fed's Trap Radio
@@ -174,7 +174,7 @@ http://icecast8.play.cz/hana128.mp3
 #EXTINF:-1,HARDCORERADIO.CZ
 https://radio.hardcoreradio.cz/listen/hardcore_radio/radio.mp3
 #EXTINF:-1,Helax 93,7
-http://ice.abradio.cz/helax128.mp3
+https://ice.abradio.cz/helax128.mp3
 #EXTINF:-1,HEY rádio
 http://icecast3.play.cz/hey-radio128.mp3
 #EXTINF:-1,Hit FM Plus
@@ -182,15 +182,15 @@ http://ice.abradio.cz:8000/fmplus64.aac
 #EXTINF:-1,HIT Rádio Orion
 http://ice.abradio.cz/orion128.mp3
 #EXTINF:-1,Hitrádio Černá Hora
-http://ice.abradio.cz/cernahora64.mp3
+https://ice.abradio.cz/cernahora64.mp3
 #EXTINF:-1,Hitrádio Černá Hora 128
-http://ice.abradio.cz/cernahora128.mp3
+https://ice.abradio.cz/cernahora128.mp3
 #EXTINF:-1,Hitrádio City 93.7 FM
-http://29083.live.streamtheworld.com:3690/HITRADIO_CITY_PRAHA_SC
+http://25703.live.streamtheworld.com:3690/HITRADIO_CITY_PRAHA_SC
 #EXTINF:-1,Hitrádio City Brno
 http://ice.abradio.cz/magicbrno128.mp3
 #EXTINF:-1,hitradio City zona Lasky
-http://ice.abradio.cz/cityzl128.mp3
+https://ice.abradio.cz/cityzl128.mp3
 #EXTINF:-1,Hitrádio Contact
 https://ice3.abradio.cz/hitradiocontact128.mp3
 #EXTINF:-1,Hitrádio Devadesátka
@@ -210,7 +210,7 @@ http://ice.abradio.cz/hit80128.mp3
 #EXTINF:-1,Hitrádio Osmdesátka
 https://27753.live.streamtheworld.com/HITRADIO_OSMDESATKA.aac
 #EXTINF:-1,Hitrádio PopRock
-http://ice.abradio.cz/hitpoprock128.mp3
+https://ice.abradio.cz/hitpoprock128.mp3
 #EXTINF:-1,Hitrádio Vysočina
 http://ice5.abradio.cz/hitvysocina128.mp3
 #EXTINF:-1,Hitradio Zlín
@@ -256,7 +256,7 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8
 #EXTINF:-1,Óčko Star
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
 #EXTINF:-1,Oldies radio
-http://ice.abradio.cz/oldiesradio128.mp3
+https://ice.abradio.cz/oldiesradio128.mp3
 #EXTINF:-1,Phonk Nation Radio
 https://radio.mxnticek.eu/listen/phonk/128.mp3
 #EXTINF:-1,PHONK RADIO
@@ -304,13 +304,13 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BLANIK.a
 #EXTINF:-1,Rádio Blaník
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BLANIK_128.mp3
 #EXTINF:-1,Rádio Blaník CZ Webové rádio
-http://ice.abradio.cz/blanikcz128.mp3
+https://ice.abradio.cz/blanikcz128.mp3
 #EXTINF:-1,Radio Blaník Morava a Slezsko 
 https://ice.abradio.cz/blanikmorava128.mp3?gdpr=1&gdpr_consent=Q084aEUyaE84aEUyaEFjQUJCRU5BX0NnQVBfQUFIX0FBQVlnRjVvQmhEeEVCU0ZDQUdKb1lOa2dBQUFXeHdBQUFDQUNBQUFBb0FBQUFCb0FBQVFBQUFBQUFBQWdCQUFBQUJJQUlBSUFBQUJBR0VBQUFBQUFBQUFBQUFBQUFFQUFBQUFBSVFBQUFBQUFBQ0JBQUFBQUFBQUFBQUFBQUFBQVFBQUFnWG5BZUFBV0FCVUFDNEFIQUFRQUFxQUJvQURrQUlnQVRBQW5nQlZBQzRBRjhBTVFBaElCRUFFVUFLVUFXSUF5d0Jtd0R1QU84QWhBQkZnQzBnRjFBTUNBYXdCTm9DOHdBQUFBLllBQUFBQUFBQUFBQQ==
 #EXTINF:-1,Rádio Blaník Oldies
 https://ice.radia.cz/oldiesradio128.mp3
 #EXTINF:-1,Rádio Blaník živé
-http://ice.abradio.cz/blanikfm128.mp3
+https://ice.abradio.cz/blanikfm128.mp3
 #EXTINF:-1,Rádio Bonton
 http://ice.actve.net/fm-bonton-128
 #EXTINF:-1,Radio Bonton
@@ -324,7 +324,7 @@ http://icecast6.play.cz/casrock128.mp3
 #EXTINF:-1,Rádio Čas Rock (192 kbps)
 https://icecast9.play.cz/casrock192.mp3
 #EXTINF:-1,Radio City FM
-http://ice.abradio.cz/cityfm128.mp3
+https://ice.abradio.cz/cityfm128.mp3
 #EXTINF:-1,Rádio Click & Country
 http://radio.clickandcountry.cz:8000/clickandcountry.mp3
 #EXTINF:-1,Rádio Dechovka 256 kbps
@@ -336,7 +336,7 @@ https://ice3.abradio.cz/shadowbox128.mp3
 #EXTINF:-1,Rádio Energic
 https://icecast9.play.cz/energic.mp3
 #EXTINF:-1,Radio Folk
-http://ice2.abradio.cz/folk64a.aac
+https://ice2.abradio.cz/folk64a.aac
 #EXTINF:-1,Rádio folk Czech 
 http://mp3stream2.abradio.cz:8000/folk320.mp3
 #EXTINF:-1,Radio Fonlord
@@ -379,6 +379,8 @@ http://icecast3.play.cz/radiomb.mp3
 https://icecast3.play.cz/radio-nostalgie128.mp3
 #EXTINF:-1,Rádio Orlicko
 https://mediaservice.radioorlicko.cz/stream192.mp3
+#EXTINF:-1,Radio Ostravan
+http://icecast9.play.cz/radio-ostravan-256.mp3
 #EXTINF:-1,Radio Otava
 https://radiootava.trefcon.cz:8889/radio.mp3
 #EXTINF:-1,Rádio Písnička
@@ -432,7 +434,7 @@ https://stream.radiojar.com/2h1bhm7zhxquv
 #EXTINF:-1,RADIO.IPIP.CZ: Cherry80
 https://icecast.beatzone.cz/radio/8630/cherry.mp3
 #EXTINF:-1,RADIO1
-http://icecast6.play.cz/radio1-128.mp3
+http://icecast2.play.cz/radio1-192.mp3
 #EXTINF:-1,Radio7
 http://icecast8.play.cz/radio7-32aac
 #EXTINF:-1,RadioParty.pl

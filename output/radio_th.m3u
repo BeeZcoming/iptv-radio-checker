@@ -79,6 +79,8 @@ http://103.246.19.203:8004/stream?type=http&nocache=145
 https://radio9.plathong.net/7054/;stream.mp3
 #EXTINF:-1,KRB Radio 1
 https://radio1.ohmi-design.com/8086/;
+#EXTINF:-1,KRB Radio 2
+https://nontawat3664.i234.me:8443/stream
 #EXTINF:-1,KRB Radio 3
 https://pakeefm.org/stream/300006/
 #EXTINF:-1,Looktung Eingdoi

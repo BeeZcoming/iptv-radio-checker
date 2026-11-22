@@ -15,6 +15,10 @@ https://radio.babnet.net/?type=https
 https://streaming.diwanfm.net/stream
 #EXTINF:-1,Irada FM 102.9
 https://stream.zeno.fm/kr2zu0uqtkutv
+#EXTINF:-1,Jawhara FM
+http://streaming2.toutech.net:8000/jawharafm
+#EXTINF:-1,Jawhara FM
+https://streaming2.toutech.net/jawharafm
 #EXTINF:-1,KnOOz FM
 http://streaming.knoozfm.net:8000/knoozfm
 #EXTINF:-1,Lotfi Slama

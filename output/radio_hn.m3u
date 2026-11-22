@@ -5,8 +5,6 @@ https://stream.zeno.fm/0n4tnx3wd5zuv
 https://us9.maindigitalstream.com/ssl/latop102
 #EXTINF:-1,1 FM Hits Radio 
 https://stream.zeno.fm/yg1gkzwabzzuv
-#EXTINF:-1,94 SU FM 94.1 Tegucigalpa
-http://ice42.securenetsystems.net/94SUFM
 #EXTINF:-1,ABC Radio AM 550 FM 89.7
 http://137.184.101.169:8000/radio.mp3
 #EXTINF:-1,Cadena Radial del Centro 89.7 FM
@@ -21,8 +19,6 @@ https://stream.zeno.fm/n1dn94e661zuv
 https://stream.zeno.fm/k6grbcx0zceuv
 #EXTINF:-1,Estereo Clásica
 https://streaming.radio.co/s0c06b7076/listen
-#EXTINF:-1,Estereo Sur 91.3 FM
-https://cast.az-streamingserver.com/proxy/estereosur2?mp=/stream
 #EXTINF:-1,GD Dubai
 https://streaming.exclusive.radio/er/gratefuldead/icecast.audio
 #EXTINF:-1,Girasol Stereo 102.3 FM
@@ -35,8 +31,6 @@ https://securestreams7.autopo.st/?uri=http://216.152.154.134/HRN?=hrn670khz
 http://online.radiodifusion.net:1935/panam-hn/panam.stream/master.m3u8
 #EXTINF:-1,LA RADIO GLOBAL
 https://sonicpanel.us/8022/stream
-#EXTINF:-1,LHT FM 104.1
-https://ice26.securenetsystems.net/LHTFM
 #EXTINF:-1,Musiquera 93.3 FM
 https://stream.zeno.fm/83h238tqsceuv
 #EXTINF:-1,Musiquera 93.3 FM
@@ -48,13 +42,11 @@ http://159.69.43.96:9304/;
 #EXTINF:-1,Otoro Radio
 https://stream.playerlive.info:8089/live.aac
 #EXTINF:-1,Radio America  94.7 Tegucigalpa
-http://24233.live.streamtheworld.com/AMERICA_SC
+http://27573.live.streamtheworld.com/AMERICA_SC
 #EXTINF:-1,RADIO FÉNIX INTERNACIONAL
 http://listen.usuarios.space:8036/live
 #EXTINF:-1,RADIO GLOBO 88.5 MHZ
 https://api.condoristream.com/stream/radioglobo
-#EXTINF:-1,Radio HRN 670 AM
-https://ice42.securenetsystems.net/HRN
 #EXTINF:-1,Radio Progreso HN
 https://streamingcwsradio30.com:7045/stream
 #EXTINF:-1,RadioActiva 99.7 Honduras
@@ -63,19 +55,11 @@ https://stream.zeno.fm/fh8qfg75puquv
 https://stream.zeno.fm/6n7fp9t2pceuv
 #EXTINF:-1,RNH
 https://stream.zeno.fm/mb5f69fk0d0uv
-#EXTINF:-1,ROCK N' POP
-https://ice42.securenetsystems.net/ROCKNPOP
 #EXTINF:-1,Stereo Ceiba 99.9 - La Ceiba
-http://26653.live.streamtheworld.com/RADIO_CEIBAAAC_SC
+http://24493.live.streamtheworld.com:3690/RADIO_CEIBAAAC_SC
 #EXTINF:-1,Stereo Dimensión - La 96
 https://rr5100.globalhost1.com:7328/stream
-#EXTINF:-1,Stereo Exitos 88.1 Tegucigalpa
-http://ice42.securenetsystems.net/EXITOS
 #EXTINF:-1,Stereo Mass - 98.5fm
 https://radio.fiberstreams.com:2000/stream/8432
-#EXTINF:-1,Suave FM 102.5 Tegucigalpa
-http://ice42.securenetsystems.net/SUAVE
 #EXTINF:-1,Super 100 Tegucigalpa 100.1
-http://26663.live.streamtheworld.com/SUPER100_SC
-#EXTINF:-1,XY 90.5 FM Tegucigalpa
-http://ice42.securenetsystems.net/XY905
+http://27413.live.streamtheworld.com/SUPER100_SC

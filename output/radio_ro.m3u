@@ -229,8 +229,6 @@ https://fra-pioneer01.dedicateware.com:2930/stream
 http://live.dancemusic.ro:7000/radio.mp3
 #EXTINF:-1,DejaVuMusic -MG Kollyma
 https://stream.zeno.fm/yrs7fychej9vv
-#EXTINF:-1,Delta Ocna Mureș - 97,4 FM
-https://deltafm.ro/mp3/Stan-Adrian-Ocna-Mures-Music4Night.mp3
 #EXTINF:-1,DIGI FM
 http://edge76.rdsnet.ro:84/digifm/digifm.mp3
 #EXTINF:-1,Digi24 FM
@@ -246,7 +244,7 @@ http://dreamfm.dtech.ro:9220/dreamfm
 #EXTINF:-1,Dux Radio
 https://radio.duxradio.ro:8002/stream
 #EXTINF:-1,EBS Radio
-https://azura.ebsmedia.ro/listen/live/live320.aac
+https://ebsradio.ddns.net/listen/live/live128.mp3
 #EXTINF:-1,EBS Radio
 https://ebsradio.ddns.net/listen/live/live128.mp3
 #EXTINF:-1,EBS Radio Live -Cluj Napoca 90,4 FM
@@ -544,7 +542,7 @@ https://stream.zeno.fm/a0yocewsxm0uv
 #EXTINF:-1,Onești City Radio
 https://streamer.airadiohost.com/listen/air/a2
 #EXTINF:-1,Ördöngösfüzes Rádió FM -Fizeșu Gherlii
-https://stream-175.surfernetwork.com/skwcpsuh60mvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJza3djcHN1aDYwbXZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkZuRlVMX0Y1U2RpaHZXNGt3NEFLcXciLCJpYXQiOjE3OTQ4OTUxNDAsImV4cCI6MTc5NDg5NTIwMH0.KqBj0cuIHZ5YLN0u4Cz4Z2lltOP8avf9b9-OVE_OBmU
+https://stream-175.surfernetwork.com/skwcpsuh60mvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJza3djcHN1aDYwbXZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ik1vbVlNTlYyUkN1ZFNJMW1NeVRaSXciLCJpYXQiOjE3OTUzMjcyNjUsImV4cCI6MTc5NTMyNzMyNX0.PyS1bQON9v237D_fIvNYI-xn6TkjtrPuTdmVzpWm0zI
 #EXTINF:-1,Orion FM -Fetești 91,7 FM
 https://sonic2-rbx.cloud-center.ro/8070/stream
 #EXTINF:-1,OXO Radio
@@ -594,7 +592,7 @@ http://radio1manele.no-ip.org:8000/
 #EXTINF:-1,Radio 1 Manele
 http://radio1manele.no-ip.org:8000/;
 #EXTINF:-1,Radio 1 Manele
-http://radio1manele.no-ip.org:8000/
+http://live.radiounumanele.ro:8000/
 #EXTINF:-1,Radio 2 Turda
 https://stream.zeno.fm/m4mtgf5t5s8uv
 #EXTINF:-1,Radio 3Net
@@ -707,8 +705,6 @@ https://stream.zeno.fm/v9wqm1gztk8uv
 http://89.238.227.6:8332/;stream/1
 #EXTINF:-1,Radio Coresi
 http://master.shoutcast.com:8000/radio-coresi
-#EXTINF:-1,Radio Coresi -Brașov
-http://streaming.shoutcast.com/radio-coresi
 #EXTINF:-1,Radio Coresi 80s -Brașov
 https://s5.radio.co/sfb029759c/listen
 #EXTINF:-1,Radio Coresi Oldies -Brașov
@@ -793,6 +789,8 @@ https://live.radioetnomania.com:9300/stream
 http://ssl.radios.show:8020/;
 #EXTINF:-1,Radio Extrem -Brăila
 https://radiolive.radio-extrem.com:8004/stream
+#EXTINF:-1,Radio Extrem Live
+https://live.playradio.org:8443/90HD
 #EXTINF:-1,Radio Filadelfia Romania
 https://live.radiofiladelfia.ro/filadelfia_128.aac
 #EXTINF:-1,Radio FIR -Dej 96,2 FM
@@ -806,7 +804,7 @@ https://live.radioflomanele.ro/8084/stream
 #EXTINF:-1,Radio Folclor
 https://ssl.omegahost.ro/8092/stream
 #EXTINF:-1,RADIO FOLCLOR AUTENTIC ROMÂNIA
-https://stream-178.surfernetwork.com/9gmprxrd6nhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5Z21wcnhyZDZuaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ijd5dDBoRUJrUlh1Si1seTJFdFdBYmciLCJpYXQiOjE3OTQ4OTU1NzksImV4cCI6MTc5NDg5NTYzOX0.R5rRYDHMaRRRHBpfoQAueNguySU9GkV62LjmIWX85QA
+https://stream-178.surfernetwork.com/9gmprxrd6nhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5Z21wcnhyZDZuaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjVhN0lOeURxUklTWEV2R3B4bWtvREEiLCJpYXQiOjE3OTUzMjc2OTcsImV4cCI6MTc5NTMyNzc1N30.5ErEsjPTlDjNMDaayowcThmMl0lXVeLT23CwrJ6BDg4
 #EXTINF:-1,Radio Folclor Buzau
 https://live.radiofolclorbuzaufm.ro:8910/stream
 #EXTINF:-1,Radio Folclor Muntenia
@@ -956,7 +954,7 @@ http://live.radiomynele.ro:8000/;
 #EXTINF:-1,Radio Nebunya
 http://asculta.radionebunya.ro:7575/
 #EXTINF:-1,Radio Nebunya Manele
-http://live.radionebunya.ro:7575/
+http://asculta.radionebunya.ro:7575/
 #EXTINF:-1,RADIO NEWS ROMÂNIA FM -Botoșani
 https://stream-175.surfernetwork.com/7aawq7feqrhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3YWF3cTdmZXFyaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlRqUnZsbWtMUTBlRVh2WnM1S1NrYkEiLCJpYXQiOjE3OTQ5MDg0MDcsImV4cCI6MTc5NDkwODQ2N30.XrmshENGuXYoJeT9taGIDjzzYKjEZe2gcv_ed8fvMOc
 #EXTINF:-1,Radio Noise 2000s
@@ -979,6 +977,10 @@ https://eurodancelive.radionoise.ro:9128/stream
 https://goldlive.radionoise.ro:9170/stream
 #EXTINF:-1,Radio Noise Greatest Hits
 https://greatesthitslive.radionoise.ro:9010/stream
+#EXTINF:-1,Radio Noise Hip-Hop
+https://radio.sonicpanel.ro:9110/stream
+#EXTINF:-1,Radio Noise HipHip
+https://hiphoplive.radionoise.ro:9110/stream
 #EXTINF:-1,Radio Noise Hits
 https://hitslive.radionoise.ro:9140/stream
 #EXTINF:-1,Radio Noise House
@@ -1142,7 +1144,7 @@ https://stream.radiotargujiu.ro/stream
 #EXTINF:-1,Radio Teatru Radiofonic România
 https://curly-meadow-6f32.cloud-able539.workers.dev/stream
 #EXTINF:-1,radio teatru romînia -Brăila
-https://stream-179.surfernetwork.com/cb4dyqnat4itv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjYjRkeXFuYXQ0aXR2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Il9PeUJsdlVrUjM2RlNRSDY1eXpQWVEiLCJpYXQiOjE3OTQ4Njk5ODQsImV4cCI6MTc5NDg3MDA0NH0.gSoKV-q2aDzMtiIFTKwtrJYbMpsS0g9mMnXnWZZ2z1E
+https://stream-179.surfernetwork.com/cb4dyqnat4itv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjYjRkeXFuYXQ0aXR2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlcxZG92aW9SUUVxMHBZekZZVDRTZlEiLCJpYXQiOjE3OTUzMDIxNjYsImV4cCI6MTc5NTMwMjIyNn0.SpW17a_d6WQz43U_lDGo3jWYhP25HCS4EpJMZ0l9t-o
 #EXTINF:-1,Radio Tequila Dance Romania
 http://dance.radiotequila.ro:7000/;stream.nsv
 #EXTINF:-1,Radio Tequila Manele

@@ -44,7 +44,7 @@ https://rgradio.net/disco89/disco89.mp3
 #EXTINF:-1,Dominicana FM 98.9 y 99.9 FM
 https://protvradiostream.com:8610/;
 #EXTINF:-1,ecodebendición 
-https://stream-179.surfernetwork.com/d5gahvz0rxhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkNWdhaHZ6MHJ4aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ijd2a1B4RU5sUk4yelpMS0tFdmR2S0EiLCJpYXQiOjE3OTQ4ODk1ODIsImV4cCI6MTc5NDg4OTY0Mn0.RCokAFrNnoTyPSgQAfGBVknlV7UTCPITRo34XwA6tTU
+https://stream-179.surfernetwork.com/d5gahvz0rxhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkNWdhaHZ6MHJ4aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImN4ZnJUMW5TUTNtWXQ3dmxreVRDUWciLCJpYXQiOjE3OTUzMjE2NjYsImV4cCI6MTc5NTMyMTcyNn0.YwQh5LJD6srSbFk776OsjK4VLG6RJGYy-_lSf0686k0
 #EXTINF:-1,EL SOL DE LA MAÑANA
 http://radio.domiplay.net:2002/;stream.mp3
 #EXTINF:-1,Escandalo 102.5
@@ -108,7 +108,7 @@ https://radio.dominiserver.com/proxy/latina104?mp=/stream
 #EXTINF:-1,Los 40 República Dominicana
 https://stream.zeno.fm/sse58hcighnvv?dist=los40-web-live_streaming_play
 #EXTINF:-1,MC Anime Radio
-https://cast.mcanimeradio.com/hls/mcradio/live.m3u8
+https://cast.mcanimeradio.com/listen/mcradio/radio.aac
 #EXTINF:-1,Misionera FM
 https://stream.zeno.fm/vget1nz0czxvv
 #EXTINF:-1,Miss 104 FM
@@ -195,12 +195,8 @@ https://radio.dominiserver.com/proxy/topmerengueradio?mp=/stream
 https://radio.dominiserver.com/proxy/topsalsaradio?mp=/stream
 #EXTINF:-1,Top Urbano
 https://radio.dominiserver.com/proxy/topurbano?mp=/stream
-#EXTINF:-1,Tropical 100 Bolero
-https://stream.zeno.fm/b34hotasejstv
 #EXTINF:-1,Tropical 100 Mix
 https://stream-107.zeno.fm/esgo1lafgtstv?zs=o1G7UIERS3Gdtn2B7Jdt7Q
-#EXTINF:-1,Tropical 100 Salsa
-https://stream-107.zeno.fm/cjgfujr8yhbvv?zs=VsqKiPTASc-XIz7P9HnYjQ
 #EXTINF:-1,Turbo 98.3 FM
 https://cdn-embed.tunein.com/resources/media/blank.mp3
 #EXTINF:-1,Vida FM

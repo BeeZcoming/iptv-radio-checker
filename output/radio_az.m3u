@@ -49,6 +49,8 @@ http://icecast.livetv.az/mediajazz
 http://icecast.livetv.az/mediamugam
 #EXTINF:-1,Media FM Relax
 http://icecast.livetv.az/mediarelax
+#EXTINF:-1,NAZ RADIO
+https://s2.myradiostream.com/5286/listen.mp3
 #EXTINF:-1,PlanetFM 88.7
 https://live.dinle.az/planetfm
 #EXTINF:-1,Radio Enerji 101.1 FM

@@ -411,8 +411,6 @@ https://oxygenmusic.hu:8443/oxygenthe90shits
 http://oxygenmusic.hu:8000/xmas_320
 #EXTINF:-1,Oxygen Xmas (320)
 https://oxygenmusic.hu:8000/xmas_320
-#EXTINF:-1,OZONE FM
-https://oxygenmusic.hu:8000/ozonefm_128
 #EXTINF:-1,Ozonefm
 https://oxygenmusic.hu:8443/ozonefm_320
 #EXTINF:-1,Paks fm
@@ -493,6 +491,8 @@ http://radioe.net:8080/efm_high
 https://s03.diazol.hu:35112/mobil.aac
 #EXTINF:-1,Rádió ICE
 https://streaming4u.synology.me:8444/ice
+#EXTINF:-1,RADIO INSIDE
+https://radioinside.eu/live.mp3
 #EXTINF:-1,RADIO MARIA HUNGARY
 http://dreamsiteradiocp.com:8032/stream
 #EXTINF:-1,Rádió Most

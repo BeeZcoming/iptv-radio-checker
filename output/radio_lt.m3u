@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,-=PoWeR=-
 https://cast1.my-control-panel.com/proxy/eventas/stream
-#EXTINF:-1,Audiomastering.lt
-http://radio.audiomastering.lt:8000/hq
 #EXTINF:-1,BEVEIK RADIJAS
 https://halo.streamerr.co/listen/beveikradijas/radio.mp3
 #EXTINF:-1,Christmas Radio
@@ -23,14 +21,6 @@ https://stream.ehr.lt:8443/ehr
 https://s10.webradio-hosting.com/proxy/fredradiolt/stream
 #EXTINF:-1,Fréquence Protestante
 https://freqpro.streamakaci.com/frequenceprotestante.mp3
-#EXTINF:-1,Geras FM
-http://stream.goldfm.lt/gerasfm.aac
-#EXTINF:-1,Geras2 FM
-https://stream.goldfm.lt/gerasfm.mp3
-#EXTINF:-1,Gold FM
-https://stream.goldfm.lt/goldfm.mp3
-#EXTINF:-1,GoldFM
-http://stream.goldfm.lt/goldfm.aac
 #EXTINF:-1,Haze Pub Radio
 https://live.leproradio.com/rocks.ogg
 #EXTINF:-1,Jazz FM
@@ -153,12 +143,8 @@ http://193.70.34.27:20330/kdime
 https://stream1.relaxfm.lt/rrb128.mp3
 #EXTINF:-1,Radio stotis Laluna
 https://radio.m-1.fm/laluna/mp3
-#EXTINF:-1,Radio Vilnius
-https://transliacija.audiomastering.lt/radiovilnius-mp3
 #EXTINF:-1,Radio Znad Wilii
 https://plays.zw.lt/zw128
-#EXTINF:-1,radio.audiomastering.lt
-https://transliacija.audiomastering.lt/pure
 #EXTINF:-1,Radiocentras
 https://stream2.rockfm.lt/crf128.mp3
 #EXTINF:-1,Radiocentras

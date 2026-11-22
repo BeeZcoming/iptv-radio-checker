@@ -259,6 +259,8 @@ https://27743.live.streamtheworld.com/RADIO_KERRY_SC
 http://xt.stream.ie/leinster
 #EXTINF:-1,Radio Maria Ireland
 http://dreamsiteradiocp2.com:8014/live
+#EXTINF:-1,Radio North 846 AM Redcastle, Ireland
+https://usa6.fastcast4u.com/proxy/ljohns03?mp=/stream
 #EXTINF:-1,Radio Nova 100
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIONOVA.mp3
 #EXTINF:-1,Radio Psychobilly
@@ -279,8 +281,6 @@ http://icy-zurich.mpbnl.nl/rrr
 https://uksoutha.streaming.broadcast.radio/ri-ra?1728850589472=
 #EXTINF:-1,Rana Sundi
 https://base44.app/api/apps/6a1fdf6444e437e5f3a701be/files/mp/public/6a1fdf6444e437e5f3a701be/1189115bf_AmordeAltavoz1.mp3
-#EXTINF:-1,Retro Rewind
-https://a10.asurahosting.com:7050/radio.mp3
 #EXTINF:-1,RetroNow
 http://retronow.radioca.st/stream
 #EXTINF:-1,Rewind
@@ -310,7 +310,7 @@ https://a1.asurahosting.com:10000/radio.mp3
 #EXTINF:-1,SOLID GOLD RADIO IRELAND 
 https://az11.yesstreaming.net:8020/radio.mp3
 #EXTINF:-1,SOLID GOLD RADIO IRELAND 1
-https://az10.yesstreaming.net:8000/radio.mp3
+https://az10.yesstreaming.net:8560/radio.mp3
 #EXTINF:-1,South East Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/SOUTH_EAST_RADIO.mp3
 #EXTINF:-1,Spin 103.8

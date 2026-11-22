@@ -17,6 +17,8 @@ https://amg00861-terninternation-lifestyle-samsungau-kdlyy.amagi.tv/playlist/amg
 https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
 #EXTINF:-1,ON Life (720p)
 https://freem3u.xyz/api/live/play.m3u8?vid=188
+#EXTINF:-1,ON O2TV (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=136
 #EXTINF:-1,ON Style TV (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=184
 #EXTINF:-1,TLC (India) HD (1080p)

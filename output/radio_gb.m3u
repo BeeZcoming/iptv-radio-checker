@@ -614,7 +614,7 @@ https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs13.aac
 #EXTINF:-1,BFBS Beats
 https://edge-audio-01-cr.sharp-stream.com/ssvcbfbs20.aac?device=bfbs_beats
 #EXTINF:-1,BFBS Edge
-http://edge-audio-w1-04.sharp-stream.com/ssvcbfbs22.mp3
+http://edge-audio-w1-02.sharp-stream.com/ssvcbfbs22.mp3
 #EXTINF:-1,BFBS UK
 https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs1.aac
 #EXTINF:-1,BHBN Radio
@@ -663,8 +663,6 @@ https://stream.radio.co/s9e1625f13/listen
 https://blues-radio-uk-3f77be5c.radiocult.fm/stream
 #EXTINF:-1,BluesRadio UK
 https://streaming06.liveboxstream.uk/proxy/david125/stream
-#EXTINF:-1,Boards of Canada 24/7 Radio
-https://radio.geogaddi.org/listen/boards_of_canada_247/live.mp3
 #EXTINF:-1,Bolton FM
 https://radio.canstream.co.uk:8083/live.mp3
 #EXTINF:-1,Bombshell Radio
@@ -863,6 +861,8 @@ http://onj2.andrelouis.com:8000/channel5
 http://stream1.hippynet.co.uk/stream/channelradio
 #EXTINF:-1,Chant With Namasphere 108
 https://a4.asurahosting.com:8940/radio.mp3
+#EXTINF:-1,Chaos FM
+https://chaosfm.com:8443/stream
 #EXTINF:-1,Charlie Mason Radio
 https://s9.reliastream.com/proxy/charlie1/stream
 #EXTINF:-1,Cheesy FM
@@ -956,7 +956,7 @@ https://listen-colourful.sharp-stream.com/colourfulmid.mp3
 #EXTINF:-1,ComedyUK
 https://stream.rcs.revma.com/cp7w38a8hxnwv
 #EXTINF:-1,COSMIC FUZZ FM
-https://26343.live.streamtheworld.com/SAM04AAC335_SC
+https://15113.live.streamtheworld.com/SAM04AAC335_SC
 #EXTINF:-1,COSMIC FUZZ FM
 https://26343.live.streamtheworld.com/SAM04AAC335_SC
 #EXTINF:-1,Cosoro Afrobeats
@@ -1054,7 +1054,7 @@ http://uk2.internet-radio.com:8024/stream
 #EXTINF:-1,Dandelion Radio 
 http://stream.dandelionradio.com:9414/;
 #EXTINF:-1,Dandelion Radio
-http://solid41.streamupsolutions.com:9414/stream
+https://solid41.streamupsolutions.com/proxy/bqbyzdhi?mp=/stream
 #EXTINF:-1,Darbar Sahib Radio
 http://s6.autopo.st:8561/stream
 #EXTINF:-1,Dare Radio
@@ -1155,8 +1155,6 @@ https://s4.radio.co/sf48c236db/listen
 https://listen-nation.sharp-stream.com/tcnationdigital.mp3
 #EXTINF:-1,Drama Radio
 https://streaming06.liveboxstream.uk/proxy/roksta10/stream
-#EXTINF:-1,Drift Radio
-https://drift.radio/listen
 #EXTINF:-1,Drive 105
 http://icecast.easystream.co.uk:8000/drive105
 #EXTINF:-1,Drum & Bass on Party Vibe Radio
@@ -1475,6 +1473,8 @@ https://stream1.superstreaming.co.uk/proxy/greatyorkshire/stream
 https://s8.myradiostream.com/58238//listen.mp3
 #EXTINF:-1,Greatest Hits Radio
 https://stream-mz.hellorayo.co.uk/net2westmidlands.aac?aw_0_1st.skey=1602676850&direct=true&rp_source=1
+#EXTINF:-1,Greatest Hits Radio (Devon)
+https://stream-mz.hellorayo.co.uk/net2devon.mp3?aw_0_1st.skey=1602676850
 #EXTINF:-1,Greatest Hits Radio 60s
 https://stream-al.hellorayo.co.uk/ghr60s.aac?aw_0_1st.skey=1602676850&direct=true&rp_source=1
 #EXTINF:-1,Greatest Hits Radio 70s
@@ -1485,6 +1485,8 @@ https://stream-al.hellorayo.co.uk/ghr80s.aac?aw_0_1st.skey=1602676850&direct=tru
 http://s2.voscast.com:9576/1/stream
 #EXTINF:-1,Green Radio
 https://gains.reviveradio.net/proxy/greenradio?mp=/stream
+#EXTINF:-1,Gretopia Radio
+https://audio.stream.gretor.net/listen/gretopia_radio/radio.mp3
 #EXTINF:-1,Grey Clay Radio
 http://fra-pioneer08.dedicateware.com:2240/stream
 #EXTINF:-1,Groove FM
@@ -1667,8 +1669,6 @@ https://stream.cloudrad.io/5913/8160
 https://azuracast.hifiradio.net/radio/8020/radio.mp3?1735160261
 #EXTINF:-1,High Peak 1
 https://stream3.themediasite.co.uk:8260/stream
-#EXTINF:-1,Hillz FM
-https://radio.canstream.co.uk:8156/live.mp3
 #EXTINF:-1,Hits hull & East York
 https://listen-nation.sharp-stream.com/hull.mp3?aw_0_1st.playerid=BMUK_html5
 #EXTINF:-1,Hits Radio London
@@ -2120,7 +2120,7 @@ https://stream.ltbr.fm/live
 #EXTINF:-1,Lullaby Radio
 https://stream.dulcet.cloud/lullaby
 #EXTINF:-1,Luna Radio Reborn
-http://luna.ponyvillefm.com/hls/lunaradio/live.m3u8
+http://luna.ponyvillefm.com/listen/lunaradio/radio.mp3
 #EXTINF:-1,Luna Radio Reborn (mp3)
 https://luna.ponyvillefm.com/listen/lunaradio/radio.mp3
 #EXTINF:-1,Luton Urban Radio
@@ -2173,8 +2173,6 @@ https://msalaambolton.radioca.st/Stream
 http://livemasjid.net/masjidequba.mp3
 #EXTINF:-1,Matryoshka.FM (Матрёшка)
 http://213.159.214.57:8000/matryoshka
-#EXTINF:-1,MAX FM DERBY 92.2
-http://12991.cloudrad.io:9438/
 #EXTINF:-1,Mazoozie
 https://stream-mazoozie.creativedork.com/
 #EXTINF:-1,Mazoozie
@@ -2193,8 +2191,6 @@ https://owncast.mellowmountainradio.com/hls/stream.m3u8
 https://stream-mixtape-geo.ntslive.net/mixtape6
 #EXTINF:-1,Memory Lane Radio
 https://memorylaneradio.radioca.st/;
-#EXTINF:-1,Meridian FM 107
-https://uksoutha.streaming.broadcast.radio/meridianfm
 #EXTINF:-1,Mersey Radio
 https://stream.shoutcastservices.com/proxy/merseyradio/stream
 #EXTINF:-1,Merseyland Alternative Radio
@@ -2523,6 +2519,8 @@ https://stream.pcradio.ru/Pink_Floyd-hi
 https://uk1.internet-radio.com/proxy/pinknoise?mp=/stream;?shoutcast
 #EXTINF:-1,Pink Noise Radio
 http://uk1.internet-radio.com:8004/
+#EXTINF:-1,Platinum Gold Radio
+http://s2.voscast.com:10128/;
 #EXTINF:-1,Play Radio
 https://stream.radiojar.com/0zs50dbr274tv
 #EXTINF:-1,PLAYBACKUK
@@ -2966,7 +2964,7 @@ https://s10.myradiostream.com/35820/listen.mp3
 #EXTINF:-1,Reload Radio 
 https://stream.rcs.revma.com/uevbqsdd52nwv
 #EXTINF:-1,Renegade Radio
-http://149.255.60.195:8085/stream
+http://149.255.60.195/proxy/renegade?mp=/stream
 #EXTINF:-1,REPLAY NEWS - English           News radio every 5 minutes
 https://replaynewsen.ice.infomaniak.ch/replaynewsen-128.mp3
 #EXTINF:-1,Reprezent Radio
@@ -3373,8 +3371,6 @@ https://stream-mixtape-geo.ntslive.net/mixtape24
 http://s2.xrad.io:8058/stream
 #EXTINF:-1,Switch Radio
 http://listen.switchradio.co.uk/switchradio_high
-#EXTINF:-1,SYNK Radio
-https://synkradio.uk/stream.mp3
 #EXTINF:-1,Taiyabah Masjid
 https://taiyabahmbolton.radioca.st/stream
 #EXTINF:-1,talkSPORT
@@ -3537,8 +3533,6 @@ http://orion.shoutca.st:8031/live
 http://s6.autopo.st:8515/live
 #EXTINF:-1,Trent Sound
 https://stream2.hippynet.co.uk/stream/trentsound
-#EXTINF:-1,TripHop.Radio
-https://streaming.coolmusicradio.com/listen/cool_music/radio.mp3
 #EXTINF:-1,TruckersFM
 http://radio.truckers.fm/
 #EXTINF:-1,TruckSim FM
@@ -3558,7 +3552,7 @@ https://c18.radioboss.fm:8423/stream
 #EXTINF:-1,TWR UK
 https://direct.sharp-stream.com/twruk.mp3
 #EXTINF:-1,UCB 1
-https://edge-audio-w1-02.sharp-stream.com:80/55_ucb_1_128_mp3
+https://edge-audio-w2-04.sharp-stream.com:80/55_ucb_1_128_mp3
 #EXTINF:-1,UCB 2
 https://edge-audio-w1-04.sharp-stream.com:80/55_ucb_2_128_mp3
 #EXTINF:-1,Ujima Radio
@@ -3571,8 +3565,6 @@ https://ukbassradio.com/stream
 https://www.ukbassradio.com/stream
 #EXTINF:-1,UK Health Radio
 https://streaming.radio.co/s8e535ff20/listen
-#EXTINF:-1,UK Hits - London (MP3)
-http://stream.zeno.fm/dpqrqe9nrv8uv
 #EXTINF:-1,UK National Radio
 https://das-edge14-live365-dal02.cdnstream.com/a80402
 #EXTINF:-1,UK Pressure Radio
@@ -3632,7 +3624,7 @@ http://stream.cotswoldgrp.com:8001/main?rp_source=1&=&&___cb=203778237621140
 #EXTINF:-1,Vibe Grooves Radio
 http://cupcake.citrus3.com:8308/stream
 #EXTINF:-1,VIBE Music Radio
-https://vibemusicradio.co.uk/stream.mp3
+https://vibemusicradio.co.uk/live.m3u8
 #EXTINF:-1,Vibe Radio
 https://live.viberadio.org/listen/viberadio/radio.mp3
 #EXTINF:-1,Vibe25 Radio
@@ -3691,8 +3683,6 @@ http://sc02.lemonhost.ovh:8108/;
 https://c20.radioboss.fm:8569/stream
 #EXTINF:-1,Westside Radio
 http://listen-westside.sharp-stream.com/westside.mp3
-#EXTINF:-1,Weymouth Rocks (Medium Bitrate)
-http://cast1.asurahosting.com:8621/med
 #EXTINF:-1,White Cliffs Radio
 https://listen.whitecliffsradio.co.uk/
 #EXTINF:-1,Winchester Radio

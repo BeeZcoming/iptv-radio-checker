@@ -122,7 +122,7 @@ https://frontend.streams.arabella.at/arabella-wien?aggregator=arabella-playlistf
 #EXTINF:-1,ARBÖ Verkehrsradio
 http://live.datamatix.at:8022/
 #EXTINF:-1,Atnnene sSterewich
-https://edge64.streamonkey.net/antoesterreich-live
+https://edge18.streamonkey.net/antoesterreich-live
 #EXTINF:-1,AUSTRIA FIRST – Österreichs Patriotenradio
 https://n01a-eu.rcs.revma.com/3zudpqfxh0cwv?rj-ttl=5&rj-tok=AAABm8uuzlsAWVPrc0mLiKWX-Q
 #EXTINF:-1,Austria-Kult-Radio
@@ -218,7 +218,7 @@ http://live.radiomaria.at:8000/rma101
 #EXTINF:-1,Her.st Propaganda Broadcast
 https://radio.her.st/listen/listen/128.mp3
 #EXTINF:-1,I-love-Radio-104
-https://ilm.stream27.radiohost.de/ilm_ilovedeutschrapfirst_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzk0ODg1NDA5JmQ9ZGMzYmU0YzRmNTNhYTBiMWFiYjA
+https://ilm.stream18.radiohost.de/ilm_ilovedeutschrapfirst_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzk1MzE3NDgzJmQ9OThlNDdhMTE0OTY5NjQ2OWI2Yjg
 #EXTINF:-1,Infora Austria
 https://s35.derstream.net/inforadio.mp3
 #EXTINF:-1,JazzW3
@@ -228,9 +228,9 @@ https://air.jazz.w3.at/jazzw3.ogg
 #EXTINF:-1,JazzW3
 http://jazz.w3.at:8000/w3jazz.mp3
 #EXTINF:-1,Jö.Live
-https://edge21.stream.maxfive.com/max5-joelive
+https://edge05.stream.maxfive.com/max5-joelive
 #EXTINF:-1,jö.live - Mein Tag. Meine Musik.
-https://edge05.stream.maxfive.com/max5-joelive?aggregator=maxfive-homepage
+https://edge70.stream.maxfive.com/max5-joelive?aggregator=maxfive-homepage
 #EXTINF:-1,KroneHit Digital
 http://onair-ha1.krone.at/kronehit1058.mp3
 #EXTINF:-1,Kronehit Hardstyle
@@ -376,7 +376,7 @@ http://orf-live.ors-shoutcast.at/tir-q1a
 #EXTINF:-1,ORF Tirol HQ
 http://orf-live.ors-shoutcast.at/tir-q2a
 #EXTINF:-1,ÖsterreichRadio
-http://oesterreichradio.stream.laut.fm/oesterreichradio?t302=2026-11-17_04-30-16&uuid=a6a7313c-7674-1c9d-fce2-4160c81a36e7
+http://oesterreichradio.stream.laut.fm/oesterreichradio?t302=2026-11-22_04-36-30&uuid=a383315e-6470-a441-96e7-1a1a7451a823
 #EXTINF:-1,Peters Plattenthek
 http://server7524.streamplus.de/stream.mp3
 #EXTINF:-1,PetersPlattentek
@@ -465,10 +465,14 @@ http://listen.radiomax.technology/billa
 http://listen.radiomax.technology/bipa
 #EXTINF:-1,Radio Max Penny
 http://listen.radiomax.technology/penny
+#EXTINF:-1,Radio MORA
+https://server4.streamserver24.com:26250/stream?1655820557881
 #EXTINF:-1,Radio MORA - HQ
 http://server4.streamserver24.com:26253/stream
 #EXTINF:-1,Radio Nachtvogel
 https://stream.tramp-cast.ch/8012/stream
+#EXTINF:-1,Radio OP
+https://server4.streamserver24.com:26250/stream
 #EXTINF:-1,Radio Osttirol
 http://streamplus20.leonex.de:28768/
 #EXTINF:-1,Radio Rot Weiß Rot
@@ -522,9 +526,9 @@ https://s6-webradio.webradio.de/rockantenne-oesterreich
 #EXTINF:-1,Rock Antenne Österreich
 http://s8-webradio.webradio.de/rockantenne-oesterreich
 #EXTINF:-1,Rock Antenne Österreich
-https://s3-webradio.rockantenne.at/rockantenne-oesterreich/stream/mp3
+https://s7-webradio.rockantenne.at/rockantenne-oesterreich/stream/mp3
 #EXTINF:-1,Rockantenne Österreich live
-https://s3-webradio.rockantenne.at/rockantenne-oesterreich/stream/aacp
+https://s1-webradio.rockantenne.at/rockantenne-oesterreich/stream/aacp
 #EXTINF:-1,Rockantenne Vorarlberg
 https://web.radio.antennevorarlberg.at/av-rock/stream/mp3
 #EXTINF:-1,Rockhuhn
@@ -548,7 +552,7 @@ https://rs8.stream24.net/radio-soundportal.mp3?ref=soundportal.at
 #EXTINF:-1,Soundportal (MP3, 128 kBit)
 http://rs8.stream24.net/radio-soundportal.mp3
 #EXTINF:-1,Soundstorm Radio
-http://stream.soundstorm-radio.com/listen/soundstorm/radio.mp3
+http://stream.soundstorm-radio.com/listen/soundstorm/aac
 #EXTINF:-1,Soundweave Revisited
 https://sndwvr.site/love.mp3
 #EXTINF:-1,Spirit Live Radio
@@ -590,7 +594,7 @@ https://radyo.viyanafm.at/1453/stream
 #EXTINF:-1,Vorarlberg 80s
 https://edge63.radio.antennevorarlberg.at/av-live?listenerId=%5BIFA%5D&aw_0_req.userConsentV2=%5BPLAYER_TC_STRING%5D&aggregator=Webplayer
 #EXTINF:-1,WEL 105,5
-https://wel105point5.stream.laut.fm/wel105point5
+http://wel105point5.stream.laut.fm/wel105point5
 #EXTINF:-1,WELLE 1 - Oberöstereich
 https://live.welle1.at:17128/stream
 #EXTINF:-1,Welle 1 - Salzburg
