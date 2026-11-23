@@ -51,6 +51,8 @@ https://aud-stream-kantriradio.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8
 https://radio.diks.fi/karjalainensyke
 #EXTINF:-1,Kasari
 https://stream-redirect.bauermedia.fi/kasari/kasari_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
+#EXTINF:-1,Kauneimmat joululaulut
+https://aud-stream-jouluradio03.nm-elemental.nelonenmedia.fi/master.m3u8
 #EXTINF:-1,Kerhoradio
 https://c40.radioboss.fm:8056/stream
 #EXTINF:-1,Kesäseuraradio

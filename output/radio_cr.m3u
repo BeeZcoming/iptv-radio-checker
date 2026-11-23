@@ -59,6 +59,8 @@ https://stream20.usastreams.com/8094/stream
 http://65.60.45.74:8400/;stream/1;
 #EXTINF:-1,Radio Casino
 https://host.rowrigo.com/listen/radiocasino/radiocasino
+#EXTINF:-1,Radio Columbia 98.7 FM
+https://s2.radio.co/s83b86382e/listen
 #EXTINF:-1,Radio Diriá
 https://stream.zeno.fm/xk0xpwtc4ttvv.mp3
 #EXTINF:-1,Radio Dos (2) Costa Rica
@@ -77,6 +79,8 @@ https://c34.radioboss.fm:9056/stream
 http://dreamsiteradiocp2.com:8044/stream
 #EXTINF:-1,Radio Mil Recuerdos Stereo
 https://sechin.grupocentroserver.com/radio/8060/radio.mp3
+#EXTINF:-1,Radio Monumental 93.5 FM
+https://ddycmnicl95kp.cloudfront.net/live/zbzsy31mnb4q/master.m3u8
 #EXTINF:-1,Radio Musical 97.5
 https://live.turadio.stream:7005/stream?type=http&nocache=596
 #EXTINF:-1,Radio Nosara

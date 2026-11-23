@@ -61,8 +61,6 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/2BOB.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/2BOB.mp3
 #EXTINF:-1,2BRW Braidwood FM
 https://audio-edge-5bkfj.fra.h.radiomast.io/ba864be6-11d1-4e13-aa74-f8e8781f64f6
-#EXTINF:-1,2BS - Bathurst - 95.1 FM (MP3)
-http://usa20.fastcast4u.com/stream
 #EXTINF:-1,2CA - Canberra - 1053 AM (AAC)
 http://playerservices.streamtheworld.com/api/livestream-redirect/2CAAAC.aac
 #EXTINF:-1,2CA - Canberra - 1053 AM (MP3)
@@ -361,6 +359,8 @@ http://stream.swifthosting.com.au/;
 https://playerservices.streamtheworld.com/api/livestream-redirect/ELLENBROOK_RADIOAAC.aac
 #EXTINF:-1,89.3 Gulf FM
 https://stream.sigile.net/gulffm-64-aac
+#EXTINF:-1,89.7FM Perth
+https://ice8.securenetsystems.net/897FM
 #EXTINF:-1,891 ABC Adelaide
 https://streaming.abc-cdn.net.au/audio/hls/localadelaide.m3u8?source=web
 #EXTINF:-1,8CCC - Alice Springs / Tennant Creek - 102.1 FM (AAC+)
@@ -765,12 +765,14 @@ https://radio.audiohouse.net/listen/audiohouse01/radio.mp3
 https://dn721903.ca.archive.org/0/items/australian-forest-sounds/08%20Calm%20creek%20flowing%2C%20frogs%20and%20birds%20_Dereel%20VIC.mp3
 #EXTINF:-1,Australian Country Radio
 https://streaming.radio.co/s5ea3fdd1c/low
+#EXTINF:-1,Australian Digital Radio Network - 1930s (MP3)
+http://abm21.com.au:8000/CONTAINER99
 #EXTINF:-1,Australian Digital Radio Network - 1940s (MP3)
 http://abm21.com.au:8000/CONTAINER100
 #EXTINF:-1,Australian Digital Radio Network - 1950s Pop Charting (MP3)
 http://abm21.com.au:8000/CONTAINER76
-#EXTINF:-1,Australian Digital Radio Network - 1950s Pop Number 1s (MP3)
-http://abm21.com.au:8000/CONTAINER75
+#EXTINF:-1,Australian Digital Radio Network - 1960s Alternative (MP3)
+http://abm21.com.au:8000/CONTAINER79
 #EXTINF:-1,Australian Digital Radio Network - 1960s Pop Charting (MP3)
 http://abm21.com.au:8000/CONTAINER78
 #EXTINF:-1,Australian Digital Radio Network - 1960s Pop Number 1s (MP3)
@@ -789,8 +791,6 @@ http://abm22.com.au:8000/CONTAINER24
 http://abm21.com.au:8000/CONTAINER12
 #EXTINF:-1,Australian Digital Radio Network - 1980s Hair Metal (MP3)
 http://abm21.com.au:8000/CONTAINER16
-#EXTINF:-1,Australian Digital Radio Network - 1980s Pop Charting (MP3)
-http://abm21.com.au:8000/CONTAINER86
 #EXTINF:-1,Australian Digital Radio Network - 1980s Pop Number 1s (MP3)
 http://abm21.com.au:8000/CONTAINER85
 #EXTINF:-1,Australian Digital Radio Network - 1990s Alternative (MP3)
@@ -803,6 +803,8 @@ http://abm21.com.au:8000/CONTAINER90
 http://abm21.com.au:8000/CONTAINER89
 #EXTINF:-1,Australian Digital Radio Network - 2000s Noughties Dance (MP3)
 http://abm22.com.au:8000/CONTAINER42
+#EXTINF:-1,Australian Digital Radio Network - 2000s Noughties Pop Charting (MP3)
+http://abm21.com.au:8000/CONTAINER95
 #EXTINF:-1,Australian Digital Radio Network - 2000s Noughties Pop Number 1s (MP3)
 http://abm21.com.au:8000/CONTAINER94
 #EXTINF:-1,Australian Digital Radio Network - 2010s Pop Charting (MP3)
@@ -837,16 +839,20 @@ http://abm21.com.au:8000/CONTAINER106
 http://abm21.com.au:8000/CONTAINER74
 #EXTINF:-1,Australian Digital Radio Network - Aussie Country Radio
 http://www.abmbackup.com.au:8000/ACR
+#EXTINF:-1,Australian Digital Radio Network - Aussie Hip Hop (MP3)
+http://abm21.com.au:8000/CONTAINER70
+#EXTINF:-1,Australian Digital Radio Network - Aussie Indie Music (MP3)
+http://abm21.com.au:8000/CONTAINER14
 #EXTINF:-1,Australian Digital Radio Network - Aussie Jazz Radio
 http://www.abmbackup.com.au:8000/AJR
+#EXTINF:-1,Australian Digital Radio Network - Aussie Talent Shows (MP3)
+http://abm21.com.au:8000/CONTAINER63
 #EXTINF:-1,Australian Digital Radio Network - Balearica House (MP3)
 http://abm22.com.au:8000/CONTAINER4
 #EXTINF:-1,Australian Digital Radio Network - Barbra Streisand (MP3)
 http://abm22.com.au:8000/CONTAINER77
 #EXTINF:-1,Australian Digital Radio Network - Barry Manilow (MP3)
 http://abm22.com.au:8000/CONTAINER131
-#EXTINF:-1,Australian Digital Radio Network - Bass House (MP3)
-http://abm22.com.au:8000/CONTAINER5
 #EXTINF:-1,Australian Digital Radio Network - Bassline (MP3)
 http://abm22.com.au:8000/CONTAINER6
 #EXTINF:-1,Australian Digital Radio Network - Big Beat (MP3)
@@ -859,8 +865,6 @@ http://abm21.com.au:8000/CONTAINER171
 http://abm21.com.au:8000/CONTAINER118
 #EXTINF:-1,Australian Digital Radio Network - Bob Dylan & Neil Young (MP3)
 http://abm21.com.au:8000/CONTAINER164
-#EXTINF:-1,Australian Digital Radio Network - Bollywood - Classic (MP3)
-http://abm21.com.au:8000/CONTAINER115
 #EXTINF:-1,Australian Digital Radio Network - Bollywood - Mix (MP3)
 http://abm21.com.au:8000/CONTAINER117
 #EXTINF:-1,Australian Digital Radio Network - Bollywood - Today (MP3)
@@ -869,8 +873,6 @@ http://abm21.com.au:8000/CONTAINER116
 http://abm22.com.au:8000/CONTAINER100
 #EXTINF:-1,Australian Digital Radio Network - Britney Spears (MP3)
 http://abm22.com.au:8000/CONTAINER99
-#EXTINF:-1,Australian Digital Radio Network - Britpop Best Selling All Time (MP3)
-http://abm21.com.au:8000/CONTAINER32
 #EXTINF:-1,Australian Digital Radio Network - Britpop British Invasion 1960s (MP3)
 http://abm21.com.au:8000/CONTAINER72
 #EXTINF:-1,Australian Digital Radio Network - Britpop Mid 1990s (MP3)
@@ -913,8 +915,6 @@ http://abm22.com.au:8000/CONTAINER12
 http://abm22.com.au:8000/CONTAINER127
 #EXTINF:-1,Australian Digital Radio Network - Comedy Channel - Music (MP3)
 http://abm21.com.au:8000/CONTAINER130
-#EXTINF:-1,Australian Digital Radio Network - Comedy Channel - Stand up and Skits (MP3)
-http://abm21.com.au:8000/CONTAINER131
 #EXTINF:-1,Australian Digital Radio Network - Corporate Training (MP3)
 http://abm21.com.au:8000/CONTAINER27
 #EXTINF:-1,Australian Digital Radio Network - Cosmic House (MP3)
@@ -933,30 +933,28 @@ http://abm21.com.au:8000/CONTAINER138
 http://abm21.com.au:8000/CONTAINER141
 #EXTINF:-1,Australian Digital Radio Network - Country - Crossover (MP3)
 http://abm21.com.au:8000/CONTAINER132
+#EXTINF:-1,Australian Digital Radio Network - Country - Mix (MP3)
+http://abm21.com.au:8000/CONTAINER140
 #EXTINF:-1,Australian Digital Radio Network - Country - Traditional (MP3)
 http://abm21.com.au:8000/CONTAINER133
 #EXTINF:-1,Australian Digital Radio Network - Country - Unsigned (MP3)
 http://abm21.com.au:8000/CONTAINER139
 #EXTINF:-1,Australian Digital Radio Network - Country Hits of 2010 (MP3)
 http://abm21.com.au:8000/CONTAINER53
-#EXTINF:-1,Australian Digital Radio Network - Country Hits of 2011 (MP3)
-http://abm21.com.au:8000/CONTAINER54
 #EXTINF:-1,Australian Digital Radio Network - Country Hits of 2012 (MP3)
 http://abm21.com.au:8000/CONTAINER55
 #EXTINF:-1,Australian Digital Radio Network - Country Hits of 2013 (MP3)
 http://abm21.com.au:8000/CONTAINER56
 #EXTINF:-1,Australian Digital Radio Network - Country Hits of 2014 (MP3)
 http://abm21.com.au:8000/CONTAINER57
-#EXTINF:-1,Australian Digital Radio Network - Country Hits of 2015 (MP3)
-http://abm21.com.au:8000/CONTAINER58
 #EXTINF:-1,Australian Digital Radio Network - Country Hits of 2016 (MP3)
 http://abm21.com.au:8000/CONTAINER59
 #EXTINF:-1,Australian Digital Radio Network - Country Hits of 2017 (MP3)
 http://abm21.com.au:8000/CONTAINER60
-#EXTINF:-1,Australian Digital Radio Network - Country Hits of 2018 (MP3)
-http://abm21.com.au:8000/CONTAINER61
 #EXTINF:-1,Australian Digital Radio Network - Country Hits of 2019 (MP3)
 http://abm21.com.au:8000/CONTAINER62
+#EXTINF:-1,Australian Digital Radio Network - Country Hits of 2020 (MP3)
+http://abm22.com.au:8000/CONTAINER170
 #EXTINF:-1,Australian Digital Radio Network - Country Hits of 2021 (MP3)
 http://abm22.com.au:8000/CONTAINER176
 #EXTINF:-1,Australian Digital Radio Network - Country Hits of 2022 (MP3)
@@ -979,8 +977,6 @@ http://abm21.com.au:8000/CONTAINER34
 http://abm21.com.au:8000/CONTAINER35
 #EXTINF:-1,Australian Digital Radio Network - Dance Hits of 2013 (MP3)
 http://abm21.com.au:8000/CONTAINER36
-#EXTINF:-1,Australian Digital Radio Network - Dance Hits of 2014 (MP3)
-http://abm21.com.au:8000/CONTAINER37
 #EXTINF:-1,Australian Digital Radio Network - Dance Hits of 2015 (MP3)
 http://abm21.com.au:8000/CONTAINER38
 #EXTINF:-1,Australian Digital Radio Network - Dance Hits of 2016 (MP3)
@@ -1025,8 +1021,6 @@ http://abm22.com.au:8000/CONTAINER21
 http://abm21.com.au:8000/CONTAINER1
 #EXTINF:-1,Australian Digital Radio Network - Donna Summer (MP3)
 http://abm22.com.au:8000/CONTAINER126
-#EXTINF:-1,Australian Digital Radio Network - Doris Day (MP3)
-http://abm21.com.au:8000/CONTAINER162
 #EXTINF:-1,Australian Digital Radio Network - Drum N Bass (MP3)
 http://abm22.com.au:8000/CONTAINER22
 #EXTINF:-1,Australian Digital Radio Network - Dub (MP3)
@@ -1037,18 +1031,12 @@ http://abm22.com.au:8000/CONTAINER23
 http://abm21.com.au:8000/CONTAINER119
 #EXTINF:-1,Australian Digital Radio Network - Easy Mix 2 (MP3)
 http://abm22.com.au:8000/CONTAINER175
-#EXTINF:-1,Australian Digital Radio Network - Easy Oldies (MP3)
-http://abm21.com.au:8000/CONTAINER122
-#EXTINF:-1,Australian Digital Radio Network - Easy Vocal (MP3)
-http://abm21.com.au:8000/CONTAINER120
 #EXTINF:-1,Australian Digital Radio Network - Electro House (MP3)
 http://abm22.com.au:8000/CONTAINER25
 #EXTINF:-1,Australian Digital Radio Network - Ella Fitzgerald (MP3)
 http://abm22.com.au:8000/CONTAINER82
 #EXTINF:-1,Australian Digital Radio Network - Elton John (MP3)
 http://abm21.com.au:8000/CONTAINER146
-#EXTINF:-1,Australian Digital Radio Network - Elvis Presley (MP3)
-http://abm21.com.au:8000/CONTAINER143
 #EXTINF:-1,Australian Digital Radio Network - Eminem (MP3)
 http://abm21.com.au:8000/CONTAINER158
 #EXTINF:-1,Australian Digital Radio Network - Enya (MP3)
@@ -1075,6 +1063,8 @@ http://abm21.com.au:8000/CONTAINER125
 http://abm21.com.au:8000/CONTAINER11
 #EXTINF:-1,Australian Digital Radio Network - Fleetwood Mac (MP3)
 http://abm22.com.au:8000/CONTAINER111
+#EXTINF:-1,Australian Digital Radio Network - Flo Rida (MP3)
+http://abm22.com.au:8000/CONTAINER128
 #EXTINF:-1,Australian Digital Radio Network - Folk (MP3)
 http://abm21.com.au:8000/CONTAINER123
 #EXTINF:-1,Australian Digital Radio Network - Foreigner (MP3)
@@ -1131,32 +1121,26 @@ http://abm21.com.au:8000/CONTAINER111
 http://abm22.com.au:8000/CONTAINER60
 #EXTINF:-1,Australian Digital Radio Network - Jay Z (MP3)
 http://abm22.com.au:8000/CONTAINER117
-#EXTINF:-1,Australian Digital Radio Network - Jazz (MP3)
-http://abm21.com.au:8000/CONTAINER121
 #EXTINF:-1,Australian Digital Radio Network - Jazzy House (MP3)
 http://abm22.com.au:8000/CONTAINER61
 #EXTINF:-1,Australian Digital Radio Network - John Farnham (MP3)
 http://abm22.com.au:8000/CONTAINER83
 #EXTINF:-1,Australian Digital Radio Network - Johnny Cash (MP3)
 http://abm22.com.au:8000/CONTAINER84
-#EXTINF:-1,Australian Digital Radio Network - Journey (MP3)
-http://abm21.com.au:8000/CONTAINER157
 #EXTINF:-1,Australian Digital Radio Network - Joy Division (MP3)
 http://abm22.com.au:8000/CONTAINER85
-#EXTINF:-1,Australian Digital Radio Network - Julio Iglesias (MP3)
-http://abm22.com.au:8000/CONTAINER120
 #EXTINF:-1,Australian Digital Radio Network - Jungle and Breakbeat (MP3)
 http://abm22.com.au:8000/CONTAINER39
 #EXTINF:-1,Australian Digital Radio Network - Justin Bieber (MP3)
 http://abm22.com.au:8000/CONTAINER115
+#EXTINF:-1,Australian Digital Radio Network - K Pop (MP3)
+http://abm21.com.au:8000/CONTAINER112
 #EXTINF:-1,Australian Digital Radio Network - Kanye West (MP3)
 http://abm22.com.au:8000/CONTAINER114
 #EXTINF:-1,Australian Digital Radio Network - Katy Perry (MP3)
 http://abm22.com.au:8000/CONTAINER116
 #EXTINF:-1,Australian Digital Radio Network - Kenny Rogers (MP3)
 http://abm21.com.au:8000/CONTAINER166
-#EXTINF:-1,Australian Digital Radio Network - Kids Christmas Music (MP3)
-http://abm21.com.au:8000/CONTAINER22
 #EXTINF:-1,Australian Digital Radio Network - Kids Music (MP3)
 http://abm21.com.au:8000/CONTAINER21
 #EXTINF:-1,Australian Digital Radio Network - Kylie Minogue (MP3)
@@ -1165,6 +1149,8 @@ http://abm21.com.au:8000/CONTAINER175
 http://abm21.com.au:8000/CONTAINER154
 #EXTINF:-1,Australian Digital Radio Network - Latin House (MP3)
 http://abm22.com.au:8000/CONTAINER68
+#EXTINF:-1,Australian Digital Radio Network - Latin Music (MP3)
+http://abm21.com.au:8000/CONTAINER104
 #EXTINF:-1,Australian Digital Radio Network - Led Zeppelin (MP3)
 http://abm21.com.au:8000/CONTAINER147
 #EXTINF:-1,Australian Digital Radio Network - Lil Wayne (MP3)
@@ -1177,14 +1163,12 @@ http://abm22.com.au:8000/CONTAINER119
 http://abm22.com.au:8000/CONTAINER40
 #EXTINF:-1,Australian Digital Radio Network - Love Songs (MP3)
 http://abm21.com.au:8000/CONTAINER25
+#EXTINF:-1,Australian Digital Radio Network - Madonna (MP3)
+http://abm21.com.au:8000/CONTAINER145
 #EXTINF:-1,Australian Digital Radio Network - Mariah Carey (MP3)
 http://abm22.com.au:8000/CONTAINER75
 #EXTINF:-1,Australian Digital Radio Network - Metal (MP3)
 http://abm21.com.au:8000/CONTAINER17
-#EXTINF:-1,Australian Digital Radio Network - Michael Jackson (MP3)
-http://abm21.com.au:8000/CONTAINER144
-#EXTINF:-1,Australian Digital Radio Network - Middle East Music (MP3)
-http://abm21.com.au:8000/CONTAINER108
 #EXTINF:-1,Australian Digital Radio Network - Midnight Oil (MP3)
 http://abm21.com.au:8000/CONTAINER176
 #EXTINF:-1,Australian Digital Radio Network - Miley Cyrus and Taylor Swift (MP3)
@@ -1201,12 +1185,12 @@ http://abm22.com.au:8000/CONTAINER86
 http://abm21.com.au:8000/CONTAINER128
 #EXTINF:-1,Australian Digital Radio Network - Neil Diamond (MP3)
 http://abm21.com.au:8000/CONTAINER167
+#EXTINF:-1,Australian Digital Radio Network - New 1960s Style (MP3)
+http://abm21.com.au:8000/CONTAINER80
 #EXTINF:-1,Australian Digital Radio Network - New 1970s Style (MP3)
 http://abm21.com.au:8000/CONTAINER84
 #EXTINF:-1,Australian Digital Radio Network - New 1980s Style (MP3)
 http://abm21.com.au:8000/CONTAINER88
-#EXTINF:-1,Australian Digital Radio Network - New 1990s Style (MP3)
-http://abm21.com.au:8000/CONTAINER93
 #EXTINF:-1,Australian Digital Radio Network - Newcastle Hardcore (MP3)
 http://abm22.com.au:8000/CONTAINER51
 #EXTINF:-1,Australian Digital Radio Network - Nicki Minaj (MP3)
@@ -1231,16 +1215,18 @@ http://abm22.com.au:8000/CONTAINER44
 http://abm22.com.au:8000/CONTAINER70
 #EXTINF:-1,Australian Digital Radio Network - Phil Collins & Genesis (MP3)
 http://abm21.com.au:8000/CONTAINER163
-#EXTINF:-1,Australian Digital Radio Network - Piano House (MP3)
-http://abm22.com.au:8000/CONTAINER45
 #EXTINF:-1,Australian Digital Radio Network - Pink Floyd (MP3)
 http://abm21.com.au:8000/CONTAINER148
 #EXTINF:-1,Australian Digital Radio Network - Pop Chr Remix Dance (MP3)
 http://abm22.com.au:8000/CONTAINER46
+#EXTINF:-1,Australian Digital Radio Network - Pop Hits of 2010 (MP3)
+http://abm21.com.au:8000/CONTAINER43
 #EXTINF:-1,Australian Digital Radio Network - Pop Hits of 2011 (MP3)
 http://abm21.com.au:8000/CONTAINER44
 #EXTINF:-1,Australian Digital Radio Network - Pop Hits of 2012 (MP3)
 http://abm21.com.au:8000/CONTAINER45
+#EXTINF:-1,Australian Digital Radio Network - Pop Hits of 2014 (MP3)
+http://abm21.com.au:8000/CONTAINER47
 #EXTINF:-1,Australian Digital Radio Network - Pop Hits of 2015 (MP3)
 http://abm21.com.au:8000/CONTAINER48
 #EXTINF:-1,Australian Digital Radio Network - Pop Hits of 2016 (MP3)
@@ -1255,8 +1241,6 @@ http://abm21.com.au:8000/CONTAINER52
 http://abm22.com.au:8000/CONTAINER172
 #EXTINF:-1,Australian Digital Radio Network - Pop Hits of 2021 (MP3)
 http://abm22.com.au:8000/CONTAINER178
-#EXTINF:-1,Australian Digital Radio Network - Pop Hits of 2022 (MP3)
-http://abm22.com.au:8000/CONTAINER181
 #EXTINF:-1,Australian Digital Radio Network - Pop Hits of 2023 (MP3)
 http://abm22.com.au:8000/CONTAINER184
 #EXTINF:-1,Australian Digital Radio Network - Pop Hits of 2024 (MP3)
@@ -1269,8 +1253,10 @@ http://abm22.com.au:8000/CONTAINER49
 http://abm22.com.au:8000/CONTAINER69
 #EXTINF:-1,Australian Digital Radio Network - Punk (MP3)
 http://abm21.com.au:8000/CONTAINER19
-#EXTINF:-1,Australian Digital Radio Network - R.E.M. (MP3)
-http://abm22.com.au:8000/CONTAINER87
+#EXTINF:-1,Australian Digital Radio Network - Punk and Metal Mix (MP3)
+http://abm21.com.au:8000/CONTAINER18
+#EXTINF:-1,Australian Digital Radio Network - Queen (MP3)
+http://abm21.com.au:8000/CONTAINER151
 #EXTINF:-1,Australian Digital Radio Network - Radio Adelaide
 http://abm22.com.au:8000/CONTAINER138
 #EXTINF:-1,Australian Digital Radio Network - Radio Adelaide (MP3)
@@ -1301,6 +1287,10 @@ http://abm22.com.au:8000/CONTAINER139
 http://abm22.com.au:8000/CONTAINER139
 #EXTINF:-1,Australian Digital Radio Network - Radio Sydney (MP3)
 http://abm21.com.au:8000/CONTAINER29
+#EXTINF:-1,Australian Digital Radio Network - Red Hot Chili Peppers (MP3)
+http://abm22.com.au:8000/CONTAINER129
+#EXTINF:-1,Australian Digital Radio Network - Reggae (MP3)
+http://abm21.com.au:8000/CONTAINER114
 #EXTINF:-1,Australian Digital Radio Network - Rhythm & Blues (MP3)
 http://abm21.com.au:8000/CONTAINER65
 #EXTINF:-1,Australian Digital Radio Network - Rihanna (MP3)
@@ -1315,10 +1305,14 @@ http://abm21.com.au:8000/CONTAINER31
 http://abm22.com.au:8000/CONTAINER107
 #EXTINF:-1,Australian Digital Radio Network - Scooter (MP3)
 http://abm22.com.au:8000/CONTAINER174
+#EXTINF:-1,Australian Digital Radio Network - Shania Twain (MP3)
+http://abm22.com.au:8000/CONTAINER110
 #EXTINF:-1,Australian Digital Radio Network - Simon and Garfunkel (MP3)
 http://abm22.com.au:8000/CONTAINER104
 #EXTINF:-1,Australian Digital Radio Network - Ska (MP3)
 http://abm21.com.au:8000/CONTAINER20
+#EXTINF:-1,Australian Digital Radio Network - Soulful House (MP3)
+http://abm22.com.au:8000/CONTAINER47
 #EXTINF:-1,Australian Digital Radio Network - Space Exploration (MP3)
 http://abm21.com.au:8000/CONTAINER26
 #EXTINF:-1,Australian Digital Radio Network - Sport Music (MP3)
@@ -1353,6 +1347,10 @@ http://abm22.com.au:8000/CONTAINER90
 http://abm22.com.au:8000/CONTAINER78
 #EXTINF:-1,Australian Digital Radio Network - The Kinks (MP3)
 http://abm22.com.au:8000/CONTAINER91
+#EXTINF:-1,Australian Digital Radio Network - The Monkees (MP3)
+http://abm21.com.au:8000/CONTAINER161
+#EXTINF:-1,Australian Digital Radio Network - The Rolling Stones (MP3)
+http://abm21.com.au:8000/CONTAINER149
 #EXTINF:-1,Australian Digital Radio Network - The Sex Pistols (MP3)
 http://abm22.com.au:8000/CONTAINER92
 #EXTINF:-1,Australian Digital Radio Network - The Spice Girls (MP3)
@@ -1369,6 +1367,8 @@ http://abm22.com.au:8000/CONTAINER132
 http://abm22.com.au:8000/CONTAINER94
 #EXTINF:-1,Australian Digital Radio Network - Top 200 Country (MP3)
 http://abm21.com.au:8000/CONTAINER23
+#EXTINF:-1,Australian Digital Radio Network - Top 40 Dance 1 (MP3)
+http://abm21.com.au:8000/CONTAINER28
 #EXTINF:-1,Australian Digital Radio Network - Top 40 Dance 2 (MP3)
 http://abm22.com.au:8000/CONTAINER72
 #EXTINF:-1,Australian Digital Radio Network - Top 40 Pop (MP3)
@@ -1391,6 +1391,8 @@ http://abm21.com.au:8000/CONTAINER169
 http://abm22.com.au:8000/CONTAINER65
 #EXTINF:-1,Australian Digital Radio Network - UK Garage (MP3)
 http://abm22.com.au:8000/CONTAINER15
+#EXTINF:-1,Australian Digital Radio Network - UK House (MP3)
+http://abm22.com.au:8000/CONTAINER64
 #EXTINF:-1,Australian Digital Radio Network - Uplifting Trance (MP3)
 http://abm22.com.au:8000/CONTAINER63
 #EXTINF:-1,Australian Digital Radio Network - Usher (MP3)
@@ -1403,12 +1405,12 @@ http://abm22.com.au:8000/CONTAINER62
 http://abm22.com.au:8000/CONTAINER16
 #EXTINF:-1,Australian Digital Radio Network - Whitney Houston (MP3)
 http://abm22.com.au:8000/CONTAINER74
+#EXTINF:-1,Australian Digital Radio Network - Worldwide Indie Music (MP3)
+http://abm21.com.au:8000/CONTAINER15
 #EXTINF:-1,Australian Made Music
 https://listen10.as.amplifystreaming.com/listen/australian_made_music/amm_128.aac
 #EXTINF:-1,Australian Truck Radio
 https://samcloud.spacial.com/api/listen?sid=72494&m=sc&rid=155927&t=ssl
-#EXTINF:-1,B-Rock FM - Bathurst - 99.3 FM (MP3)
-http://usa20.fastcast4u.com/brockfm
 #EXTINF:-1,Banging Hits Radio - Melbourne (MP3)
 http://stream.zeno.fm/5u6utt21ueftv
 #EXTINF:-1,Bar Sessions (MP3)
@@ -1459,6 +1461,12 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/2BAY_FM999AAC.a
 http://playerservices.streamtheworld.com/api/livestream-redirect/2BAY_FM999.mp3
 #EXTINF:-1,C3R Community Radio
 https://23193.live.streamtheworld.com/3CRAAC.aac
+#EXTINF:-1,C91.3
+https://c913.com.au/livestream
+#EXTINF:-1,C91.3 FM - Macarthur's Radio Station
+https://ice9.securenetsystems.net/C913
+#EXTINF:-1,c91.3FM - Campbelltown - 91.3 FM (AAC)
+http://ice9.securenetsystems.net/C913
 #EXTINF:-1,CADA (AAC+)
 http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_CADAAAC.aac
 #EXTINF:-1,CADA (MP3)
@@ -1821,6 +1829,10 @@ http://stream.zeno.fm/4g7rhtv2zf9uv
 https://listen.howdyfm.com/listen/howdyfm/stream.aac
 #EXTINF:-1,i Heart Radio Countdown Australia
 https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT11AAC.aac
+#EXTINF:-1,i98FM
+https://i98fm.com.au/livestream
+#EXTINF:-1,i98FM - Wollongong - 98.1 FM (MP3)
+http://ice10.securenetsystems.net/I98FM
 #EXTINF:-1,iHeart Country Australia
 https://ais-arn.streamguys1.com/au_027/playlist.m3u8
 #EXTINF:-1,iHeart dance Australia
@@ -2267,8 +2279,6 @@ http://stream.aiir.com/xao4bpifqzruv
 https://usa3.fastcast4u.com/proxy/kmisawcc/stream
 #EXTINF:-1,Newy 87.8 FM - Newcastle - 87.8 FM (MP3)
 https://radio.newy.com.au:8888/radio
-#EXTINF:-1,NexisFM Radio
-https://admin.nexisfm.xyz/listen/nexisfm/radio.mp3
 #EXTINF:-1,Nextlevel DJs Radio (MP3)
 http://stream.zeno.fm/gkrli4n9lzyuv
 #EXTINF:-1,NIGE!
@@ -2285,6 +2295,8 @@ http://uk5.internet-radio.com/proxy/nimfm
 http://stream.zeno.fm/vek7frcr3a0uv
 #EXTINF:-1,No Life Radio
 http://listen.nolife-radio.com/
+#EXTINF:-1,non fiction, comedy, western, history       Australian Digital Radio Network Old Time Radio Channel 3
+http://abm21.com.au:8000/CONTAINER4
 #EXTINF:-1,Noongar Radio
 https://firstnationsmedia.stream/8028/stream
 #EXTINF:-1,Noosa FM - Noosa Heads - 101.3 FM (MP3)
@@ -2539,8 +2551,6 @@ https://totalschlager.stream.laut.fm/totalschlager
 https://28803.live.streamtheworld.com/2RSRAAC.aac
 #EXTINF:-1,Radio Sphinkta-X
 https://radio.shitzooka.com/myradio
-#EXTINF:-1,Radio Stream
-http://retrostream.duckdns.org:8000/retro_stream_aac
 #EXTINF:-1,Radio Trainwreck Live
 https://stream.radiotrainwreck.live/live
 #EXTINF:-1,Radio Upper Murray - Walwa / Corryong / Tumbarumba - 88.7 FM / 98.9 FM / 107.7 FM (MP3)
@@ -2553,10 +2563,6 @@ http://cast3.asurahosting.com/proxy/radiosyd/stream
 http://s4.yesstreaming.net:7011//stream
 #EXTINF:-1,Radio319.Rock - Newcastle (MP3)
 http://stream.zeno.fm/kc1f62191d0uv
-#EXTINF:-1,RAMfm - Goulburn - 103.3 FM (AAC+)
-http://playerservices.streamtheworld.com/api/livestream-redirect/2GCRAAC.aac
-#EXTINF:-1,RAMfm - Goulburn - 103.3 FM (MP3)
-http://playerservices.streamtheworld.com/api/livestream-redirect/2GCR.mp3
 #EXTINF:-1,Ravenz Radio - Melbourne (MP3)
 http://radio.torchwoodhosting.com:8028/;
 #EXTINF:-1,Raw FM (MP3)
@@ -2607,6 +2613,8 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/IPS_RIVER949AAC
 http://streams.radiomast.io/2317de18-b1e4-4472-bc63-366b1d785252
 #EXTINF:-1,Rockeasyradio.com - Perth (MP3)
 http://cast2.my-control-panel.com/proxy/steve12/stream
+#EXTINF:-1,Rocket Range Radio 
+https://s48.myradiostream.com/9344/listen.mp3
 #EXTINF:-1,Roll of Renown (MP3)
 http://stream.zeno.fm/jaq1pxq5c8stv
 #EXTINF:-1,ROQ FM
@@ -2805,8 +2813,6 @@ http://streaming.starterfm.com:8010/starter320
 https://us01.xrn.com.au/listen/stx/StxSd
 #EXTINF:-1,Stereo 10 Brisbane
 http://s47.myradiostream.com:15786/stream
-#EXTINF:-1,Sunshine Coast
-https://cast4.my-control-panel.com/proxy/liquidsunnycoast/stream
 #EXTINF:-1,Sunshine FM - Buderim - 104.9 FM (AAC+)
 http://playerservices.streamtheworld.com/api/livestream-redirect/4SFMAAC.aac
 #EXTINF:-1,Sunshine FM - Buderim - 104.9 FM (MP3)
@@ -2875,6 +2881,8 @@ https://s8.yesstreaming.net:17099/BrzWB
 http://s2.stationplaylist.com:7084/listen.mp3
 #EXTINF:-1,The Engineered Network
 https://stream.engineered.network:8002/stream
+#EXTINF:-1,The Fox
+https://sa46.scastream.com.au/live/3fox_128.stream/playlist.m3u8
 #EXTINF:-1,The Hellenic Radio Station of Australia
 https://radio.plegma.host/radio/8000/greekradio.mp3
 #EXTINF:-1,The Lamp Radio 300
@@ -3071,8 +3079,6 @@ http://voiceofislam.appsunder.com:8000/voiceofislam.mp3
 http://s10.myradiostream.com/15272/;
 #EXTINF:-1,Wandering Sheep Golden Praise
 https://radio.wanderingsheep.net:8044/goldenpraise
-#EXTINF:-1,WAR FM - Gilgandra - 98.9 FM (MP3)
-http://110.141.216.207:88/broadwave.mp3
 #EXTINF:-1,Waringarri Media
 https://firstnationsmedia.stream:8048/stream
 #EXTINF:-1,Wave FM - Wollongong - 96.5 FM (AAC)

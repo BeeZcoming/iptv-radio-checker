@@ -413,6 +413,8 @@ http://stream01.my105.ch/my105thebattle.mp3
 https://stream01.my105.ch/my105xmas.mp3
 #EXTINF:-1,my105 X-MAS Radio (AAC)
 https://stream01.my105.ch/my105xmas-aac.mp3
+#EXTINF:-1,N-Joy Radio
+https://n-joy.spcast.eu/stream_live
 #EXTINF:-1,Neo1
 https://neo1.ice.infomaniak.ch/neo1.mp3
 #EXTINF:-1,New Clear Radio
@@ -483,16 +485,10 @@ http://stream.radio1.ch/128k.m3u
 https://stream.radio1.ch/128k
 #EXTINF:-1,Radio 1 Zürich
 https://stream.radio1.ch/128k?utm_source=chatgpt.com
-#EXTINF:-1,Radio 24
-https://stream.streambase.ch/radio24/mp3-192/direct/
 #EXTINF:-1,Radio 2Go
 https://uksoutha.streaming.broadcast.radio/radio2go
 #EXTINF:-1,Radio 2Go
 https://uksoutha.streaming.broadcast.radio:15830/radio2go
-#EXTINF:-1,Radio 32
-https://stream.streambase.ch/radio32/mp3-192/chmedia-today-web
-#EXTINF:-1,Radio 32 Goldies
-https://stream.streambase.ch/r32goldies/mp3-192/direct/
 #EXTINF:-1,Radio 3FACH
 https://stream01.3fach.ch/live
 #EXTINF:-1,Radio 3FACH
@@ -1051,6 +1047,8 @@ https://verticalradio.ice.infomaniak.ch/verticalradio-128.mp3
 https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3
 #EXTINF:-1,Vinyl-Valley Rock Radio
 https://listen.radioking.com/radio/265822/stream/311047
+#EXTINF:-1,VIRGIN RADIO SWITZERLAND
+https://stream.streambase.ch/vrock/mp3-192/chmedia-radio-web/1795358444372_78819457?aw_0_req.userConsentV2=CQuFeUAQuFeUAAfD_BDEC6FgAAAAAAAAAAQ4HvQAwAmgMPAe8AAAAAA.IKRpB9G7caCFDCDJ3YLsAYIQXw1hoZEAgAACAAgABCDKAIAQGEmESIAwAICACABAAIBBAAAAgGAgAAUCAAIAAABCACAAAAAAAIABAACAAQAAACAgIAABgQAAAAAAOAkAAgAAACBIAAIAAAAAACAAAAAAAAAABAAAIACAAAAAQAAAAQAAAgAAAAAAAAAAIAAAIAAAAAAAAAAAAAAAAAAAAACACBAAAEI.YAAAAAAAAAA&amp;metaid=1795358444260_53619227
 #EXTINF:-1,VirginRadio
 https://stream.streambase.ch/vrock/mp3-192/direct/
 #EXTINF:-1,WALTS WELT

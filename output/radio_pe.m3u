@@ -66,7 +66,7 @@ https://stream.mediatexcomunicaciones.com:7029/
 #EXTINF:-1,Jov Radio
 https://stream.zeno.fm/ssr3g09333duv
 #EXTINF:-1,JVM la Estación (Cusco)
-https://jvmlaestacion.stream.laut.fm/jvmlaestacion?uuid=35fa3346-7d96-29d5-74c3-a26be6273e94&t302=2026-11-17_10-52-41
+https://jvmlaestacion.stream.laut.fm/jvmlaestacion?uuid=8ade4c47-1a97-ced1-ec63-d386844655f8&t302=2026-11-22_11-04-30
 #EXTINF:-1,Kaizen Live Radio
 https://radiostreaming.pro/8386/stream
 #EXTINF:-1,Karibeña
@@ -174,7 +174,7 @@ https://sp.onliveperu.com/8108/stream
 #EXTINF:-1,Radio Alegria - La Rompe
 https://radio.sistemasandinos.org:10974/;stream
 #EXTINF:-1,Radio Amo la Música
-http://stream-179.surfernetwork.com/aqmct15qmchvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhcW1jdDE1cW1jaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkJsSXF2NUNPUnhLUGpicWZXczF5SkEiLCJpYXQiOjE3OTQ5MDc4ODYsImV4cCI6MTc5NDkwNzk0Nn0.OWIPItpUNcgF8QhQXg5d_fbv2rNb8DyvcOUpFxCBO80
+http://stream-179.surfernetwork.com/aqmct15qmchvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhcW1jdDE1cW1jaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkF3MEdXMUcxU0xhNnJLZmx6dDRmZlEiLCJpYXQiOjE3OTUzNDA2NDQsImV4cCI6MTc5NTM0MDcwNH0.WP1gF_DpXUSyT4hZqhoYYKZqHLUZPwl1myH34p0bjMM
 #EXTINF:-1,Radio Andina Tarata
 http://sp.oyotunstream.com:8064/
 #EXTINF:-1,Radio apurimeña la unica
@@ -277,8 +277,6 @@ https://shoutcast.tmcreativos.com/proxy/radiokar?mp=/stream
 https://panel.innovatestream.pe:10970/stream
 #EXTINF:-1,Radio La Cheverísima - Utcubamba 
 https://sp.onliveperu.com/8114/stream/;
-#EXTINF:-1,Radio La Gloria Es De Dios
-https://radio101.mjwebexperts.com/8006/stream
 #EXTINF:-1,Radio La Inolvidable
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6839e24cf4eacd81ada4e6b4/playlist.m3u8
 #EXTINF:-1,Radio la inolvidable fm
@@ -313,8 +311,6 @@ http://dreamsiteradiocp4.com:8020/
 https://maxradio.azuracast.com.es/listen/radio_maxima/AQP.mp3
 #EXTINF:-1,RADIO MEGA MIX 96.7 FM Perú
 https://mdstrm.com/audio/5fada56fe4e09508207a7951/icecast.audio
-#EXTINF:-1,Radio Mega Stelar - Cajamarca, Santa Cruz
-https://sp.dattavolt.com:7080/;
 #EXTINF:-1,Radio MegaMix
 https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951
 #EXTINF:-1,Radio MegaMix – Tocamos de Todo

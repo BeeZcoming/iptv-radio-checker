@@ -115,6 +115,8 @@ http://lux-naxinacional.streaming.rs:8605/
 https://lux-naxinacional.streaming.rs:8607/;
 #EXTINF:-1,Magnum Radio Zajecar
 http://magnum.web-srbija.net:8121/;
+#EXTINF:-1,MansionNET Radio
+https://radio.inthemansion.com/listen/mansionnet/radio.mp3
 #EXTINF:-1,Mária Rádió Szerbia
 http://dreamsiteradiocp.com:8014/;
 #EXTINF:-1,Moj Radio
@@ -344,7 +346,7 @@ http://213.239.205.210:8094/stream
 #EXTINF:-1,Radio Caribrod
 https://as1.radioserveri.com:8220/radio.mp3
 #EXTINF:-1,Radio Cer
-http://stream1.contrateam.com:8040/
+http://stream1.contrateam.com:8040/;
 #EXTINF:-1,Radio D
 http://213.239.205.210:6010/;
 #EXTINF:-1,Radio D Lucani
@@ -371,6 +373,8 @@ https://radioinnis-naxinacional.streaming.rs:8622/;
 https://radioinnis-naxinacional.streaming.rs:8622/;stream.nsv
 #EXTINF:-1,Radio IN Beograd
 https://radio3-64ssl.streaming.rs:9212/;*.mp3
+#EXTINF:-1,Radio Istocnik
+https://streaming.shoutcast.com/radioistocnik-
 #EXTINF:-1,Radio JAT
 https://streaming.tdiradio.com/radiojat.mp3
 #EXTINF:-1,Radio Karolina
@@ -523,8 +527,6 @@ http://edge-rs-01.maksnet.tv/asmedia/radios/chunklist_w2049618642.m3u8
 https://stream.radios.rs:9000/;
 #EXTINF:-1,Radio S2
 https://53be5ef2d13aa.streamlock.net/asmedia/index/playlist.m3u8
-#EXTINF:-1,Radio S2
-https://stream.radios.rs:9002/;
 #EXTINF:-1,Radio S3
 https://53be5ef2d13aa.streamlock.net/asmedia/pingvin/playlist.m3u8
 #EXTINF:-1,Radio S3

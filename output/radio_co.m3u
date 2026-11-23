@@ -23,6 +23,8 @@ https://radio25.virtualtronics.com:20061/;
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACUARIOAAC.aac
 #EXTINF:-1,Adictiva FM
 https://live.adictiva.co:8000/stream
+#EXTINF:-1,AFRI CARIBE RADIO
+https://eu8.fastcast4u.com/proxy/eddie08?mp=/stream
 #EXTINF:-1,Africa All Stars
 https://stream.zeno.fm/udhh2v1itqxtv
 #EXTINF:-1,Aires De Timbio FM 88.9 "La Gente con la Radio"
@@ -83,6 +85,8 @@ https://broadcasting.enlacestic.com/radio/8020/radio.mp3
 http://62.210.38.137:8132/stream
 #EXTINF:-1,as radio 690 am
 https://26643.live.streamtheworld.com/AS_COLAAC.aac
+#EXTINF:-1,auténtica radio 97.1 el copey cesar
+https://radio35.virtualtronics.com/proxy/autenticaradio?mp=/stream
 #EXTINF:-1,Avance Estereo 99.2 FM
 https://a.tunzilla.com/http://uk19freenew.listen2myradio.com:16308/;
 #EXTINF:-1,Aviva2
@@ -207,8 +211,6 @@ https://stream.zeno.fm/kkertu70mm5tv
 https://sonic.paulatina.co/7070/stream.mp3/live
 #EXTINF:-1,Caliente stereo 90.2
 https://play8.tikast.com:20003/stream
-#EXTINF:-1,campo serrano radio 96.7 aguachica
-https://virtual5.emisorasvirtuales.com:8150/live
 #EXTINF:-1,Candela Casanare 94.7 Fm
 https://cloudoledgo.com:8026/stream
 #EXTINF:-1,Candela Estéreo
@@ -221,6 +223,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CANDELA_CALI_S
 https://24223.live.streamtheworld.com/CANDELAESTEREO_SC
 #EXTINF:-1,candela stereo 104.7 ipiales
 https://radiohd.streaminghd.co:7652/stream?ver=781755
+#EXTINF:-1,Canela Estereo 99.4 FM 
+https://sv2.globalhostlive.com/proxy/canela/stream
 #EXTINF:-1,CANUTAL ESTEREO
 https://stream.zeno.fm/ajgwsujd9eatv
 #EXTINF:-1,Capital Salsa
@@ -249,12 +253,8 @@ https://streaming.radiosenlinea.com.ar:10893/;
 http://radio40.virtualtronics.com:8584/;
 #EXTINF:-1,Cartago Stereo Colombia
 http://51.15.160.78:8584/stream
-#EXTINF:-1,Cascada Stereo 107.4 FM
-https://play8.tikast.com/proxy/cascada?mp=/stream
 #EXTINF:-1,Cayena stereo 96.3 Fundación magdalena
 https://server1.intermediacolombia.com:8112/stream
-#EXTINF:-1,Celeste Estéreo 105.4 FM
-https://play8.tikast.com/proxy/celeste?mp=/stream
 #EXTINF:-1,Celestial stereo link alterno
 https://stream2.305stream.com:8114/live
 #EXTINF:-1,Celestial stereo pereira
@@ -273,6 +273,8 @@ https://stream.zeno.fm/ptqtr8urtfiuv
 https://stream-287.surfernetwork.com/4ili1p9hiyktv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0aWxpMXA5aGl5a3R2IiwiaG9zdCI6InN0cmVhbS0yODcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjI4Y3hBR2pOVE9lM2FVc1BocmxlMnciLCJpYXQiOjE3OTUzMTc3NTksImV4cCI6MTc5NTMxNzgxOX0.fJEv6dOyvl1-ig9MVoewsPlXNH3o5UMI3dAiLrnetHk
 #EXTINF:-1,CIELO CARTAGENA 103.0 FM
 https://stream.zeno.fm/v2pspfgm54zuv
+#EXTINF:-1,cima stereo 105.6 usiacurí
+https://stream.zeno.fm/mzphwbyrlezvv
 #EXTINF:-1,Cisneros Stereo 105.4 FM
 https://server2.ejeserver.com:8430/live
 #EXTINF:-1,Ciudad Stereo Tunja 94.7 FM 
@@ -421,8 +423,6 @@ http://68.233.236.92:8006/;
 https://securestreams3.autopo.st:1404/stream/1/
 #EXTINF:-1,Estrella FM 
 http://radiolatina.info:7084/;
-#EXTINF:-1,Exitosa Stereo 107.8 FM
-https://stream.zeno.fm/zx3zzt5vvjdtv
 #EXTINF:-1,Fanática Stereo
 http://stream-179.surfernetwork.com/virlugnz0nmvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2aXJsdWduejBubXZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InR0RVV4YWZmUVctcFlaRWpHR2ZEa3ciLCJpYXQiOjE3OTUzMTIwNzUsImV4cCI6MTc5NTMxMjEzNX0.vpN5gkvPsGYnIVmc4j5lVfXo8bYy9X47wfnRYKrAMdQ
 #EXTINF:-1,Fiesta 102.7 FM 
@@ -503,12 +503,12 @@ http://radio06.cehis.net:8001/stream
 https://radio06.cehis.net/proxy/javerian?mp=%2Fstream
 #EXTINF:-1,javeriana stereo cali 107.5
 https://radio06.cehis.net:9002/stream
-#EXTINF:-1,Juan Kiss Radio
-https://emisorasdigitales2.com/8172/stream
 #EXTINF:-1,juventud Stereo 101.9 FM
 https://stream.zeno.fm/8dp0r5hamzzuv
 #EXTINF:-1,Kalamary - Radio Cultural Online
 https://stream.zeno.fm/clxflencimitv
+#EXTINF:-1,Killera stereo 
+https://usa8.fastcast4u.com/proxy/eddie20?mp=/1
 #EXTINF:-1,King
 https://acortar.link/RadioNezuxKingMoralesPermanent
 #EXTINF:-1,La 1070 de Radio Santa Fe (Q'Hubo Radio, HJCG, 1070 kHz, Bogotá)
@@ -538,7 +538,7 @@ https://stream4.mcvhost.com/lacrossoverfm/
 #EXTINF:-1,La Descarga Radio Online
 https://stream.zeno.fm/lsu2qkr5xdztv
 #EXTINF:-1,LA DESPECHADA STÉREO
-https://stream-285.surfernetwork.com/ul8iy0iedlauv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1bDhpeTBpZWRsYXV2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImtrUUFOTzZjUzZ1ckg1R2EzOXA1OWciLCJpYXQiOjE3OTQ5MDg0NjMsImV4cCI6MTc5NDkwODUyM30.NOOi105uYH5wWyWuRg579lVDRuWdsqnCkDiX4p3eAGM
+https://stream-285.surfernetwork.com/ul8iy0iedlauv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1bDhpeTBpZWRsYXV2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ik5zaHhLY2FjUzV1Zmp2Tk92TTlSd0EiLCJpYXQiOjE3OTUzNDA3MTIsImV4cCI6MTc5NTM0MDc3Mn0.BNrAKE_j-WCiqxOwpjN7xIvSkh9QQ7JBedtG1NRazYM
 #EXTINF:-1,La Discoteca Radio
 https://streamingmediaradio.live:8002/stream
 #EXTINF:-1,La Enamorada FM
@@ -768,7 +768,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/MIX_BOGOTA_SC
 #EXTINF:-1,Mundo Retro - Rock & Pop en Español
 https://stream-280.surfernetwork.com/3y2q8paptqruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzeTJxOHBhcHRxcnV2IiwiaG9zdCI6InN0cmVhbS0yODAuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjRITzVrMzlKVHJ5NnlhSEdBSWZzeGciLCJpYXQiOjE3OTUzMTM5NDgsImV4cCI6MTc5NTMxNDAwOH0.SFDfJLvFFo3RoUTD_HW_oIae1FwqFFNwqYBpztn_440
 #EXTINF:-1,Música Tropical... RDC Radio
-https://stream-288.surfernetwork.com/4fcavsowcdvvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0ZmNhdnNvd2NkdnZ2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImZYQWFpR0tQVFRLYW9ybnR0NVdoZUEiLCJpYXQiOjE3OTQ5MDkzNjUsImV4cCI6MTc5NDkwOTQyNX0.kH7oIkqHbyTZly-vcJkqfZOteZktIx3YYwn6-7isuzo
+https://stream-288.surfernetwork.com/4fcavsowcdvvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0ZmNhdnNvd2NkdnZ2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjhJYkpNMVJGU3ZpdEJTM3k1a3BSN3ciLCJpYXQiOjE3OTUzNDE3NDUsImV4cCI6MTc5NTM0MTgwNX0.nk5Mvf45bH5OZh1qhSekaVL44J2vo2-djbwOkn-L1Xg
 #EXTINF:-1,Musical Stereo
 https://sonic.paulatina.co/8156/stream
 #EXTINF:-1,Musical Stereo
@@ -785,8 +785,6 @@ https://nopequesmas.radioca.st/;
 https://iuniversal-colive.logicideas.media/iUniversal-radio/radionovedad.stream/playlist.m3u8
 #EXTINF:-1,Nueva Era Algeciras Sterio 107.8 FM
 https://radiohd.streaminghd.co:7154/stream
-#EXTINF:-1,OLIMPICA ESTÉREO 89.5 GUAJIRA
-https://stream.zeno.fm/f4ese4m5prytv
 #EXTINF:-1,Olímpica Stereo - Barranquilla
 https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_BARRANQUILLAAAC.aac?dist=oro_web
 #EXTINF:-1,Olímpica Stereo (Barranquilla)
@@ -908,7 +906,7 @@ http://stream.zeno.fm/9k31xz9004zuv
 #EXTINF:-1,Radio Cristiana Colombia
 https://stream.zeno.fm/a3y646rxcfhvv
 #EXTINF:-1,Radio Cristiano Bíblico
-https://stream-283.surfernetwork.com/jth8it4lbfmuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJqdGg4aXQ0bGJmbXV2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InBRZVVTTjJ2VGxLYTRoRzlUS3JFalEiLCJpYXQiOjE3OTQ5MDc2MjMsImV4cCI6MTc5NDkwNzY4M30.LKPA9e6HOv_vY7zSsLlV_dDJPCccaRH0Tg2Bk-lwo1c
+https://stream-283.surfernetwork.com/jth8it4lbfmuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJqdGg4aXQ0bGJmbXV2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImI1Q0VIVGFJUzllU3d3ak9Vd0dtT1EiLCJpYXQiOjE3OTUzMzk4NjEsImV4cCI6MTc5NTMzOTkyMX0.mY7idbepU05yXlO_z6tLYY3RIMJXGYEuPqmnDH-SxN0
 #EXTINF:-1,radio delfín 1060 am riohacha
 https://virtualtronics.net/proxy/vcertain?mp=/;
 #EXTINF:-1,Radio Eco Cali
@@ -990,7 +988,7 @@ https://stream.zeno.fm/3e6q693tnd0uv
 #EXTINF:-1,Radio Planeta Cali
 https://sp4.colombiatelecom.com.co/8098/stream
 #EXTINF:-1,RADIO POLICÍA BUCARAMANGA 91.7 FM
-https://stream-284.surfernetwork.com/fzddg2ybssuuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmemRkZzJ5YnNzdXV2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjUwb2VkU1NDVE9TTEVUMjVxRVVfU1EiLCJpYXQiOjE3OTQ5MDgxMzgsImV4cCI6MTc5NDkwODE5OH0.3NE326hFiNaL79G8lnv40RoM70jiP-qOFrFh0Fw5b38
+https://stream-284.surfernetwork.com/fzddg2ybssuuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmemRkZzJ5YnNzdXV2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InlvUFo3Vlp1UlV5Q05xMlp0T3JUVEEiLCJpYXQiOjE3OTUzNDAyMTAsImV4cCI6MTc5NTM0MDI3MH0.l5o3wvjgSXFCyf7uZl4GqkyfxBEgounujjIa5TdsZuY
 #EXTINF:-1,Radio Policia Nacional 96.4 FM Medellín
 https://radio35.virtualtronics.com/proxy/radiopolicia964?mp=/stream
 #EXTINF:-1,RADIO POLICÍA NACIONAL" "106.0 FM (CARTAGENA)
@@ -1055,8 +1053,6 @@ https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/632ce1416197360894629a
 https://mdstrm.com/audio/632cea145b9b38085221d5e1/live.m3u8
 #EXTINF:-1,radio uno Valledupar 100.7
 https://mdstrm.com/audio/69ca82282eb98b3410aad7d9/live.m3u8?_=1776720627418&dnt=true&player=6865fe1cb8f25d7257c85a93&uid=sNRVJu8ra1Gtv4rEC8P5XdCTw0wbYabl&sid=dd5rvfetTioiExm3wtnq14E34J2E5Vvt&pid=TB8KYyUNUNbY0HDFw2bgBYVdjFJ2Xljb&an=player-audio-ott-rcn&at=web-app&av=v1.0.62&sc=0&ref=www.rcnradio.com&res=1920x1080&CMCD=cid%3D%2269ca82282eb98b3410aad7d9%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22TB8KYyUNUNbY0HDFw2bgBYVdjFJ2Xljb%22%2Csu
-#EXTINF:-1,radio uno villavicencio 98.3 fm
-https://radiounovillavo.com.co/stream
 #EXTINF:-1,Radio Urantia
 https://colombiawebs.com.co/proxy/radiour2?mp=/;
 #EXTINF:-1,Radio Vida Nueva (Barranquilla)
@@ -1159,8 +1155,6 @@ http://77.73.69.238:8000/stream
 http://sclasica-stream.sytes.net:8012/;
 #EXTINF:-1,Super clasicos del rock
 https://stream-287.surfernetwork.com/ay2nalxvxtotv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJheTJuYWx4dnh0b3R2IiwiaG9zdCI6InN0cmVhbS0yODcuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJ1S3FhbjNlU1NVV29VbzFxN19zYWRBIiwiaWF0IjoxNzkwNjk4MzQyLCJleHAiOjE3OTA2OTg0MDJ9.ZuHkrQRaHvqHUxjSDOvLP1aYB1umTMOVbVnC6nKIlLc
-#EXTINF:-1,Super Estación 88.9
-https://emisorasdigitales2.com/8018/stream
 #EXTINF:-1,Super Estación FM (Bogotá)
 https://servidor40-5.brlogic.com:7006/live
 #EXTINF:-1,Techno Live Sets
@@ -1236,7 +1230,7 @@ https://stream.zeno.fm/zznllllp06cuv
 #EXTINF:-1,Verdades Eternas Radio
 https://live.voltajedigital.com/listen/verdades_eternas_radio/radio.mp3
 #EXTINF:-1,Vibra Bogotá 104.9 FM
-http://27583.live.streamtheworld.com/VIBRAAAC_SC
+http://27343.live.streamtheworld.com:3690/VIBRAAAC_SC
 #EXTINF:-1,Vibra FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/VIBRA_SC
 #EXTINF:-1,Vibra Radio
@@ -1257,12 +1251,12 @@ https://stream.zeno.fm/fpzw6c6ootzvv
 https://stream-282.surfernetwork.com/mtfnuz2day8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtdGZudXoyZGF5OHV2IiwiaG9zdCI6InN0cmVhbS0yODIuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ik0zaTUtYS1lU0thQ21POTMxTU9lWkEiLCJpYXQiOjE3OTUzMjI1MDUsImV4cCI6MTc5NTMyMjU2NX0.3coZmsfaKFoEYsuUKkuAz1D2jOc4iYAsJhxhYsQ8wBs
 #EXTINF:-1,villanueva mía 102.8 fm
 https://streaming.radiosenlinea.com.ar/8890/stream/;type=mp3
-#EXTINF:-1,Villavo FM
-https://emisorasdigitales2.com/8062/stream
 #EXTINF:-1,Vilmar Stereo
 https://stream.zeno.fm/pfrwo2fzcbktv?zt=
 #EXTINF:-1,VILMAR STEREO 91.4 FM
 https://stream.zeno.fm/pfrwo2fzcbktv
+#EXTINF:-1,Violeta Stereo Casanare 89.7 FM
+https://stream.zeno.fm/qtlh7auu9m7uv
 #EXTINF:-1,viva fm 88.2 villanueva la guajira
 https://radio25.virtualtronics.com:20049/stream
 #EXTINF:-1,Vos Online Radio
@@ -1307,8 +1301,6 @@ https://streaming.radiosenlinea.com.ar/9526/stream
 https://stream.zeno.fm/60nboncgcmavv
 #EXTINF:-1,Yeshua Radio Catolica
 https://securestreams4.autopo.st:1705/yeshua
-#EXTINF:-1,Yolombo Estereo 
-https://a12.asurahosting.com/listen/yolomb%C3%B3_est%C3%A9rep/radio.mp3
 #EXTINF:-1,yumbo estereo
 http://209.126.119.28:8303/stream?type=http&nocache=4
 #EXTINF:-1,ZonaSalsa

@@ -25,6 +25,8 @@ https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio
 https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio
 #EXTINF:-1,AVIVmedia
 http://176.9.7.145:8127/stream
+#EXTINF:-1,DizGraf Radio
+https://radio.dizgraf.com/listen/dizgraf_radio/radio.mp3
 #EXTINF:-1,Eco 99fm 
 https://eco01.livecdn.biz/ecolive/99fm_aac/icecast.audio?hash=1559501510715.m4a
 #EXTINF:-1,ECO99FM

@@ -533,6 +533,8 @@ http://as-hls-ww-live.akamaized.net/pool_62063831/live/ww/bbc_radio_one_dance/bb
 http://as-hls-ww-live.akamaized.net/pool_50082558/live/ww/bbc_radio_orkney/bbc_radio_orkney.isml/bbc_radio_orkney-audio%3d96000.norewind.m3u8
 #EXTINF:-1,BBC Radio Orkney (96k)
 http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_orkney.m3u8
+#EXTINF:-1,BBC Radio Oxford
+http://as-hls-ww-live.akamaized.net/pool_19212690/live/ww/bbc_radio_oxford/bbc_radio_oxford.isml/bbc_radio_oxford-audio%3d96000.norewind.m3u8
 #EXTINF:-1,BBC Radio Scotland Extra (96k)
 http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_scotland_mw.m3u8
 #EXTINF:-1,BBC Radio Shetland (96k)
@@ -1155,6 +1157,8 @@ https://s4.radio.co/sf48c236db/listen
 https://listen-nation.sharp-stream.com/tcnationdigital.mp3
 #EXTINF:-1,Drama Radio
 https://streaming06.liveboxstream.uk/proxy/roksta10/stream
+#EXTINF:-1,Drift Radio
+https://drift.radio/listen
 #EXTINF:-1,Drive 105
 http://icecast.easystream.co.uk:8000/drive105
 #EXTINF:-1,Drum & Bass on Party Vibe Radio
@@ -1205,6 +1209,8 @@ https://easyradio-radiohosting.radioca.st/stream
 https://easylistening.out.airtime.pro/easylistening_a
 #EXTINF:-1,EAVA FM 102.5 FM
 https://radio.canstream.co.uk:8000/eavafm.mp3
+#EXTINF:-1,Echo Radio
+http://185.195.238.30/listen/echo/radio.mp3
 #EXTINF:-1,Edge 1
 https://stream.aiir.com/8dhvgxm1kbvuv
 #EXTINF:-1,Edge 2
@@ -1669,6 +1675,8 @@ https://stream.cloudrad.io/5913/8160
 https://azuracast.hifiradio.net/radio/8020/radio.mp3?1735160261
 #EXTINF:-1,High Peak 1
 https://stream3.themediasite.co.uk:8260/stream
+#EXTINF:-1,Hillz FM
+https://radio.canstream.co.uk:8156/live.mp3
 #EXTINF:-1,Hits hull & East York
 https://listen-nation.sharp-stream.com/hull.mp3?aw_0_1st.playerid=BMUK_html5
 #EXTINF:-1,Hits Radio London
@@ -1848,7 +1856,7 @@ https://joyhits.online/joyhits.aac
 #EXTINF:-1,Joy Radio UK
 http://uk5.internet-radio.com/proxy/joyradio?mp=/stream
 #EXTINF:-1,Joyhits UK FLAC
-http://joyhits.online/joyhits.flac.ogg
+https://joyhits.online/joyhits.flac.ogg
 #EXTINF:-1,Judas Priest
 https://stream.pcradio.ru/judas_priest-hi
 #EXTINF:-1,Juice Radio
@@ -2191,6 +2199,8 @@ https://owncast.mellowmountainradio.com/hls/stream.m3u8
 https://stream-mixtape-geo.ntslive.net/mixtape6
 #EXTINF:-1,Memory Lane Radio
 https://memorylaneradio.radioca.st/;
+#EXTINF:-1,Meridian FM 107
+https://uksoutha.streaming.broadcast.radio/meridianfm
 #EXTINF:-1,Mersey Radio
 https://stream.shoutcastservices.com/proxy/merseyradio/stream
 #EXTINF:-1,Merseyland Alternative Radio
@@ -2409,6 +2419,8 @@ http://stream.laut.fm/numanme
 http://bitsmitter.com:8000/
 #EXTINF:-1,Offshore Music Station
 http://bitsmitter.com:8000/omr%20;stream.mp3
+#EXTINF:-1,Old Gold Radio
+https://oldgoldradio.com:10443/listen/oldgoldradio/radio.mp3
 #EXTINF:-1,Old Skool Anthems
 http://138.201.198.218:8101/stream
 #EXTINF:-1,Old Skool Rave Tapes
@@ -2615,6 +2627,8 @@ https://uksoutha.streaming.broadcast.radio/quality_FM
 https://radio.erb.pw/listen/subspace/radio.mp3
 #EXTINF:-1,Queen
 https://stream.pcradio.ru/Queen-hi
+#EXTINF:-1,Raaj FM
+http://live.canstream.co.uk:8000/raajfm.mp3
 #EXTINF:-1,Radio Africana
 http://kepler.shoutca.st:8201/stream
 #EXTINF:-1,Radio Albion
@@ -3397,6 +3411,8 @@ http://stream.techno.fm/radio.mp3
 http://stream.techno.fm/radio320.mp3
 #EXTINF:-1,Teenage Kicks Radio
 https://onlineradiobox.com/json/fr/teenagekicks/play
+#EXTINF:-1,TEKnival Radio
+https://listen.teknivalradio.com/listen/teknivalradio/radio.flac
 #EXTINF:-1,Teknival Radio
 https://listen.teknivalradio.com/listen/teknivalradio/radio.mp3
 #EXTINF:-1,telstar
@@ -3565,6 +3581,8 @@ https://ukbassradio.com/stream
 https://www.ukbassradio.com/stream
 #EXTINF:-1,UK Health Radio
 https://streaming.radio.co/s8e535ff20/listen
+#EXTINF:-1,UK Hits - London (MP3)
+http://stream.zeno.fm/dpqrqe9nrv8uv
 #EXTINF:-1,UK National Radio
 https://das-edge14-live365-dal02.cdnstream.com/a80402
 #EXTINF:-1,UK Pressure Radio
@@ -3683,6 +3701,8 @@ http://sc02.lemonhost.ovh:8108/;
 https://c20.radioboss.fm:8569/stream
 #EXTINF:-1,Westside Radio
 http://listen-westside.sharp-stream.com/westside.mp3
+#EXTINF:-1,Weymouth Rocks (Medium Bitrate)
+http://cast1.asurahosting.com:8621/med
 #EXTINF:-1,White Cliffs Radio
 https://listen.whitecliffsradio.co.uk/
 #EXTINF:-1,Winchester Radio

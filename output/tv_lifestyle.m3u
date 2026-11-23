@@ -21,7 +21,5 @@ https://freem3u.xyz/api/live/play.m3u8?vid=188
 https://freem3u.xyz/api/live/play.m3u8?vid=136
 #EXTINF:-1,ON Style TV (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=184
-#EXTINF:-1,TLC (India) HD (1080p)
-http://116.90.120.149:8000/play/a11g/index.m3u8
 #EXTINF:-1,TLC Latin America (1080p)
 http://38.134.250.110:8000/play/a00n/index.m3u8

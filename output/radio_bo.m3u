@@ -67,12 +67,16 @@ https://usa13.fastcast4u.com/proxy/fideslapaz?mp=/1
 https://usa14.fastcast4u.com/proxy/fidestarija?mp=/1
 #EXTINF:-1,Radio Folklorica Uyuni
 https://emiteradio.com/proxy/uyuni?mp=/stream
+#EXTINF:-1,RADIO FRONTERA FM 100.3 MHz
+https://stream.inliveserver.com:2020/8140/stream
 #EXTINF:-1,Radio Gigante Bolivia
 https://cloudstream2032.conectarhosting.com:7311/;
 #EXTINF:-1,Radio Kollasuyo FM
 https://azura2.bitstreaming.net:8000/radio128.aac
 #EXTINF:-1,RADIO MARIA BOLIVIA
 http://dreamsiteradiocp4.com:8022/stream
+#EXTINF:-1,Radio Mega Rurrenabaque
+https://live.turadiotv.com/8030/stream
 #EXTINF:-1,Radio Oldies - Red Uyuni
 https://emiteradio.com/proxy/clasicosingles?mp=/stream
 #EXTINF:-1,Radio Panamericana

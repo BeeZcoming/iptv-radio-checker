@@ -63,10 +63,6 @@ http://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81cfbbfbcee0837ba1b6
 http://rds3.desdeparaguay.net/transestacion40/transestacion40/playlist.m3u8
 #EXTINF:-1,RADIO EXITOS DE AYER
 http://stream.zeno.fm/hvnh6d5uebruv
-#EXTINF:-1,Radio Impacto 95.3
-https://radio.host.com.py:7137/;
-#EXTINF:-1,Radio Impacto 95.3 FM
-http://radio.host.com.py:9714/stream
 #EXTINF:-1,RADIO MARIA PARAGUAY
 http://dreamsiteradiocp.com:8090/stream
 #EXTINF:-1,Radio Mix 90.1 FM

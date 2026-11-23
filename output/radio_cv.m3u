@@ -7,6 +7,8 @@ https://hts02.brascast.com:9288/stream
 https://nl.digitalrm.pt:8098/stream
 #EXTINF:-1,Praia FM
 https://mpc1.mediacp.eu:8030/stream
+#EXTINF:-1,RADIO ALFA - CV
+http://uk6freenew.listen2myradio.com:10110/stream
 #EXTINF:-1,Radio Atlantico
 https://stream.cvhosting.uk/listen/radio_atlantico/radio.mp3
 #EXTINF:-1,Radio Comercial

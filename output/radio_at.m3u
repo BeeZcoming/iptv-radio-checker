@@ -97,6 +97,8 @@ https://frontend.streams.arabella.at/arabella-80er?aggregator=arabella-playlistf
 https://frontend.streams.arabella.at/arabella-90er?aggregator=arabella-playlistfile
 #EXTINF:-1,Arabella Austropop
 https://frontend.streams.arabella.at/arabella-austropop/stream/mp3?aggregator=arabella-playlistfile
+#EXTINF:-1,Arabella Christmas
+https://edge01.streams.arabella.at/arabella-christmas
 #EXTINF:-1,Arabella gold
 https://frontend.streams.arabella.at/arabella-gold/stream/mp3?aggregator=arabella-playlistfile
 #EXTINF:-1,Arabella Golden oldies
@@ -233,8 +235,6 @@ https://edge05.stream.maxfive.com/max5-joelive
 https://edge70.stream.maxfive.com/max5-joelive?aggregator=maxfive-homepage
 #EXTINF:-1,KroneHit Digital
 http://onair-ha1.krone.at/kronehit1058.mp3
-#EXTINF:-1,Kronehit Hardstyle
-https://kronehit.streamabc.net/50-fschannel2-aac-128-1016557
 #EXTINF:-1,KroneHit Radio
 http://onair-ha1.krone.at/kronehit64.aac
 #EXTINF:-1,KroneHit Radio

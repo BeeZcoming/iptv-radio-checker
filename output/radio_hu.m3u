@@ -81,6 +81,8 @@ http://civilradio.hu:8000/;stream
 http://civilradio.hu:8000/listen.mp3
 #EXTINF:-1,club dance 2
 http://stream.zeno.fm/pssclobh1rhuv
+#EXTINF:-1,Club Dance Online
+https://stream.clubdance.online:8002/live.mp3
 #EXTINF:-1,Club Dance Online - Retro
 http://stream.clubdance.online:8000/retro
 #EXTINF:-1,CLUBFLASHH RADIO
@@ -411,6 +413,8 @@ https://oxygenmusic.hu:8443/oxygenthe90shits
 http://oxygenmusic.hu:8000/xmas_320
 #EXTINF:-1,Oxygen Xmas (320)
 https://oxygenmusic.hu:8000/xmas_320
+#EXTINF:-1,OZONE FM
+https://oxygenmusic.hu:8000/ozonefm_128
 #EXTINF:-1,Ozonefm
 https://oxygenmusic.hu:8443/ozonefm_320
 #EXTINF:-1,Paks fm

@@ -69,8 +69,6 @@ https://stream2.mcvhost.com/blaster/
 https://stream.zeno.fm/udk5orfzet5vv
 #EXTINF:-1,BlueRadio
 https://stream-175.zeno.fm/udk5orfzet5vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1ZGs1b3JmemV0NXZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkFreVNWMThWUlBxbTN4enVOamZpemciLCJpYXQiOjE3MzQyNDIzNzYsImV4cCI6MTczNDI0MjQzNn0.23h_xxF5T74k5SnoUzP_iRfuisaRoMmmmXy_VpKZv3o
-#EXTINF:-1,BLUFM
-https://sonic.nnw.cl:7009/;
 #EXTINF:-1,Bonita
 https://sonicpanel.chileservidores.cl/8032/stream
 #EXTINF:-1,Cadenza Radio
@@ -128,7 +126,7 @@ http://sonando.us.digitalproserver.com/contemporanea_aconcagua.aac
 #EXTINF:-1,Cookies
 https://stream-176.zeno.fm/0udrp1s5ojuuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwdWRycDFzNW9qdXV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InB0Wm
 #EXTINF:-1,Corazón
-http://27693.live.streamtheworld.com:3690/CORAZON_SC
+http://27583.live.streamtheworld.com/CORAZON_SC
 #EXTINF:-1,Corporación FM
 https://audio1.tustreaming.cl/8026/stream/1/
 #EXTINF:-1,CQX PMONTT
@@ -145,8 +143,6 @@ https://stream-283.surfernetwork.com/hxv1ceue74zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzd
 https://broadcast.radio247.net/listen/desierto_web/radio.mp3
 #EXTINF:-1,Digital 105.5 FM - CONCEPCIÓN
 https://radio.digitalfm.cl:8000/concepcion1
-#EXTINF:-1,Digital 105.5 FM - TALCA
-https://radio.digitalfm.cl:8000/talca
 #EXTINF:-1,Digital 89.5 FM - CALAMA
 https://radio.digitalfm.cl:8000/calama1
 #EXTINF:-1,Digital 94.9 FM - VALPARAISO
@@ -183,6 +179,8 @@ https://stream10.usastreams.com/9314/stream/
 http://streaming.chiloestreaming.com:9920/;
 #EXTINF:-1,Esperanza FM 90.1 Ancud
 https://streaming.chiloestreaming.com:9654/stream
+#EXTINF:-1,Estación Latina
+https://video.mediawebchile.com:8004/stream
 #EXTINF:-1,Estilo FM
 https://audio3.tustreaming.cl/7120/stream
 #EXTINF:-1,ESTRELLA DEL MAR
@@ -286,7 +284,7 @@ https://radio.libelulachile.cl/listen/rec/radio.mp3
 #EXTINF:-1,Llacolén
 http://sonando.us.digitalproserver.com/radiollacolen.aac
 #EXTINF:-1,Los 40 Principales Chile
-http://24503.live.streamtheworld.com/LOS40_CHILE_SC
+http://27343.live.streamtheworld.com/LOS40_CHILE_SC
 #EXTINF:-1,LOS40 Chile
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CHILEAAC.aac
 #EXTINF:-1,Maldonado FM
@@ -327,6 +325,8 @@ https://stream.zeno.fm/vtzf1dppgxiuv
 https://sonic.portalfoxmix.club/8072/stream
 #EXTINF:-1,Ni Tan Retro FM
 https://sonic.portalfoxmix.cl/8090/;
+#EXTINF:-1,Nocturne Vault Radio
+https://semi-pillow-covers-rose.trycloudflare.com/listen/nocturne-radio/radio.mp3
 #EXTINF:-1,Nostálgica 2026
 https://video.mediawebchile.com/stream/8032
 #EXTINF:-1,Océano FM
@@ -713,6 +713,8 @@ http://escucha.radiopaulafm.com/
 https://sp1.streamingssl.com/8058/stream
 #EXTINF:-1,Radio Pauta
 https://unlimited5-us.dps.live/radiopauta/gotardis/audio/now/livestream1.m3u8
+#EXTINF:-1,Radio Perfección 80s
+https://video.mediawebchile.com:8134/stream
 #EXTINF:-1,Radio Perla del Maule
 https://grupcomunicados.us:8084/;
 #EXTINF:-1,Radio Picados
@@ -743,12 +745,8 @@ https://redirector.dps.live/p7puertomontt/aac/icecast.audio
 https://redirector.dps.live/p7valdivia/aac/icecast.audio
 #EXTINF:-1,Radio Punto Siete Osorno Chile
 https://redirector.dps.live/p7osorno/mp3/icecast.audio
-#EXTINF:-1,Radio Putupur
-https://audio0.tustreaming.cl/7540/stream
 #EXTINF:-1,Radio Rebuena 95.7FM
 https://audio5.tustreaming.cl/7930/stream
-#EXTINF:-1,Radio Recreo
-https://sonicpanel.cc/8018/stream
 #EXTINF:-1,Radio Recuerdos
 http://sonando.us.digitalproserver.com/radiorecuerdos.mp3
 #EXTINF:-1,Radio Refugio Limache
@@ -775,6 +773,8 @@ https://archi-us.digitalproserver.com/san-gabriel-fm.aac
 https://sonic.portalfoxmix.club/8146/stream
 #EXTINF:-1,Radio Santa María
 https://archi-us.digitalproserver.com/santa-maria-am.aac
+#EXTINF:-1,Radio Sembrador
+https://sonic.portalfoxmix.cl/9884/stream
 #EXTINF:-1,RADIO SOL
 https://us9.maindigitalstream.com/ssl/7389
 #EXTINF:-1,Radio Sol FM 97.7
@@ -844,7 +844,7 @@ http://panelradio.stream:8560/mp3_live
 #EXTINF:-1,Radio80 Club
 http://stream.radioclub80.cl:8010/
 #EXTINF:-1,Radioactiva
-http://26513.live.streamtheworld.com:3690/ACTIVA_SC
+http://27583.live.streamtheworld.com:3690/ACTIVA_SC
 #EXTINF:-1,Radioactiva 92.5 FM
 http://24423.live.streamtheworld.com:3690/ACTIVAAAC_SC
 #EXTINF:-1,radioclub80 rock
@@ -910,7 +910,7 @@ https://archi-us.digitalproserver.com/radiosanjose.aac
 #EXTINF:-1,Save Room FM
 https://saveroomfm.duckdns.org/stream
 #EXTINF:-1,Señal Dance Chile
-https://stream-285.surfernetwork.com/12qqry2t0nhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxMnFxcnkydDBuaHZ2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ind1Yk1yc0ZXU1FHS1B4MTN0ZlJVYmciLCJpYXQiOjE3OTQ5MDgwOTMsImV4cCI6MTc5NDkwODE1M30.Hk-9qoskL2MrBLNbaf8d7w8uHCptvwaQwKrL99k0Bqc
+https://stream-285.surfernetwork.com/12qqry2t0nhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxMnFxcnkydDBuaHZ2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImdWSzZRaFlDUnF5Ym5OY0VCTkx5dWciLCJpYXQiOjE3OTUzNDA4OTcsImV4cCI6MTc5NTM0MDk1N30.BWrdQbMFcmUYgnf486qNLaKf5rZIYs1LdUrY0xgGHa0
 #EXTINF:-1,Silens Clamor
 https://www.silensclamor.com/live
 #EXTINF:-1,Sintonizados con Cristo Radio - IMPCH San Miguel
@@ -935,8 +935,6 @@ https://s4.radio.co/s421105570/listen
 https://icecast.centaury.cl:7610/SSDEMO
 #EXTINF:-1,Tele13 Radio 103.3
 https://mdstrm.com/audio/5c915613519bce27671c4caa/live.m3u8
-#EXTINF:-1,Texto Plano
-http://texto-plano.xyz:8000/live.ogg
 #EXTINF:-1,Tropical Ranchero
 https://sonic01.zglobalhost.com/8068/stream
 #EXTINF:-1,UC Radio Beethoven

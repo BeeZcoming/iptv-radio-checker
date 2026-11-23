@@ -15,6 +15,8 @@ http://n06.radiojar.com/pyea7q9h5ehvv
 https://stream.radiojar.com/iintl_c
 #EXTINF:-1,Iran Intl (Iran International)
 https://radio.iraninternational.app/iintl_c
+#EXTINF:-1,Iran On Air
+http://ice41.securenetsystems.net/KIRN
 #EXTINF:-1,Iran Radio English
 https://live.iranradio.ir:8000/live-en.mp3
 #EXTINF:-1,parsa
@@ -25,8 +27,6 @@ https://free.rcast.net/230792
 https://radio.gachsaran.org/gach
 #EXTINF:-1,Radio Mojahed - رادیو مجاهد
 https://s2.radio.co/s830691c74/listen
-#EXTINF:-1,Radio Mojdeh
-http://ic2326.c1261.fast-serv.com/rm128
 #EXTINF:-1,Radio Mojdeh - Iranian Farsi/Persian Christian music and talk
 https://ic2326.c1261.fastserv.com/rm128
 #EXTINF:-1,Radio Sarcheshme

@@ -62,7 +62,7 @@ https://www.myipcast.com/radio/adriatic
 #EXTINF:-1,AFN 360 Aviano
 http://25553.live.streamtheworld.com:3690/AFNE_AVN_SC
 #EXTINF:-1,AFN 360 Naples
-http://29344.live.streamtheworld.com:3690/AFNE_NAP_SC
+http://21633.live.streamtheworld.com/AFNE_NAP_SC
 #EXTINF:-1,AFN 360 Sigonella
 http://28513.live.streamtheworld.com:3690/AFNE_SIG_SC
 #EXTINF:-1,AFN 360 Vicenza
@@ -707,6 +707,10 @@ https://radio.celodex.com/stream/ossido.mp3
 http://klasse1.fluidstream.eu/rete8fm.mp3?FLID=1&type=.mp3
 #EXTINF:-1,Otto FM
 https://klasse1.fluidstream.eu/rete8fm.aac
+#EXTINF:-1,Papoz56
+http://iw3qtf.sytes.net:8000/papofly
+#EXTINF:-1,Papoz56
+https://iw3qtf.sytes.net:8043/papofly
 #EXTINF:-1,Party Radio
 https://stream12.top-ix.org/partygroove2
 #EXTINF:-1,Penny FM
@@ -879,6 +883,8 @@ http://onair15.xdevel.com:8342/;
 https://streamsrv2.nets-sr.com:8004/stream
 #EXTINF:-1,Radio 906
 https://stream.rcs.revma.com/e580f9f39yuvv
+#EXTINF:-1,Radio A - Lunigiana e Golfo dei Poeti
+https://nr14.newradio.it/proxy/associa8/stream
 #EXTINF:-1,Radio A.R.C.
 https://arclibrary.grausof.it/stream
 #EXTINF:-1,Radio Activity
@@ -957,8 +963,6 @@ http://ice05.fluidstream.net/fluid0501.aac?FLID=6
 http://s6.mediastreaming.it:9134/;stream.mp3
 #EXTINF:-1,Radio Animati
 https://stream.radioanimati.it/ramobile
-#EXTINF:-1,Radio Antenna 2
-http://wma03.fluidstream.net:9070/listen.pls
 #EXTINF:-1,Radio Antenna 3
 http://nr8.newradio.it:9295/;
 #EXTINF:-1,Radio Antenna Adriatica
@@ -992,7 +996,7 @@ https://onair.armisa.it/listen/armisa/radio.mp3
 #EXTINF:-1,Radio Arya
 https://radioarya.it/listen/radio_arya/radio.mp3
 #EXTINF:-1,Radio Ascoli
-http://ice05.fluidstream.net/fluid0507.aac?FLID=E
+http://ice09.fluidstream.net/fluid0909.mp3?FLID=E
 #EXTINF:-1,Radio Asiago
 http://onair18.xdevel.com:8136/;
 #EXTINF:-1,Radio Aurora
@@ -1437,8 +1441,6 @@ http://nr6.newradio.it:9209/stream
 https://nr6.newradio.it/proxy/radiofal?mp=/stream
 #EXTINF:-1,Radio Forever 80
 https://stream.laut.fm/forever80
-#EXTINF:-1,Radio Forte Prenestino
-https://blimp.streampunk.cc/_stream/RadioForte.ogg
 #EXTINF:-1,Radio Freccia
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_audio.m3u8
 #EXTINF:-1,Radio Freier Fall 
@@ -1481,8 +1483,6 @@ http://95.110.186.253:8020/magic.mp3
 https://gammastereo.meway.host/stream
 #EXTINF:-1,Radio Garage
 http://onair7.xdevel.com:7094/;
-#EXTINF:-1,Radio Gas
-http://nr5.newradio.it:8731/stream
 #EXTINF:-1,RADIO GATTOPARDO
 https://sr11.inmystream.it/proxy/radiogattopardo?mp=/stream&1700931042510
 #EXTINF:-1,Radio Gela Express Network
@@ -1689,8 +1689,6 @@ https://ssl.audio1.meway.tv/proxy/radiolegends?mp=/stream
 https://radio.radioleila.com/radioleila.mp3
 #EXTINF:-1,Radio Leopolda
 https://onair7.xdevel.com/proxy/xautocloud_ohfs_1545?mp=/stream
-#EXTINF:-1,Radio Like
-https://ice43.fluidstream.net/antenna2.mp3?FLID=1&type=.mp3
 #EXTINF:-1,Radio Linea Drive
 https://rblive.it:8100//radio.mp3
 #EXTINF:-1,Radio Linea Italia
@@ -1805,6 +1803,8 @@ https://sr14.inmystream.it/stream/citypress
 http://nr6.newradio.it:9182/stream
 #EXTINF:-1,RADIO MI PIACI
 https://nr6.newradio.it/proxy/lbelvi01?mp=/stream;
+#EXTINF:-1,Radio Mia
+http://nr6.newradio.it:9118/;stream.aac
 #EXTINF:-1,Radio Milano TV
 http://nr6.newradio.it:9120/
 #EXTINF:-1,Radio Milazzo
@@ -1919,8 +1919,6 @@ http://sr10.inmystream.info:8212/;
 https://sr6.inmystream.it/proxy/radiosonica2?mp=/stream
 #EXTINF:-1,Radio Omega Sound
 https://nr9.newradio.it/proxy/radioome?mp=/stream
-#EXTINF:-1,Radio Onda 2
-http://onair18.xdevel.com:8052/;
 #EXTINF:-1,Radio Onda Blu
 http://188.165.206.81:10050/stream
 #EXTINF:-1,Radio Onda D'Urto
@@ -1941,6 +1939,8 @@ http://onair20.xdevel.com:8098/;stream.mp3
 http://s3.voscast.com:8598/stream
 #EXTINF:-1,Radio Onda Rossa
 https://s.streampunk.cc/ondarossa.ogg
+#EXTINF:-1,Radio Onda Sarda
+https://dreamsiteradiocp3.com/proxy/radiosardegna?mp=/stream?ver=199651
 #EXTINF:-1,Radio Onda Verde
 http://dreamsiteradiocp3.com:8050/stream
 #EXTINF:-1,radio ondarossa
@@ -2461,8 +2461,6 @@ https://eu2.fastcast4u.com/proxy/radiox?mp=/1
 http://eu1.fastcast4u.com:2014/stream
 #EXTINF:-1,Radio Yacht Sunsation - Always Summer
 https://sr12.inmystream.it:2020/stream/radioyacht
-#EXTINF:-1,Radio YES
-https://stream1.aswifi.it/radioyes/live/index.m3u8
 #EXTINF:-1,Radio Zai.net
 http://stream.mandragola.com/radiozainet
 #EXTINF:-1,Radio Zenith (Messina)
@@ -2501,10 +2499,10 @@ https://sr6.inmystream.it/proxy/claudio/stream
 http://stream.laut.fm/radiogaia
 #EXTINF:-1,RADIOGAMMA5
 https://ice05.fluidstream.net/fluid0510.mp3
-#EXTINF:-1,RadiogrAMma
-https://stream.radiospore.oziosi.org:8003/zirudela.ogg?n=84fd45ac00e0d8b39c6f
 #EXTINF:-1,RadioGs
 https://stream.zeno.fm/f384h3c0r98uv
+#EXTINF:-1,Radiolina
+https://streaming.shoutcast.com/radiolina
 #EXTINF:-1,Radiolina Trapani
 http://94.23.67.20:8030/;
 #EXTINF:-1,Radioluna DJ
@@ -2614,7 +2612,7 @@ https://mars.streamerr.co/8068/;
 #EXTINF:-1,RCS Bisceglie
 https://nr6.newradio.it:19463/stream
 #EXTINF:-1,RCS Napoli
-http://ice12.fluidstream.net/fluid1201.mp3
+http://ice09.fluidstream.net/fluid0905.aac
 #EXTINF:-1,RCS Radio Camaldoli Stereo
 http://ice04.fluidstream.net/fluid0401.mp3
 #EXTINF:-1,RCS Story
@@ -2825,8 +2823,6 @@ https://rtr99.fluidstream.eu/rtr99.aac
 https://rtr99.fluidstream.eu/rtr99_happy.aac
 #EXTINF:-1,RTTR
 http://str01.fluidstream.net/rtt.mp3
-#EXTINF:-1,RTV Radio Soul
-https://rtvradio.sytes.net:8000/soul
 #EXTINF:-1,Ruggine
 https://radio.celodex.com/stream/ruggine.mp3
 #EXTINF:-1,Runtime Radio
@@ -2873,10 +2869,6 @@ https://listen.soulradio.it/it
 https://stream10.xdevel.com/audio3s975559-2094/stream/icecast.audio
 #EXTINF:-1,Spazio Radio
 http://s3.mediastreaming.it:7190/;stream.mp3
-#EXTINF:-1,Spore
-https://stream.radiospore.oziosi.org:8003/spore.ogg
-#EXTINF:-1,Spore LQ
-http://upstream.radiospore.oziosi.org:8000/spore_LQ.ogg
 #EXTINF:-1,Stadtradio Meran
 http://94.23.66.155:9250/srmhigh
 #EXTINF:-1,Station Italy
@@ -3021,8 +3013,6 @@ https://icy.unitedradio.it/um077.mp3
 https://icy.unitedradio.it/um067.mp3
 #EXTINF:-1,United Music Rock Hits
 https://icy.unitedradio.it/um066.aac
-#EXTINF:-1,Urban Radio
-https://nr3.newradio.it:18100/stream
 #EXTINF:-1,V2 Beat Italy
 https://de1se01.v2beat.live/icecast.audio
 #EXTINF:-1,V2Beat Radio

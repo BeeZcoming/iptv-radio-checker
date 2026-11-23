@@ -141,8 +141,6 @@ https://stream.fmgoud.be/fm-goud-noord-limburg
 https://stream.fmgoud.be/fm-goud-maasland
 #EXTINF:-1,FM Goud Tenerife
 https://stream.fmgoud.be/fm-goud-tenerife
-#EXTINF:-1,Frequence Eghezee
-http://stream.fr-eghezee.be:8054/FE
 #EXTINF:-1,Fréquence Plus Andenne 
 http://frequenceplusandenne.ice.infomaniak.ch/frequenceplusandenne-192.mp3
 #EXTINF:-1,Fun Radio
@@ -449,6 +447,8 @@ http://shoutcast2.wirelessbelgie.be:8100/;
 http://radiocontact.ice.infomaniak.ch/radiocontact-mp3-192.mp3
 #EXTINF:-1,Radio contact
 http://radiocontact.ice.infomaniak.ch/radiocontact-mp3-128.mp3
+#EXTINF:-1,Radio Continu - the original
+https://streams.dutchmediacenter.nl/listen/radiocontinu/live
 #EXTINF:-1,Radio De Musketiers - Limburg, be
 https://demusketiers.beheerstream.nl/8022/stream
 #EXTINF:-1,Radio Demerstad
@@ -641,6 +641,10 @@ http://streams.movemedia.eu:8440/
 http://server7.radio-streams.net:8157/stream
 #EXTINF:-1,Rowyna Music (nw.strm)
 https://server7.radio-streams.net/proxy/rowynamu/stream
+#EXTINF:-1,RTBF Classic 21
+http://radio.rtbf.be/c21/aac-128/fl
+#EXTINF:-1,RTBF Mix
+http://radio.rtbf.be/mix/aac-128/fl
 #EXTINF:-1,scorpio
 https://stream.radioscorpio.be/stream
 #EXTINF:-1,Slow Radio
@@ -725,6 +729,8 @@ https://27913.live.streamtheworld.com/TOPSPINNING.mp3
 https://dc1.serverse.com/proxy/wiupfvnu?mp=/TradCan
 #EXTINF:-1,Trendy FM
 http://stream.trendyfm.be/
+#EXTINF:-1,TrosFM
+http://s16.myradiostream.com:9362/listen.mp3
 #EXTINF:-1,TrudoFM
 http://45.85.191.114:8073/stream
 #EXTINF:-1,TSF Radio Allround
@@ -807,8 +813,6 @@ https://progressive-audio.vrtcdn.be/content/fixed/11verk_ondemand_128.mp3
 https://s4.radio.co/sd1a7a0223/listen
 #EXTINF:-1,Warm FM 104.2
 http://stream05.warm.fm:9002/warm
-#EXTINF:-1,We Are Various
-https://azuracast.wearevarious.com/listen/we_are_various/live.mp3
 #EXTINF:-1,Webradio Atlantis - Zandvliet, BE
 https://zyrmuuzd.beheerstream.nl:8048/stream
 #EXTINF:-1,Willy - aac

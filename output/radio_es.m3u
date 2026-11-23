@@ -159,6 +159,8 @@ http://stream.beachgrooves.com:8000/stream
 https://stream.beachgrooves.com:9000/stream
 #EXTINF:-1,BeachGrooves Radio
 https://stream.beachgrooves.com:9000/stream.mp3
+#EXTINF:-1,Beautiful FM 100,4 Marbella / 95,5 Malaga-Migas
+https://beautifulfm.streampartner.nl/live?type=.mp3
 #EXTINF:-1,BENICARLO RADIO by Xopo
 https://streaming.enacast.com/radiobenicarlo128.mp3
 #EXTINF:-1,Berea FM 92.1
@@ -628,7 +630,7 @@ http://topradio.one:8057/autodj
 #EXTINF:-1,En La Tarima Oficial
 https://streamer.radio.co/s752032ed6/listen
 #EXTINF:-1,Eñe Radio
-https://stream-175.surfernetwork.com/am74zvzksv8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhbTc0enZ6a3N2OHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Im9lbkhoc18xVC1HVGZ6SURWM19xUkEiLCJpYXQiOjE3OTQ5MDk4NTUsImV4cCI6MTc5NDkwOTkxNX0.djMI3mWyPE8njVTuPYf1JZ3yomi0RG9ZadgRwSG_88E
+https://stream-175.surfernetwork.com/am74zvzksv8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhbTc0enZ6a3N2OHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InprcGlCOE5lUnhlY3ZNR2FrYnhtelEiLCJpYXQiOjE3OTUzNDI1MDgsImV4cCI6MTc5NTM0MjU2OH0.MH4SwvG-6344NZ7Ol37Z1GEZN-znkZggcoiERkiHeDQ
 #EXTINF:-1,Energía Flamenca
 https://axarquia.emisiononline.es/radio/8020/radio.mp3
 #EXTINF:-1,ENERGIA FM - CARAVACA DE LA CRUZ 90.0
@@ -934,13 +936,15 @@ https://server5.mediasector.es:8020/jazzradiospain.mp3
 #EXTINF:-1,JazzChillRadio
 https://solid48.streamupsolutions.com/proxy/hjphrupx/stream
 #EXTINF:-1,Jeremías Sebastián Roco
-https://strw3.openstream.co/534?aw_0_1st.collectionid%3D7499%26stationId%3D7499%26publisherId%3D558%26k%3D1794975931
+https://strw3.openstream.co/534?aw_0_1st.collectionid%3D7499%26stationId%3D7499%26publisherId%3D558%26k%3D1795407969
 #EXTINF:-1,JFK Radio Ibiza
 https://stream.aiir.com/7dsjltmny8cvv
 #EXTINF:-1,Jose Antonio Ruiz Garcíaº
 https://radiobot.radioslibres.info/listen/radio_almaina/radio.mp3
 #EXTINF:-1,Josema Metal Radio
 https://radio.josema.zapto.org:8443/listen/metal/radio
+#EXTINF:-1,Josema MSX Radio
+https://radio.josema.zapto.org:8443/listen/msx/radio
 #EXTINF:-1,Josema Retro Radio
 https://radio.josema.zapto.org:8443/listen/retro/radio
 #EXTINF:-1,K-Rock Europe
@@ -1143,8 +1147,6 @@ https://media.profesionalhosting.com:8047/stream
 https://radios.lamaster.es:8000/guadalhorce
 #EXTINF:-1,Master FM Asturias
 http://82.223.102.59:8010/
-#EXTINF:-1,MASTER FM MADRID 93.7 FM
-https://radios.lamaster.es:8000/web24
 #EXTINF:-1,Mataró Ràdio
 https://relay.stream.enacast-cloud.com:30049/mataroradioHD.mp3
 #EXTINF:-1,Maxima Fm
@@ -1549,6 +1551,8 @@ https://escucha.calima.fm/stream
 https://server8.emitironline.com:18176/stream
 #EXTINF:-1,Radio Campillos 
 https://srv7031.dns-lcinternet.com:8074/stream
+#EXTINF:-1,Radio Can Casahl
+https://rcc.iberdahl.com/stream
 #EXTINF:-1,Radio Canet Del Mar
 https://enacast.com/radiocanetdemar/streams/HD
 #EXTINF:-1,Ràdio Capital
@@ -1687,8 +1691,6 @@ https://radiohostafrancs.cat/directe.mp3
 https://stream.radiohumorfm.com/stream
 #EXTINF:-1,Radio Ibizing
 https://a8.asurahosting.com:6850/radio.mp3
-#EXTINF:-1,Radio Ilíberis
-https://streaming2.elitecomunicacion.es:8074/stream?type=.mp3
 #EXTINF:-1,Radio Intercontinental - Madrid
 https://cast5.servcast.net/proxy/inter/stream
 #EXTINF:-1,Radio Intereconomía
@@ -1725,6 +1727,8 @@ https://radio.radiolaredo.com/8002/stream
 http://uk1.streamingpulse.com:7066/stream
 #EXTINF:-1,Radio Libertad
 https://server9.emitironline.com:19482/stream?cb=1708722000350
+#EXTINF:-1,Radio Libertad
+https://ice42.securenetsystems.net/KDAE
 #EXTINF:-1,Radio Líder
 http://server9.emitironline.com:8200/stream
 #EXTINF:-1,Radio Líder Cantabria
@@ -1787,6 +1791,8 @@ http://dreamsiteradiocp2.com:8030/;stream.mp3
 https://dreamsiteradiocp4.com/proxy/rmspain1?mp=/stream/1/
 #EXTINF:-1,Radio Maria Spain Espana
 http://dreamsiteradiocp.com:8060/;stream.mp3
+#EXTINF:-1,Radio Maricel
+https://radioserver.radiomaricel.cat/proxy/radio_maricel?mp=/stream
 #EXTINF:-1,Ràdio Marina
 http://streaming.enantena.com:8000/radiomarina128.mp3
 #EXTINF:-1,Radio Marina Blanes
@@ -1881,6 +1887,8 @@ http://radioradio.es:8000/stream
 https://enacast.com/radiorapita/streams/SD
 #EXTINF:-1,Radio Red
 https://streams.radio.co/s450f67578/listen
+#EXTINF:-1,Radio Redondela
+https://stream.visualtec.host:8000/redondela.mp3
 #EXTINF:-1,Radio Relativa
 https://streamer.radio.co/sd6131729c/listen
 #EXTINF:-1,Radio Remember
@@ -1999,6 +2007,8 @@ https://sonic.mediatelekom.net/9986/stream
 https://s9.citrus3.com:8174/stream
 #EXTINF:-1,Radio Villaba
 https://srv7041.dns-lcinternet.com/8042/stream
+#EXTINF:-1,Radio Villafranca
+http://emisoras.dip-badajoz.es:8072/stream
 #EXTINF:-1,Radio Vitoria
 https://multimedia.eitb.eus/live-content/radiovitoria-hls/bitrate_1.m3u8
 #EXTINF:-1,Radio Voz (Compostela)
@@ -2193,8 +2203,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_LUCENA
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SORIA.mp3
 #EXTINF:-1,SER Torrelavega
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_TORRELAVEGA.mp3
-#EXTINF:-1,SER Zaragoza
-https://zaragoza-copesedes-rrcast.flumotion.com/copesedes/zaragoza-low.mp3
 #EXTINF:-1,Sevilla FC Radio
 https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
 #EXTINF:-1,Shock FM
@@ -2243,6 +2251,8 @@ https://strcdn.klm99.com/8100/stream
 https://radio.stereoanime.com/listen/stereoanime/128
 #EXTINF:-1,Studio Piu Ibiza
 https://ice.studiopiu.net/studiopiuibiza.aac
+#EXTINF:-1,Sub Sub Ibiza
+https://subsub.fm/subsub/stream
 #EXTINF:-1,Sufi Soul Radio
 https://www.sufisoulradio.com/listen/sufi_soul_radio_main/radio.mp3
 #EXTINF:-1,Sufi Soul Radio

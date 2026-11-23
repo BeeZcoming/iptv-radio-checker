@@ -15,6 +15,8 @@ http://89.219.34.117:8008/NEWENERGY
 https://listen.radio-greendance.su/listen/green_dance/green_dance
 #EXTINF:-1,KTK TV
 http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1,Love Radio Kazakhstan
+https://stream.gakku.tv:8443/love128.mp3
 #EXTINF:-1,Lux FM Kazakhstan
 https://service.luxfm.kz/bc/live
 #EXTINF:-1,MUZZONE RADIO

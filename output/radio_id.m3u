@@ -23,6 +23,8 @@ https://stream-sg1.galuhmedia.co.id/listen/insaniasumbawa/1011sumbawa
 https://stream.radiojar.com/4ywdgup3bnzuv?1739561339
 #EXTINF:-1,104.2 MSTRI FM
 https://c2.siar.us:8120/live
+#EXTINF:-1,106.1 Geronimo FM
+https://ig.idstreamer.com:8090//live
 #EXTINF:-1,107 Dakta FM
 http://175.103.48.4:9302/stream
 #EXTINF:-1,181.FM Rock 181
@@ -109,14 +111,10 @@ http://202.43.230.4:8000/live
 https://bob177.out.airtime.pro/bob177_a
 #EXTINF:-1,Bob Marley
 https://stream.pcradio.ru/bob_marley-hi
-#EXTINF:-1,BOOS 104,2 FM Padang
-http://sv3.alhasmedia.com/radio/8320/radio?1786805519233
 #EXTINF:-1,BRAYA RADIO
 https://live.brayaradio.com/listen/brayaradio/stream
 #EXTINF:-1,CAKRA 90.5 FM BANDUNG
 https://stream.rcs.revma.com/chuzgcqd6k3vv
-#EXTINF:-1,Camajaya FM
-https://ssg.streamingmurah.com:8078/;
 #EXTINF:-1,Campursari FM
 https://streaming.campursarifm.com/listen/campursari/campursari892
 #EXTINF:-1,CANDISEWU FM KLATEN
@@ -137,6 +135,8 @@ http://stream.classyfm.co.id:1034/stream.mp3
 https://streaming.classynetradio.com:8000/classySD
 #EXTINF:-1,Classy Worship
 https://streaming.classynetradio.com/listen/classyworship/worshipLQ
+#EXTINF:-1,CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist.m3u8
 #EXTINF:-1,COCOJO RADIO
 https://live.cocojoradio.com/listen/cocojoradio/cocojoradio
 #EXTINF:-1,Comfy Radio
@@ -145,6 +145,8 @@ https://station.comfyradio.id/listen/comfyradio/radio.mp3
 https://stream.zeno.fm/jw6ys87h2dguv
 #EXTINF:-1,Cosmo Radio 101.9 FM Bandung
 http://scg.streamingmurah.com:8074/stream
+#EXTINF:-1,CYBERNET FM Banjarmasin
+https://cybernet.web.id/studio/stream.php
 #EXTINF:-1,Damu Lumajang
 https://stream.radiodakwahmustofa.com:8724/damu
 #EXTINF:-1,Dangdut2
@@ -389,8 +391,6 @@ https://studio1.indostreamers.com:8010/stream/1/
 https://c4.siar.us/proxy/mradio/stream
 #EXTINF:-1,M-Stream Indo 
 https://stream.zeno.fm/iln4upodbvuuv
-#EXTINF:-1,Mandalika Radio Lombok
-https://stream.mandalikafmlombok.com/
 #EXTINF:-1,Mandarin Station 98.3 FM
 https://stream01-ssl.arenastreaming.com:8043/stream
 #EXTINF:-1,Marilyn Manson Radio
@@ -405,8 +405,6 @@ https://server.adyadigitalteknologi.com:8010/1
 http://c4.siar.us:8790/;
 #EXTINF:-1,Mercury FM
 https://svara-stream.radioddns.net/surabaya_mercuryfm-aac
-#EXTINF:-1,MERDEKA
-https://azuracast.suzananet.com/listen/merdeka_fm/radio
 #EXTINF:-1,Merdeka FM
 http://streaming.merdekafm.com:8020/;stream.nsv
 #EXTINF:-1,Mesin
@@ -421,46 +419,10 @@ http://channels.fluxfm.de/metal-fm/stream.mp3
 https://stream.pcradio.app/Metallica-hi
 #EXTINF:-1,Metrum Radio
 https://ssg.streamingmurah.com:8400/;
-#EXTINF:-1,Mettaswara 2000
-https://mettaswara.com:8700//theonest
-#EXTINF:-1,Mettaswara Campursari
-https://mettaswara.com:8700/cps
-#EXTINF:-1,Mettaswara Dangdut
-https://mettaswara.com:8700/d4d
-#EXTINF:-1,Mettaswara DhutKop Remix
-https://mettaswara.com:8700/mix
-#EXTINF:-1,Mettaswara Hits
-https://mettaswara.com:8700/hits
-#EXTINF:-1,Mettaswara Indo 2000
-https://mettaswara.com:8700//indo00
-#EXTINF:-1,Mettaswara Indonesia
-https://mettaswara.com:8700/indo
-#EXTINF:-1,Mettaswara Indonesia Gold
-https://mettaswara.com:8700//disco
-#EXTINF:-1,Mettaswara Java
-https://mettaswara.com:8700//java
-#EXTINF:-1,Mettaswara Koplo
-https://mettaswara.com:8700//koplo
-#EXTINF:-1,Mettaswara Relax
-https://mettaswara.com:8700//metta
-#EXTINF:-1,mettaswara slow rock
-https://mettaswara.com:8700//slowrock
-#EXTINF:-1,Mettaswara Smooth
-https://mettaswara.com:8700/smooth
-#EXTINF:-1,Mettaswara SoftRock
-https://mettaswara.com:8700/slowrock
-#EXTINF:-1,Mettaswara Throwback 80
-https://mettaswara.com:8700//mettatrow
-#EXTINF:-1,Mettaswara TOP 40
-https://mettaswara.com:8700/theone
 #EXTINF:-1,MFM 101.3
 https://mfm.isowae.com:8443/studio.mp3
 #EXTINF:-1,MGTRADIO
 https://sukmben.radiogentara.com/listen/mgtradio/mgtradio
-#EXTINF:-1,MGTRADIO
-http://s1.gntr.net/listen/mgtradio/mgtradio
-#EXTINF:-1,MGTRadio
-https://s1.gntr.net/listen/mgtradio/mgtradio
 #EXTINF:-1,MNC Trijaya FM
 https://proxy.rctiplus.com/?name=http://8.215.206.157:8002/;
 #EXTINF:-1,MNCU RADIO
@@ -506,6 +468,8 @@ https://otaku-world.stream.laut.fm/otaku-world
 #EXTINF:-1,Palace Radio
 https://s7.alhastream.com/listen/station_47/radio
 #EXTINF:-1,Pandu Musik Radio
+https://usa3.fastcast4u.com/proxy/pandumusikradio?mp=/1
+#EXTINF:-1,Pandu Musik Radio
 https://fpsnew2.listen2myradio.com:2199/listen.php?ip=212.84.160.3&port=5182&type=ice&mount=stream
 #EXTINF:-1,PARAMUDA Radio Bandung
 https://i.klikhost.com/8332/;
@@ -529,6 +493,10 @@ https://live.phoenixradiobali.com:8250/phoenixradio
 https://live.radiopinguinfm.com:8350/;stream.mp3
 #EXTINF:-1,POLARIS FM
 https://i.klikhost.com/9604/stream.aac
+#EXTINF:-1,Polaris FM Kudus
+https://i.klikhost.com:8160/stream
+#EXTINF:-1,POP FM Jogja
+https://i.klikhost.com:9154/stream
 #EXTINF:-1,POP FM Semarang
 https://i.klikhost.com:9612/stream.aac
 #EXTINF:-1,Prambors Bandung 98.4 FM
@@ -557,6 +525,10 @@ https://a4.siar.us/radio/8360/radio.mp3
 https://i.klikhost.com:8892/stream
 #EXTINF:-1,Radar CBS Tegal
 https://a5.siar.us/radio/8010/radio
+#EXTINF:-1,RADIKS FM SEMARANG
+https://i.klikhost.com:9620/stream
+#EXTINF:-1,RADIKS FM SEMARANG
+https://i.klikhost.com:9620/;
 #EXTINF:-1,Radio Adzan FM Bandung
 https://radioadzanfmbandung.com/streamer
 #EXTINF:-1,RADIO AIRMEN FM 107.9 MHZ
@@ -805,8 +777,6 @@ http://i.klikhost.com:8500/;super.mp3
 https://stream.zeno.fm/d16n50mkzhhvv
 #EXTINF:-1,Scorpions
 https://stream.pcradio.app/Scorpions-hi
-#EXTINF:-1,Sebayu FM Tegal
-https://radio-streaming.tegalkota.go.id/stream.mp3
 #EXTINF:-1,Sensasi FM
 https://stream.radiojar.com/4ywdgup3bnzuv.mp3
 #EXTINF:-1,She Radio 99.6 FM Surabaya
@@ -885,6 +855,8 @@ https://i.klikhost.com/8822/;
 https://a2.alhastream.com/listen/station_13/radio
 #EXTINF:-1,Swara Radio
 https://s3.radio.co/s162c52c51/listen
+#EXTINF:-1,Synchronize Radio
+https://streaming.shoutcast.com/synchronizeradio
 #EXTINF:-1,Tarakan FM
 https://live.tarakanfm.com/listen/tarakanfm/stream
 #EXTINF:-1,Tarbiyah Sunnah

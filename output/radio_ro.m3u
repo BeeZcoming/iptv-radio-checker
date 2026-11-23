@@ -579,8 +579,6 @@ http://stream2.radiotransilvania.ro:8000/Nagyvarad
 https://radio.sonicpanel.ro/8102/stream
 #EXTINF:-1,Pro FM -stația Cluj Napoca 99,8 FM
 https://radioendirect.net/stream/125928
-#EXTINF:-1,Profi Rádió
-http://93.115.174.139:8000/stream
 #EXTINF:-1,ProFM
 https://edge126.rcs-rds.ro/profm/profm.mp3
 #EXTINF:-1,Protm
@@ -591,8 +589,6 @@ https://stream.rcast.net/200392
 http://radio1manele.no-ip.org:8000/
 #EXTINF:-1,Radio 1 Manele
 http://radio1manele.no-ip.org:8000/;
-#EXTINF:-1,Radio 1 Manele
-http://live.radiounumanele.ro:8000/
 #EXTINF:-1,Radio 2 Turda
 https://stream.zeno.fm/m4mtgf5t5s8uv
 #EXTINF:-1,Radio 3Net
@@ -637,8 +633,6 @@ https://ssl.omegahost.ro/8096/stream
 https://c32.radioboss.fm/stream/440
 #EXTINF:-1,Radio Babilon - Romania
 https://radiobabilon.radioca.st/stream
-#EXTINF:-1,Radio Balada (📌 Bistrița 📡 89,3 FM)
-http://94.52.142.229:85/broadwave.mp3
 #EXTINF:-1,Radio Balkan Romania
 https://live.radiobalkan.ro:8102/stream
 #EXTINF:-1,Radio Banat Link 93,3 FM
@@ -837,8 +831,6 @@ https://stream-galati.radiogalati.ro/
 https://a6.asurahosting.com:7030/radio.mp3?rnd=1786626073077
 #EXTINF:-1,Radio Glasul Ortodoxiei
 https://sonic.xservere.net:10884/stream
-#EXTINF:-1,Radio GMusic Colinde
-https://s9.webradio-hosting.com/proxy/rgmcolinde/stream
 #EXTINF:-1,Radio GMusic Dance
 https://s10.webradio-hosting.com/proxy/rgmdance/stream
 #EXTINF:-1,Radio GMusic Funky
@@ -889,8 +881,6 @@ https://s12.myradiostream.com/17492/listen.mp3
 https://s47.myradiostream.com/16234/listen.mp3
 #EXTINF:-1,Rádió KoKo
 https://az10.yesstreaming.net:8210/radiokoko.mp3
-#EXTINF:-1,Radio Koko
-http://serverconnect.dyndns.org:10/stream
 #EXTINF:-1,Rádio Koko
 https://az10.yesstreaming.net:8210/radiokoko
 #EXTINF:-1,Rádió Koko
@@ -956,7 +946,7 @@ http://asculta.radionebunya.ro:7575/
 #EXTINF:-1,Radio Nebunya Manele
 http://asculta.radionebunya.ro:7575/
 #EXTINF:-1,RADIO NEWS ROMÂNIA FM -Botoșani
-https://stream-175.surfernetwork.com/7aawq7feqrhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3YWF3cTdmZXFyaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlRqUnZsbWtMUTBlRVh2WnM1S1NrYkEiLCJpYXQiOjE3OTQ5MDg0MDcsImV4cCI6MTc5NDkwODQ2N30.XrmshENGuXYoJeT9taGIDjzzYKjEZe2gcv_ed8fvMOc
+https://stream-175.surfernetwork.com/7aawq7feqrhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3YWF3cTdmZXFyaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IktGWHRQRUFLUjNDTVFOWmRYZk5GNVEiLCJpYXQiOjE3OTUzNDE3NTcsImV4cCI6MTc5NTM0MTgxN30._8KXe-NEadeOhB4mQJPxx3JALNx0G-Bb1E5e7RJurR4
 #EXTINF:-1,Radio Noise 2000s
 https://2000slive.radionoise.ro:9122/stream
 #EXTINF:-1,Radio Noise 2010s
@@ -1395,6 +1385,8 @@ https://online.webcastradio.ro/star
 https://sp.totalstreaming.net:8125/
 #EXTINF:-1,Station Offline
 https://live.station-offline.com/listen/station-offline/live.aac
+#EXTINF:-1,Stil FM -Dej 106.1 FM
+http://92.180.18.201:8000/;
 #EXTINF:-1,Stil FM Radio - Călărași 105.5 FM
 http://5.2.233.147:8000/live
 #EXTINF:-1,Stil FM Radio - Oltenița 88.2 FM
@@ -1476,7 +1468,7 @@ https://colinde.radiotequila.ro/8989/stream
 #EXTINF:-1,Tequila România -Radio Petrecere
 https://petrecere.radiotequila.ro/7000/stream
 #EXTINF:-1,Terra FM
-https://stream.terrafm.ro/stream
+https://cloud.radiosonicpanel.ro/8020/stream
 #EXTINF:-1,TERRA FM
 https://radiosentir.sytes.net/stream?1774626668225
 #EXTINF:-1,Terra Radio -Medgidia 97.5 FM

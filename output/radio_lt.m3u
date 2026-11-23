@@ -21,6 +21,12 @@ https://stream.ehr.lt:8443/ehr
 https://s10.webradio-hosting.com/proxy/fredradiolt/stream
 #EXTINF:-1,Fréquence Protestante
 https://freqpro.streamakaci.com/frequenceprotestante.mp3
+#EXTINF:-1,Geras FM
+http://stream.goldfm.lt/gerasfm.aac
+#EXTINF:-1,Geras2 FM
+https://stream.goldfm.lt/gerasfm.mp3
+#EXTINF:-1,Gold FM
+https://stream.goldfm.lt/goldfm.mp3
 #EXTINF:-1,Haze Pub Radio
 https://live.leproradio.com/rocks.ogg
 #EXTINF:-1,Jazz FM

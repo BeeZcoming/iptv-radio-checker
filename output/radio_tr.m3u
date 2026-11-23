@@ -103,6 +103,14 @@ https://barisfm.ozelip.com:9588/stream
 https://yayin2.canliyayin.org:9350/stream?/;stream.mp3
 #EXTINF:-1,BATI RADYO
 https://sslyayin.netyayin.net:10902/
+#EXTINF:-1,BAU RADYO
+https://ssl120.radyotelekom.com.tr/8106/stream.mp4
+#EXTINF:-1,Bayram FM
+https://sslyayin.netyayin.net:10962/320.mp3
+#EXTINF:-1,Bayram FM
+https://sslyayin.netyayin.net/3442/stream/;stream.mp3
+#EXTINF:-1,BAYRAM FM TURKEY
+https://sslyayin.netyayin.net/3442/stream
 #EXTINF:-1,Best FM
 https://ssldyg.radyotvonline.com/best/bestfm.stream/playlist.m3u8
 #EXTINF:-1,BEST HİT
@@ -257,8 +265,6 @@ https://live.sinirsizhost.com.tr:8046/
 https://live.sinirsizhost.com.tr/8046/stream
 #EXTINF:-1,Easyland
 https://moondigitaledge.radyotvonline.net/easyland/playlist.m3u8
-#EXTINF:-1,Edizfm
-https://edizfm.ozelip.com/8030/stream
 #EXTINF:-1,efkar
 https://playerservices.streamtheworld.com/api/livestream-redirect/EFKAR.mp3
 #EXTINF:-1,EFSANE 4LÜ TURKEY
@@ -477,6 +483,8 @@ https://dijimedya.radyotvonline.net/gncradyo
 https://dijimedya.radyotvonline.net/goldturk
 #EXTINF:-1,KİSS MUSİKİ
 https://dijimedya.radyotvonline.net/radyomusiki
+#EXTINF:-1,KİSS SLOW
+https://radyo.slmbilisim.net/8004/stream
 #EXTINF:-1,KISS SPEED UP
 https://dijimedya.radyotvonline.net/speedup
 #EXTINF:-1,Kiss Türk
@@ -1055,8 +1063,6 @@ https://radio.guventechnology.com/9994/stream
 https://live.radyositesihazir.com/8078/stream
 #EXTINF:-1,Radyo Spor
 https://moondigitaledge.radyotvonline.net/radyospor/playlist.m3u8
-#EXTINF:-1,Radyo Sputnik
-https://icecast-rian.cdnvideo.ru/voicestm
 #EXTINF:-1,Radyo Taksi
 https://live.radyo.in/8006/stream
 #EXTINF:-1,RADYO TALYA
@@ -1137,8 +1143,6 @@ https://radyo.romantikses.com/romantiksesispart/stream
 https://radyo.romantikses.com/romantiksessakary/stream
 #EXTINF:-1,ROMANTİK TÜRK
 https://radyo.yayin.com.tr:6042/
-#EXTINF:-1,RS FM
-http://nfw.video.ria.ru/flv/audio.aspx?ID=99244423&type=mp3
 #EXTINF:-1,rtste
 http://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8
 #EXTINF:-1,RUN ON AİR
@@ -1308,7 +1312,7 @@ http://29103.live.streamtheworld.com/VIRGIN_RADIO_SC
 #EXTINF:-1,Virgin Radio Türkiye
 http://25443.live.streamtheworld.com/VIRGIN_RADIOAAC_SC
 #EXTINF:-1,Virgin Radio Türkiye
-http://19983.live.streamtheworld.com/VIRGIN_RADIO_SC
+http://22593.live.streamtheworld.com/VIRGIN_RADIO_SC
 #EXTINF:-1,VİRGİN RADYO
 https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIO_ITUNES.mp3
 #EXTINF:-1,Vitamin FM 88.4

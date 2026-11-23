@@ -3,18 +3,18 @@
 http://cp2.lorini.net:28018/stream
 #EXTINF:-1,Acción 104.5 FM (La diferencia en el dial)
 https://stream.intervalohost.com/accionfm/stream
+#EXTINF:-1,ACTIVA 104.9 FM
+https://stream.zeno.fm/t31pbasum7zuv
 #EXTINF:-1,Adulto Joven 88.1
 https://server6.globalhostla.com:9168/stream
-#EXTINF:-1,Alba Ciudad 96.3 FM
-https://envivo.albaciudad.org/albaciudad.mp3
-#EXTINF:-1,Alba Ciudad Radio 93.6 FM16k
-https://envivo.albaciudad.org/alba16.mp3
 #EXTINF:-1,Amiga FM 93.9
 https://stream.zeno.fm/dr612ew61rhvv
 #EXTINF:-1,Andes 89.3 FM
 http://streamingned.com:7098/;
 #EXTINF:-1,Audaz FM 94.5
 https://servers58.com/proxy/audaz?mp=/stream
+#EXTINF:-1,Baladas de Oro
+https://usa3.fastcast4u.com/proxy/hwmgkabt/stream
 #EXTINF:-1,BANDERA 105.7 FM
 http://streamingned.com:7148/;
 #EXTINF:-1,Barroso Radio
@@ -93,12 +93,12 @@ https://a12.asurahosting.com/listen/sol/radio.mp3
 https://acp2.lorini.net:28050/stream
 #EXTINF:-1,Espectaculo 100.7 FM
 https://laradiossl.online:10583/;?_=2#.mp3
+#EXTINF:-1,Esperanza Radio Quíbor
+https://esperanza-proxy.esperanzaradioquibor.workers.dev/
 #EXTINF:-1,ESPLENDIDA 91.9 FM
 https://stream.zeno.fm/jyrqyy8he4tvv
 #EXTINF:-1,Estereo 88.7 FM
 https://stream.zeno.fm/3e2keb1e7tzuv
-#EXTINF:-1,Evolussiun 92.9 FM
-https://laradiossl.online:8150/live
 #EXTINF:-1,Éxitos 90.5 FM - Puerto Ordaz
 https://acp4.lorini.net:10109/stream
 #EXTINF:-1,Exitos 99.9 FM
@@ -141,8 +141,6 @@ https://server6.globalhostla.com:9068/stream
 https://server6.globalhostla.com:9128/stream
 #EXTINF:-1,LA CIUDAD DE LOS CLÁSICOS RADIO
 https://stream.zeno.fm/ppyvnq28368uv
-#EXTINF:-1,La Doble RR
-https://stream.zeno.fm/u7sbv0hu1p8uv
 #EXTINF:-1,La FM 98.5 Buenisima La FM 98.5 Buenisima
 https://stream.zeno.fm/5t866rywrzzuv
 #EXTINF:-1,La Mega 100.9 FM
@@ -222,7 +220,7 @@ https://acp2.lorini.net:28008/stream
 #EXTINF:-1,PLENITUD 90.9
 https://sp.wnetserver.com/8060/stream
 #EXTINF:-1,Pregón 95.7 FM
-https://stream-178.surfernetwork.com/2dcuqasrykauv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyZGN1cWFzcnlrYXV2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjgwSUMzdUhkUzdXQjJNbmphQzhkaFEiLCJpYXQiOjE3OTQ5MDgxMzcsImV4cCI6MTc5NDkwODE5N30.V__Fka1myWzHfcIu_21cefLvOOwmmjE5T5JX1-MFGCI
+https://stream-178.surfernetwork.com/2dcuqasrykauv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyZGN1cWFzcnlrYXV2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjZfd2s3LWZPVFF5QnJfZ0RGUWhUaVEiLCJpYXQiOjE3OTUzNDEwNzIsImV4cCI6MTc5NTM0MTEzMn0.ZW9BppN3aKuEXeuY5qBtYOKRMoX0pjp5FFpddvTyppo
 #EXTINF:-1,Puro Llano Radio
 https://stream.zeno.fm/1jvlfyg36swuv
 #EXTINF:-1,Radio – Circuito POP FM 105.9
@@ -243,6 +241,8 @@ https://guri.tepuyserver.net/8040/stream
 https://guri.tepuyserver.net/8012/stream
 #EXTINF:-1,RADIO DYLAN
 https://stream.laut.fm/radiodylan
+#EXTINF:-1,Radio Fe y Alegría - Cd. Guayana 103.1FM
+https://worldradio.online/proxy/?q=http://aler.org:8000/ciudadguayana.aac&plugin_id=13399&site_id=15942544
 #EXTINF:-1,Radio Fe y Alegría - Cumaná 92.1FM
 http://aler.org:8000/cumana.aac
 #EXTINF:-1,Radio Folclorllanero
@@ -295,6 +295,8 @@ https://radiostream.interven.ca/listen/saborfm/radio.mp3
 https://stream-177.surfernetwork.com/dn2zapjics8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkbjJ6YXBqaWNzOHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJsbkl1WThmRFNobWMyRXAtSy1uVmF3IiwiaWF0IjoxNzk0NzkwMTc2LCJleHAiOjE3OTQ3OTAyMzZ9.GHmt-nNIS1kyWkOctVbnWWAYQAzkpJN_oFdHdCM7KsQ
 #EXTINF:-1,sensacion 95.9 fm
 https://stream-177.surfernetwork.com/fz3rkbb3uouvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmejNya2JiM3VvdXZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlRxak5KUTdPUzdTYWFRYm9ubE0wVlEiLCJpYXQiOjE3OTUzMDQyMjAsImV4cCI6MTc5NTMwNDI4MH0.HhFDwN7CBj2SvsgYeQT_9tkIhOMWZ99DWWYqF4CDIg8
+#EXTINF:-1,SIERRA 99.1 FM
+https://stream.zeno.fm/9m95mfutymruv
 #EXTINF:-1,Studio 102.7 FM
 https://stream.zeno.fm/um833nab8tzuv
 #EXTINF:-1,Tama Stereo

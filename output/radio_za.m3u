@@ -149,8 +149,6 @@ https://edge.iono.fm/xice/51_high.aac
 https://stream.zeno.fm/yfr50tzge0hvv
 #EXTINF:-1,Kakarela FM
 https://stream.zeno.fm/845opvifkhytv
-#EXTINF:-1,Kaleidoscope Online
-https://superagent-269bfe30.base44.app/functions/kaleidoscopeRadio?go=stream
 #EXTINF:-1,Kariega Online Radio
 https://stream.zeno.fm/uoscm48onclvv
 #EXTINF:-1,KASIE FM
@@ -205,6 +203,8 @@ http://148.251.43.149:8134/stream
 https://vm65162.streamerr.co/listen/megazone_bollywood_/radio.mp3
 #EXTINF:-1,Megazone South
 https://vm65162.streamerr.co/listen/megazone_south/radio.mp3
+#EXTINF:-1,MERAFONG 360 ONLINE RADIO
+https://sv2.famcast.co.za/stream/merafong?t=1769529345666
 #EXTINF:-1,Metro FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/METROFMAAC.aac
 #EXTINF:-1,MFM
@@ -244,7 +244,11 @@ https://edge.iono.fm/xice/65_medium.aac
 #EXTINF:-1,Pretoria FM
 https://edge.iono.fm/xice/362_medium.aac?ref=https%3A%2F%2Fwww.pretoriafm.co.za%2F
 #EXTINF:-1,Radio 786
+http://stream.krypton.co.za:8040/stream/
+#EXTINF:-1,Radio 786
 https://stream.krypton.co.za:8052/index.html?sid=1
+#EXTINF:-1,Radio 786
+https://stream.krypton.co.za/proxy/radio786?mp=/stream
 #EXTINF:-1,Radio Atlantis 107.9FM
 https://edge.iono.fm/xice/127_medium.aac?ref=https%3A%2F%2Fwww.radioatlantis.org.za%2F&adToken=
 #EXTINF:-1,Radio Bloem

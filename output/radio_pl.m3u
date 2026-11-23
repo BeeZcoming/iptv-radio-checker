@@ -6,7 +6,7 @@ http://ic1.smcdn.pl/1510-1.mp3
 #EXTINF:-1,24Dubstep.pl || CalmFlow
 https://stream.24dubstep.pl/listen/chillstep/mp3_normal
 #EXTINF:-1,24Dubstep.pl || DropZone Radio
-https://stream.24dubstep.pl/listen/dubstep/mp3_low
+https://stream.24dubstep.pl/listen/dubstep/mp3_best
 #EXTINF:-1,24Dubstep.pl || DropZone Radio
 https://stream.24dubstep.pl/radio/8000/mp3_normal
 #EXTINF:-1,24Dubstep.pl || DropZone Radio - MP3 320
@@ -151,6 +151,8 @@ https://stream.24dubstep.pl/listen/dubstep24h/live
 https://ssl-1.radiohost.pl:11250/stream
 #EXTINF:-1,Egida
 https://s3.slotex.pl:7536/;?type=http&nocache=57713
+#EXTINF:-1,El Radio
+http://kazpar.pl:8888/elradio_raw
 #EXTINF:-1,EL-Stacja
 http://radio.el-stacja.pl:8000/elstacja320.ogg
 #EXTINF:-1,EL-Stacja
@@ -509,6 +511,10 @@ https://ssl-1.radiohost.pl:11608/
 https://evcast.mediacp.eu:1290/
 #EXTINF:-1,Radio Bahary
 https://s1.slotex.pl/shoutcast/7838/stream
+#EXTINF:-1,Radio Baobab
+http://stream.radiobaobab.pl:8000/radiobaobab.mp3
+#EXTINF:-1,Radio Baobab
+http://stream.radiobaobab.pl:8000/radiobaobab.ogg
 #EXTINF:-1,RADIO BEZPIECZNA PODRÓŻ 
 https://ssl-1.radiohost.pl:9344/live
 #EXTINF:-1,Radio Bezpieczna Podroz
@@ -565,6 +571,8 @@ https://radiodht.com/stream_main/
 https://radiodht.com/stream_pepis/
 #EXTINF:-1,Radio Dimash
 http://29327.live.streamtheworld.com/SAM02AAC364_SC
+#EXTINF:-1,Radio Diminet
+https://eu4.fastcast4u.com/proxy/bondpley/stream
 #EXTINF:-1,Radio Disco Party - Club
 https://s3.slotex.pl/shoutcast/7354/stream
 #EXTINF:-1,Radio Disco Party - Disco Impreza
@@ -899,8 +907,6 @@ http://193.47.151.4:8060/1
 https://s1.slotex.pl/shoutcast/7390/stream
 #EXTINF:-1,Radio Orthodoxia
 https://stream.orthodoxia.pl/stream192.mp3
-#EXTINF:-1,Radio Osjaków
-https://stream20.hosterion.pl:7095/stream
 #EXTINF:-1,Radio Ostrowiec 95.2 FM
 http://s1.slotex.pl:7050/stream/1/;?type=http
 #EXTINF:-1,Radio Palotti FM
@@ -1442,7 +1448,7 @@ http://31.192.216.7/KOLEDY
 #EXTINF:-1,RMF Koledy + FAKTY
 http://31.192.216.7/KOLEDYF
 #EXTINF:-1,RMF Latino
-https://rs103-krk.rmfstream.pl/rmf_latino
+https://rs202-krk-cyfronet.rmfstream.pl/rmf_latino
 #EXTINF:-1,RMF MAXX
 https://rs9-krk2-cyfronet.rmfstream.pl/RMFMAXXX48
 #EXTINF:-1,RMF MAXX
@@ -1566,7 +1572,7 @@ http://195.150.20.7/SWIETAF
 #EXTINF:-1,RMF Szanty
 http://217.74.72.11/SZANTY
 #EXTINF:-1,Rmf Szanty
-https://rs102-krk.rmfstream.pl/rmf_szanty
+https://rs201-krk-cyfronet.rmfstream.pl/rmf_szanty
 #EXTINF:-1,RMF TOP2
 https://rs103-krk.rmfstream.pl/TOP2
 #EXTINF:-1,RMF TOP3

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-22T09:36:47.996042+00:00",
+  "generated_at": "2026-11-23T10:35:01.731777+00:00",
   "tv": {
-    "total": 847,
+    "total": 789,
     "files": [
       {
         "name": "General",
@@ -16,32 +16,32 @@
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/tv_undefined.m3u"
       },
       {
-        "name": "Movies",
-        "count": 69,
-        "file": "tv_movies.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/tv_movies.m3u"
-      },
-      {
         "name": "News",
-        "count": 69,
+        "count": 67,
         "file": "tv_news.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/tv_news.m3u"
       },
       {
         "name": "Music",
-        "count": 63,
+        "count": 60,
         "file": "tv_music.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/tv_music.m3u"
       },
       {
+        "name": "Movies",
+        "count": 51,
+        "file": "tv_movies.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/tv_movies.m3u"
+      },
+      {
         "name": "Sports",
-        "count": 62,
+        "count": 49,
         "file": "tv_sports.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/tv_sports.m3u"
       },
       {
         "name": "Entertainment",
-        "count": 51,
+        "count": 45,
         "file": "tv_entertainment.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/tv_entertainment.m3u"
       },
@@ -58,16 +58,16 @@
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/tv_series.m3u"
       },
       {
-        "name": "Documentary",
-        "count": 24,
-        "file": "tv_documentary.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/tv_documentary.m3u"
-      },
-      {
         "name": "Kids",
-        "count": 22,
+        "count": 19,
         "file": "tv_kids.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/tv_kids.m3u"
+      },
+      {
+        "name": "Documentary",
+        "count": 18,
+        "file": "tv_documentary.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/tv_documentary.m3u"
       },
       {
         "name": "Animation;Kids",
@@ -77,21 +77,21 @@
       },
       {
         "name": "Lifestyle",
-        "count": 13,
+        "count": 12,
         "file": "tv_lifestyle.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/tv_lifestyle.m3u"
-      },
-      {
-        "name": "Culture",
-        "count": 10,
-        "file": "tv_culture.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/tv_culture.m3u"
       },
       {
         "name": "Business",
         "count": 10,
         "file": "tv_business.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/tv_business.m3u"
+      },
+      {
+        "name": "Culture",
+        "count": 9,
+        "file": "tv_culture.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/tv_culture.m3u"
       },
       {
         "name": "Outdoor",
@@ -101,33 +101,21 @@
       },
       {
         "name": "Education",
-        "count": 8,
+        "count": 7,
         "file": "tv_education.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/tv_education.m3u"
-      },
-      {
-        "name": "Auto",
-        "count": 6,
-        "file": "tv_auto.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/tv_auto.m3u"
-      },
-      {
-        "name": "Movies;Series",
-        "count": 6,
-        "file": "tv_movies_series.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/tv_movies_series.m3u"
-      },
-      {
-        "name": "Travel",
-        "count": 6,
-        "file": "tv_travel.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/tv_travel.m3u"
       },
       {
         "name": "Shop",
         "count": 5,
         "file": "tv_shop.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/tv_shop.m3u"
+      },
+      {
+        "name": "Auto",
+        "count": 5,
+        "file": "tv_auto.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/tv_auto.m3u"
       },
       {
         "name": "Animation",
@@ -142,22 +130,34 @@
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/tv_cooking.m3u"
       },
       {
+        "name": "Movies;Series",
+        "count": 5,
+        "file": "tv_movies_series.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/tv_movies_series.m3u"
+      },
+      {
         "name": "General;Public",
         "count": 5,
         "file": "tv_general_public.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/tv_general_public.m3u"
       },
       {
-        "name": "Classic",
+        "name": "Travel",
         "count": 5,
-        "file": "tv_classic.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/tv_classic.m3u"
+        "file": "tv_travel.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/tv_travel.m3u"
       },
       {
-        "name": "Science",
+        "name": "General;News",
         "count": 4,
-        "file": "tv_science.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/tv_science.m3u"
+        "file": "tv_general_news.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/tv_general_news.m3u"
+      },
+      {
+        "name": "Classic",
+        "count": 4,
+        "file": "tv_classic.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/tv_classic.m3u"
       },
       {
         "name": "Comedy",
@@ -170,6 +170,12 @@
         "count": 3,
         "file": "tv_weather.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/tv_weather.m3u"
+      },
+      {
+        "name": "Family",
+        "count": 3,
+        "file": "tv_family.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/tv_family.m3u"
       },
       {
         "name": "Legislative",
@@ -190,16 +196,10 @@
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/tv_entertainment_news.m3u"
       },
       {
-        "name": "Family",
+        "name": "Science",
         "count": 2,
-        "file": "tv_family.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/tv_family.m3u"
-      },
-      {
-        "name": "General;News",
-        "count": 2,
-        "file": "tv_general_news.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/tv_general_news.m3u"
+        "file": "tv_science.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/tv_science.m3u"
       },
       {
         "name": "Movies;Religious",
@@ -230,12 +230,6 @@
         "count": 1,
         "file": "tv_documentary_series.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/tv_documentary_series.m3u"
-      },
-      {
-        "name": "General;Religious",
-        "count": 1,
-        "file": "tv_general_religious.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/tv_general_religious.m3u"
       },
       {
         "name": "Music;Religious",
@@ -318,191 +312,191 @@
     ]
   },
   "radio": {
-    "total": 50457,
+    "total": 51167,
     "files": [
       {
         "name": "US",
-        "count": 6211,
+        "count": 6886,
         "file": "radio_us.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_us.m3u"
       },
       {
         "name": "DE",
-        "count": 5342,
+        "count": 5304,
         "file": "radio_de.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_de.m3u"
       },
       {
         "name": "FR",
-        "count": 2739,
+        "count": 2751,
         "file": "radio_fr.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_fr.m3u"
       },
       {
         "name": "RU",
-        "count": 2352,
+        "count": 2344,
         "file": "radio_ru.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_ru.m3u"
       },
       {
         "name": "CN",
-        "count": 1927,
+        "count": 1934,
         "file": "radio_cn.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_cn.m3u"
       },
       {
         "name": "GB",
-        "count": 1877,
+        "count": 1887,
         "file": "radio_gb.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_gb.m3u"
       },
       {
         "name": "GR",
-        "count": 1852,
+        "count": 1860,
         "file": "radio_gr.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_gr.m3u"
       },
       {
         "name": "IT",
-        "count": 1573,
+        "count": 1568,
         "file": "radio_it.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_it.m3u"
       },
       {
         "name": "AU",
-        "count": 1558,
+        "count": 1561,
         "file": "radio_au.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_au.m3u"
       },
       {
-        "name": "BR",
-        "count": 1512,
-        "file": "radio_br.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_br.m3u"
-      },
-      {
         "name": "MX",
-        "count": 1508,
+        "count": 1511,
         "file": "radio_mx.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_mx.m3u"
       },
       {
+        "name": "BR",
+        "count": 1501,
+        "file": "radio_br.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_br.m3u"
+      },
+      {
         "name": "CA",
-        "count": 1276,
+        "count": 1306,
         "file": "radio_ca.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_ca.m3u"
       },
       {
         "name": "ES",
-        "count": 1178,
+        "count": 1183,
         "file": "radio_es.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_es.m3u"
       },
       {
         "name": "NL",
-        "count": 1151,
+        "count": 1150,
         "file": "radio_nl.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_nl.m3u"
       },
       {
         "name": "General",
-        "count": 1078,
+        "count": 1057,
         "file": "radio_general.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_general.m3u"
       },
       {
         "name": "AR",
-        "count": 934,
+        "count": 938,
         "file": "radio_ar.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_ar.m3u"
       },
       {
         "name": "PL",
-        "count": 883,
+        "count": 886,
         "file": "radio_pl.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_pl.m3u"
       },
       {
         "name": "RO",
-        "count": 813,
+        "count": 809,
         "file": "radio_ro.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_ro.m3u"
       },
       {
         "name": "IN",
-        "count": 702,
+        "count": 712,
         "file": "radio_in.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_in.m3u"
       },
       {
         "name": "PH",
-        "count": 669,
+        "count": 671,
         "file": "radio_ph.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_ph.m3u"
       },
       {
         "name": "TR",
-        "count": 668,
+        "count": 670,
         "file": "radio_tr.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_tr.m3u"
       },
       {
         "name": "CO",
-        "count": 658,
+        "count": 654,
         "file": "radio_co.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_co.m3u"
       },
       {
         "name": "AE",
-        "count": 634,
+        "count": 633,
         "file": "radio_ae.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_ae.m3u"
       },
       {
         "name": "CH",
-        "count": 533,
+        "count": 532,
         "file": "radio_ch.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_ch.m3u"
       },
       {
         "name": "CL",
-        "count": 484,
+        "count": 483,
         "file": "radio_cl.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_cl.m3u"
       },
       {
         "name": "ID",
-        "count": 483,
+        "count": 469,
         "file": "radio_id.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_id.m3u"
       },
       {
         "name": "BE",
-        "count": 421,
+        "count": 423,
         "file": "radio_be.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_be.m3u"
       },
       {
         "name": "RS",
-        "count": 348,
+        "count": 349,
         "file": "radio_rs.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_rs.m3u"
       },
       {
-        "name": "PT",
-        "count": 327,
-        "file": "radio_pt.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_pt.m3u"
-      },
-      {
         "name": "HU",
-        "count": 325,
+        "count": 327,
         "file": "radio_hu.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_hu.m3u"
       },
       {
+        "name": "PT",
+        "count": 325,
+        "file": "radio_pt.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_pt.m3u"
+      },
+      {
         "name": "BG",
-        "count": 310,
+        "count": 309,
         "file": "radio_bg.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_bg.m3u"
       },
@@ -514,7 +508,7 @@
       },
       {
         "name": "UA",
-        "count": 274,
+        "count": 275,
         "file": "radio_ua.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_ua.m3u"
       },
@@ -532,19 +526,19 @@
       },
       {
         "name": "PE",
-        "count": 244,
+        "count": 242,
         "file": "radio_pe.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_pe.m3u"
       },
       {
         "name": "DK",
-        "count": 218,
+        "count": 217,
         "file": "radio_dk.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_dk.m3u"
       },
       {
         "name": "NZ",
-        "count": 206,
+        "count": 208,
         "file": "radio_nz.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_nz.m3u"
       },
@@ -556,7 +550,7 @@
       },
       {
         "name": "ZA",
-        "count": 192,
+        "count": 194,
         "file": "radio_za.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_za.m3u"
       },
@@ -574,19 +568,19 @@
       },
       {
         "name": "VE",
-        "count": 160,
+        "count": 161,
         "file": "radio_ve.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_ve.m3u"
       },
       {
         "name": "SE",
-        "count": 154,
+        "count": 153,
         "file": "radio_se.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_se.m3u"
       },
       {
         "name": "EC",
-        "count": 154,
+        "count": 152,
         "file": "radio_ec.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_ec.m3u"
       },
@@ -598,33 +592,33 @@
       },
       {
         "name": "UG",
-        "count": 142,
+        "count": 146,
         "file": "radio_ug.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_ug.m3u"
       },
       {
         "name": "SK",
-        "count": 134,
+        "count": 133,
         "file": "radio_sk.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_sk.m3u"
       },
       {
         "name": "FI",
-        "count": 132,
+        "count": 133,
         "file": "radio_fi.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_fi.m3u"
       },
       {
-        "name": "BA",
-        "count": 131,
-        "file": "radio_ba.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_ba.m3u"
-      },
-      {
         "name": "IL",
-        "count": 128,
+        "count": 129,
         "file": "radio_il.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_il.m3u"
+      },
+      {
+        "name": "BA",
+        "count": 128,
+        "file": "radio_ba.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_ba.m3u"
       },
       {
         "name": "EE",
@@ -652,43 +646,43 @@
       },
       {
         "name": "JP",
-        "count": 114,
+        "count": 115,
         "file": "radio_jp.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_jp.m3u"
       },
       {
         "name": "LB",
-        "count": 111,
+        "count": 110,
         "file": "radio_lb.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_lb.m3u"
       },
       {
         "name": "LT",
-        "count": 105,
+        "count": 108,
         "file": "radio_lt.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_lt.m3u"
       },
       {
         "name": "DO",
-        "count": 104,
+        "count": 105,
         "file": "radio_do.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_do.m3u"
       },
       {
         "name": "AL",
-        "count": 99,
+        "count": 98,
         "file": "radio_al.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_al.m3u"
       },
       {
         "name": "AF",
-        "count": 93,
+        "count": 94,
         "file": "radio_af.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_af.m3u"
       },
       {
         "name": "TH",
-        "count": 93,
+        "count": 92,
         "file": "radio_th.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_th.m3u"
       },
@@ -700,39 +694,33 @@
       },
       {
         "name": "GH",
-        "count": 83,
+        "count": 84,
         "file": "radio_gh.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_gh.m3u"
       },
       {
         "name": "MD",
-        "count": 82,
+        "count": 81,
         "file": "radio_md.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_md.m3u"
       },
       {
         "name": "MY",
-        "count": 75,
+        "count": 74,
         "file": "radio_my.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_my.m3u"
       },
       {
-        "name": "ZM",
-        "count": 72,
-        "file": "radio_zm.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_zm.m3u"
-      },
-      {
         "name": "NG",
-        "count": 70,
+        "count": 71,
         "file": "radio_ng.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_ng.m3u"
       },
       {
-        "name": "KR",
-        "count": 69,
-        "file": "radio_kr.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_kr.m3u"
+        "name": "ZM",
+        "count": 71,
+        "file": "radio_zm.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_zm.m3u"
       },
       {
         "name": "GT",
@@ -741,10 +729,22 @@
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_gt.m3u"
       },
       {
+        "name": "KR",
+        "count": 68,
+        "file": "radio_kr.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_kr.m3u"
+      },
+      {
         "name": "SG",
         "count": 63,
         "file": "radio_sg.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_sg.m3u"
+      },
+      {
+        "name": "BO",
+        "count": 63,
+        "file": "radio_bo.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_bo.m3u"
       },
       {
         "name": "HK",
@@ -759,12 +759,6 @@
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_cy.m3u"
       },
       {
-        "name": "BO",
-        "count": 61,
-        "file": "radio_bo.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_bo.m3u"
-      },
-      {
         "name": "LK",
         "count": 61,
         "file": "radio_lk.m3u",
@@ -775,12 +769,6 @@
         "count": 59,
         "file": "radio_by.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_by.m3u"
-      },
-      {
-        "name": "EG",
-        "count": 59,
-        "file": "radio_eg.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_eg.m3u"
       },
       {
         "name": "AO",
@@ -795,16 +783,16 @@
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_sv.m3u"
       },
       {
+        "name": "EG",
+        "count": 57,
+        "file": "radio_eg.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_eg.m3u"
+      },
+      {
         "name": "TN",
         "count": 57,
         "file": "radio_tn.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_tn.m3u"
-      },
-      {
-        "name": "MA",
-        "count": 56,
-        "file": "radio_ma.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_ma.m3u"
       },
       {
         "name": "CI",
@@ -814,33 +802,39 @@
       },
       {
         "name": "PK",
-        "count": 54,
+        "count": 55,
         "file": "radio_pk.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_pk.m3u"
       },
       {
         "name": "KE",
-        "count": 53,
+        "count": 55,
         "file": "radio_ke.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_ke.m3u"
       },
       {
-        "name": "CR",
-        "count": 52,
-        "file": "radio_cr.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_cr.m3u"
+        "name": "MA",
+        "count": 55,
+        "file": "radio_ma.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_ma.m3u"
       },
       {
-        "name": "PY",
-        "count": 51,
-        "file": "radio_py.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_py.m3u"
+        "name": "CR",
+        "count": 54,
+        "file": "radio_cr.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_cr.m3u"
       },
       {
         "name": "PR",
         "count": 49,
         "file": "radio_pr.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_pr.m3u"
+      },
+      {
+        "name": "PY",
+        "count": 49,
+        "file": "radio_py.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_py.m3u"
       },
       {
         "name": "MW",
@@ -874,9 +868,15 @@
       },
       {
         "name": "KZ",
-        "count": 38,
+        "count": 39,
         "file": "radio_kz.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_kz.m3u"
+      },
+      {
+        "name": "HN",
+        "count": 38,
+        "file": "radio_hn.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_hn.m3u"
       },
       {
         "name": "AZ",
@@ -885,22 +885,16 @@
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_az.m3u"
       },
       {
-        "name": "RE",
-        "count": 35,
-        "file": "radio_re.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_re.m3u"
-      },
-      {
         "name": "JM",
-        "count": 35,
+        "count": 36,
         "file": "radio_jm.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_jm.m3u"
       },
       {
-        "name": "HN",
-        "count": 32,
-        "file": "radio_hn.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_hn.m3u"
+        "name": "RE",
+        "count": 34,
+        "file": "radio_re.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_re.m3u"
       },
       {
         "name": "PA",
@@ -909,10 +903,22 @@
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_pa.m3u"
       },
       {
+        "name": "LU",
+        "count": 31,
+        "file": "radio_lu.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_lu.m3u"
+      },
+      {
         "name": "HT",
         "count": 30,
         "file": "radio_ht.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_ht.m3u"
+      },
+      {
+        "name": "VN",
+        "count": 29,
+        "file": "radio_vn.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_vn.m3u"
       },
       {
         "name": "SN",
@@ -922,21 +928,9 @@
       },
       {
         "name": "JO",
-        "count": 28,
+        "count": 29,
         "file": "radio_jo.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_jo.m3u"
-      },
-      {
-        "name": "VN",
-        "count": 27,
-        "file": "radio_vn.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_vn.m3u"
-      },
-      {
-        "name": "LU",
-        "count": 27,
-        "file": "radio_lu.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_lu.m3u"
       },
       {
         "name": "NP",
@@ -946,7 +940,7 @@
       },
       {
         "name": "GE",
-        "count": 26,
+        "count": 27,
         "file": "radio_ge.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_ge.m3u"
       },
@@ -955,12 +949,6 @@
         "count": 25,
         "file": "radio_zw.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_zw.m3u"
-      },
-      {
-        "name": "IS",
-        "count": 24,
-        "file": "radio_is.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_is.m3u"
       },
       {
         "name": "BD",
@@ -975,16 +963,28 @@
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_et.m3u"
       },
       {
+        "name": "IS",
+        "count": 23,
+        "file": "radio_is.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_is.m3u"
+      },
+      {
+        "name": "CU",
+        "count": 23,
+        "file": "radio_cu.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_cu.m3u"
+      },
+      {
+        "name": "NI",
+        "count": 23,
+        "file": "radio_ni.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_ni.m3u"
+      },
+      {
         "name": "IR",
         "count": 22,
         "file": "radio_ir.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_ir.m3u"
-      },
-      {
-        "name": "CU",
-        "count": 22,
-        "file": "radio_cu.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_cu.m3u"
       },
       {
         "name": "SY",
@@ -993,10 +993,10 @@
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_sy.m3u"
       },
       {
-        "name": "NI",
-        "count": 22,
-        "file": "radio_ni.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_ni.m3u"
+        "name": "TT",
+        "count": 21,
+        "file": "radio_tt.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_tt.m3u"
       },
       {
         "name": "MO",
@@ -1012,15 +1012,9 @@
       },
       {
         "name": "IQ",
-        "count": 19,
+        "count": 18,
         "file": "radio_iq.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_iq.m3u"
-      },
-      {
-        "name": "TZ",
-        "count": 18,
-        "file": "radio_tz.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_tz.m3u"
       },
       {
         "name": "CD",
@@ -1029,10 +1023,10 @@
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_cd.m3u"
       },
       {
-        "name": "TT",
+        "name": "UM",
         "count": 17,
-        "file": "radio_tt.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_tt.m3u"
+        "file": "radio_um.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_um.m3u"
       },
       {
         "name": "QA",
@@ -1041,10 +1035,10 @@
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_qa.m3u"
       },
       {
-        "name": "UM",
-        "count": 16,
-        "file": "radio_um.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_um.m3u"
+        "name": "TZ",
+        "count": 17,
+        "file": "radio_tz.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_tz.m3u"
       },
       {
         "name": "MT",
@@ -1065,10 +1059,22 @@
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_xk.m3u"
       },
       {
+        "name": "BB",
+        "count": 14,
+        "file": "radio_bb.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_bb.m3u"
+      },
+      {
         "name": "NA",
         "count": 14,
         "file": "radio_na.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_na.m3u"
+      },
+      {
+        "name": "CV",
+        "count": 14,
+        "file": "radio_cv.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_cv.m3u"
       },
       {
         "name": "FJ",
@@ -1087,12 +1093,6 @@
         "count": 13,
         "file": "radio_gp.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_gp.m3u"
-      },
-      {
-        "name": "CV",
-        "count": 13,
-        "file": "radio_cv.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_cv.m3u"
       },
       {
         "name": "ML",
@@ -1119,6 +1119,12 @@
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_mq.m3u"
       },
       {
+        "name": "LC",
+        "count": 12,
+        "file": "radio_lc.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_lc.m3u"
+      },
+      {
         "name": "MZ",
         "count": 12,
         "file": "radio_mz.m3u",
@@ -1129,12 +1135,6 @@
         "count": 11,
         "file": "radio_bh.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_bh.m3u"
-      },
-      {
-        "name": "LC",
-        "count": 11,
-        "file": "radio_lc.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_lc.m3u"
       },
       {
         "name": "MU",
@@ -1155,6 +1155,12 @@
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_vc.m3u"
       },
       {
+        "name": "KH",
+        "count": 10,
+        "file": "radio_kh.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_kh.m3u"
+      },
+      {
         "name": "GY",
         "count": 9,
         "file": "radio_gy.m3u",
@@ -1165,18 +1171,6 @@
         "count": 9,
         "file": "radio_om.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_om.m3u"
-      },
-      {
-        "name": "BB",
-        "count": 9,
-        "file": "radio_bb.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_bb.m3u"
-      },
-      {
-        "name": "PS",
-        "count": 9,
-        "file": "radio_ps.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_ps.m3u"
       },
       {
         "name": "UZ",
@@ -1203,16 +1197,22 @@
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_as.m3u"
       },
       {
+        "name": "PS",
+        "count": 8,
+        "file": "radio_ps.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_ps.m3u"
+      },
+      {
+        "name": "KY",
+        "count": 8,
+        "file": "radio_ky.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_ky.m3u"
+      },
+      {
         "name": "MN",
         "count": 8,
         "file": "radio_mn.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_mn.m3u"
-      },
-      {
-        "name": "KH",
-        "count": 8,
-        "file": "radio_kh.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_kh.m3u"
       },
       {
         "name": "AQ",
@@ -1225,6 +1225,12 @@
         "count": 7,
         "file": "radio_bs.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_bs.m3u"
+      },
+      {
+        "name": "VI",
+        "count": 7,
+        "file": "radio_vi.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_vi.m3u"
       },
       {
         "name": "AW",
@@ -1257,6 +1263,12 @@
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_nc.m3u"
       },
       {
+        "name": "GU",
+        "count": 6,
+        "file": "radio_gu.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_gu.m3u"
+      },
+      {
         "name": "IM",
         "count": 6,
         "file": "radio_im.m3u",
@@ -1275,22 +1287,16 @@
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_ly.m3u"
       },
       {
-        "name": "VI",
+        "name": "AG",
         "count": 6,
-        "file": "radio_vi.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_vi.m3u"
+        "file": "radio_ag.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_ag.m3u"
       },
       {
         "name": "PF",
         "count": 6,
         "file": "radio_pf.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_pf.m3u"
-      },
-      {
-        "name": "KY",
-        "count": 6,
-        "file": "radio_ky.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_ky.m3u"
       },
       {
         "name": "TG",
@@ -1309,12 +1315,6 @@
         "count": 5,
         "file": "radio_gi.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_gi.m3u"
-      },
-      {
-        "name": "AG",
-        "count": 5,
-        "file": "radio_ag.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_ag.m3u"
       },
       {
         "name": "GD",
@@ -1371,6 +1371,12 @@
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_kn.m3u"
       },
       {
+        "name": "TM",
+        "count": 4,
+        "file": "radio_tm.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_tm.m3u"
+      },
+      {
         "name": "FK",
         "count": 4,
         "file": "radio_fk.m3u",
@@ -1419,12 +1425,6 @@
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_km.m3u"
       },
       {
-        "name": "TM",
-        "count": 3,
-        "file": "radio_tm.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_tm.m3u"
-      },
-      {
         "name": "TO",
         "count": 3,
         "file": "radio_to.m3u",
@@ -1459,6 +1459,12 @@
         "count": 3,
         "file": "radio_bw.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_bw.m3u"
+      },
+      {
+        "name": "BI",
+        "count": 3,
+        "file": "radio_bi.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_bi.m3u"
       },
       {
         "name": "CF",
@@ -1515,18 +1521,6 @@
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_cx.m3u"
       },
       {
-        "name": "GU",
-        "count": 2,
-        "file": "radio_gu.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_gu.m3u"
-      },
-      {
-        "name": "BI",
-        "count": 2,
-        "file": "radio_bi.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_bi.m3u"
-      },
-      {
         "name": "BZ",
         "count": 2,
         "file": "radio_bz.m3u",
@@ -1537,6 +1531,12 @@
         "count": 2,
         "file": "radio_la.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_la.m3u"
+      },
+      {
+        "name": "PG",
+        "count": 2,
+        "file": "radio_pg.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_pg.m3u"
       },
       {
         "name": "TF",
@@ -1605,6 +1605,12 @@
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_cg.m3u"
       },
       {
+        "name": "LS",
+        "count": 1,
+        "file": "radio_ls.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_ls.m3u"
+      },
+      {
         "name": "TD",
         "count": 1,
         "file": "radio_td.m3u",
@@ -1629,12 +1635,6 @@
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_gg.m3u"
       },
       {
-        "name": "LR",
-        "count": 1,
-        "file": "radio_lr.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_lr.m3u"
-      },
-      {
         "name": "SX",
         "count": 1,
         "file": "radio_sx.m3u",
@@ -1651,12 +1651,6 @@
         "count": 1,
         "file": "radio_wf.m3u",
         "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_wf.m3u"
-      },
-      {
-        "name": "PG",
-        "count": 1,
-        "file": "radio_pg.m3u",
-        "url": "https://cdn.jsdelivr.net/gh/BeeZcoming/iptv-radio-checker@main/output/radio_pg.m3u"
       },
       {
         "name": "MS",

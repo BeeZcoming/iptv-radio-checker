@@ -125,8 +125,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SABAH_FMAAC.aa
 https://playerservices.streamtheworld.com/api/livestream-redirect/SABAH_VFMAAC.aac
 #EXTINF:-1,Sinar FM
 https://n08a-eu.rcs.revma.com/azatk0tbv4uvv/8_1ksmof3jo7vso02/playlist.m3u8
-#EXTINF:-1,SkyChatzFM
-http://java.skychatz.org:8080/;stream/1
 #EXTINF:-1,Slow Rock 90'
 https://stream.zeno.fm/hiut6cwfoneuv
 #EXTINF:-1,Stay.FM

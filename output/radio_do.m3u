@@ -195,12 +195,14 @@ https://radio.dominiserver.com/proxy/topmerengueradio?mp=/stream
 https://radio.dominiserver.com/proxy/topsalsaradio?mp=/stream
 #EXTINF:-1,Top Urbano
 https://radio.dominiserver.com/proxy/topurbano?mp=/stream
+#EXTINF:-1,Tropical 100 Bolero
+https://stream.zeno.fm/b34hotasejstv
 #EXTINF:-1,Tropical 100 Mix
 https://stream-107.zeno.fm/esgo1lafgtstv?zs=o1G7UIERS3Gdtn2B7Jdt7Q
+#EXTINF:-1,Tropical 100 Salsa
+https://stream-107.zeno.fm/cjgfujr8yhbvv?zs=VsqKiPTASc-XIz7P9HnYjQ
 #EXTINF:-1,Turbo 98.3 FM
 https://cdn-embed.tunein.com/resources/media/blank.mp3
-#EXTINF:-1,Vida FM
-https://servidor38.brlogic.com:7104/live
 #EXTINF:-1,wao89.1
 https://stream.zeno.fm/pkxlvgeiocstv
 #EXTINF:-1,WXM ONE RADIO

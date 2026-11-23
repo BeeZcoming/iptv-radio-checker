@@ -81,8 +81,6 @@ https://play.primeradio.al/primeshqip
 https://onair.pulsefm.cloud/listen/pulsefm/pulsefm
 #EXTINF:-1,Radio 1
 https://livestream.radio1.al/hls/radio.m3u8
-#EXTINF:-1,Radio 4+
-https://play.4plusmedia.tv/radio.mp3
 #EXTINF:-1,Radio 7
 https://rpn.bozztv.com/radio/Med7-RadioTirana/icecast.audio
 #EXTINF:-1,Radio Aksa

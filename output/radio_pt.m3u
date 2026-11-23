@@ -311,8 +311,6 @@ http://centova.radio.com.pt:8463/;
 https://radios2.justweb.pt:8066/stream?type=http&nocache=297
 #EXTINF:-1,Radio EnterMedia
 http://radio.radioentermedia.com/listen/entermedia/radio.mp3
-#EXTINF:-1,Rádio Escuro
-https://nl.digitalrm.pt:8116/stream
 #EXTINF:-1,RÁDIO EU SOU GOIÁS
 https://live9.livemus.com.br:27374/stream
 #EXTINF:-1,Radio Fado de Coimbra
@@ -563,8 +561,6 @@ https://nl.digitalrm.pt:8010/stream
 https://nl.digitalrm.pt:8018/stream
 #EXTINF:-1,Record FM 91,8 Algarve
 https://nl.digitalrm.pt:8020/stream
-#EXTINF:-1,REPLAY NEWS - Português
-https://replaynewspt.ice.infomaniak.ch/replaynewspt-128.mp3
 #EXTINF:-1,res fm
 https://stream2.soundflux.eu:8440/stream
 #EXTINF:-1,RES FM 

@@ -431,8 +431,6 @@ https://radio.jump.bg/proxy/stanimi1/radioRETRO
 http://88.87.10.53:8000/*.ogg
 #EXTINF:-1,Radio Romantic
 https://g5.turbohost.eu/proxy/romantic/stream
-#EXTINF:-1,Radio Ruse
-https://radio.ruse.bg:8010/radioruse
 #EXTINF:-1,Radio Sladko Izkushenie
 http://g5.turbohost.eu:8006/autodj
 #EXTINF:-1,Radio Slavianska Parodia

@@ -11,8 +11,6 @@ http://radio11.plathong.net:8896/
 https://stream.zeno.fm/ynwu3bzocuauv
 #EXTINF:-1,Al jazeera
 http://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8
-#EXTINF:-1,Ambient Space
-http://immortalharmony.out.airtime.pro:8000/immortalharmony_a
 #EXTINF:-1,Ariana FM 93.5 Kabul
 https://streams.radio.co/sa3345aaa8/listen
 #EXTINF:-1,Arman FM 98.1
@@ -157,12 +155,16 @@ https://radiostream.pl/tuba140-1.mp3
 https://streaming.viveradio.es/viveburgos
 #EXTINF:-1,RTVS
 http://icecast.stv.livebox.sk/slovensko_128.mp3
+#EXTINF:-1,selah
+https://ice10.securenetsystems.net/KHHKHD3
 #EXTINF:-1,Sha3by FM
 https://radio95.radioca.st/stream/1/
 #EXTINF:-1,Simulator FM
 https://simulatorfm.stream:8025/320Kbps
 #EXTINF:-1,sunnah radio 
 http://andromeda.shoutca.st:8189/stream
+#EXTINF:-1,sunshine-live fokus
+http://stream.sunshine-live.de/focus/mp3-128/stream.sunshine-live.de/
 #EXTINF:-1,syaivo
 http://stream.ntktv.ua/syaivo.mp3
 #EXTINF:-1,Taleemul Islam Radio

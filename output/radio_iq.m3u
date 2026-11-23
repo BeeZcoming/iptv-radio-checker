@@ -3,10 +3,6 @@
 https://qurango.net/radio/mohammed_ayyub
 #EXTINF:-1,Ahmet Kaya - Anne Bul Beni Anne
 https://stream.zeno.fm/mk6qxx8hpm0uv
-#EXTINF:-1,Al rasheed fm
-https://streaming.shoutcast.com/alrasheed-fm?1719771692024
-#EXTINF:-1,Al rasheed fm )Kirkuk)
-https://streaming.shoutcast.com/alrasheed-kirkuk
 #EXTINF:-1,Al-bilad Radio/Yaqoubi
 https://streamer.radio.co/sb38bf6e66/listen
 #EXTINF:-1,Alseraj Radio Islam
@@ -17,6 +13,8 @@ http://192.99.170.8:5550/stream
 http://178.32.146.187/proxy/radioankawa?mp=/1/
 #EXTINF:-1,Darusalam Radio
 https://streams.radio.co/s0975ec186/listen
+#EXTINF:-1,Dengi Kurdsat
+http://uk3.internet-radio.com:8011/listen.pls&title=Dengi%20Kurdsat&website=http://www.shoutcast.com
 #EXTINF:-1,FM المستقبل
 https://edge.mixlr.com/channel/vnvcj
 #EXTINF:-1,kanal 8
