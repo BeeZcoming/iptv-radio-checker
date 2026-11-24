@@ -89,8 +89,6 @@ http://57.129.49.167:8092/stream
 http://141.95.98.87:8129/stream
 #EXTINF:-1,Radio Safari Kenya
 https://stream.zeno.fm/t65cszbgunhvv
-#EXTINF:-1,Radio Waumini 88.3FM
-http://stream.zeno.fm/gvk894g072quv
 #EXTINF:-1,Radio47
 https://streaming.shoutcast.com/radio-47?ver=690109
 #EXTINF:-1,Ramogi FM
@@ -109,3 +107,5 @@ https://replaynewssw.ice.infomaniak.ch/replaynewssw-128.mp3
 https://pegasus.nucast.co.uk:8064/stream
 #EXTINF:-1,Universal Health Radio (Kiswahili)
 https://radio.universalhealthradio.org/uhr-sw.mp3
+#EXTINF:-1,VOF SOUNDS FM
+https://radio.secretoffuture.com/listen/vof_sounds_fm/radio.mp3

@@ -311,6 +311,8 @@ http://centova.radio.com.pt:8463/;
 https://radios2.justweb.pt:8066/stream?type=http&nocache=297
 #EXTINF:-1,Radio EnterMedia
 http://radio.radioentermedia.com/listen/entermedia/radio.mp3
+#EXTINF:-1,Rádio Escuro
+https://nl.digitalrm.pt:8116/stream
 #EXTINF:-1,RÁDIO EU SOU GOIÁS
 https://live9.livemus.com.br:27374/stream
 #EXTINF:-1,Radio Fado de Coimbra
@@ -383,8 +385,6 @@ https://radiometalon.com/listen/radio_metal_on_the_heavy/radio.mp3
 https://radiometalon.com/listen/radio_metal_on_the_thrasher/radio.mp3
 #EXTINF:-1,Radio Metal On: Toxic
 https://radiometalon.com/listen/radio_metal_on_toxic/radio.mp3
-#EXTINF:-1,Rádio Miróbriga
-https://rs2.ptservidor.com/proxy/paulo1?mp=/stream?type=.mp3
 #EXTINF:-1,Rádio Miudos
 http://109.71.41.6:8020/live
 #EXTINF:-1,Rádio Montalegre
@@ -561,6 +561,8 @@ https://nl.digitalrm.pt:8010/stream
 https://nl.digitalrm.pt:8018/stream
 #EXTINF:-1,Record FM 91,8 Algarve
 https://nl.digitalrm.pt:8020/stream
+#EXTINF:-1,REPLAY NEWS - Português
+https://replaynewspt.ice.infomaniak.ch/replaynewspt-128.mp3
 #EXTINF:-1,res fm
 https://stream2.soundflux.eu:8440/stream
 #EXTINF:-1,RES FM 

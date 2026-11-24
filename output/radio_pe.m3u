@@ -277,6 +277,8 @@ https://shoutcast.tmcreativos.com/proxy/radiokar?mp=/stream
 https://panel.innovatestream.pe:10970/stream
 #EXTINF:-1,Radio La Cheverísima - Utcubamba 
 https://sp.onliveperu.com/8114/stream/;
+#EXTINF:-1,Radio La Gloria Es De Dios
+https://radio101.mjwebexperts.com/8006/stream
 #EXTINF:-1,Radio La Inolvidable
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6839e24cf4eacd81ada4e6b4/playlist.m3u8
 #EXTINF:-1,Radio la inolvidable fm
@@ -301,6 +303,8 @@ https://radio.pjcks.com/9944/stream
 https://stream.zeno.fm/y6uubjcdoopuv
 #EXTINF:-1,Radio Loreto
 https://sp.oyotunstream.com/8006/stream
+#EXTINF:-1,radio los andes 99.5 fm
+https://sonic.dattassd.com:8190/stream
 #EXTINF:-1,Radio Los Angeles - Chepen
 http://94.23.159.187:9950/;
 #EXTINF:-1,Radio Mágica 88.3 FM
@@ -397,8 +401,6 @@ https://sechin.grupocentroserver.com/listen/mi_super_radio/radio.mp3
 https://radio.blueditor.com/8250/stream;
 #EXTINF:-1,Radio Techno
 https://stream.zeno.fm/wucx5xcgqeruv
-#EXTINF:-1,Radio Techno mix, 90's y más 
-https://servistream.info:8386/stream
 #EXTINF:-1,RADIO TRINIDAD 1070 AM
 https://maximacenterdata.com/8056/stream
 #EXTINF:-1,Radio Tropical Tarapoto

@@ -9,8 +9,6 @@ https://stream.zeno.fm/yg1gkzwabzzuv
 http://ice42.securenetsystems.net/94SUFM
 #EXTINF:-1,ABC Radio AM 550 FM 89.7
 http://137.184.101.169:8000/radio.mp3
-#EXTINF:-1,Cadena Radial del Centro 89.7 FM
-https://sonic.portalfoxmix.cl/8442/stream
 #EXTINF:-1,Cortes FM 
 https://cortesfm-zikoxweb.radioca.st/stream/1/
 #EXTINF:-1,Dee Jay
@@ -21,8 +19,12 @@ https://stream.zeno.fm/n1dn94e661zuv
 https://stream.zeno.fm/k6grbcx0zceuv
 #EXTINF:-1,Estereo Clásica
 https://streaming.radio.co/s0c06b7076/listen
+#EXTINF:-1,Estereo Sur 91.3 FM
+https://cast.az-streamingserver.com/proxy/estereosur2?mp=/stream
 #EXTINF:-1,GD Dubai
 https://streaming.exclusive.radio/er/gratefuldead/icecast.audio
+#EXTINF:-1,Girasol Stereo 102.3 FM
+https://stream.playerlive.info:8037/live.aac
 #EXTINF:-1,HCH Radio
 https://radio.hch.tv/stream
 #EXTINF:-1,hrn 670 KHz
@@ -51,6 +53,8 @@ http://listen.usuarios.space:8036/live
 https://api.condoristream.com/stream/radioglobo
 #EXTINF:-1,Radio HRN 670 AM
 https://ice42.securenetsystems.net/HRN
+#EXTINF:-1,Radio Pais
+https://rad-net.com/Pais/123/icecast.audio
 #EXTINF:-1,Radio Progreso HN
 https://streamingcwsradio30.com:7045/stream
 #EXTINF:-1,RadioActiva 99.7 Honduras

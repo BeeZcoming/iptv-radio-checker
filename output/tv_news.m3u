@@ -21,6 +21,8 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
 #EXTINF:-1,Cablenoticias (1080p)
 http://181.78.211.244:8005/play/a09u/index.m3u8
+#EXTINF:-1,Canal N (576p)
+http://190.108.91.206:9050/play/a0bd/index.m3u8
 #EXTINF:-1,CNA International (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=112
 #EXTINF:-1,CNews (1080p)
@@ -53,6 +55,8 @@ https://redirector.dps.live/hls/pinguinotv/playlist.m3u8
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/europe-1-tv-dm.m3u8
 #EXTINF:-1,Fox News Radio (720p)
 https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
+#EXTINF:-1,France 24 (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=10007
 #EXTINF:-1,France 24 English (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=96
 #EXTINF:-1,Free Speech TV (720p)
@@ -95,6 +99,8 @@ https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
 http://31.131.141.195:8000/play/a006/index.m3u8
 #EXTINF:-1,Perviy Informationniy HD (1080p)
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
+#EXTINF:-1,Republic TV (1080p)
+https://samsung-republictv.amagi.tv/ts-ap-s1-n1/playlist/samsungin-republictv-samsungindia/playlist.m3u8
 #EXTINF:-1,Reuters TV (1080p)
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
 #EXTINF:-1,Salem News Channel (1080p)

@@ -71,6 +71,8 @@ http://radiolatina.live:7906/1
 http://radio.dl.uy:9950/radio
 #EXTINF:-1,DelSol
 https://delsol-1.nty.uy/?type=http&nocache=2780&dbl=0
+#EXTINF:-1,Delta FM 88.3
+http://server-uk1.radioseninternet.net:8104/;
 #EXTINF:-1,Diamante FM 98.7
 https://radiolatina.live/8058/stream
 #EXTINF:-1,El Libertador

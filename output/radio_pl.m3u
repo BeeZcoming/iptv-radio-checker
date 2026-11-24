@@ -453,6 +453,8 @@ https://s3.slotex.pl:7372/stream/1/
 https://s1.slotex.pl/shoutcast/7604/stream?sid=1;
 #EXTINF:-1,R357
 https://radio357.s3.eu-central-1.amazonaws.com/stream/29ce0221-3d37-47d9-97b9-559cfad16ed3.m3u8
+#EXTINF:-1,radi/u/
+https://radio.dangeru.us:8000/stream.ogg
 #EXTINF:-1,Radia Zet 
 http://zet-net-01.cdn.eurozet.pl:8400/
 #EXTINF:-1,Radio 1.7
@@ -541,12 +543,6 @@ http://shot4.inten.pl:8888/rcfm.mp3
 https://stream12.hosterion.pl/stream/akademickieradiocentrum
 #EXTINF:-1,Radio Chrystusa Króla
 http://radiochrystusakrola.pl:8080/;stream.mp3
-#EXTINF:-1,Radio Chrześcijanin
-http://s1.slotex.pl:7002/mountpoint
-#EXTINF:-1,Radio Chrzescijanin - 2
-http://s1.slotex.pl:7002/;
-#EXTINF:-1,Radio Chrześcijanin (Jakość dźwięku (MP3))
-http://s1.slotex.pl:7002/mountpoint
 #EXTINF:-1,Radio Chrzescijanin Biblia
 http://s1.slotex.pl:7116/;
 #EXTINF:-1,Radio Chrzescijanin Dzieci
@@ -651,8 +647,6 @@ http://stream2.nadaje.com:8076/
 http://stream3.nadaje.com:9024/;
 #EXTINF:-1,Radio FAMA Tomaszów
 http://stream2.nadaje.com:8078/;
-#EXTINF:-1,Radio Fama Zyrardow
-http://stream4.nadaje.com:13770/
 #EXTINF:-1,Radio Famka
 http://stream4.nadaje.com:10118/famka
 #EXTINF:-1,Radio Fara
@@ -1283,6 +1277,8 @@ http://ravefm.org:9850/ravefm
 http://stream1.dabcom.pl:8000/rdnmpl_hq.mp3
 #EXTINF:-1,RDN Nowy Sącz
 https://stream1.dabcom.pl/rdn_ns
+#EXTINF:-1,Red7
+https://red7.pl/play.m3u
 #EXTINF:-1,Red7 - Kanał EDM
 https://s.red7.pl/edm256
 #EXTINF:-1,Red7.pl

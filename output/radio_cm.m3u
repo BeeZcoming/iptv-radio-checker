@@ -61,8 +61,12 @@ https://stream.zeno.fm/ksvcx4vdulsuv
 https://stream.zeno.fm/brrqmyub0xhvv
 #EXTINF:-1,Radio Bafung de Babadjou
 https://stream.zeno.fm/43q33pgvbphvv
+#EXTINF:-1,Radio Balafon
+https://broadcasting-channels.com:9043/listen.mp3
 #EXTINF:-1,Radio Bonabéri FM
 https://stream.zeno.fm/e7db27238nhvv
+#EXTINF:-1,Radio Bonne Nouvelle
+https://radiobonnenouvelle2.ice.infomaniak.ch/radiobonnenouvelle2-96.mp3
 #EXTINF:-1,Radio Equinoxe
 https://s6.citrus3.com/stream/radioequinoxe
 #EXTINF:-1,Radio Jésus Vient
@@ -83,8 +87,6 @@ https://www.radioking.com/play/radio-voice-of-the-cross-rvc
 https://play.radioking.io/rvc-yaounde1
 #EXTINF:-1,ROOTS RADIO
 https://ecmanager2.pro-fhi.net:1515/stream
-#EXTINF:-1,Royal FM Cameroun
-http://server.it-innov.com:8000/royalfm.mp3
 #EXTINF:-1,Rush FM 104.5
 https://stream.zeno.fm/8ggdk1wbtc9uv
 #EXTINF:-1,RYF Radio

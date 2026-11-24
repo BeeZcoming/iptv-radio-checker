@@ -21,6 +21,8 @@ https://nue01-edge01.itdc.ge/fm-dardimandi-97.1/index.m3u8
 http://213.238.180.199:8020/soothingjazz
 #EXTINF:-1,Vikentis Radio
 https://servidor33-3.brlogic.com:7210/live
+#EXTINF:-1,Арадио Sputnik Аҧсны
+https://icecast-rian.cdnvideo.ru/voicesuh
 #EXTINF:-1,ავტორადიო (Avtoradio)
 https://tv.cdn.xsg.ge/cld9-0386/avtoradio/tracks-a1/mono.m3u8
 #EXTINF:-1,არ დაიდარდო (Ar Daidardo)

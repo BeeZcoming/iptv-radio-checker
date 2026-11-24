@@ -429,10 +429,6 @@ https://radio12.pro-fhi.net/radio/9134/stream.mp3
 http://beaubfm2.ice.infomaniak.ch/beaubfm2-96.mp3
 #EXTINF:-1,Beem Boom Radio
 https://listen.radioking.com/radio/299368/stream/356549
-#EXTINF:-1,Beur FM
-http://broadcast.infomaniak.ch/beurfm-high.mp3
-#EXTINF:-1,Beur FM
-http://broadcast.infomaniak.ch/beurfm-high.aac
 #EXTINF:-1,BFM Avec RMC
 https://audio.bfmtv.com/rmcradio_128.mp3
 #EXTINF:-1,BFM Business
@@ -991,6 +987,8 @@ https://radio.dzfishradio.com/listen/dzfishradio/radio.mp3
 https://www.radioking.com/play/e-kwality-radio/478513
 #EXTINF:-1,EASY RADIO KRIBI
 https://ecmanager2.pro-fhi.net:1580/;?type=http&nocache=1792084042
+#EXTINF:-1,Echo FM
+https://radio5.pro-fhi.net/flux-ghergigw/stream
 #EXTINF:-1,ED92
 https://listen.radioking.com/radio/497074/stream/554176
 #EXTINF:-1,Egregore Radio
@@ -3817,6 +3815,8 @@ https://publichealthradioar.ice.infomaniak.ch/publichealthradioar-128.mp3
 https://publichealthradiode.ice.infomaniak.ch/publichealthradiode-128.mp3
 #EXTINF:-1,Public Health Radio Espanol
 https://publichealthradioes.ice.infomaniak.ch/publichealthradioes-128.mp3
+#EXTINF:-1,Public Health Radio Italiano
+https://publichealthradioit.ice.infomaniak.ch/publichealthradioit-128.mp3
 #EXTINF:-1,Public Health Radio Polish
 https://publichealthradiopl.ice.infomaniak.ch/publichealthradiopl-128.mp3
 #EXTINF:-1,Public Health Radio Portugues
@@ -3875,6 +3875,10 @@ http://91.121.29.128:8068/;
 http://rabi015-fm.fr:8000/rabi015-fm
 #EXTINF:-1,Radio 17bis
 http://listen.radioking.com/radio/444/stream/1754
+#EXTINF:-1,Radio 4
+http://direct.radio4.fr:8000/radio4.mp3
+#EXTINF:-1,Radio 4
+https://direct.radio4.fr/radio4.mp3
 #EXTINF:-1,Radio 50/50
 https://stream.radio5050.com/
 #EXTINF:-1,Radio 50/50
@@ -4095,6 +4099,8 @@ http://flux.radiodesballons.com:8000/RDB_THILLOT
 https://live.aurafm.org/RadioDio
 #EXTINF:-1,Radio Disney Paris
 https://stream-176.zeno.fm/ks5wfxkubv8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrczV3ZnhrdWJ2OHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkVJTkxJclhkVEMtSEZHSzZFWS1iQVEiLCJpYXQiOjE3NzI3MDE4NDQsImV4cCI6MTc3MjcwMTkwNH0.QREohi8XJgDrhW8gOyF6uCpTTT6L-MOCMR6KO44intw
+#EXTINF:-1,Radio Disney Village
+http://webradio.ice.infomaniak.ch/webradio-128.mp3
 #EXTINF:-1,Radio Doudou
 https://listen.radioking.com/radio/11565/stream/22961
 #EXTINF:-1,Radio Dunes
@@ -4188,8 +4194,6 @@ https://rfienespagnol64k.ice.infomaniak.ch/rfienespagnol-64.mp3
 #EXTINF:-1,Radio Fresh
 https://radio4.pro-fhi.net/live/RadioFRESH?t=1788083035038
 #EXTINF:-1,Radio Fuego
-http://icy-zurich.mpbnl.nl/radiofuego
-#EXTINF:-1,Radio Fuego
 https://n12a-eu.rcs.revma.com/dapwbz2befcwv
 #EXTINF:-1,Radio Fuori Campo
 https://listen.radioking.com/radio/397948/stream/449947
@@ -4207,8 +4211,6 @@ https://stream-ssl.radios-arra.fr:8443/radiogalaxie
 http://www.radiogalere.org:8080/galere.mp3
 #EXTINF:-1,Radio Gandharva Gana
 https://listen.radioking.com/radio/45994/stream/82780
-#EXTINF:-1,Radio Gâtine
-https://hosting.radiomedia.fr:1615/stream
 #EXTINF:-1,Radio Gege
 https://www.mistercouzin.net/listen
 #EXTINF:-1,Radio Giscard
@@ -4561,6 +4563,8 @@ https://radiostar.ice.infomaniak.ch/radiostar-128.mp3
 https://stream.rcs.revma.com/b4yrpwdu7ucwv
 #EXTINF:-1,Radio star VESOUL
 http://radiostar.ice.infomaniak.ch/radiostar-128.mp3
+#EXTINF:-1,radio Stonewall
+https://www.radioking.com/play/radio-stonewall
 #EXTINF:-1,Radio Studio 1
 http://radiostudio1.ice.infomaniak.ch/radiostudio1-128.mp3
 #EXTINF:-1,Radio Studio 20
@@ -4611,10 +4615,14 @@ https://hosting.studioradiomedia.fr:1755/stream
 https://stream10.vestaradio.com/Radio-Vallespir
 #EXTINF:-1,Radio Valois Multien
 https://streaming.radio-valois-multien.fr/live.mp3
+#EXTINF:-1,RADIO VANNES
+https://radio8.pro-fhi.net/radio/9019/stream
 #EXTINF:-1,Radio Vassivière
 http://radiovassiviere.ice.infomaniak.ch/radiovassiviere-128.aac
 #EXTINF:-1,Radio Vaticana Francais
 https://radio.vaticannews.va/stream-fr
+#EXTINF:-1,Radio vénèr
+https://stream.p-node.org/radiovnr.mp3
 #EXTINF:-1,Radio VFM
 http://str0.creacast.com/vfm
 #EXTINF:-1,Radio Vibration
@@ -4655,6 +4663,8 @@ https://stream.radio-active.net/active
 https://stream.radiofrance.fr/francemusiquebaroque/francemusiquebaroque.m3u8?id=radiofranceBose
 #EXTINF:-1,Radio-J Judaïques Paris 94.8 FM
 https://n24-eu.rcs.revma.com/138w9xn95tuvv?rj-ttl=5&amp;rj-tok=AAABoB8z9ZAAz8Gj_DwDInCREg
+#EXTINF:-1,RADIO-JLK
+https://stream10.vestaradio.com/RADIO-JLK
 #EXTINF:-1,RADIO-MEDITERRANEE
 https://stream10.vestaradio.com/RADIO-MEDITERRANEE
 #EXTINF:-1,RADIO-MIX
@@ -4783,12 +4793,8 @@ https://replaynewsstory.ice.infomaniak.ch/replaynewsstory-128.mp3
 https://listen.radioking.com/radio/108/stream/890
 #EXTINF:-1,RFI Anglais - English
 http://live02.rfi.fr/rfienanglais-64.mp3
-#EXTINF:-1,RFI Monde
-http://live02.rfi.fr/rfimonde-64.mp3
 #EXTINF:-1,RFI Musique
 http://live02.rfi.fr/rfimusiquemonde-64k.mp3
-#EXTINF:-1,RFI Musique
-http://live02.rfi.fr/rfimusiquemonde-96k.mp3
 #EXTINF:-1,RFI Persian
 http://live02.rfi.fr/rfienpersan-64k.mp3
 #EXTINF:-1,RFI Portugais
@@ -4799,8 +4805,6 @@ http://live02.rfi.fr/rfienrusse-64.mp3
 https://rfiukraine.ice.infomaniak.ch/rfiukraine-96.mp3
 #EXTINF:-1,RFI Tieng Viet
 http://live02.rfi.fr/rfivietnamien-96k.mp3
-#EXTINF:-1,RFI-Afrique
-http://live02.rfi.fr/rfiafrique-96k.mp3
 #EXTINF:-1,RFI-Chinese
 https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
 #EXTINF:-1,RFM
@@ -5450,55 +5454,3 @@ https://listen.radioking.com/radio/643213/stream/706300
 https://zone-mix.stream.laut.fm/zone-mix?t302=2018-02-12_08-42-17&uuid=960992d8-7019-468f-8628-5cec46e9fa42
 #EXTINF:-1,Международное Французское Радио RFI
 http://live02.rfi.fr/rfirusse-96k.mp3
-#EXTINF:-1,🕺 Allzic Radio Zouk
-https://allzic28.ice.infomaniak.ch/allzic28.aac
-#EXTINF:-1,🕺 Générations Afrobeat
-https://generations-wr001.ice.infomaniak.ch/generations-wr001.aac
-#EXTINF:-1,🕺 Générations Dancehall
-https://generations-dancehall.ice.infomaniak.ch/generations-dancehall.aac
-#EXTINF:-1,🕺 Générations Funk
-https://gene-wr05.ice.infomaniak.ch/gene-wr05.aac
-#EXTINF:-1,🕺 Générations R&B
-https://generationfm-slowjam.ice.infomaniak.ch/generationfm-slowjam-high.aac
-#EXTINF:-1,🕺 Générations RNB Gold
-https://generations-rnb-gold.ice.infomaniak.ch/generations-rnb-gold.aac
-#EXTINF:-1,🕺 Gwoka Radio
-https://ecmanager2.pro-fhi.net:1650/;
-#EXTINF:-1,📻 KLM FM
-https://us3new.listen2myradio.com:2199/listen.php?port=8117
-#EXTINF:-1,🕺 Konpa Mix Radio
-http://das-edge09-live365-dal03.cdnstream.com/a15951
-#EXTINF:-1,📻 Positively Meditation
-https://streaming.positivity.radio/pr/posimeditation/icecast.audio
-#EXTINF:-1,📻 Radio Reccord Chill House
-https://radiorecord.hostingradio.ru/organic96.aacp
-#EXTINF:-1,📻 Radio Reccord Deep
-http://radiorecord.hostingradio.ru/deep96.aacp
-#EXTINF:-1,📻 Radio Record - Reggae
-http://radiorecord.hostingradio.ru/reggae96.aacp
-#EXTINF:-1,📻 Reccord beach
-http://radiorecord.hostingradio.ru/beach96.aacp
-#EXTINF:-1,📻 Reccord Garage UK
-https://radiorecord.hostingradio.ru/ukgarage96.aacp
-#EXTINF:-1,📻 Reccord Groove/Tribal
-https://radiorecord.hostingradio.ru/groovetribal96.aacp
-#EXTINF:-1,📻 Reccord Latina
-https://radiorecord.hostingradio.ru/latina96.aacp
-#EXTINF:-1,📻 Reccord Reggae
-https://radiorecord.hostingradio.ru/reggae96.aacp
-#EXTINF:-1,🕺 Record Goa Psy
-https://radiorecord.hostingradio.ru/goa96.aacp
-#EXTINF:-1,📺 RFI Monde
-https://rfiafrique64k.ice.infomaniak.ch/rfimonde-64.mp3
-#EXTINF:-1,🕺Générations G-Funk
-https://generationsgfunk.ice.infomaniak.ch/generations-g-funk.aac
-#EXTINF:-1,🕺Générations Rap U.S
-https://generationfm-underground.ice.infomaniak.ch/generationfm-underground-high.aac
-#EXTINF:-1,🕺Générations RAP U.S Gold
-https://gene-wr08.ice.infomaniak.ch/gene-wr08.aac
-#EXTINF:-1,🕺Générations Reggae
-https://generations-caraibes.ice.infomaniak.ch/generations-caraibes-high.aac
-#EXTINF:-1,🕺Générations Soul
-https://gene-wr07.ice.infomaniak.ch/gene-wr07.aac
-#EXTINF:-1,🕺Générations West Indies
-https://generationswestindies.ice.infomaniak.ch/generations-westindies.aac

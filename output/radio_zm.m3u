@@ -51,6 +51,8 @@ https://stream.zeno.fm/dupvt1fgcewvv
 https://ec4.yesstreaming.net:2015/stream
 #EXTINF:-1,Imimbo FM
 https://stream.zeno.fm/k2ryd9apkxhvv
+#EXTINF:-1,ITT Radio 90.9 FM
+https://s2.myradiostream.com:8938/stream
 #EXTINF:-1,iWave FM Radio
 https://s47.myradiostream.com/9934/listen.mp3
 #EXTINF:-1,Joy FM Zambia
@@ -117,14 +119,14 @@ https://ec4.yesstreaming.net:2525/stream
 https://stream.zeno.fm/lyo8ib0tzxbtv
 #EXTINF:-1,Sky FM Zambia
 https://stream.zeno.fm/7s554b67schvv
+#EXTINF:-1,Smooth 90.1fm
+https://s25.myradiostream.com/15172/listen.mp3
 #EXTINF:-1,Spice FM 91.1 Kabwe
 http://live.rcast.net:8768/;stream.mp3
 #EXTINF:-1,Sun Fm Zambia
 http://11233.cloudrad.io:9102/live
 #EXTINF:-1,Supreme Sports Radio
 https://custom-azura1.asurahosting.com/listen/ssradio_channel_2/radio.mp3
-#EXTINF:-1,Tuta Radio
-https://s11.myradiostream.com/24282/;?type=http&nocache=1791494215
 #EXTINF:-1,Urban FM Zambia
 https://stream.zeno.fm/b9angvotehftv
 #EXTINF:-1,Utuntu FM

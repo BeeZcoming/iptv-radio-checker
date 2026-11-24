@@ -15,5 +15,7 @@ http://mediamarkaz.com:8000/radiomarkaz
 https://fm101.uz:9943/fm101_low.aac
 #EXTINF:-1,Radio Tabassum
 http://tabassum.uz:9000/alo_low
+#EXTINF:-1,Truck FM
+https://fm.truckfm.uz:8000/64
 #EXTINF:-1,Yoshlar Ovozi 
 http://ns10.jethost.uz:8000/yoshlarovoziaac

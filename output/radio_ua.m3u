@@ -213,8 +213,6 @@ http://ec5.yesstreaming.net:3650/stream
 https://n04.radiojar.com/hcrb063nn3quv?rj-ttl=5&rj-tok=AAABijO2KqMAvyNNc6ijVnKFQA
 #EXTINF:-1,Radio TREK
 https://cast.radiotrek.rv.ua:8433/MP3_320
-#EXTINF:-1,Radio VTSU
-http://vtsu.org.ua:8000/vtsu-pop
 #EXTINF:-1,RadioRelax_Instrumental_HD
 https://online.radiorelax.ua/RadioRelax_Instrumental_HD
 #EXTINF:-1,RadiumFM Kyiv
@@ -359,8 +357,12 @@ http://online.melodiafm.ua/MelodiaFM_Disco_Live
 http://online.melodiafm.ua/MelodiaFM_Romantic_Live
 #EXTINF:-1,Мелодія Int
 http://online.melodiafm.ua/MelodiaFM_Int_Live
+#EXTINF:-1,На своїй хвилі Новодністровськ
+https://online-novodnistrovsk.pp.ua:8443/playHD
 #EXTINF:-1,навала
 http://listen1.myradio24.com/9857
+#EXTINF:-1,Надвірна FM
+http://195.114.96.114:7878/
 #EXTINF:-1,Наше Радіо 107,9
 https://online.nasheradio.ua/NasheRadio_HD
 #EXTINF:-1,Наше Радіо 107.9
@@ -373,6 +375,8 @@ http://radio.moa.org.ua/Friday
 https://live.1tv.od.ua/radio/stream/icecast.audio
 #EXTINF:-1,Подільське
 https://podilske.com:8013/p-radio
+#EXTINF:-1,Просто Radi.O (Київ)
+http://85.238.113.60:8000/PRK128
 #EXTINF:-1,Прямий FM
 https://cast.mediaonline.net.ua/prmfm320
 #EXTINF:-1,Радио НВ
@@ -459,8 +463,6 @@ https://online.novezhitya.net:8000/nlradio_ua-hi.aac
 https://stream.zeno.fm/4rv8rzsdyjttv
 #EXTINF:-1,Радіо П'ятниця
 https://cast.mediaonline.net.ua/radiopyatnica320
-#EXTINF:-1,Радіо Перше
-https://live.radio1.com.ua/liveradio64
 #EXTINF:-1,Радіо Промінь / Radio Promin
 http://radio.ukr.radio:8000/ur2-mp3
 #EXTINF:-1,Радіо ПТРК

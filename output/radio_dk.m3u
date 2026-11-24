@@ -205,8 +205,6 @@ http://media.wlmm.dk:8000/guldtoender
 https://live-bauerdk.sharp-stream.com/thevoice_dk_mp3
 #EXTINF:-1,go!FM
 https://radioserver.dk/gofm
-#EXTINF:-1,Historyradio.org low bandwidth
-https://cast1.asurahosting.com/proxy/historyr/stream.mp3
 #EXTINF:-1,Jazzkanalen
 http://ca6.rcast.net:4058/;stream
 #EXTINF:-1,Julekanalen (Classic FM Jul)

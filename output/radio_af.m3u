@@ -11,6 +11,8 @@ http://radio11.plathong.net:8896/
 https://stream.zeno.fm/ynwu3bzocuauv
 #EXTINF:-1,Al jazeera
 http://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8
+#EXTINF:-1,Ambient Space
+http://immortalharmony.out.airtime.pro:8000/immortalharmony_a
 #EXTINF:-1,Ariana FM 93.5 Kabul
 https://streams.radio.co/sa3345aaa8/listen
 #EXTINF:-1,Arman FM 98.1
@@ -185,5 +187,3 @@ http://194.58.122.69:8000/rrvl
 http://glzwizzlv.bynetcdn.com/glglz_classicil_mp3?awCollectionId=misc&awEpisodeId=glglz_classicil
 #EXTINF:-1,גלגלצ להיטים חמים
 http://glzwizzlv.bynetcdn.com/glglz_hits_mp3?awCollectionId=misc&awEpisodeId=glglz_hits
-#EXTINF:-1,香港电台第一台
-https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8

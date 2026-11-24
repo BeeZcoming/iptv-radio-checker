@@ -7,6 +7,10 @@ https://stream.intervalohost.com/accionfm/stream
 https://stream.zeno.fm/t31pbasum7zuv
 #EXTINF:-1,Adulto Joven 88.1
 https://server6.globalhostla.com:9168/stream
+#EXTINF:-1,Alba Ciudad 96.3 FM
+https://envivo.albaciudad.org/albaciudad.mp3
+#EXTINF:-1,Alba Ciudad Radio 93.6 FM16k
+https://envivo.albaciudad.org/alba16.mp3
 #EXTINF:-1,Amiga FM 93.9
 https://stream.zeno.fm/dr612ew61rhvv
 #EXTINF:-1,Andes 89.3 FM
@@ -21,8 +25,6 @@ http://streamingned.com:7148/;
 https://stream.zeno.fm/zrh0rnwuarzuv
 #EXTINF:-1,Bella FM 96.9
 https://server6.globalhostla.com:9380/stream
-#EXTINF:-1,Big Party 88.9 FM
-http://stream.zeno.fm/w4ysmgm2ekhvv
 #EXTINF:-1,Blue Radio Web
 https://stream.zeno.fm/m8s8m3oflj8uv
 #EXTINF:-1,Bravas 99.7 FM
@@ -99,6 +101,8 @@ https://esperanza-proxy.esperanzaradioquibor.workers.dev/
 https://stream.zeno.fm/jyrqyy8he4tvv
 #EXTINF:-1,Estereo 88.7 FM
 https://stream.zeno.fm/3e2keb1e7tzuv
+#EXTINF:-1,Evolussiun 92.9 FM
+https://laradiossl.online:8150/live
 #EXTINF:-1,Éxitos 90.5 FM - Puerto Ordaz
 https://acp4.lorini.net:10109/stream
 #EXTINF:-1,Exitos 99.9 FM
@@ -119,8 +123,6 @@ https://stream.zeno.fm/e2kzfpr34d0uv/;type=mp3
 https://stream.zeno.fm/qlznh4yhpvytv
 #EXTINF:-1,FM Mundial 104.1
 https://onlineradiobox.com/json/ve/lafmmundial/play?platform=web
-#EXTINF:-1,Frecuencia Feeling 97.1 FM
-https://server6.globalhostla.com:9332/stream
 #EXTINF:-1,Gaiterísima 94.7 FM
 https://stream-288.surfernetwork.com/eifrtjxvxvpuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlaWZydGp4dnh2cHV2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Im1mZ1hYTVZkVFpLYTlyVTd1aUlqRXciLCJpYXQiOjE3OTUzMDM1OTksImV4cCI6MTc5NTMwMzY1OX0.idFFQQ8IST7Qp7dcB7IIHR3OshZ-SRX121ny3gnOAFk
 #EXTINF:-1,Gentlemens @DJNEZUX
@@ -141,12 +143,12 @@ https://server6.globalhostla.com:9068/stream
 https://server6.globalhostla.com:9128/stream
 #EXTINF:-1,LA CIUDAD DE LOS CLÁSICOS RADIO
 https://stream.zeno.fm/ppyvnq28368uv
+#EXTINF:-1,La Doble RR
+https://stream.zeno.fm/u7sbv0hu1p8uv
 #EXTINF:-1,La FM 98.5 Buenisima La FM 98.5 Buenisima
 https://stream.zeno.fm/5t866rywrzzuv
 #EXTINF:-1,La Mega 100.9 FM
 http://acp4.lorini.net:10008/stream
-#EXTINF:-1,La Mega 102.1 (San Crinstobal - Venezuela) 
-http://server6.globalhostla.com:9226/stream
 #EXTINF:-1,LA Mega 103.3 (Barquismeto - Venezuela)
 http://acp4.lorini.net:35000/stream
 #EXTINF:-1,La Mega 107.3
@@ -163,8 +165,6 @@ https://acp2.lorini.net:58100/stream
 https://stream.zeno.fm/4qbzbrvdmy8uv
 #EXTINF:-1,Lasser 97.7 FM
 https://server6.globalhostla.com:8010/stream
-#EXTINF:-1,Latina 95.5 FM
-http://stream.zeno.fm/w6ajlkgtufstv
 #EXTINF:-1,LATINA STEREO 107.9 FM
 https://stream.zeno.fm/maxyg1sqkbjtv
 #EXTINF:-1,Latino 102 Fm 102.7
@@ -243,8 +243,6 @@ https://guri.tepuyserver.net/8012/stream
 https://stream.laut.fm/radiodylan
 #EXTINF:-1,Radio Fe y Alegría - Cd. Guayana 103.1FM
 https://worldradio.online/proxy/?q=http://aler.org:8000/ciudadguayana.aac&plugin_id=13399&site_id=15942544
-#EXTINF:-1,Radio Fe y Alegría - Cumaná 92.1FM
-http://aler.org:8000/cumana.aac
 #EXTINF:-1,Radio Folclorllanero
 https://stream.zeno.fm/hcvjvmprjveuv/;type=mp3
 #EXTINF:-1,RADIO LA PATRONA FM
@@ -297,8 +295,6 @@ https://stream-177.surfernetwork.com/dn2zapjics8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzd
 https://stream-177.surfernetwork.com/fz3rkbb3uouvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmejNya2JiM3VvdXZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlRxak5KUTdPUzdTYWFRYm9ubE0wVlEiLCJpYXQiOjE3OTUzMDQyMjAsImV4cCI6MTc5NTMwNDI4MH0.HhFDwN7CBj2SvsgYeQT_9tkIhOMWZ99DWWYqF4CDIg8
 #EXTINF:-1,SIERRA 99.1 FM
 https://stream.zeno.fm/9m95mfutymruv
-#EXTINF:-1,Studio 102.7 FM
-https://stream.zeno.fm/um833nab8tzuv
 #EXTINF:-1,Tama Stereo
 https://guri.tepuyserver.net/8457/stream
 #EXTINF:-1,TeleSur

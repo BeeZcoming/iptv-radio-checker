@@ -493,10 +493,6 @@ https://streamcp.eu/assets/demo.mp3
 https://stream.laut.fm/radio-dance-eu
 #EXTINF:-1,svobodne-radio
 http://svobodneradio.radioca.st:8859/stream
-#EXTINF:-1,Svobodný vysílač
-http://stream.svobodny-vysilac.cz:8000/live.mp3
-#EXTINF:-1,Svobodný vysílač
-http://stream.svobodny-vysilac.cz:8000/live.ogg
 #EXTINF:-1,We House Radio (AAC+ High)
 https://stream.zunradio.cz/zun1.aac
 #EXTINF:-1,WebRadio Epigon

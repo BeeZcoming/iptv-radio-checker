@@ -7,6 +7,20 @@ https://radio.aiplaylist.io/radio.mp3
 https://auralis-radio.com/radio.mp3
 #EXTINF:-1,BANANRADION
 https://lyssna.bananradion.se/listen/bananradion/128aac
+#EXTINF:-1,Bandit Alternative
+http://wr05-ice.stream.khz.se/wr05_mp3
+#EXTINF:-1,Bandit Ballads
+https://wr21-ice.stream.khz.se/wr21_aac
+#EXTINF:-1,Bandit Classic Rock
+https://wr11-ice.stream.khz.se/wr11_mp3
+#EXTINF:-1,Bandit ÍRock
+https://fm02-ice.stream.khz.se/fm02_mp3
+#EXTINF:-1,Bandit Metal
+https://wr03-ice.stream.khz.se/wr03_mp3
+#EXTINF:-1,Bandit Metal
+http://wr03-ice.stream.khz.se/wr03_mp3
+#EXTINF:-1,Bandit Rock
+http://fm02-ice.stream.khz.se/fm02_mp3
 #EXTINF:-1,Banjalučki Sevdah Radio Šeherčani
 https://stream-172.zeno.fm/wazhcyi9ak5vv?zs=tApDLixiTGuqRhXqTfctZQ&1709234440014
 #EXTINF:-1,Best of ericade.radio
@@ -69,6 +83,8 @@ https://stream.linkopingsnarradio.se:8005/radioprogram
 http://live.litefm.se:8000/stream_mp3
 #EXTINF:-1,Lórien
 https://play.radiorivendell.com/radio/8020/radio.mp3
+#EXTINF:-1,Lugna Favoriter Stockholm
+http://fm03-ice.stream.khz.se/fm03_mp3?
 #EXTINF:-1,Magic Radio
 http://stream.magicradio.se/magic
 #EXTINF:-1,Mix Megapol 104,3
@@ -109,6 +125,8 @@ https://live1.sr.se/p4vnrl-aac-320
 https://live1.sr.se/p4vstm-mp3-96
 #EXTINF:-1,Pain
 https://stream.pcradio.ru/Pain-hi
+#EXTINF:-1,Pieces of Pix
+https://listen.nobexradio.com/station_piecesofpix?ref=radiobrowser
 #EXTINF:-1,Pirate Rock  Västkustens bästa rock
 http://stream.piraterock.se:8101/webradio
 #EXTINF:-1,Polushon
@@ -173,6 +191,8 @@ http://radiosydvast.duckdns.org:12932/stream
 http://streaming.943.se/treby878
 #EXTINF:-1,Radio Uppsala
 https://radio.mediarosenqvist.com/listen/radio-uppsala/radio.mp3
+#EXTINF:-1,Radio Viking 101.4
+https://n25-eu.rcs.revma.com/qp6w2wzrruhvv?rj-ttl=5&amp
 #EXTINF:-1,Radio45 (Dalsland Sweden)
 https://streaming.943.se/radio45
 #EXTINF:-1,Radioapans knattekanal (aac-320)

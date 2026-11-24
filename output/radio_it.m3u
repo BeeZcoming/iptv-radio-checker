@@ -269,6 +269,8 @@ http://143.225.201.2:8000/RadioUnina
 https://pantano.ovh:8444/pantano
 #EXTINF:-1,Febea Radio
 http://nr6.newradio.it:9249/stream
+#EXTINF:-1,FF Radio Live
+https://stream.rmstudio.app/ffradio.mp3
 #EXTINF:-1,Flash Mania Abruzzo
 https://stream.zeno.fm/d4v6zngvxzftv
 #EXTINF:-1,FM Classic
@@ -557,8 +559,6 @@ http://94.23.65.199/m100-64
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8
 #EXTINF:-1,m2o originals radio
 https://stream.laut.fm/m2o-originals-radio
-#EXTINF:-1,m2o originals radio
-https://eu4.fastcast4u.com/proxy/sentre2/stream
 #EXTINF:-1,Mach 5 - Due
 http://sr4.inmystream.info:8183/;stream.mp3
 #EXTINF:-1,MAKLAS Radio
@@ -681,8 +681,6 @@ http://nr5.newradio.it:8623/;streaming.aac
 http://www.nv-radio.it:8000/stream
 #EXTINF:-1,Oberima Radio
 http://oberimaradio.radioca.st/live
-#EXTINF:-1,Oldies98
-https://nr14.newradio.it:8775/stream
 #EXTINF:-1,Onda Latina Radio
 https://nr15.newradio.it:9278/stream
 #EXTINF:-1,ONDA RADIO FIRENZE
@@ -733,8 +731,6 @@ http://5.39.82.157:8054/steam/
 https://streaming.poliradio.it/hq
 #EXTINF:-1,Pop Prisma
 https://radio.celodex.com/stream/pop_prisma.mp3
-#EXTINF:-1,PopWave Web Radio
-https://cast1.asurahosting.com/proxy/michelep/stream
 #EXTINF:-1,Power 927
 http://91.121.104.139:1602/
 #EXTINF:-1,POWER 927 AM Milano
@@ -963,6 +959,8 @@ http://ice05.fluidstream.net/fluid0501.aac?FLID=6
 http://s6.mediastreaming.it:9134/;stream.mp3
 #EXTINF:-1,Radio Animati
 https://stream.radioanimati.it/ramobile
+#EXTINF:-1,Radio Antenna 2
+http://wma03.fluidstream.net:9070/listen.pls
 #EXTINF:-1,Radio Antenna 3
 http://nr8.newradio.it:9295/;
 #EXTINF:-1,Radio Antenna Adriatica
@@ -1027,6 +1025,8 @@ https://radio.uiclecce.it/listen/radiobarocco/radio.mp3
 http://stream.radio-base.it:8184/;
 #EXTINF:-1,Radio Base Venezia
 https://sr11.inmystream.it/proxy/radiobase?mp=/stream
+#EXTINF:-1,Radio Battikuore
+http://nr6.newradio.it:9124/;
 #EXTINF:-1,Radio Bau & Co.
 http://icy.unitedradio.it/RadioBAU.mp3
 #EXTINF:-1,Radio Beckwith - RBE
@@ -1483,6 +1483,8 @@ http://95.110.186.253:8020/magic.mp3
 https://gammastereo.meway.host/stream
 #EXTINF:-1,Radio Garage
 http://onair7.xdevel.com:7094/;
+#EXTINF:-1,Radio Gas
+http://nr5.newradio.it:8731/stream
 #EXTINF:-1,RADIO GATTOPARDO
 https://sr11.inmystream.it/proxy/radiogattopardo?mp=/stream&1700931042510
 #EXTINF:-1,Radio Gela Express Network
@@ -1689,6 +1691,8 @@ https://ssl.audio1.meway.tv/proxy/radiolegends?mp=/stream
 https://radio.radioleila.com/radioleila.mp3
 #EXTINF:-1,Radio Leopolda
 https://onair7.xdevel.com/proxy/xautocloud_ohfs_1545?mp=/stream
+#EXTINF:-1,Radio Like
+https://ice43.fluidstream.net/antenna2.mp3?FLID=1&type=.mp3
 #EXTINF:-1,Radio Linea Drive
 https://rblive.it:8100//radio.mp3
 #EXTINF:-1,Radio Linea Italia
@@ -1723,6 +1727,8 @@ http://nr8.newradio.it:9095/;
 https://nrf1.newradio.it:10334/stream
 #EXTINF:-1,Radio m2o - Dance
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2odance/radiom2odance/master_ma.m3u8
+#EXTINF:-1,Radio m2o - On Air
+https://streamcdnb3-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8
 #EXTINF:-1,Radio Mach 5
 http://94.23.6.107:8183/stream
 #EXTINF:-1,Radio Macomer Centrale
@@ -1781,6 +1787,8 @@ https://stream.laut.fm/meteomeano
 https://stream.radiomediterranea.com:8160/lounge.mp3
 #EXTINF:-1,Radio Medua
 https://ssl1.azotosolutions.com:1030/1
+#EXTINF:-1,Radio Megamix | Your life, your beat
+https://icecast.megamix80.com/stream4
 #EXTINF:-1,Radio Megamix 80
 http://centova.ipstream.it/proxy/megamix80/stream
 #EXTINF:-1,Radio Mela
@@ -1919,6 +1927,8 @@ http://sr10.inmystream.info:8212/;
 https://sr6.inmystream.it/proxy/radiosonica2?mp=/stream
 #EXTINF:-1,Radio Omega Sound
 https://nr9.newradio.it/proxy/radioome?mp=/stream
+#EXTINF:-1,Radio Onda 2
+http://onair18.xdevel.com:8052/;
 #EXTINF:-1,Radio Onda Blu
 http://188.165.206.81:10050/stream
 #EXTINF:-1,Radio Onda D'Urto
@@ -2377,8 +2387,6 @@ http://5.135.39.189:8006/stream
 http://5.135.39.189:8006/stream
 #EXTINF:-1,Radio Ufita
 http://onair15.xdevel.com:8516/;stream.aac
-#EXTINF:-1,Radio Underground Italia 
-https://nr14.newradio.it:8707/stream
 #EXTINF:-1,Radio universal International
 https://radio.rsi-tv.eu/listen/radio_universal_international/radio.mp3
 #EXTINF:-1,Radio Utopia Firenze
@@ -2499,6 +2507,8 @@ https://sr6.inmystream.it/proxy/claudio/stream
 http://stream.laut.fm/radiogaia
 #EXTINF:-1,RADIOGAMMA5
 https://ice05.fluidstream.net/fluid0510.mp3
+#EXTINF:-1,RadiogrAMma
+https://stream.radiospore.oziosi.org:8003/zirudela.ogg?n=84fd45ac00e0d8b39c6f
 #EXTINF:-1,RadioGs
 https://stream.zeno.fm/f384h3c0r98uv
 #EXTINF:-1,Radiolina
@@ -2793,14 +2803,10 @@ https://stream.rcast.net/210096
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_audio.m3u8
 #EXTINF:-1,RTL 102.5 - Groove
 https://streamingv2.shoutcast.com/rtl-1025-broandsis
-#EXTINF:-1,RTL 102.5 [Mobile 48kbps]
-https://streamingv2.shoutcast.com/rtl-1025_48.aac
 #EXTINF:-1,RTL 102.5 Best
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/fYNIdrsfP3xC/playlist_audio.m3u8
 #EXTINF:-1,RTL 102.5 Best
 https://streamingv2.shoutcast.com/rtl-1025-best
-#EXTINF:-1,RTL 102.5 Best [Mobile 48kbps]
-https://streamingv2.shoutcast.com/rtl-1025-best_48.aac
 #EXTINF:-1,RTL 102.5 Bro & Sis [Mobile 48kbps]
 https://streamingv2.shoutcast.com/rtl-1025-broandsis_48.aac
 #EXTINF:-1,RTL 102.5 Disco
@@ -2869,6 +2875,10 @@ https://listen.soulradio.it/it
 https://stream10.xdevel.com/audio3s975559-2094/stream/icecast.audio
 #EXTINF:-1,Spazio Radio
 http://s3.mediastreaming.it:7190/;stream.mp3
+#EXTINF:-1,Spore
+https://stream.radiospore.oziosi.org:8003/spore.ogg
+#EXTINF:-1,Spore LQ
+http://upstream.radiospore.oziosi.org:8000/spore_LQ.ogg
 #EXTINF:-1,Stadtradio Meran
 http://94.23.66.155:9250/srmhigh
 #EXTINF:-1,Station Italy
@@ -3013,6 +3023,8 @@ https://icy.unitedradio.it/um077.mp3
 https://icy.unitedradio.it/um067.mp3
 #EXTINF:-1,United Music Rock Hits
 https://icy.unitedradio.it/um066.aac
+#EXTINF:-1,Urban Radio
+https://nr3.newradio.it:18100/stream
 #EXTINF:-1,V2 Beat Italy
 https://de1se01.v2beat.live/icecast.audio
 #EXTINF:-1,V2Beat Radio

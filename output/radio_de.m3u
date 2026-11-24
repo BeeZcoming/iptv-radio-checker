@@ -481,6 +481,8 @@ https://0nlineradio.radioho.st/0r-volksmusik?ref=rb26
 https://0nlineradio.radioho.st/0r-christmas-movie-hits/mp3-192?ref=radiobrowser
 #EXTINF:-1,*CLUB CHARTS TOP 100 || IMMER AKTUELL || DJ CHARTS || HOUSE, EDM, DEEP HOUSE - TECH HOUSE - TECHNO - MELODIC TECHNO - EDM - ELECTRONIC DANCE MUSIC - CLUB - DJ - DJ MIX - REMIX - FESTIVAL - FESTIVAL RADIO - IBIZA - IBIZA HOUSE - SUMMER HOUSE - BEACH CLUB - CHILLOUT - LOUNGE - RAVE - PARTY MUSIC - NIGHTLIFE - URBAN - HIP HOP - RNB - AFRO HOUSE - LATIN HOUSE - TRANCE - HARDSTYLE - HARDCORE
 https://breakz-2012-high.rautemusik.fm/?ref=N1CLUBBING26
+#EXTINF:-1,/opus
+https://stream.solid-software.net/opus
 #EXTINF:-1,# Aktuelle HITS - 24H NON-STOP MUSIC - DANCE & DJ MIX RADIO @ TikTok Hits, Ibiza House, Sunset Lounge, Melodic Music, EDM, Deep House, Dance Music, Techno & Hypertechno, Rave Charts, Top 40 Charts, Latin, Reggaeton Music, Moombahton, Urban Hits, HipHop, Party & Clubbing Radio, Trending Chartmusic, R&B, Urban, Mixtape - & LIVE DJ SET
 https://breakz-2012-high.rautemusik.fm/?ref=radiobrowser-akthits
 #EXTINF:-1,# Mainstage Charts - Your FESTIVAL Radio @ EDM - TECHNO - DJ MIXTAPES - RAVE -  LATIN - REGGAETON - MOOMBAHTON - RnB - DJ Charts - HIPHOP - ELECTRO - DEEP HOUSE -  DANCE - LOUNGE - CHILLOUT - SUMMER - IBIZA HOUSE - WEDDING - BACH - SOULFUL - BEACH - CLUB -  GERMANY DJ RADIO - PARTY - BREAKZ - POOL - POP - URBAN - HOT NEW MUSIC
@@ -1183,6 +1185,8 @@ https://ip45.ip-164-132-158.eu/radio/8020/radio.mp3
 https://afda-radio.rockrecords.net:8000/radio.mp3
 #EXTINF:-1,a.tv Augsburg
 https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+#EXTINF:-1,AAC Stream 64kbits
+https://stream.solid-software.net/stream-low
 #EXTINF:-1,Absolut 80er
 https://absolut-80er.live-sm.absolutradio.de/absolut-80er/stream/aacp?maxvbr=3
 #EXTINF:-1,Absolut AI
@@ -1919,8 +1923,6 @@ https://stream-elr.bdjradio.com/
 https://stream-90s.bdjradio.com/
 #EXTINF:-1,BDJ Radio - 80s & 90s
 https://stream-bdj80s90s.bdjradio.com/
-#EXTINF:-1,BE4 Digital Classix 
-http://81.169.136.95/DAB_Stream
 #EXTINF:-1,beatdownx
 http://stream.laut.fm/beatdownx
 #EXTINF:-1,BeatGo
@@ -2131,6 +2133,8 @@ https://stream.bigfm.de/nrw/mp3-128/private
 https://stream.bigfm.de/oldschooldeutschrap/aac-128
 #EXTINF:-1,bigFM Old School Deutschrap (AAC 64)
 https://stream.bigfm.de/oldschooldeutschrap/aac-64
+#EXTINF:-1,bigFM Oldschool Rap 
+https://streams.bigfm.de/bigfm-oldschool-128-mp3
 #EXTINF:-1,bigFM Rap Feature
 http://streams.bigfm.de/bigfm-rapfeature-128-mp3?usid=0-0-H-M-D-60
 #EXTINF:-1,bigFM Rheinland-Pfalz
@@ -2145,6 +2149,22 @@ https://stream.bigfm.de/turkey/aac-128/liveradioie
 https://stream.bigfm.de/slowjamz/mp3-128/radiobrowser
 #EXTINF:-1,bigFM Snoop Dogg
 https://stream.bigfm.de/snoopdogg/mp3-128/radiobrowser
+#EXTINF:-1,BigFM Sunset Lounge
+http://streams.bigfm.de/bigfm-sunsetlounge-128-mp3?usid=0-0-H-M-D-12
+#EXTINF:-1,bigFM Throwback
+https://stream.bigfm.de/throwback/aac-128/radiobrowser
+#EXTINF:-1,bigFM TikTok Charts
+https://stream.bigfm.de/tiktokcharts/mp3-128/radiobrowser
+#EXTINF:-1,bigFM TikTok Charts
+https://stream.bigfm.de/tiktokcharts/mp3-128/surfmusik?1707016354
+#EXTINF:-1,bigFM Tomorrowland One World Radio
+https://stream.bigfm.de/tomorrowland/mp3-128/radiobrowser
+#EXTINF:-1,bigFM Trashpop
+https://stream.bigfm.de/trashpop/mp3-128/radiobrowser
+#EXTINF:-1,bigFM Worldbeats
+http://streams.bigfm.de/bigfm-worldbeats-128-aac
+#EXTINF:-1,bigFM Xmas
+https://stream.bigfm.de/xmas/mp3-128/radiobrowser
 #EXTINF:-1,Biggestbeats
 https://biggestbeats.stream.laut.fm/biggestbeats
 #EXTINF:-1,BigTimeFM
@@ -2257,6 +2277,8 @@ http://radio.breakz.fm/?upd-meta&upd-scheme=http&_art=dD0xNzk1MzE5MTQwJmQ9NWY4Zj
 https://breakz-high.rautemusik.fm/stream.mp3?ref=rmwp
 #EXTINF:-1,BreakZ.FM - Charts & Remixe
 https://stream.breakz.fm/?ref=radiobrowser
+#EXTINF:-1,BreathFM Mainstream
+https://stream.breathfm.de/listen/mainstream/high.mp3
 #EXTINF:-1,Bremen Eins
 https://icecast.radiobremen.de/rb/bremeneins/live/mp3/128/stream.mp3?aggregator=surfmusik-de
 #EXTINF:-1,Bremen Eins Beat-Club
@@ -2335,6 +2357,8 @@ http://campfm.radionetz.de:8000/campfm.mp3
 http://5.9.16.111:8510/campusfm
 #EXTINF:-1,CampusFM
 http://stream.campusfm.de/
+#EXTINF:-1,Campusradio Karlsruhe
+https://campusradio.forum.kit.edu:8443/campusradiokitbib
 #EXTINF:-1,Campusradio Leipzig
 https://ukw.hoerradar.de/DESNLEJ002APO08920
 #EXTINF:-1,Can and More Radio
@@ -2789,6 +2813,8 @@ http://stream.laut.fm/deutschrap-deluxe
 https://stream.laut.fm/deutschrock
 #EXTINF:-1,DGT Sender
 http://stream.laut.fm/dgt-sender
+#EXTINF:-1,DI House
+http://prem1.di.fm/house_hi?27fb520cb945d57702855a5a
 #EXTINF:-1,Dial Radio
 https://cast.dialradio.live/stream.opus
 #EXTINF:-1,Die Maus
@@ -2931,8 +2957,6 @@ http://streams.radiobob.de/bob-kuschelrock/mp3-192/mediaplayer
 http://streams.radiobob.de/symphmetal/mp3-192/mediaplayer/
 #EXTINF:-1,DrGnu - X-Mas Rock
 http://streams.radiobob.de/bob-christmas/mp3-192/mediaplayer/
-#EXTINF:-1,Drive FM
-http://109.185.236.241:8000/DriveFM
 #EXTINF:-1,Drosselgassenfrequenz
 http://drosselgassenfrequenz.stream.laut.fm/drosselgassenfrequenz
 #EXTINF:-1,DSC Webradio
@@ -3199,6 +3223,8 @@ https://emsefunk.stream.laut.fm/emsefunk
 https://edge20.streamonkey.net/energy-nuernberg?aggregator=shorty
 #EXTINF:-1,Energy (Saxony)
 https://regiocast.streamabc.net/regc_nren36tvre_bunk-mp3-192-6739542?sABC=69n8n79s%230%237714q36p7s5253q38p7p746223636q3r%23ubzrcntr&aw_0_1st.playerid=homepage&amsparams=playerid:homepage;skey:1772660639
+#EXTINF:-1,energy 93
+http://master.shoutcast.com:8000/energy93
 #EXTINF:-1,Energy 97.1
 https://frontend.streamonkey.net/energy-hamburg/stream/mp3?aggregator=surfmusik&1707015598
 #EXTINF:-1,Energy Bremen (NRJ)
@@ -3375,6 +3401,8 @@ http://stream.escradio.com:8030/
 http://stream.laut.fm/esounds
 #EXTINF:-1,ET-Radio
 https://stream.regenbogen2.de/etradio/mp3-128/radiobrowser
+#EXTINF:-1,euer-radio (www.Euer - Radio.DE)
+http://s2.euer.tv/audio320
 #EXTINF:-1,Euro Smooth Jazz
 http://stream.laut.fm/eurosmoothjazz
 #EXTINF:-1,Eurobeat
@@ -3669,12 +3697,60 @@ http://fluxfm.streamabc.net/flx-event02-aacplus-64-5884732?sABC=6o025on3%230%236
 http://streams.fluxfm.de/rnb/mp3-320/streams.fluxfm.de/
 #EXTINF:-1,FluxFM - Hot R’n’B
 http://streams.fluxfm.de/rnb/aac-64/streams.fluxfm.de/
+#EXTINF:-1,FluxFM - Hot R’n’B
+http://streams.fluxfm.de/rnb/mp3-128/streams.fluxfm.de/
+#EXTINF:-1,FluxFM - Indie Disco
+https://streams.fluxfm.de/indiedisco/mp3-320/streams.fluxfm.de/
+#EXTINF:-1,FluxFM - JägerMusic Radio
+http://streams.fluxfm.de/jaegermusic/mp3-128/streams.fluxfm.de/
+#EXTINF:-1,FluxFM - JägerMusic Radio
+http://streams.fluxfm.de/jaegermusic/mp3-320/streams.fluxfm.de/
+#EXTINF:-1,FluxFM - JägerMusic Radio
+http://streams.fluxfm.de/jaegermusic/aac-64/streams.fluxfm.de/
 #EXTINF:-1,FluxFM - Jazzradio Schwarzenstein
 http://fluxfm.streamabc.net/flx-jazzradio-aacplus-64-1366806?sABC=6o0284qs%230%236q8s7o7o3p7411o9n0871834qs5r90so%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1795327199
 #EXTINF:-1,FluxFM - Jazzradio Schwarzenstein
 http://fluxfm.streamabc.net/flx-jazzradio-mp3-128-4986317?sABC=6o0257q4%230%236q8s7o7o3p7411o9n0871834qs5r90so%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1795315668
 #EXTINF:-1,FluxFM - John Reed Radio
 http://fluxfm.streamabc.net/flx-johnreedradio-aacplus-64-5245546?sABC=6o029nqn%230%236q8s7o7o3p7411o9n0871834qs5r90so%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1795332826
+#EXTINF:-1,FluxFM - John Reed Radio
+http://fluxfm.streamabc.net/flx-johnreedradio-mp3-128-5108296?sABC=6o021q65%230%236q8s7o7o3p7411o9n0871834qs5r90so%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1795300709
+#EXTINF:-1,FluxFM - John Reed Radio
+http://fluxfm.streamabc.net/flx-johnreedradio-mp3-320-7051829?sABC=6o022382%230%236q8s7o7o3p7411o9n0871834qs5r90so%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1795302274
+#EXTINF:-1,FluxFM - Kinder
+http://streams.fluxfm.de/kinder1/aac-64/streams.fluxfm.de/
+#EXTINF:-1,FluxFM - Kinder
+http://streams.fluxfm.de/kinder1/mp3-128/streams.fluxfm.de/
+#EXTINF:-1,FluxFM - Kinder
+http://streams.fluxfm.de/kinder1/mp3-320/streams.fluxfm.de/
+#EXTINF:-1,FluxFM - Klubradio
+http://fluxfm.streamabc.net/flx-klubradio-mp3-320-6997579?sABC=6o024399%230%236q8s7o7o3p7411o9n0871834qs5r90so%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1795310489
+#EXTINF:-1,FluxFM - Klubradio
+http://fluxfm.streamabc.net/flx-klubradio-aacplus-64-8993546?sABC=6o023on5%230%236q8s7o7o3p7411o9n0871834qs5r90so%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1795308453
+#EXTINF:-1,FluxFM - Klubradio
+http://fluxfm.streamabc.net/flx-klubradio-mp3-128-6339004?sABC=6o0296ss%230%236q8s7o7o3p7411o9n0871834qs5r90so%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1795331839
+#EXTINF:-1,FluxFM - Kool Kids
+http://fluxfm.streamabc.net/flx-fluxfmberlin-aacplus-64-6698635?sABC=6o027ros%230%236q8s7o7o3p7411o9n0871834qs5r90so%23fgernzf.syhksz.qr&aw_0_1st.playerid=streams.fluxfm.de&amsparams=playerid:streams.fluxfm.de;skey:1795325631
+#EXTINF:-1,FluxFM - Kool Kids
+http://fluxfm.streamabc.net/flx-fluxfmberlin-mp3-128-5859035?sABC=6o0232o2%230%236q8s7o7o3p7411o9n0871834qs5r90so%23fgernzf.syhksz.qr&aw_0_1st.playerid=streams.fluxfm.de&amsparams=playerid:streams.fluxfm.de;skey:1795306162
+#EXTINF:-1,FluxFM - Kool Kids
+http://fluxfm.streamabc.net/flx-fluxfmberlin-mp3-320-3394445?sABC=6o0211ps%230%236q8s7o7o3p7411o9n0871834qs5r90so%23fgernzf.syhksz.qr&aw_0_1st.playerid=streams.fluxfm.de&amsparams=playerid:streams.fluxfm.de;skey:1795297743
+#EXTINF:-1,FluxFM - MetalFM
+http://fluxfm.streamabc.net/flx-metalfm-aacplus-64-8203871?sABC=6o02nsps%230%236q8s7o7o3p7411o9n0871834qs5r90so%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1795338191
+#EXTINF:-1,FluxFM - MetalFM
+http://fluxfm.streamabc.net/flx-metalfm-mp3-320-9154971?sABC=6o024n97%230%236q8s7o7o3p7411o9n0871834qs5r90so%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1795312279
+#EXTINF:-1,FluxFM - Moby’s Vegan Radio
+http://fluxfm.streamabc.net/flx-event01-mp3-320-4988078?sABC=6o0211q4%230%236q8s7o7o3p7411o9n0871834qs5r90so%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1795297748
+#EXTINF:-1,FluxFM - Moby’s Vegan Radio
+http://fluxfm.streamabc.net/flx-event01-aacplus-64-9806072?sABC=6o025on6%230%236q8s7o7o3p7411o9n0871834qs5r90so%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1795316646
+#EXTINF:-1,FluxFM - Moby’s Vegan Radio
+http://fluxfm.streamabc.net/flx-event01-mp3-128-7821535?sABC=6o022310%230%236q8s7o7o3p7411o9n0871834qs5r90so%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1795302160
+#EXTINF:-1,FluxFM - neoFM
+http://fluxfm.streamabc.net/flx-neofm-mp3-128-5182467?sABC=6o0249q6%230%236q8s7o7o3p7411o9n0871834qs5r90so%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1795312086
+#EXTINF:-1,FluxFM - neoFM
+http://fluxfm.streamabc.net/flx-neofm-aacplus-64-5150487?sABC=6o0222so%230%236q8s7o7o3p7411o9n0871834qs5r90so%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1795302139
+#EXTINF:-1,FluxFM - neoFM
+http://fluxfm.streamabc.net/flx-neofm-mp3-320-1670254?sABC=6o02o65s%230%236q8s7o7o3p7411o9n0871834qs5r90so%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1795339871
 #EXTINF:-1,FluxFM - New Yorker Instore Radio Germany
 http://streams.fluxfm.de/nyir-ger/aac-64/streams.fluxfm.de/
 #EXTINF:-1,FluxFM - New Yorker Instore Radio Germany
@@ -4885,6 +4961,8 @@ https://krautrockworld.stream.laut.fm/krautrockworld
 https://radio.krawallradio.com/listen/krawallradio/radio.mp3
 #EXTINF:-1,Kristina Beck-Short
 http://mdr-284350-0.cast.mdr.de/mdr/284350/0/mp3/high/stream.mp3
+#EXTINF:-1,Kronehit Dance
+https://kronehit.streamabc.net/50-fschannel39-aac-128-3397335
 #EXTINF:-1,KTL Oldies-Radio
 http://streamplus36.leonex.de:24844/
 #EXTINF:-1,Kukuruz
@@ -6372,7 +6450,7 @@ https://stream.laut.fm/progressive-trance-mix
 #EXTINF:-1,ProgressiveMusic
 http://stream.laut.fm/progressivemusic
 #EXTINF:-1,Progschuppen
-https://progschuppen.stream.laut.fm/progschuppen?uuid=d9f0b664-4bbb-6af4-814c-fe8d328036f1&t302=2026-11-19_02-44-45
+https://progschuppen.stream.laut.fm/progschuppen?t302=2026-11-24_02-46-47&uuid=cac42d78-e121-fe1e-4a5f-544a4c704875
 #EXTINF:-1,PSR Love-Songs
 https://regiocast.streamabc.net/regc-psr2000er1212201-mp3-192-6313640?sABC=6o02o38o%230%23nq59s62359o2nr38nsp8150610pq18p9%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1795339147
 #EXTINF:-1,psy
@@ -6395,14 +6473,6 @@ https://pulloverdisko.stream.laut.fm/pulloverdisko?t302=2026-11-22_10-57-44&uuid
 http://punk4all.stream.laut.fm/punk4all
 #EXTINF:-1,PUNKRATZ
 http://punkratz.stream.laut.fm/punkratz
-#EXTINF:-1,Punkrockers Radio
-https://stream.punkrockers-radio.de:8443/prr.flac
-#EXTINF:-1,Punkrockers Radio
-http://stream.punkrockers-radio.de:8000/mp3
-#EXTINF:-1,Punkrockers Radio
-https://stream.punkrockers-radio.de:8443/ogg?1727422503
-#EXTINF:-1,punkrockers-radio
-https://stream.punkrockers-radio.de:8443/prr.ogg
 #EXTINF:-1,PUNKTum HD - Regionalfernsehen Mansfeld-Südharz
 https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:punktum_high/playlist.m3u8
 #EXTINF:-1,Pure FM
@@ -6541,8 +6611,6 @@ http://rsa.streamabc.net/regc-rsasachsensommer1698422-mp3-192-4974319?sABC=6o021
 http://streams.rsa-sachsen.de/rsa-event01/mp3-192/streams.rsa-sachsen.de/
 #EXTINF:-1,R.SA Weihnachtsradio
 http://rsa.streamabc.net/regc-rsasachsenevent017364573-mp3-192-8804524?sABC=6o023852%230%236q8s7o7o3p7411o9n0871834qs5r90so%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1795307602
-#EXTINF:-1,R.SH - Oldies
-https://streams.rsh.de/oldies/mp3-192/
 #EXTINF:-1,R.SH 80er
 http://streams.rsh.de/rsh-80er/mp3-128/mediaplayer
 #EXTINF:-1,R.SH 80er
@@ -6560,17 +6628,11 @@ http://streams.rsh.de/fresh/mp3-192/homepage/
 #EXTINF:-1,R.SH Gute-Laune
 http://streams.rsh.de/gutelaune/mp3-192/mediaplayer
 #EXTINF:-1,R.SH Live
-https://streams.rsh.de/rsh-live/aac-64/streams.rsh.de/
-#EXTINF:-1,R.SH Live
-https://streams.rsh.de/deutsch/mp3-192/streams.rsh.de/
-#EXTINF:-1,R.SH Live
 http://streams.rsh.de/rsh-live/mp3-192/mediaplayer
 #EXTINF:-1,R.SH Live
 http://rsh.streamabc.net/regc-rshlive-mp3-128-7643923?sABC=6o02o44q%230%236q8s7o7o3p7411o9n0871834qs5r90so%23fgernzf.efu.qr&aw_0_1st.playerid=streams.rsh.de&amsparams=playerid:streams.rsh.de;skey:1795339341
 #EXTINF:-1,R.SH Mittmann Mix
 http://streams.rsh.de/rsh-mittmannmix/mp3-192/homepage/
-#EXTINF:-1,R.SH Musik-Mix-Nonstop
-https://streams.rsh.de/musikmix/mp3-192/streams.rsh.de/
 #EXTINF:-1,R.SH Relax
 http://streams.rsh.de/relax/mp3-192/homepage/
 #EXTINF:-1,R.SH Top 40
@@ -6947,6 +7009,12 @@ http://streams.radiobob.de/bob-wacken/mp3-192/streams.radiobob.de/
 https://regiocast.streamabc.net/regc-bobbritpop-mp3-192-5617717
 #EXTINF:-1,Radio Bob! chillout-unplugged
 http://streams.radiobob.de/bob-chillout/aac-64/
+#EXTINF:-1,Radio Bob! chillout-unplugged
+http://streams.radiobob.de/bob-chillout/mp3-192/
+#EXTINF:-1,Radio BOB! Classic Rock
+http://streams.radiobob.de/bob-classicrock/mp3-128/mediaplayer
+#EXTINF:-1,RADIO BOB! Classic Rock
+http://streams.radiobob.de/bob-classicrock/mp3-192/streams.radiobob.de/
 #EXTINF:-1,RADIO BOB! EMO
 https://regiocast.streamabc.net/regc-radiobobemo1934616-mp3-192-5631513?sABC=6o0268s3%230%23nq59s62359o2nr38nsp8150610pq18p9%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1795320051
 #EXTINF:-1,Radio Bob! Livestream Hessen
@@ -6987,34 +7055,10 @@ https://icecast.radiobremen.de/rb/bremeneins/live/mp3/128/stream.mp3
 https://icecast.radiobremen.de/rb/bremenvier/live/mp3/128/stream.mp3
 #EXTINF:-1,RADIO BRENNER
 https://radiobrenner.stream.laut.fm/radiobrenner?uuid=292e05ea-9b45-1787-a1f4-9e5ea67ab4bd&t302=2026-11-22_11-14-00
-#EXTINF:-1,Radio Brocken 2023
-https://stream.radiobrocken.de/live/mp3-256
-#EXTINF:-1,Radio Brocken 80er
-https://stream.radiobrocken.de/80er/mp3-256
-#EXTINF:-1,Radio Brocken 90er
-https://stream.radiobrocken.de/90er/mp3-256
-#EXTINF:-1,Radio Brocken 93.5 FM
-https://stream.radiobrocken.de/live-hal-lei/mp3-256/
-#EXTINF:-1,Radio Brocken Chart-Hits
-https://stream.radiobrocken.de/chart-hits/mp3-256
-#EXTINF:-1,Radio Brocken Fetenhits
-https://stream.radiobrocken.de/fete/mp3-256
-#EXTINF:-1,Radio Brocken Kinderzeit
-https://stream.radiobrocken.de/kinderzeit/mp3-256
-#EXTINF:-1,Radio Brocken Lovesongs
-https://stream.radiobrocken.de/love/mp3-256
-#EXTINF:-1,Radio Brocken Osthits
-https://stream.radiobrocken.de/osthits/mp3-256
-#EXTINF:-1,Radio Brocken Region Altmark
-https://stream.radiobrocken.de/live-altmark/mp3-256
-#EXTINF:-1,Radio Brocken Region Dessau-Roßlau/Wittenberg
-https://stream.radiobrocken.de/live-de-wb/mp3-256
-#EXTINF:-1,Radio Brocken Region Magdeburg/Harz
-https://stream.radiobrocken.de/live-md-harz/mp3-256
-#EXTINF:-1,Radio Brocken Sommer Hits
-https://stream.radiobrocken.de/bestof/mp3-256
-#EXTINF:-1,Radio Brocken Ü30-Partymix
-https://stream.radiobrocken.de/partymix/mp3-256
+#EXTINF:-1,Radio Brocken
+http://fhhalle.streamabc.net/fhhal-rblive-mp3-256-3654873?sABC=6o0265pn%230%236q8s7o7o3p7411o9n0871834qs5r90so%23qverxgyvaxUC&aw_0_1st.playerid=direktlinkHP&amsparams=playerid:direktlinkHP;skey:1795319242
+#EXTINF:-1,Radio Brocken - Kulthits
+http://fhhalle.streamabc.net/fhhal-brocken80er-mp3-256-3155073?sABC=6o0275on%230%236q8s7o7o3p7411o9n0871834qs5r90so%23qverxgyvaxUC&aw_0_1st.playerid=direktlinkHP&amsparams=playerid:direktlinkHP;skey:1795323322
 #EXTINF:-1,Radio Brooklin - Classic Rock
 http://streaming03.hstbr.net:8096/live
 #EXTINF:-1,Radio Budowlaniec
@@ -7234,7 +7278,7 @@ http://www.radiofaaz.com/proxy.php/stream
 #EXTINF:-1,Radio Fantasy Augsburg
 https://frontend.streamonkey.net/fantasy-934
 #EXTINF:-1,Radio Fantasy Classix
-https://edge19.streamonkey.net/fantasy-classix/stream/mp3?aggregator=smk-m3u-mp3
+https://edge18.streamonkey.net/fantasy-classix/stream/mp3?aggregator=smk-m3u-mp3
 #EXTINF:-1,Radio Feierwerk 92,4 MHz
 http://live.feierwerk.de:8000/live.ogg
 #EXTINF:-1,radio ffn
@@ -7701,6 +7745,8 @@ http://pool.radiopaloma.de/RP-Kultschlager.mp3
 http://streams.schlagerplanetradio.com/kult/mp3-192
 #EXTINF:-1,Radio Paloma - Partyschlager
 http://pool.radiopaloma.de/RP-Partyschlager.mp3
+#EXTINF:-1,Radio Paloma Weihnachts-Schlager Stream
+https://pool.radiopaloma.de/RP-XMAS.mp3
 #EXTINF:-1,Radio Paralax
 http://radio-paralax.de:8000/
 #EXTINF:-1,Radio PARALAX
@@ -7871,8 +7917,6 @@ https://stream.regenbogen.de/flashback/mp3-128/radiobrowser
 https://stream.regenbogen.de/kinderlieder/mp3-128/radiobrowser
 #EXTINF:-1,Radio Regenbogen Kuschelrock
 https://stream.regenbogen.de/kuschelrock/mp3-128/radiobrowser
-#EXTINF:-1,Radio Regenbogen Metal
-https://streams.regenbogen.de/rr-metal-128-mp3
 #EXTINF:-1,Radio Regenbogen Modern Rock
 http://streams.regenbogen.de/rr-modernrock-128-aac?usid=0-0-H-A-D-01
 #EXTINF:-1,Radio Regenbogen Nur die Musik
@@ -7921,6 +7965,8 @@ https://streaming.radio-r.net/radio-r
 http://rb-stream.de:8000/rrb_128.mp3
 #EXTINF:-1,Radio Saalewelle
 https://listen.radioking.com/radio/404938/stream/457153
+#EXTINF:-1,Radio Sailung
+http://live.itech.host:9174/live
 #EXTINF:-1,Radio Salü
 http://internetradio.salue.de:8000/salue.mp3
 #EXTINF:-1,Radio Salü in the Mix
@@ -9129,40 +9175,12 @@ https://stream.rpr1.de/ndw/mp3-128/radiobrowser
 https://stream.rpr1.de/musik/mp3-128/radiobrowser
 #EXTINF:-1,RPR1. Oldies
 https://stream.rpr1.de/oldies/mp3-128/radiobrowser
-#EXTINF:-1,RPR1. Pappnasen
-https://stream.rpr1.de/pappnasen/mp3-128/radiobrowser
-#EXTINF:-1,RPR1. Radio Schinkenstrasse
-https://stream.rpr1.de/apresski/mp3-128/radiobrowser
-#EXTINF:-1,RPR1. Rock
-http://streams.rpr1.de/rock-128-mp3
-#EXTINF:-1,RPR1. Rock
-https://stream.rpr1.de/rock/mp3-128/radiobrowser
-#EXTINF:-1,RPR1. Schlager
-https://stream.rpr1.de/schlagerhits/mp3-128/radiobrowser
-#EXTINF:-1,RPR1. Sommerhits
-https://stream.rpr1.de/sommerhits/mp3-128/radiobrowser
-#EXTINF:-1,RPR1. Sport Radio
-https://stream.rpr1.de/fitness/mp3-128/radiobrowser
-#EXTINF:-1,RPR1. Tanzbar
-https://stream.rpr1.de/tanzbar/mp3-128/radiobrowser
-#EXTINF:-1,RPR1. Trier
-https://stream.rpr1.de/trier/mp3-128/radiobrowser
-#EXTINF:-1,RPR1. Webradio
-https://stream.rpr1.de/webradio/mp3-128/radiobrowser
-#EXTINF:-1,RPR1. Weihnachtslieder
-https://stream.rpr1.de/weihnachten/mp3-128/radiobrowser
-#EXTINF:-1,RPR1. Yoga Sounds
-https://stream.rpr1.de/yogasounds/mp3-128/radiobrowser
 #EXTINF:-1,RSA Sachsen
 https://streams.rsa-sachsen.de/rsa-live/mp3-128/streams.rsa-sachsen.de/
 #EXTINF:-1,RSA Sachsen
 https://streams.rsa-sachsen.de/rsa-live/mp3-192/streams.rsa-sachsen.de/
 #EXTINF:-1,RSD-Radio
 https://server4.streamserver24.com:43630/stream
-#EXTINF:-1,RSH Kids
-http://streams.rsh.de/kids/mp3-192/homepage/
-#EXTINF:-1,RSH Sylt
-http://streams.rsh.de/rsh-sylt/aac-64/streams.rsh.de/
 #EXTINF:-1,RSMUSIC
 http://rsmusic.stream.laut.fm/rsmusic?t302=2026-11-21_23-52-04&uuid=9c66975a-80dc-ddc3-dee9-6ae7a9a0746f
 #EXTINF:-1,RT Deutsch
@@ -9189,16 +9207,10 @@ http://rt1.radio/infya
 https://frontend.streamonkey.net/rt1-ch23/stream/mp3?aggregator=radiobrowser&aw_0_1st.playerid=radiobrowser
 #EXTINF:-1,RT1 Rock
 https://frontend.streamonkey.net/rt1-ch24/stream/mp3?aggregator=rt1_web&aw_0_1st.playerid=rt1_web&aw_0_1st.source=imsuden_web
+#EXTINF:-1,RTBF Classic 21 - 70's
+https://radios.rtbf.be/wr-c21-70-128.mp3
 #EXTINF:-1,rtl 80
 http://streams.bcs-systems.de/hrrtl/80er/sachsen/mp3/web
-#EXTINF:-1,RTL 93.3 - 97.0
-http://stream.rtlradio.de/rtl-de-ukw/mp3-128/konsole/
-#EXTINF:-1,RTL NFL Radio
-https://stream.rtlradio.de/rtlnfl/mp3-128/website/
-#EXTINF:-1,RTL Radio
-http://stream.rtlradio.de/rtl-de-beste-hits/mp3-192/vtuner
-#EXTINF:-1,RTLplus Indie Classics
-https://rtlberlin.streamabc.net/rtlb-indieclassics-mp3-128-2559616
 #EXTINF:-1,Ruby Radio
 https://cast.egofm.de/ruby.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true
 #EXTINF:-1,Rudelfunk
@@ -9425,6 +9437,10 @@ http://stream.laut.fm/snakedance
 http://stream.laut.fm/sockenschuss-x
 #EXTINF:-1,Soft Rock
 https://stream.rockantenne.bayern/soft-rock/stream/aacp
+#EXTINF:-1,SolidCast FLAC
+https://stream.solid-software.net/flac
+#EXTINF:-1,SolidCast Test Stream
+https://stream.solid-software.net/stream
 #EXTINF:-1,SOLO PIANO by Epic Piano
 https://stream.epic-piano.com/solo-piano?ref=radiobrowser
 #EXTINF:-1,SonepRadio
@@ -9457,6 +9473,8 @@ https://stream.laut.fm/soundpool
 https://soundsindie.stream.laut.fm/soundsindie?uuid=a84a984a-98fb-9893-4554-eef4b3578683&t302=2026-11-21_23-49-47
 #EXTINF:-1,Soundstorm – Relax Radio
 http://stream.soundstorm-radio.com/listen/soundstorm/radio.mp3
+#EXTINF:-1,SoundStormFM
+https://radio.soundstormfm.de/listen/soundstormfm/radio.mp3
 #EXTINF:-1,Soundsystem
 http://stream.laut.fm/soundsystem
 #EXTINF:-1,Soundtales Productions Hörspiel Radio
@@ -9683,8 +9701,6 @@ http://stream.sunshine-live.de/handsup/mp3-192/stream.sunshine-live.de/
 http://stream.sunshine-live.de/handsup/mp3-192
 #EXTINF:-1,Sunshine Live - Hard
 http://stream.sunshine-live.de/hard/mp3-192/stream.sunshine-live.de/
-#EXTINF:-1,Sunshine Live - Hardcore
-https://stream.sunshine-live.de/Hardcore/mp3-192/&utm_source=radio.menu/
 #EXTINF:-1,Sunshine Live - Hardtechno
 https://sunsl.streamabc.net/sunsl_w4pk5n9ou_0dfk-mp3-192-4232604
 #EXTINF:-1,Sunshine Live - House
@@ -9697,8 +9713,6 @@ http://stream.sunshine-live.de/lounge/mp3-192
 http://stream.sunshine-live.de/lounge/mp3-192/stream.sunshine-live.de/
 #EXTINF:-1,Sunshine Live - MayDay
 http://stream.sunshine-live.de/mayday/mp3-192/stream.sunshine-live.de/
-#EXTINF:-1,sunshine live - Melodic Techno
-https://stream.sunshine-live.de/melodic-techno/mp3-128/stream.sunshine-live.de/
 #EXTINF:-1,Sunshine Live - Mix Mission
 http://stream.sunshine-live.de/mixmission/mp3-192
 #EXTINF:-1,Sunshine Live - Nature One
@@ -9711,48 +9725,30 @@ http://stream.sunshine-live.de/relax/mp3-192/stream.sunshine-live.de/
 http://stream.sunshine-live.de/remix/mp3-192
 #EXTINF:-1,SUNSHINE LIVE - Simulcast
 https://sunsl.streamabc.net/sunsl-sslsimulcast-mp3-192-4434053
-#EXTINF:-1,SUNSHINE LIVE - Simulcast
-https://stream.sunshine-live.de/live/mp3-192/stream.sunshine-live.de/
 #EXTINF:-1,Sunshine Live - Summer Beats
 http://sunsl.streamabc.net/sunsl-playlist2-mp3-192-4542868?sABC=5nq8747p%230%23rnoopr590o2qqrp5qsq2s8p24q12pp2n%23fgernz.fhafuvar-yvir.qr&amsparams=playerid:stream.sunshine-live.de;skey:1524135036
 #EXTINF:-1,Sunshine Live - Tech House
 http://stream.sunshine-live.de/sp4/mp3-192/stream.sunshine-live.de/
 #EXTINF:-1,Sunshine Live - Techno
 http://stream.sunshine-live.de/techno/mp3-192/stream.sunshine-live.de/
-#EXTINF:-1,Sunshine Live - Techno Live
-https://stream.sunshine-live.de/technolive/aac-64/stream.sunshine-live.de/
 #EXTINF:-1,Sunshine Live - Time Warp
 http://stream.sunshine-live.de/timewarp/mp3-192/stream.sunshine-live.de/
-#EXTINF:-1,SUNSHINE LIVE - Time Warp
-https://stream.sunshine-live.de/timewarp/aac-64/utm_source=radio.menu/
-#EXTINF:-1,Sunshine Live - Trance
-https://stream.sunshine-live.de/trance/mp3-192/stream.sunshine-live.de/
 #EXTINF:-1,Sunshine LIve - Trance (64kbps)
 http://stream.sunshine-live.de/trance/aac-64/stream.sunshine-live.de/
 #EXTINF:-1,sunshine live - Vocal Trance
 https://sunsl.streamabc.net/sunsl-vocaltrance-mp3-192-5826863?sABC=6o028292%230%23nq59s62359o2nr38nsp8150610pq18p9%23fgernz.fhafuvar-yvir.qr&aw_0_1st.playerid=stream.sunshine-live.de&amsparams=playerid:stream.sunshine-live.de;skey:1795326610
 #EXTINF:-1,Sunshine Live - Workout
 http://sunsl.streamabc.net/sunsl-workout-mp3-192-3330865?sABC=5nr16rqq%230%23q40266oo6p321s1695o82262nq851ppo%23Jroenqvb-Cynlre&amsparams=playerid:Webradio-Player;skey:1524723421
-#EXTINF:-1,SUNSHINE LIVE – Bounce
-https://stream.sunshine-live.de/bounce/mp3-192/
 #EXTINF:-1,Sunshine Live (aac 64 kbps)
 http://stream.sunshine-live.de/live/aac-64/stream.sunshine-live.de
 #EXTINF:-1,sunshine live (AAC+)
 http://stream.sunshine-live.de/live/aac-64/radiosure/
 #EXTINF:-1,Sunshine Live 2000er
 https://sunsl.streamabc.net/sunsl-die2000er-mp3-192-3233898
-#EXTINF:-1,Sunshine Live Blue
-https://stream.sunshine-live.de/Blue/mp3-192
 #EXTINF:-1,Sunshine Live Charts AAC 64
 https://sunsl.streamabc.net/sunsl_dyxdwigvf_flmk-aacplus-64-6059500?sABC=6o02696o%230%23nq59s62359o2nr38nsp8150610pq18p9%23fgernz.fhafuvar-yvir.qr&aw_0_1st.playerid=stream.sunshine-live.de&amsparams=playerid:stream.sunshine-live.de;skey:1795320171
 #EXTINF:-1,Sunshine Live Hardstyle
 http://stream.sunshine-live.de/hardstyle/mp3-192/stream.sunshine-live.de/
-#EXTINF:-1,Sunshine Live House (aac 64 kbps)
-https://stream.sunshine-live.de/house/aac-64/stream.sunshine-live.de
-#EXTINF:-1,Sunshine Live Melodic Beats
-https://stream.sunshine-live.de/MelodicB/mp3-192/stream.sunshine-live.de/
-#EXTINF:-1,Sunshine Live Techno
-https://stream.sunshine-live.de/techno/mp3-192/stream.sunshine-live.de/
 #EXTINF:-1,Sunshine Live werbefrei
 http://stream.sunshine-live.de/premium/mp3-192/stream.sunshine-live.de
 #EXTINF:-1,Sunshine Trance 
@@ -9763,8 +9759,6 @@ http://sunsl.streamabc.net/sunsl-classics-mp3-192-8423201?sABC=66r6n195%230%23oq
 http://stream.sunshine-live.de/classics/mp3-192
 #EXTINF:-1,sunshine-live Schranz
 https://sunsl.streamabc.net/sunsl-sslschranz-mp3-192-6236329?sABC=699p91r4%231%2343pq3p07259r43178n04826qo6402p3n%23ubzrcntr&mode=preroll&aw_0_1st.skey=1771868643&cb=886423829&listenerid=43cd3c07259e43178a04826db6402c3a&metaid=43cd3c07259e43178a04826db6402c3a_1b063b2a-b15a-4b12-a2cb-3b55bfbbab17&aw_0_1st.playerid=homepage&amsparams=playerid:homepage;skey:1771868644
-#EXTINF:-1,Sunshinelive x-mas beats
-https://stream.sunshine-live.de/xmasbeats/mp3-192/stream.sunshine-live.de/
 #EXTINF:-1,Super Hit Radio
 http://s10.streamingcloud.online:13578/
 #EXTINF:-1,Superfly Beach

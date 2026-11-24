@@ -27,6 +27,8 @@ https://bcr.radiocult.fm/stream
 https://radio10.plathong.net/7590/;stream.mp3?type=http
 #EXTINF:-1,BEATs FM
 https://radio14.plathong.net/7208/;stream.mp3
+#EXTINF:-1,Best Radio FM. 89.0 MHz.
+https://80sv2.hostpleng.com/?url=http://112.121.150.133:8198/;
 #EXTINF:-1,BKK.FM
 https://rsas.bkk.fm/radio
 #EXTINF:-1,Bluewave 97
@@ -49,6 +51,8 @@ https://fabulous.thailandstreaming.net/fabulous.mp3
 https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8
 #EXTINF:-1,FM 100.5 MHz MCOT news network
 https://play-fm1005.mcot.net/fm1005/fm1005.m3u8
+#EXTINF:-1,FM 103 MHz คนลูกทุ่ง
+http://fm94.tv5.co.th:8000/armystream
 #EXTINF:-1,FM 91
 https://www.fm91bkk.com:8900/;stream.mp3
 #EXTINF:-1,FM 93.50 MHz บ้านใหม่ เรดิโอ

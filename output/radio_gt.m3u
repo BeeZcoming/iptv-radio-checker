@@ -97,14 +97,14 @@ https://ss.redradios.net:8046/stream
 http://juventudpalabramiel.org:8000/radio
 #EXTINF:-1,Radio 107 Exito - 107.1 FM
 http://play10.tikast.com:8159/stream
+#EXTINF:-1,Radio Activa 95.1 FM. En linea católica 
+https://sh4.radioonlinehd.com:8557/stream
 #EXTINF:-1,Radio Amiga 93.3 FM
 http://radiolatina.live:8072/;
 #EXTINF:-1,Radio Cultural TGN
 https://stream.infinityhdstream.com/7054/stream
 #EXTINF:-1,Radio Diamante 94.3 FM | Quetzaltenango
 https://live.myradioserver.net/7510/stream
-#EXTINF:-1,RADIO ESLA
-http://stream.zeno.fm/wdr15uyuezzuv
 #EXTINF:-1,Radio Guate digital
 https://radioguatedigital.com/live/
 #EXTINF:-1,Radio Infinita

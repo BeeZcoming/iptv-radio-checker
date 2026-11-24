@@ -13,8 +13,6 @@ https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/5c915497c6fd7c085b2916
 https://mdstrm.com/audio/5c915497c6fd7c085b29169d/live.m3u8
 #EXTINF:-1,4FUN ROCK
 https://sonic-us.arkeo.cl/8358/stream
-#EXTINF:-1,Acordes de Chile
-https://cast1.my-control-panel.com/proxy/acordesdechile/stream
 #EXTINF:-1,Activa
 http://27583.live.streamtheworld.com:3690/ACTIVA_SC
 #EXTINF:-1,actual fm
@@ -69,6 +67,8 @@ https://stream2.mcvhost.com/blaster/
 https://stream.zeno.fm/udk5orfzet5vv
 #EXTINF:-1,BlueRadio
 https://stream-175.zeno.fm/udk5orfzet5vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1ZGs1b3JmemV0NXZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkFreVNWMThWUlBxbTN4enVOamZpemciLCJpYXQiOjE3MzQyNDIzNzYsImV4cCI6MTczNDI0MjQzNn0.23h_xxF5T74k5SnoUzP_iRfuisaRoMmmmXy_VpKZv3o
+#EXTINF:-1,BLUFM
+https://sonic.nnw.cl:7009/;
 #EXTINF:-1,Bonita
 https://sonicpanel.chileservidores.cl/8032/stream
 #EXTINF:-1,Cadenza Radio
@@ -143,6 +143,8 @@ https://stream-283.surfernetwork.com/hxv1ceue74zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzd
 https://broadcast.radio247.net/listen/desierto_web/radio.mp3
 #EXTINF:-1,Digital 105.5 FM - CONCEPCIÓN
 https://radio.digitalfm.cl:8000/concepcion1
+#EXTINF:-1,Digital 105.5 FM - TALCA
+https://radio.digitalfm.cl:8000/talca
 #EXTINF:-1,Digital 89.5 FM - CALAMA
 https://radio.digitalfm.cl:8000/calama1
 #EXTINF:-1,Digital 94.9 FM - VALPARAISO
@@ -489,6 +491,8 @@ https://stream.radioclub80.cl:8022/retro80.flac
 http://stream.radioclub80.cl:9040/live.flac
 #EXTINF:-1,Radio Cobremar - Chañaral FM 89.9
 https://audio.bitsur.cl/8066/stream
+#EXTINF:-1,Radio Colina 107.3 FM
+https://streaming01.xhost.cl/8156/stream
 #EXTINF:-1,Radio ColoColo
 https://audio2.tustreaming.cl:10997/stream
 #EXTINF:-1,Radio Colombina
@@ -507,8 +511,6 @@ http://streaming.comunicacioneschile.net:9318/stream
 https://unlimited3-cl.dps.live/cooperativafm/mp3/icecast.audio
 #EXTINF:-1,Radio Cosmos FM
 https://audio3.tustreaming.cl/7410/stream
-#EXTINF:-1,Radio Cristo Vive en Mi
-https://comunikadostreaming.us:10960/stream
 #EXTINF:-1,Radio Crucero
 http://192.99.41.102:5423/stream/;
 #EXTINF:-1,Radio Crystal Cabildo 101.9
@@ -553,8 +555,6 @@ http://us9.maindigitalstream.com:7258/stream
 https://sonic-cl.arkeo.cl:9330/;mp3
 #EXTINF:-1,Radio Electro
 https://stream.zeno.fm/ywnrindjwxjtv
-#EXTINF:-1,Radio Encanto 88.5 FM
-https://archi-us.digitalproserver.com/encanto_ovalle.aac
 #EXTINF:-1,Radio Energía
 https://sonic.mistreamingtv.uno/8016/stream
 #EXTINF:-1,Radio Estallido Tuitero
@@ -609,8 +609,6 @@ http://27433.live.streamtheworld.com:3690/IMAGINA_SC
 https://myradio.live:8000/radio.mp3
 #EXTINF:-1,Radio Infinita
 https://mdstrm.com/audio/639b791cea22540890cd1d8b/icecast.audio
-#EXTINF:-1,Radio Integración 107.9
-https://cast1.my-control-panel.com/proxy/integracion/stream
 #EXTINF:-1,Radio Interamericana
 https://sonando-us.digitalproserver.com/radiointeramericana.aac
 #EXTINF:-1,Radio Isla Negra
@@ -693,6 +691,8 @@ https://cast6.asurahosting.com/proxy/happype1/stream
 http://streaming.comunicacioneschile.net:9358/;
 #EXTINF:-1,Radio Nuestra 98.7
 http://audio.streaminghd.cl:9016/stream
+#EXTINF:-1,Radio Nuevo Mundo
+http://190.82.105.90:8012/;
 #EXTINF:-1,Radio Nuevo Tiempo Chile
 https://stream.zeno.fm/xnk291h7e8zuv
 #EXTINF:-1,Radio Ocurrente, Ocurrente Como Tú 
@@ -745,8 +745,12 @@ https://redirector.dps.live/p7puertomontt/aac/icecast.audio
 https://redirector.dps.live/p7valdivia/aac/icecast.audio
 #EXTINF:-1,Radio Punto Siete Osorno Chile
 https://redirector.dps.live/p7osorno/mp3/icecast.audio
+#EXTINF:-1,Radio Putupur
+https://audio0.tustreaming.cl/7540/stream
 #EXTINF:-1,Radio Rebuena 95.7FM
 https://audio5.tustreaming.cl/7930/stream
+#EXTINF:-1,Radio Recreo
+https://sonicpanel.cc/8018/stream
 #EXTINF:-1,Radio Recuerdos
 http://sonando.us.digitalproserver.com/radiorecuerdos.mp3
 #EXTINF:-1,Radio Refugio Limache
@@ -855,8 +859,6 @@ https://stream.zeno.fm/pdlp0sxtdjkvv
 https://audio3.tustreaming.cl/7080/stream
 #EXTINF:-1,RadioMiX
 https://video.mediawebchile.com:2000/stream/radiomixsc/stream
-#EXTINF:-1,radiorara
-https://sonicpanel.chileservidores.cl/8004/stream
 #EXTINF:-1,Radioroins
 https://stream.zeno.fm/dd3rxeuxznhvv
 #EXTINF:-1,Raudal FM97.1

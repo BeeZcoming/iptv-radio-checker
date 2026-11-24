@@ -37,10 +37,10 @@ http://5.135.154.69:15664/;
 https://stream.zeno.fm/cub84trbgy5tv
 #EXTINF:-1,94.8 XFM Kampala
 http://stream.hydeinnovations.com:2020/stream/xfm/stream
+#EXTINF:-1,95.0 Fame fm Jamaica 
+https://stream.zenolive.com/d5mn12bchkeuv
 #EXTINF:-1,95.1 Kiss FM Jakarta
 http://103.246.184.62:1935/noice_kisfm/kisfm/chunklist.m3u8
-#EXTINF:-1,97.0 Radio City
-https://cast1.asurahosting.com/proxy/richar16/stream
 #EXTINF:-1,99.5 Global Fm Bahamas 
 http://ice64.securenetsystems.net/GLOBALBS
 #EXTINF:-1,Akaboozi 87.9 FM
@@ -211,8 +211,6 @@ https://radiosimba-atunwadigital.streamguys1.com/radiosimba
 http://stream.zeno.fm/raoopfak6k2vv
 #EXTINF:-1,RADIO SSESE 101.9 FM
 https://stream.zeno.fm/bphnslpg8p1uv
-#EXTINF:-1,Radio Yoo (MP3)
-http://stream.zeno.fm/v73tc5gwaphvv
 #EXTINF:-1,Rafa  radio music 
 https://gains.reviveradio.net/proxy/rafaradio?mp=/stream
 #EXTINF:-1,RFI Kiswahili 

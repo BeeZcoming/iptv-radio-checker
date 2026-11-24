@@ -25,6 +25,8 @@ https://stream.zeno.fm/9wxcnjd0dievv
 https://radio.host.com.py:7181/
 #EXTINF:-1,Monumental 1080 AM
 https://mdstrm.com/audio/62d81ca6a459e4082203c95b/icecast.audio
+#EXTINF:-1,NetRadio
+https://a5.asurahosting.com:7270/radio.mp3
 #EXTINF:-1,Radio 1000 AM
 https://1000noticias.live:8000/radio.mp3
 #EXTINF:-1,Radio ABC Cardinal 730 AM
@@ -63,6 +65,10 @@ http://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81cfbbfbcee0837ba1b6
 http://rds3.desdeparaguay.net/transestacion40/transestacion40/playlist.m3u8
 #EXTINF:-1,RADIO EXITOS DE AYER
 http://stream.zeno.fm/hvnh6d5uebruv
+#EXTINF:-1,Radio Impacto 95.3
+https://radio.host.com.py:7137/;
+#EXTINF:-1,Radio Impacto 95.3 FM
+http://radio.host.com.py:9714/stream
 #EXTINF:-1,RADIO MARIA PARAGUAY
 http://dreamsiteradiocp.com:8090/stream
 #EXTINF:-1,Radio Mix 90.1 FM

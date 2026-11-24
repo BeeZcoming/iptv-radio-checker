@@ -157,8 +157,6 @@ https://ciner-live.ercdn.net/bloombergradyo/bloombergradyo_1.m3u8
 https://live.bodrumfm.org/stream.mp3
 #EXTINF:-1,BOĞAZ FM
 https://radyo.yayin.com.tr:5938/
-#EXTINF:-1,Borusan Klasik
-http://29345.live.streamtheworld.com:3690/BORUSAN_KLASIKAAC_SC
 #EXTINF:-1,BRTK
 http://sc.brtk.net:8000/
 #EXTINF:-1,BURSA FM
@@ -449,8 +447,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_ITUNE
 https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_SC?/
 #EXTINF:-1,JoyTürk Akustik
 http://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_AKUSTIK128AAC.aac
-#EXTINF:-1,joytürk fm
-https://29344.live.streamtheworld.com/JOY_TURK_SC
 #EXTINF:-1,JoyTürk Rock
 http://23613.live.streamtheworld.com/JOYTURK_ROCK128AAC.aac
 #EXTINF:-1,JoyTürk Rock
@@ -963,8 +959,6 @@ https://anadolu.liderhost.com.tr:10994/;
 https://radyo.radyoimza.com:8016/
 #EXTINF:-1,Radyo izmir fm
 https://usa4.fastcast4u.com/proxy/radyoizmirfm?mp=/mp3stream128
-#EXTINF:-1,Radyo Karadeniz
-https://radyomar.80.yayin.com.tr/;
 #EXTINF:-1,Radyo Karakoçan
 https://radyokarakocan.ozelip.com/8006/stream
 #EXTINF:-1,Radyo Kent
@@ -1015,8 +1009,6 @@ https://anadolu.liderhost.com.tr/9404/stream
 https://radyo.yayin.com.tr:4262/stream
 #EXTINF:-1,RADYO MOOD
 https://radyo.yayin.com.tr:5862/;
-#EXTINF:-1,Radyo Mori
-https://amed.ozelip.com/8040/stream
 #EXTINF:-1,RADYO MUĞLA
 https://radyo.yayindakiler.com:3006/
 #EXTINF:-1,Radyo Munzur 97.7
@@ -1063,6 +1055,8 @@ https://radio.guventechnology.com/9994/stream
 https://live.radyositesihazir.com/8078/stream
 #EXTINF:-1,Radyo Spor
 https://moondigitaledge.radyotvonline.net/radyospor/playlist.m3u8
+#EXTINF:-1,Radyo Sputnik
+https://icecast-rian.cdnvideo.ru/voicestm
 #EXTINF:-1,Radyo Taksi
 https://live.radyo.in/8006/stream
 #EXTINF:-1,RADYO TALYA
@@ -1143,6 +1137,8 @@ https://radyo.romantikses.com/romantiksesispart/stream
 https://radyo.romantikses.com/romantiksessakary/stream
 #EXTINF:-1,ROMANTİK TÜRK
 https://radyo.yayin.com.tr:6042/
+#EXTINF:-1,RS FM
+http://nfw.video.ria.ru/flv/audio.aspx?ID=99244423&type=mp3
 #EXTINF:-1,rtste
 http://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8
 #EXTINF:-1,RUN ON AİR

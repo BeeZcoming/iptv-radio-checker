@@ -71,6 +71,8 @@ https://emiteradio.com/proxy/uyuni?mp=/stream
 https://stream.inliveserver.com:2020/8140/stream
 #EXTINF:-1,Radio Gigante Bolivia
 https://cloudstream2032.conectarhosting.com:7311/;
+#EXTINF:-1,Radio Integracion
+https://stream.nepsum.com/radiointegracion.mp3
 #EXTINF:-1,Radio Kollasuyo FM
 https://azura2.bitstreaming.net:8000/radio128.aac
 #EXTINF:-1,RADIO MARIA BOLIVIA

@@ -11,8 +11,6 @@ http://08.stmip.net:10028/;;
 https://stream.zeno.fm/d91bup73pf9uv
 #EXTINF:-1,LAC - Luanda Antena Comercial
 http://live.paineldj.com.br:8662/live
-#EXTINF:-1,Platina FM
-https://stream.zeno.fm/bckqpsxrqv8uv
 #EXTINF:-1,Rádio 8000
 https://stream1.svrdedicado.org:7020/stream
 #EXTINF:-1,Rádio Adventus
@@ -27,6 +25,8 @@ https://stream.zeno.fm/n5r034egx4zuv
 https://paineldj.com.br:20145/stream
 #EXTINF:-1,Rádio Cultura Angola
 https://paineldj5.com.br:20091/stream
+#EXTINF:-1,Rádio Cuquema
+https://radios2.justweb.pt:8034/stream
 #EXTINF:-1,Rádio D'Agosto 92.0
 https://live.paineldj.com.br/proxy/radio1ago?mp=/stream
 #EXTINF:-1,Rádio Ecclésia de Caxito
@@ -63,6 +63,8 @@ https://stream1.svrdedicado.org:7175/;
 https://stream-179.surfernetwork.com/l4feq7zw5d2uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJsNGZlcTd6dzVkMnV2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiItU2xfSEppdFFwaVdXOUVoT2YzRHlnIiwiaWF0IjoxNzk1MTg1OTEyLCJleHAiOjE3OTUxODU5NzJ9.FuTRPPK6UHrAvJgNK1gtGEjxzqvgVKms3wv6WbiTI_o
 #EXTINF:-1,Rádio Lunda Norte
 https://paineldj6.com.br:20114/stream
+#EXTINF:-1,Rádio Lunda Sul
+https://paineldj6.com.br:20115/stream
 #EXTINF:-1,Rádio Mais Benguela 96.3 FM
 https://radios.justweb.pt/8046/stream
 #EXTINF:-1,Rádio Mais Huambo
@@ -71,6 +73,8 @@ https://radios.justweb.pt/8044/stream
 https://radios.justweb.pt/8048/stream
 #EXTINF:-1,Rádio Malange
 https://paineldj6.com.br:20116/stream
+#EXTINF:-1,Rádio Maranata
+https://azura4.cmaudioevideo.com:8450/radio.aac
 #EXTINF:-1,Rádio Marginal
 https://stream-radio-marginal-by.newsgen.io/rmlive.mp3
 #EXTINF:-1,Rádio Maria Angola

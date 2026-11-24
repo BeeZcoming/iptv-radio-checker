@@ -103,8 +103,6 @@ https://radiosar.com:10893/stream
 https://playerservices.streamtheworld.com/api/livestream-redirect/ASPEN.mp3
 #EXTINF:-1,Aspen 102.3 (AAC Stream)
 http://24503.live.streamtheworld.com/ASPENAAC.aac
-#EXTINF:-1,Aspen 88.3 FM Bahía Blanca
-https://srv1.streamingradio.ar:7136/stream
 #EXTINF:-1,Aspen 93.7 Corrientes (AAC Stream)
 http://centova2.veemesoft.com.ar:8396/live
 #EXTINF:-1,Aspen Mar del Plata 89.3
@@ -145,12 +143,12 @@ https://liveradio.mediainbox.net/radio3.mp3
 https://playerservices.streamtheworld.com/api/livestream-redirect/c3rosario.mp3
 #EXTINF:-1,Cadena AM 1470
 https://sonicpanel.hostradios.com/8060/stream%22%20streamType=%22mp3%22%20radioId=%22ar.cadena1470%22
+#EXTINF:-1,Cadena de los Andes Cholila 96.1 FM
+https://sonic.host-live.com:10860/;type=mp3
 #EXTINF:-1,Cadena Eco AM 1220
 https://node-35.zeno.fm/uyd6h9w162quv?rj-ttl=5&rj
 #EXTINF:-1,Cadena Eich Tandil 93.1
 http://transmision.cadenaeich.com:8000/RadioH-Maestra.mp3
-#EXTINF:-1,Cadena Express 88.1 FM
-https://streamall.alsolnet.com/cadenaexpress
 #EXTINF:-1,Cadena Heat
 https://playerservices.streamtheworld.com/api/livestream-redirect/cadenaheat.mp3?dist=c3-web
 #EXTINF:-1,Cadena Heat
@@ -201,6 +199,8 @@ https://01.solumedia.com.ar:8562/stream
 https://stmv7.voxtvhd.com.br/elsignofish/elsignofish/playlist.m3u8
 #EXTINF:-1,CNN Radio Mendoza 93.9 FM
 https://radio13.servidorderadio.net:7034/stream
+#EXTINF:-1,CNN Radio Salta 94.7 FM
+https://streaming.radiosenlinea.com.ar:10585/stream
 #EXTINF:-1,Coctel online
 https://streaming01.shockmedia.com.ar:8452/stream
 #EXTINF:-1,Comunidad Fan FM 105.1 Rosario
@@ -265,6 +265,8 @@ https://https.nvradios.com/radio/9372/radio.mp3
 https://stream.zeno.fm/uyd6h9w162quv
 #EXTINF:-1,ECO Medios AM 1220
 https://node-23.zeno.fm/uyd6h9w162quv?
+#EXTINF:-1,Eco Radio 92.3 FM
+https://https.nvradios.com/radio/9392/radio.mp3
 #EXTINF:-1,Ecos de mis Cerros
 https://masservidor.net:7163/;
 #EXTINF:-1,EDI RADIO
@@ -321,6 +323,8 @@ http://173.255.205.241:1127/;
 https://streaming6.locucionar.com:24060/stream
 #EXTINF:-1,Estacion XLW
 http://radio.solumedia.com.ar:7009/;
+#EXTINF:-1,Estación Zafiro 89.5 FM
+https://01.solumedia.com.ar:9030/stream
 #EXTINF:-1,Exclusiva FM 97.7
 http://streaming2.locucionar.com:8269/stream
 #EXTINF:-1,F! 88.7 FM
@@ -391,12 +395,16 @@ https://ssl.veemesoft.com.ar/2e6f4b4334e33852ccb8
 https://server.laradio.online/proxy/fmangel?mp=/stream&1726491295158
 #EXTINF:-1,FM Anta 96.1
 https://stream.radioinfo.ar/p/8092/stream
+#EXTINF:-1,FM Aries 103.7
+https://streaming.radiosenlinea.com.ar:10905/stream
 #EXTINF:-1,FM Armonía 105.1
 https://radiosar.com:9346/stream
 #EXTINF:-1,FM Atlantic 105.9
 http://server1.veemesoft.com.ar:26511/;
 #EXTINF:-1,FM atlántica 98.5
 https://streaming1.locucionar.com/proxy/fmatlantica?
+#EXTINF:-1,Fm Avellaneda 95.7
+https://streaming01.shockmedia.com.ar:10940/stream?icy=http
 #EXTINF:-1,FM Ayer 98.1
 https://icecast.unomedios.com.ar/ayer
 #EXTINF:-1,FM Ayer 98.1
@@ -451,8 +459,6 @@ https://radio.solumedia.com.ar:7119/;
 http://01.solumedia.com.ar:8238/
 #EXTINF:-1,FM De La Bahía 91.5
 https://icecast.hostingbahia.com.ar:8010/live
-#EXTINF:-1,FM de la Costa 90.5
-https://streaming1.locucionar.com/proxy/delacosta905?mp=/stream
 #EXTINF:-1,FM de la Costa 99.9
 https://streaming5.locucionar.com/proxy/fmdelacosta?mp=/stream
 #EXTINF:-1,FM De la Isla 91.1 Mhz
@@ -523,6 +529,8 @@ https://ssl.radiosnethosting.com/?port=9072
 https://14223.live.streamtheworld.com/SAM06AAC243_SC
 #EXTINF:-1,FM Horizonte (revival 101.9)
 https://redirector.dps.live/hls-audio/4e252a65837b69e349d5d8c1033152b4/hztear/playlist/manifest/gotardisz/audio/now/livestream1.m3u8
+#EXTINF:-1,FM HORIZONTE 106.3
+https://streaming01.shockmedia.com.ar:10517/stream?icy=http
 #EXTINF:-1,Fm Ilusiones 95.3 Tres Arroyos
 https://streaming01.shockmedia.com.ar:10984/stream?icy=http
 #EXTINF:-1,FM Imagen 107.5 - Radio Comunitaria Garin
@@ -545,8 +553,6 @@ http://server9.veemesoft.com.ar:11010/;
 https://server.laradio.online/proxy/fm_la_patriada?mp=/stream
 #EXTINF:-1,FM La Redonda 100.3
 https://01.solumedia.com.ar:8290/stream?icy=http
-#EXTINF:-1,FM La Ruta 95.7
-https://server4.hostradios.com:7085/live
 #EXTINF:-1,FM La Tribu 88.7
 https://icecast.zeclogiccloud.com.de/fmlatribu
 #EXTINF:-1,FM Laser
@@ -559,6 +565,8 @@ http://streaming.radiosenlinea.com.ar:9640/;
 https://streaming.escuchanosonline.com:7141/stream
 #EXTINF:-1,FM Libra 94.5
 https://streaming.radiosenlinea.com.ar:10383/
+#EXTINF:-1,FM Libre 103.9 - Lima
+https://edge02.radiohdvivo.com/librelima
 #EXTINF:-1,FM Lider 98.1
 https://streaming01.shockmedia.com.ar:10749/stream?icy=http
 #EXTINF:-1,FM Litoral Paraná 103.1 FM
@@ -587,6 +595,10 @@ https://server.streamcasthd.com/8744/stream
 https://streaming01.shockmedia.com.ar:10543/stream?icy=http
 #EXTINF:-1,FM Rock 103.3 - Zarate
 https://sonic.host-live.com:10821/stream
+#EXTINF:-1,FM Santa María 106.1
+https://radios.solumedia.com:6464/stream?icy=http
+#EXTINF:-1,FM Santa Rosa 100.9
+https://radiosar.com:10982/stream
 #EXTINF:-1,FM Sapucai 89.5
 https://ssl.radiosnethosting.com/index.php?port=9122/;stream.mp3
 #EXTINF:-1,FM Sensaciones 95.1
@@ -597,8 +609,6 @@ https://radio02.ferozo.com/proxy/ra01000409?mp=/stream
 https://stm2.livecastradio.com:26289/
 #EXTINF:-1,FM Street 101.5
 https://ipanel.instream.audio:7006/stream
-#EXTINF:-1,FM Sur 88.9 Quilmes
-http://sonic.host-live.com:8258/stream
 #EXTINF:-1,FM Swing 107.3 - Campana
 https://server6.hostradios.com/8632/stream
 #EXTINF:-1,FM TIEMPO 103.5
@@ -609,8 +619,6 @@ https://streaming3.locucionar.com/proxy/fmtiempo925?mp=/stream
 https://streaming2.locucionar.com/proxy/fmtiempo?mp=/stream
 #EXTINF:-1,FM Trance 103.3
 https://streaming01.shockmedia.com.ar:10262/
-#EXTINF:-1,FM Triac
-https://streamconex.com:8038/stream
 #EXTINF:-1,FM Trópico 97.7
 https://radio.arcast.cloud:1300/stream
 #EXTINF:-1,FM Universidad 107.5 UNLP
@@ -683,8 +691,6 @@ http://01.solumedia.com.ar:8252/stream
 http://mp3.ffh.de/radioffh/hqlivestream.aac
 #EXTINF:-1,Hollywood FM 101.3 Rosario
 https://radio02.ferozo.com/proxy/ra02001328?mp=/stream
-#EXTINF:-1,HoloNet
-https://stream.zeno.fm/68veqm945bhvv
 #EXTINF:-1,Horizonte Radio 95.3 
 https://streaming01.shockmedia.com.ar/8440/stream/;
 #EXTINF:-1,Horizonte Radio Córdoba
@@ -717,8 +723,6 @@ https://streamconex.com:8104/stream?1722096115054
 https://27603.live.streamtheworld.com/FM999_56AAC.aac?dist=la100_other_app_webplayer&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=2a354b77-bb20-4ed5-f605-85e8b410daed
 #EXTINF:-1,La 100 - 99.9 FM - Grupo Clarín - Buenos Aires, Argentina
 https://playerservices.streamtheworld.com/api/livestream-redirect/FM999_56.mp3
-#EXTINF:-1,La 100 Bahía Blanca 101.9 FM
-https://srv1.streamingradio.ar:7045/stream
 #EXTINF:-1,La 100 Carlos Casares 101.5 FM
 https://01.solumedia.com.ar:8810/stream?icy=http
 #EXTINF:-1,La 100 Clásicos - Disco Retro Clásicos
@@ -749,6 +753,8 @@ https://media.radios.ar:9270/
 https://01.solumedia.com.ar:8218/stream
 #EXTINF:-1,La 97
 https://streaming01.shockmedia.com.ar:10586/stream
+#EXTINF:-1,La Catedral FM 99.1
+http://genexservicios.com:8050/
 #EXTINF:-1,La Colectiva
 https://radios.solumedia.com/6198/stream
 #EXTINF:-1,la conquista del pan
@@ -775,6 +781,8 @@ https://server4.hostradios.com:7051/;
 http://server.laradio.online:9262/stream
 #EXTINF:-1,La Radio 104.7 FM. Resistencia Chaco. Julio Wajcman
 https://server.laradio.online/proxy/laradio1047
+#EXTINF:-1,La Radio 93.5
+https://01.solumedia.com.ar:8494/stream
 #EXTINF:-1,La Radio A 105.7
 https://masservidor.net:7180/;
 #EXTINF:-1,La Radio de la Gente LU12 AM 680 Rio Gallegos 
@@ -845,6 +853,8 @@ https://sa.mp3.icecast.magma.edge-access.net/sc_rad22
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad23
 #EXTINF:-1,LRA 24 Radio Nacional Río Grande
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad24
+#EXTINF:-1,LRA 25 Radio Nacional Tartagal
+https://sa.mp3.icecast.magma.edge-access.net/sc_rad72
 #EXTINF:-1,LRA 27 Radio Nacional Catamarca
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad27
 #EXTINF:-1,LRA 28 Radio Nacional La Rioja
@@ -867,8 +877,6 @@ https://sa.mp3.icecast.magma.edge-access.net/sc_rad53
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad54
 #EXTINF:-1,LRA 55 Radio Nacional Alto Rio Senguer
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad55
-#EXTINF:-1,LRA 56 Radio Nacional Perito Moreno
-https://sa.mp3.icecast.magma.edge-access.net/sc_rad34
 #EXTINF:-1,LRA 57 Radio Nacional El Bolsón
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad57
 #EXTINF:-1,LRA 58 Radio Nacional Rio Mayo
@@ -883,6 +891,8 @@ https://sa.mp3.icecast.magma.edge-access.net/sc_rad7
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad8
 #EXTINF:-1,LRA 9 Radio Nacional Esquel
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad9
+#EXTINF:-1,LRA1 Radio Nacional Argentina
+https://sa.mp3.icecast.magma.edge-access.net/sc_rad1
 #EXTINF:-1,LRH 713, La Radio 89.9
 https://stream.obercom.com.ar:8020/radio.mp3
 #EXTINF:-1,LT 12 Radio Nacional Paso de los Libres
@@ -975,8 +985,6 @@ https://sonicpanel.hostradios.com:7278/
 https://mediapanel.siglocero.net:8002/stream
 #EXTINF:-1,MDZ Radio
 https://streaming6.locucionar.com:24110/stream
-#EXTINF:-1,Me Gusta 98.3
-https://srv1.streamingradio.ar:7135/live
 #EXTINF:-1,Mediterraneo 98.3 Mhz
 https://streaming01.radiosenlinea.com.ar:10996/stream
 #EXTINF:-1,Megadance Disco
@@ -1005,8 +1013,8 @@ https://sonicpanel.hostradios.com/8002/stream
 https://playerservices.streamtheworld.com/api/livestream-redirect/AM790_56AAC.aac
 #EXTINF:-1,Mucha Radio 94.7
 https://playerservices.streamtheworld.com/api/livestream-redirect/MUCHA_RADIO.mp3
-#EXTINF:-1,Nacional Perito Moreno - LRA56 AM860
-http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad34
+#EXTINF:-1,Nacional Clásica fm 96.7
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad37
 #EXTINF:-1,Nacional Rock FM 93.7
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad39
 #EXTINF:-1,NaranjoFM
@@ -1039,6 +1047,10 @@ https://streaming.radiosenlinea.com.ar/9020/stream
 https://01.solumedia.com.ar:7345/stream
 #EXTINF:-1,Onda FM
 https://stm18.voxhd.com.br:9438/stream
+#EXTINF:-1,onda261
+https://radio.godeano.vip/listen/onda261/live
+#EXTINF:-1,Otro Día Perfecto
+http://giss.tv:8000/odpradio.mp3
 #EXTINF:-1,Palacio Libertad (radio online)
 https://radio-ar1.cdnrad.com/hls/ministerio-de-cultura/aac.m3u8
 #EXTINF:-1,Panda NG
@@ -1059,12 +1071,16 @@ https://streaming.radiosenlinea.com.ar:10763/live
 https://stream.zeno.fm/60pqgs97f2zuv
 #EXTINF:-1,PLAY 94.3
 https://sonic.host-live.com/8026/stream
+#EXTINF:-1,Play Fm 93.9
+https://01.solumedia.com.ar:8096/stream
 #EXTINF:-1,Plus 93.1 FM
 http://fmplus.radio.rosario3.com:8006/fmplus
 #EXTINF:-1,Pobre Johnny
 https://stream4.suenas.net/pobrejohnny
 #EXTINF:-1,Pontiac Rock
 https://radios.solumedia.com/6268/stream
+#EXTINF:-1,Pop Life 107.7
+http://streaming1.locucionar.com:14835/stream/;stream/1
 #EXTINF:-1,Pop Radio 101.5
 https://popradio.stweb.tv/popradio/live/chunks.m3u8
 #EXTINF:-1,Pop Radio. FM 101.5. Ciudad de Bs. As. Version 3
@@ -1103,8 +1119,6 @@ https://d1.stweb.tv/radio10/live/chunks.m3u8
 https://radio10.stweb.tv/radio10/live/playlist.m3u8
 #EXTINF:-1,Radio 10
 https://radio10.stweb.tv/radio10/live/chunks.m3u8
-#EXTINF:-1,Radio 10 Bahía Blanca 92.3 FM
-https://srv1.streamingradio.ar:7133/live
 #EXTINF:-1,Radio 10 Mar del Plata FM 105.5
 https://stream.zeno.fm/4r530f2a9f0uv
 #EXTINF:-1,Radio 10 Resistencia FM 92.9
@@ -1151,8 +1165,6 @@ http://streaming01.shockmedia.com.ar:9332/stream
 https://stream.zeno.fm/fh68vgu6echvv
 #EXTINF:-1,Radio Alas 101.7
 http://server.laradio.online:8741/live
-#EXTINF:-1,Radio Alto Alegre 105.5 FM
-http://sonicpanel.hostradios.com:8174/;
 #EXTINF:-1,Radio AM 750
 https://playerservices.streamtheworld.com/api/livestream-redirect/AM750AAC.aac
 #EXTINF:-1,Radio Amadeus - Cultura Musical
@@ -1233,6 +1245,8 @@ https://streaming.gostreaming.com.ar:10939/
 https://radios.solumedia.com:6624/;type=mp3
 #EXTINF:-1,Radio Ciudad 88.1 - Jujuy
 http://181.177.20.20:8000/radiociudad
+#EXTINF:-1,Radio Ciudad 91.1 FM
+https://vivo.solumedia.com:19360/radiociudad/radiociudad.m3u8
 #EXTINF:-1,Radio Ciudad AM 1110 
 https://media.radios.ar:1110/
 #EXTINF:-1,Radio Ciudad de Zarate - FM 93.9
@@ -1275,8 +1289,6 @@ https://streaming.escuchanosonline.com:7035/stream
 http://streamconex.com:8118/stream
 #EXTINF:-1,Radio de Folklore
 https://stm17.xcast.com.br:7296/stream
-#EXTINF:-1,Radio De la Azotea
-http://149.202.235.235:8164/;stream/1
 #EXTINF:-1,Radio De La Costa 101.9 FM
 https://streaming2.locucionar.com/proxy/porlavida102?mp=/stream
 #EXTINF:-1,Radio Deejay 92.5
@@ -1345,8 +1357,6 @@ https://server4.hostradios.com:7231/
 https://streaming.escuchanosonline.com:7224/stream
 #EXTINF:-1,Radio Exito FM 99.1
 https://01.solumedia.com.ar:8178/
-#EXTINF:-1,Radio Express Posadas 88.1 FM
-http://streamall.alsolnet.com:443/cadenaexpress
 #EXTINF:-1,Radio F5
 https://sonic.host-live.com:10993/stream
 #EXTINF:-1,Radio Fabro
@@ -1381,10 +1391,10 @@ http://vps-c0159cbc.vps.ovh.ca/10006/;
 https://radios.solumedia.com:6434/stream
 #EXTINF:-1,Radio Fm Sur 107.7 Rosario
 https://streaming.radiosenlinea.com.ar:10361/stream
-#EXTINF:-1,Radio Folclorisimo AM 1410
-https://streamlky.alsolnet.com/radiofolclorisimohd
 #EXTINF:-1,Radio Folklore 90
 https://stm8.xcast.com.br:12502/;
+#EXTINF:-1,Radio Forobardo
+https://radiofb.vdmr.top/stream
 #EXTINF:-1,Radio Forra
 https://streaming01.shockmedia.com.ar/8470/stream
 #EXTINF:-1,Radio Forra
@@ -1515,8 +1525,6 @@ https://masservidor.net:7176/;
 https://srv1.streamingradio.ar:7134/live
 #EXTINF:-1,Radio Mitre Córdoba
 https://playerservices.streamtheworld.com/api/livestream-redirect/AM810_56AAC.aac
-#EXTINF:-1,Radio Mitre Jujuy 106.3 FM
-https://5cd577a3dd8ec.streamlock.net/radiomitre/live_2/playlist.m3u8
 #EXTINF:-1,Radio Mitre Mendoza
 https://playerservices.streamtheworld.com/api/livestream-redirect/FM1003_56AAC.aac
 #EXTINF:-1,Radio Mitre Patagonia - FM 90.5
@@ -1535,10 +1543,18 @@ https://argentina.republicahosting.com:2100/live
 https://radios.solumedia.com:6324/stream
 #EXTINF:-1,Radio Municipal FM 97.5 - San Pedro de Jujuy
 https://01.solumedia.com.ar:8604/stream
+#EXTINF:-1,Radio nacional AM 870
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad1
 #EXTINF:-1,Radio Nacional Clásica 96.7 FM
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad37
 #EXTINF:-1,Radio Nacional Córdoba - LRA7 AM750
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad7
+#EXTINF:-1,Radio Nacional Folklorica 98.7
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad38
+#EXTINF:-1,Radio Nacional Folklórica FM 98.7
+https://sa.mp3.icecast.magma.edge-access.net/sc_rad38
+#EXTINF:-1,Radio Nacional Rock 93.7
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad39
 #EXTINF:-1,Radio News Posadas 89.5
 https://01.solumedia.com.ar:7678/stream
 #EXTINF:-1,Radio Next FM 97.1
@@ -1655,6 +1671,8 @@ https://streamingradiolinks.xyz/8218/;
 http://turadioenvivo.com:8530/stream?1562165478826
 #EXTINF:-1,Radio Suquia
 https://streaming01.shockmedia.com.ar:10945/
+#EXTINF:-1,Radio Sur FM 90.1
+https://streaming.dainusradio.com:9848/;
 #EXTINF:-1,Radio Tandil - LU22 AM140
 https://streaming01.shockmedia.com.ar/8170/live
 #EXTINF:-1,Radio Tecnoteca
@@ -1797,6 +1815,8 @@ http://radio01.ferozo.com:8976/;stream.nsv
 https://streaming.gostreaming.com.ar:10929/stream
 #EXTINF:-1,Signos FM Allen
 https://radios.streamingdha.com.ar/8046/;/stream
+#EXTINF:-1,Sol FM 106.7 Bella Vista Ctes
+https://radiosar.com:8126/stream
 #EXTINF:-1,Sol Play 91.5 FM
 https://stream.arcast.tv:8443/fmsol/fmsol.stream/playlist.m3u8
 #EXTINF:-1,Solo Rock Nacional
@@ -1857,8 +1877,6 @@ https://server6.hostradios.com:7232/;?
 https://server6.hostradios.com:7232/;?1775392057693
 #EXTINF:-1,Vorterix
 https://ice2.edge-apps.net/radio1_high-20057.audio
-#EXTINF:-1,Vorterix Bahía Blanca 99.1 FM
-https://masservidor.net:7192/stream
 #EXTINF:-1,WOX 88.3
 http://server.laradio.online:25492/stream
 #EXTINF:-1,Wox radio Rosario 88.3 FM

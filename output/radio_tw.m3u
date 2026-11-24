@@ -303,33 +303,3 @@ http://fjuvoice885.fju.edu.tw:8000/fjuvoice885.mp3
 http://test.taiwan-radio.tw:8000/YL.FM106.3
 #EXTINF:-1,連花廣播電台
 https://n05.rcs.revma.com/vh0xgcc59duvv
-#EXTINF:-1,都會聲音FM99.7
-http://test.taiwan-radio.tw:8000/TN.FM99.7
-#EXTINF:-1,金聲廣播電台
-http://60.249.186.105:9000/;
-#EXTINF:-1,陽光電台
-http://202.39.43.67:1935/live/RA000079/chunklist.m3u8
-#EXTINF:-1,雲端新廣播
-http://test.taiwan-radio.tw:8000/KS.FM99.5
-#EXTINF:-1,電台測試2
-http://125.227.87.206:8000/SuperUS
-#EXTINF:-1,電聲電台
-http://test.taiwan-radio.tw:8000/TN.AM1071
-#EXTINF:-1,電聲電台
-http://59.120.102.91:8000/OnAir
-#EXTINF:-1,領袖廣播
-https://n14.rcs.revma.com/hpeqh9mkc6hvv
-#EXTINF:-1,飛揚調頻FM89.5
-https://n13.rcs.revma.com/e0tdah74hv8uv
-#EXTINF:-1,飛碟聯播網 南台灣之聲
-http://cast.uforadio.com.tw:8000/kao-stream
-#EXTINF:-1,飛碟聯播網 台中真善美
-http://cast.uforadio.com.tw:8000/tai-stream
-#EXTINF:-1,飛碟聯播網 飛碟電台
-https://n10.rcs.revma.com/em90w4aeewzuv
-#EXTINF:-1,高雄廣播電台
-https://n13.rcs.revma.com/pet2dvug1bkvv
-#EXTINF:-1,高雄廣播電台AM1089
-https://n05.rcs.revma.com/4r99rt1g1bkvv
-#EXTINF:-1,高雄港都廣播
-https://n10.rcs.revma.com/q2m07dc59duvv

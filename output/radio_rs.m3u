@@ -283,6 +283,8 @@ https://e20.yesstreaming.net:6148/stream
 http://stream.iradio.pro:8074/;*.mp3
 #EXTINF:-1,Pumpaj Radio
 https://stream.pumpaj.info/listen/pumpaj_radio/radio.mp3
+#EXTINF:-1,Pyramid Radio
+https://a5.asurahosting.com:7540/radio.mp3
 #EXTINF:-1,Radio 012
 http://144.76.219.22:8762/;
 #EXTINF:-1,Radio 021
@@ -373,8 +375,6 @@ https://radioinnis-naxinacional.streaming.rs:8622/;
 https://radioinnis-naxinacional.streaming.rs:8622/;stream.nsv
 #EXTINF:-1,Radio IN Beograd
 https://radio3-64ssl.streaming.rs:9212/;*.mp3
-#EXTINF:-1,Radio Istocnik
-https://streaming.shoutcast.com/radioistocnik-
 #EXTINF:-1,Radio JAT
 https://streaming.tdiradio.com/radiojat.mp3
 #EXTINF:-1,Radio Karolina
@@ -629,6 +629,8 @@ http://212.200.230.50:1935/rns3/treciprogram/livestream/stream.m3u8
 https://skc.fm/hls/skc_radio/live.m3u8
 #EXTINF:-1,skc slobodni
 https://skc.fm/hls/skc_radio/aac_hifi.m3u8
+#EXTINF:-1,Spa 105
+https://stream.it4radio.com/listen/spa105/radio.mp3
 #EXTINF:-1,Su-Data Radio
 https://radio.su-data.com/listen/su-data/radio.mp3
 #EXTINF:-1,Sun Radio Novi Sad
