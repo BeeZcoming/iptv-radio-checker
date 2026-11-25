@@ -3,8 +3,6 @@
 https://stream20.usastreams.com/8138/stream
 #EXTINF:-1,105 Salsa 
 https://stream.zeno.fm/mdn371ycuwzuv
-#EXTINF:-1,107.7 Fuego FM
-https://mgvfuego-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
 #EXTINF:-1,92.5 Club
 http://158.69.200.1:8030/stream
 #EXTINF:-1,ABC 100.1 
@@ -69,6 +67,8 @@ https://sp4.colombiatelecom.com.co/8030/stream
 https://sp4.colombiatelecom.com.co/8032/stream
 #EXTINF:-1,Radio Legislativa de El Salvador 
 https://streaming.asamblea.gob.sv/stream
+#EXTINF:-1,Radio María El Salvador 107.3 FM
+http://dreamsiteradiocp.com:8098/stream
 #EXTINF:-1,Radio Mercado Metapan
 https://centova.playerfullhd.com/proxy/brfrtxcf/stream
 #EXTINF:-1,Radio Nacional de El Salvador  - 96.9

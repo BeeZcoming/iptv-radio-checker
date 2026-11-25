@@ -87,6 +87,8 @@ https://rundle.tv/proxy5.php?src=https%3A%2F%2Fthor1.syndula001.cfd%2Fschi2%2Fus
 http://92.114.85.87:8003/play/a004/index.m3u8
 #EXTINF:-1,TV 21 International (576p)
 http://46.53.200.153:7777/play/TV-21M/index.m3u8
+#EXTINF:-1,Viasat Kino (Romania) (576i)
+http://91.235.165.117:8001/play/a055/index.m3u8
 #EXTINF:-1,like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="Movies",Viasat Kino World
 http://777905.live.tvstitch.com/playlist.m3u8?master=102&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDgvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk5NDcmc3Q9N3ROblpCZy02WTBka1RuekRIZjU0QQ==
 #EXTINF:-1,viju TV1000 (576p)
@@ -101,5 +103,3 @@ http://46.53.200.153:7777/play/Viju_Premiere/index.m3u8
 http://181.78.197.59:8000/play/a07s/index.m3u8
 #EXTINF:-1,Warner Channel Colombia (1080p)
 http://38.134.250.110:8000/play/a029/index.m3u8
-#EXTINF:-1,Zee Cinema APAC (720p)
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8

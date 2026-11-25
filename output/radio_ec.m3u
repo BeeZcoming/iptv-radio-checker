@@ -67,6 +67,8 @@ http://stream.zeno.fm/529kmm15gv8uv
 http://stream.zeno.fm/204egk2n5ehvv
 #EXTINF:-1,La Main Street (Radios Ecuador Online)
 https://radiolatina.info/9930/stream
+#EXTINF:-1,La N Radio 107.5 FM
+https://aacplus.rstreaminghd.com:7043/stream
 #EXTINF:-1,La Nueva Unica
 https://streamingecuador.net:8035/stream
 #EXTINF:-1,La Radio Redonda Guayaquil
@@ -259,6 +261,8 @@ https://streamingecuador.com:8002/radiosupersol
 https://stream.zeno.fm/gey7t9er11zuv
 #EXTINF:-1,Radio Turbo 106.9 FM
 https://streamingecuador.com/stream/radioturbogye
+#EXTINF:-1,Radio Ultimito Mix
+https://usa4.fastcast4u.com/proxy/rwrw1?mp=/1
 #EXTINF:-1,Radio Ultimito Mix
 https://stream.zeno.fm/1g4mf0b3ziouv/stream
 #EXTINF:-1,Radio Zaracay 100.5 FM

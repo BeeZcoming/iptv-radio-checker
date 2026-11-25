@@ -3,6 +3,8 @@
 https://stream.capecoastradio.co.za/listen/cape_coast_radio/radio.mp3?
 #EXTINF:-1,5FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/5FMAAC.aac
+#EXTINF:-1,702 Johannesburg
+http://29345.live.streamtheworld.com/FM702_SC
 #EXTINF:-1,919
 https://edge.iono.fm/xice/112_low.aac
 #EXTINF:-1,94.7
@@ -247,6 +249,8 @@ https://edge.iono.fm/xice/362_medium.aac?ref=https%3A%2F%2Fwww.pretoriafm.co.za%
 http://stream.krypton.co.za:8040/stream/
 #EXTINF:-1,Radio 786
 https://stream.krypton.co.za:8052/index.html?sid=1
+#EXTINF:-1,Radio 786
+https://stream.krypton.co.za/proxy/radio786?mp=/stream
 #EXTINF:-1,Radio Atlantis 107.9FM
 https://edge.iono.fm/xice/127_medium.aac?ref=https%3A%2F%2Fwww.radioatlantis.org.za%2F&adToken=
 #EXTINF:-1,Radio Bloem

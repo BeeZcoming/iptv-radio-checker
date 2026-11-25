@@ -55,8 +55,6 @@ https://tigocloud.desdeparaguay.net/mov1330/mov1330.stream/chunklist_w1397196983
 https://radio.host.com.py/9572/stream
 #EXTINF:-1,Radio Conquistador 89.1 FM
 https://tigocloud.desdeparaguay.net/movconquistador/movconquistador.stream/chunklist_w1215257311.m3u8
-#EXTINF:-1,Radio Digital 88.5 Fm Paraguay 
-http://streaming.camaronhosting.com:8036/
 #EXTINF:-1,Radio Disney Paraguay FM 96.5
 https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_PAR_ASAAC.m3u8?dist=web-radiodisney
 #EXTINF:-1,Radio Estación 40 91.1 FM

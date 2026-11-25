@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,93 FM
-https://stream-179.surfernetwork.com/nxlpc8voddftv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJueGxwYzh2b2RkZnR2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJlUEFEUGV5ZFI5R2g3WVRHaEhlWW53IiwiaWF0IjoxNzk1MTM0NDI2LCJleHAiOjE3OTUxMzQ0ODZ9.zjyWrwiJ20KajEEcKRouIkY64Es_NKO0BTIaCo6yxq0
+https://stream-179.surfernetwork.com/nxlpc8voddftv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJueGxwYzh2b2RkZnR2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJaOXNhUzBzR1NtT0hsR3NGNUJHbkhBIiwiaWF0IjoxNzk1NTY2NTQ0LCJleHAiOjE3OTU1NjY2MDR9.KiUhPHSEirJd1F3VsprNUon4R0OjLofGYi6lrC9jyvA
 #EXTINF:-1,Albania 360 Radio
 https://radio.albania360.net/listen/albania_360_radio/radio.mp3
 #EXTINF:-1,Albania News 24 TV
@@ -33,8 +33,6 @@ https://cp1.sednastream.com/proxy/radioshqip/stream
 https://stream.louderhost.com/nrgal
 #EXTINF:-1,Euronews Albania Radio
 http://80.90.86.194:1935/live/inradio/playlist.m3u8
-#EXTINF:-1,Extravaganza Radio - Sexy Secrets Records
-https://pstnet5.shoutcastnet.com:50374/stream
 #EXTINF:-1,HM Radio
 https://stream.zeno.fm/1nykd3t9f7qtv
 #EXTINF:-1,ipda cañete

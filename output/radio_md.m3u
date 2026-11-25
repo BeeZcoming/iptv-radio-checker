@@ -73,6 +73,8 @@ https://s5.radio.co/sfd9f42d1d/listen
 https://play.radiocafe.md:7000/radio.mp3
 #EXTINF:-1,Radio Chișinău
 https://radiochisinau.md/hls/RChisinau.m3u8
+#EXTINF:-1,Radio Dar
+https://radiodar.md/stream.php
 #EXTINF:-1,Radio Fresh MD
 https://stream-151.zeno.fm/ttofovumhg1vv?zs=3vmFlLhiROOIFik2GUoxgw
 #EXTINF:-1,Radio Moldova
@@ -87,6 +89,8 @@ https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8
 https://live.muzfm.md//muzfmhd
 #EXTINF:-1,Radio Noroc Moldova
 https://stream.noroc.tv/radionoroc_aac
+#EXTINF:-1,Radio Plai
+https://stream.radioplai.md/live
 #EXTINF:-1,Radio Record Moldova
 http://212.56.220.74:8000/RecordMD
 #EXTINF:-1,Radio Relax - Funk & Soul
@@ -143,6 +147,8 @@ https://streams.radiozum.md/listen/zum2/ZUM2
 https://streams.radiozum.md/listen/zum4/ZUM4
 #EXTINF:-1,Realitatea FM
 https://radio.realitatea.group/realitatea
+#EXTINF:-1,Retro FM Moldova
+https://efir.retrofm.md:8000/retro
 #EXTINF:-1,Sex Sound Radio
 https://sexsoundradio.com:8000/radio.mp3
 #EXTINF:-1,Smile FM

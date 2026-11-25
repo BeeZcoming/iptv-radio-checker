@@ -133,14 +133,14 @@ https://streams.radioskonto.lv:8443/lounge-private
 http://balticom-238-238.balticom.lv/live.aac
 #EXTINF:-1,LRMAROCKRADIO
 https://c22.radioboss.fm:18318/stream
+#EXTINF:-1,Lustīgs Radio
+http://stream.lustigsradio.lv/live
 #EXTINF:-1,Mix FM 102,7
 https://live.relaxfm.lv/07
 #EXTINF:-1,NewDanceRadio
 https://stream.newdanceradio.lv/mp3_192
 #EXTINF:-1,Njoyradio
 https://live.njoyradio.lv/02
-#EXTINF:-1,Nordic Chillout Radio
-https://play.radioking.io/nordic-chillout-radio/736489
 #EXTINF:-1,OMH (Our Music History)
 http://omh.sytes.net:8000/;
 #EXTINF:-1,Pieci - Latvieši

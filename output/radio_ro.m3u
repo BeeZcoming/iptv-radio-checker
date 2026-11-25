@@ -683,6 +683,8 @@ https://stream.zeno.fm/v9wqm1gztk8uv
 http://89.238.227.6:8332/;stream/1
 #EXTINF:-1,Radio Coresi
 http://master.shoutcast.com:8000/radio-coresi
+#EXTINF:-1,Radio Coresi -Brașov
+http://streaming.shoutcast.com/radio-coresi
 #EXTINF:-1,Radio Coresi 80s -Brașov
 https://s5.radio.co/sfb029759c/listen
 #EXTINF:-1,Radio Coresi Oldies -Brașov
@@ -861,8 +863,6 @@ https://s12.myradiostream.com/17492/listen.mp3
 https://s47.myradiostream.com/16234/listen.mp3
 #EXTINF:-1,Rádió KoKo
 https://az10.yesstreaming.net:8210/radiokoko.mp3
-#EXTINF:-1,Radio Koko
-http://serverconnect.dyndns.org:10/stream
 #EXTINF:-1,Rádio Koko
 https://az10.yesstreaming.net:8210/radiokoko
 #EXTINF:-1,Rádió Koko
@@ -1237,8 +1237,6 @@ https://stream4.srr.ro:8443/romania-cultural
 http://stream2.srr.ro:8370/;stream.mp3
 #EXTINF:-1,Romanii Transmit Romanilor
 http://157.90.35.96:8211/stream
-#EXTINF:-1,Romantic Radio
-https://radio-romantic.ro/stream
 #EXTINF:-1,RVE Brașov -94,6 FM (Radio Vocea Evangheliei)
 https://stream.rve-brasov.ro/rvebv.mp3
 #EXTINF:-1,RVE Cluj (Radio Vocea Evangheliei) -Cluj Napoca 88,3 FM
@@ -1269,6 +1267,8 @@ http://asculta.radiosimplu.ro:7500/stream
 https://ssl.asculta.live/8006/stream
 #EXTINF:-1,Sky FM - Radio Sky Constanța 101.1 FM
 https://live.radiosky.ro/radiosky.mp3
+#EXTINF:-1,Sky Radio Bucuresti
+https://20593.live.streamtheworld.com/KNEIFM_SC
 #EXTINF:-1,Sky Sound Radio
 https://puma.streemlion.com:1705/stream
 #EXTINF:-1,Sláger Rádió -Slager FM Sepsiszentgyörgy/Sfântu Gheorghe 105.9 FM

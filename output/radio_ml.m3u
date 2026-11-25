@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,B Web Radio
+https://azuracast-nuremberg.myautodj.com/listen/bwebradio/radio.mp3
 #EXTINF:-1,Kalux FM Bamako
 http://stream.zeno.fm/kgadkjdbexqtv
 #EXTINF:-1,Noura FM 94.5 Bamako

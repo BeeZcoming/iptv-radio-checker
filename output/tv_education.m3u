@@ -7,13 +7,9 @@ http://200.59.191.177:8000/play/a0la/index.m3u8
 https://iptv.ebc.edu.kh/iptv/channel/1.m3u8
 #EXTINF:-1,EBC Lifelong Learning (720p)
 https://iptv.ebc.edu.kh/iptv/channel/2.m3u8
-#EXTINF:-1,HTV4 (1080p)
-https://freem3u.xyz/api/live/play.m3u8?vid=9
 #EXTINF:-1,PBS WJXT (720p)
 https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8
 #EXTINF:-1,Platzi TV (1080p)
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
-#EXTINF:-1,Televisao Academica (576i)
-https://stream-hls.castr-cdn.com/696393a1681ed8469d37aba8/live_9fb9b070eeea11f088034b4b9dd1fd84/index.m3u8
 #EXTINF:-1,Vive (576p)
 http://200.59.191.177:8000/play/a0l6/index.m3u8

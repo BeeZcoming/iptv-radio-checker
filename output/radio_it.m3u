@@ -305,8 +305,6 @@ https://a13.asurahosting.com/listen/free_radio_jolly/radio.mp3
 http://nr1.newradio.it:9200/stream
 #EXTINF:-1,FreeTime Radio
 http://nr11.newradio.it:9200/stream
-#EXTINF:-1,Fritto FM
-https://frittofm2020.out.airtime.pro/frittofm2020_b
 #EXTINF:-1,FSNews Radio
 http://fsnews128.newradio.it/stream
 #EXTINF:-1,Funky Corner Radio
@@ -559,6 +557,8 @@ http://94.23.65.199/m100-64
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8
 #EXTINF:-1,m2o originals radio
 https://stream.laut.fm/m2o-originals-radio
+#EXTINF:-1,m2o originals radio
+https://eu4.fastcast4u.com/proxy/sentre2/stream
 #EXTINF:-1,Mach 5 - Due
 http://sr4.inmystream.info:8183/;stream.mp3
 #EXTINF:-1,MAKLAS Radio
@@ -681,6 +681,8 @@ http://nr5.newradio.it:8623/;streaming.aac
 http://www.nv-radio.it:8000/stream
 #EXTINF:-1,Oberima Radio
 http://oberimaradio.radioca.st/live
+#EXTINF:-1,Oldies98
+https://nr14.newradio.it:8775/stream
 #EXTINF:-1,Onda Latina Radio
 https://nr15.newradio.it:9278/stream
 #EXTINF:-1,ONDA RADIO FIRENZE
@@ -1441,6 +1443,8 @@ http://nr6.newradio.it:9209/stream
 https://nr6.newradio.it/proxy/radiofal?mp=/stream
 #EXTINF:-1,Radio Forever 80
 https://stream.laut.fm/forever80
+#EXTINF:-1,Radio Forte Prenestino
+https://blimp.streampunk.cc/_stream/RadioForte.ogg
 #EXTINF:-1,Radio Freccia
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_audio.m3u8
 #EXTINF:-1,Radio Freier Fall 
@@ -2011,6 +2015,8 @@ http://onair11.xdevel.com:8064/
 http://stream5.xdevel.com/audio1s976126-1033/stream/icecast.audio
 #EXTINF:-1,Radio Piemonte Sound
 http://dreamsiteradiocp3.com:8054/stream
+#EXTINF:-1,Radio Pilafi
+https://radio-pilafi.jah24dhs83y8b8.workers.dev/live/radio.mp3
 #EXTINF:-1,Radio Piper
 http://s7.myradiostream.com:5466/stream
 #EXTINF:-1,Radio Piterpan
@@ -2387,6 +2393,8 @@ http://5.135.39.189:8006/stream
 http://5.135.39.189:8006/stream
 #EXTINF:-1,Radio Ufita
 http://onair15.xdevel.com:8516/;stream.aac
+#EXTINF:-1,Radio Underground Italia 
+https://nr14.newradio.it:8707/stream
 #EXTINF:-1,Radio universal International
 https://radio.rsi-tv.eu/listen/radio_universal_international/radio.mp3
 #EXTINF:-1,Radio Utopia Firenze
@@ -2511,8 +2519,6 @@ https://ice05.fluidstream.net/fluid0510.mp3
 https://stream.radiospore.oziosi.org:8003/zirudela.ogg?n=84fd45ac00e0d8b39c6f
 #EXTINF:-1,RadioGs
 https://stream.zeno.fm/f384h3c0r98uv
-#EXTINF:-1,Radiolina
-https://streaming.shoutcast.com/radiolina
 #EXTINF:-1,Radiolina Trapani
 http://94.23.67.20:8030/;
 #EXTINF:-1,Radioluna DJ
@@ -2803,10 +2809,14 @@ https://stream.rcast.net/210096
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_audio.m3u8
 #EXTINF:-1,RTL 102.5 - Groove
 https://streamingv2.shoutcast.com/rtl-1025-broandsis
+#EXTINF:-1,RTL 102.5 [Mobile 48kbps]
+https://streamingv2.shoutcast.com/rtl-1025_48.aac
 #EXTINF:-1,RTL 102.5 Best
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/fYNIdrsfP3xC/playlist_audio.m3u8
 #EXTINF:-1,RTL 102.5 Best
 https://streamingv2.shoutcast.com/rtl-1025-best
+#EXTINF:-1,RTL 102.5 Best [Mobile 48kbps]
+https://streamingv2.shoutcast.com/rtl-1025-best_48.aac
 #EXTINF:-1,RTL 102.5 Bro & Sis [Mobile 48kbps]
 https://streamingv2.shoutcast.com/rtl-1025-broandsis_48.aac
 #EXTINF:-1,RTL 102.5 Disco

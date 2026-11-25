@@ -491,6 +491,8 @@ https://granada-copesedes-rrcast.flumotion.com/copesedes/granada-low.mp3
 http://flucast-bl01.flumotion.com/cope/net1.mp3
 #EXTINF:-1,COPE Más Santander
 https://wecast-bl01.flumotion.com/copesedes/santander-mas.mp3
+#EXTINF:-1,COPE Santander
+http://wecast-bl03.flumotion.com/copesedes/santander.mp3
 #EXTINF:-1,Cope Sevilla
 http://wecast11-h-cloud.flumotion.com/copesedes/sevilla.mp3
 #EXTINF:-1,COPE Tenerife
@@ -581,14 +583,14 @@ https://streaming.dorado.digital/listen/dorado_digital/radio.mp3
 https://control.streaming-pro.com:8008/stream
 #EXTINF:-1,Dunas FM 94.4 y 94.2
 https://sonic.mediatelekom.net/8424/stream/;
+#EXTINF:-1,Durango Irratia
+https://control.streaming-pro.com:6006/durangoirratia.mp3
 #EXTINF:-1,Dynamis Radio (87.5 FM) Madrid
 https://control.streaming-pro.com:8014/stream
 #EXTINF:-1,EAJ Radio
 https://radios.blumhost.es:8214/stream
 #EXTINF:-1,Ecuashyri Radio 103.7 FM
 http://streaming.hdserver.biz:9336/;/stream
-#EXTINF:-1,EDENEX
-http://164.138.210.62:13121/stream
 #EXTINF:-1,EDM Festival - Online Radio 
 https://stream.technolovers.fm/edm?ref=radiobrowser
 #EXTINF:-1,EDM RADIO
@@ -769,6 +771,8 @@ https://gameover-radio.com:8000/gameover-radio
 https://escucha.calima.fm/cero
 #EXTINF:-1,Gaztea Irratia
 http://mp3-eitb.stream.flumotion.com/eitb/gaztea.mp3
+#EXTINF:-1,GBR - Gamebytesradio
+https://broadcast.shoutcheap.com/proxy/gbrgameb/stream
 #EXTINF:-1,Gente Radio
 https://pr1cen101.emisionlocal.com/proxy/genteradio?mp=/live
 #EXTINF:-1,Gladys Palmera Coleccion
@@ -911,6 +915,8 @@ https://stream3.itacafm.com:8443/_a
 https://online.radioplayer.ua/RadioItaliana
 #EXTINF:-1,Jam 66
 https://eu4.fastcast4u.com/proxy/jam66?mp=/1
+#EXTINF:-1,Jamm FM Radio Costa del Sol
+https://stream.jammfmradio.com:8082/stream?sid=1
 #EXTINF:-1,Jarvis FM
 https://jarvisfm.es/radio
 #EXTINF:-1,Jazler FM
@@ -961,12 +967,16 @@ https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbkissfm.kissfmra
 https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3
 #EXTINF:-1,Kiss FM España
 https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3
+#EXTINF:-1,Kiss FM Galicia
+https://server8.emitironline.com:18394/stream
 #EXTINF:-1,Kiss Music FM
 https://stream.zeno.fm/aq899a53rs8uv
 #EXTINF:-1,kiss.fm
 https://kissfm.kissfmradio.cires21.com/kissfm.mp3
 #EXTINF:-1,Kora
 http://myradio24.org/koraradio
+#EXTINF:-1,Kyoto FM
+https://sonic.mediatelekom.net/8272/stream
 #EXTINF:-1,L'OM PICASSENT RADIO by Xopo
 http://radiolom.es:8800/;&type=mp3
 #EXTINF:-1,LA 2
@@ -1425,6 +1435,8 @@ https://server8.emitironline.com:9402/radio
 https://server8.emitironline.com:18593/stream
 #EXTINF:-1,pp
 https://cdn-rtpa.watchity.net/wct-3545e416-1a16-44b5-b0db-481136ecacc9/continuous/7be5c015-1da2-4927-a49b-8d232faa69be/radio/media_0.m3u8
+#EXTINF:-1,punk irratia
+https://punkirratia.net:8443/punk
 #EXTINF:-1,PuntalRadio
 https://a5.asurahosting.com:6700/radio.mp3
 #EXTINF:-1,Pure Ibiza Radio
@@ -1633,6 +1645,8 @@ https://dispatcher.rndfnk.com/crtve/rneree/main/mp3/high
 https://radio1-zikoxweb.radioca.st/stream
 #EXTINF:-1,Radio Faycan
 https://radio.streamenginelogin.com:8016/stream
+#EXTINF:-1,Radio Festa
+https://server8.emitironline.com:18743/
 #EXTINF:-1,Radio FilispiM
 https://streaming.cuacfm.org/filispim.mp3
 #EXTINF:-1,Radio Flaixbac
@@ -1721,6 +1735,12 @@ http://uk1.streamingpulse.com:7066/stream
 https://server9.emitironline.com:19482/stream?cb=1708722000350
 #EXTINF:-1,Radio Libertad
 https://ice42.securenetsystems.net/KDAE
+#EXTINF:-1,Radio Líder
+http://server9.emitironline.com:8200/stream
+#EXTINF:-1,Radio Líder Cantabria
+https://server10.emitironline.com:10855/stream
+#EXTINF:-1,Radio Líder Santiago
+https://server8.emitironline.com:18520/stream
 #EXTINF:-1,Radio Linguas
 https://radiolinguas.eu:8001/radiolinguas
 #EXTINF:-1,Ràdio Litoral
@@ -1751,10 +1771,14 @@ https://sonic.mediatelekom.net/9316/stream
 https://streaming.enacast.com/radiomarcaasturiasHD.mp3
 #EXTINF:-1,Radio Marca Barcelona
 http://radioweb.radiomarcabarcelona.com:9000/stream
+#EXTINF:-1,Radio Marca Coruña
+https://27873.live.streamtheworld.com/RADIOMARCA_CORUNA.mp3?dist=radiomarcaweb
 #EXTINF:-1,Radio Marca Donostia
 https://marca-sansebastian.streaming-pro.com:6101/live
 #EXTINF:-1,Radio MARCA Huelva
 https://sonic.mediatelekom.net/8524/stream
+#EXTINF:-1,Radio Marca La Coruña
+https://27793.live.streamtheworld.com/RADIOMARCA_CORUNA.mp3?dist=radiomarcaweb
 #EXTINF:-1,Radio Marca Lanzarote
 https://5c0956165db0b.streamlock.net/radio/marca.stream_aac/playlist.m3u8
 #EXTINF:-1,Radio Marca Madrid
@@ -1871,6 +1895,8 @@ http://radioradio.es:8000/stream
 https://enacast.com/radiorapita/streams/SD
 #EXTINF:-1,Radio Red
 https://streams.radio.co/s450f67578/listen
+#EXTINF:-1,Radio Redondela
+https://stream.visualtec.host:8000/redondela.mp3
 #EXTINF:-1,Radio Relativa
 https://streamer.radio.co/sd6131729c/listen
 #EXTINF:-1,Radio Remember
@@ -2187,8 +2213,12 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_LUCENA
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SORIA.mp3
 #EXTINF:-1,SER Torrelavega
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_TORRELAVEGA.mp3
+#EXTINF:-1,SER Zaragoza
+https://zaragoza-copesedes-rrcast.flumotion.com/copesedes/zaragoza-low.mp3
 #EXTINF:-1,Sevilla FC Radio
 https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
+#EXTINF:-1,Shock FM
+https://streaming2.shock.fm:8040/normal
 #EXTINF:-1,SI RADIO DE GALICIA CONDADO
 http://82.223.29.65:8080/vcbm_siradio
 #EXTINF:-1,Sie7e Spain
@@ -2255,6 +2285,8 @@ https://radio.martiproduccions.com/listen/taronjagirona/taronjagirona
 https://enacast.com/tarragonaradio/streams/SD
 #EXTINF:-1,TDP TV
 https://ztnr.rtve.es/ztnr/1712295.m3u8
+#EXTINF:-1,Techno Room Radio
+https://s12.myradiostream.com:17551/stream
 #EXTINF:-1,Teiba FM
 http://teibafm.duckdns.org:8000/;stream.mp3
 #EXTINF:-1,Tenerife sur Adeje
@@ -2307,6 +2339,8 @@ https://radio.vinilofm.es/radio/8000/bizkaia.mp3
 https://streaming.viveradio.es/viveburgos
 #EXTINF:-1,Voltaje
 https://stream.tunerplay.com/listen/voltaje/voltaje.mp3
+#EXTINF:-1,Vuelve el Remember
+https://cast1.asurahosting.com/proxy/javier1/stream
 #EXTINF:-1,Waiting Room - Creative Commons Lounge Radio
 https://strw3.openstream.co/483?aw_0_1st.collectionid%3D7482%26stationId%3D7482%26publisherId%3D502%26k%3D1795324349
 #EXTINF:-1,Wifon FM

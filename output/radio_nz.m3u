@@ -47,8 +47,6 @@ https://ais-sa1.streamon.fm/7358_128k.aac/playlist.m3u8
 https://ais-sa1.streamon.fm/7100_128k.aac
 #EXTINF:-1,Brian FM 91.4 Wanaka
 https://ais-sa1.streamon.fm/7657_128k.aac?playerid=esPlayer&cb=481952.m4ahttps://brianfm.com
-#EXTINF:-1,Burn 729 
-https://23093.live.streamtheworld.com/NZME_226AAC/HLS/playlist.m3u8
 #EXTINF:-1,Cave FM Southland
 https://stream.velocitynet.co.nz:8000/stream
 #EXTINF:-1,CFM Coromandel
@@ -171,6 +169,8 @@ https://mediaworks.streamguys1.com/more-nsn-high_icy
 https://mediaworks.streamguys1.com/more-chc-high_icy
 #EXTINF:-1,More FM Waikato
 https://mediaworks.streamguys1.com/more-ham-high_icy
+#EXTINF:-1,MoreFM
+https://mediaworks.streamguys1.com/more_net_icy
 #EXTINF:-1,Mountainside FM
 http://stream.nrgkits.co.nz:5000/mountainside
 #EXTINF:-1,Mouthfull Radio
@@ -273,8 +273,6 @@ http://stream9.broadcast.co.nz:8000/radiospicewebsiteaudio.mp3
 https://c2.radioboss.fm:18440/stream
 #EXTINF:-1,Radio Universo FM
 https://stationplaylist.com:7140/listen.aac
-#EXTINF:-1,Radio Wanaka
-https://27273.live.streamtheworld.com/NZME_83AAC/HLS/playlist.m3u8
 #EXTINF:-1,RadioActive.FM | 88.6FM
 https://radio123-gecko.radioca.st/radioactivefm
 #EXTINF:-1,Radiowave NZ
@@ -329,6 +327,8 @@ https://rhema-radio.streamguys1.com/rhema-sanctuary.aac
 https://rhema-radio.streamguys1.com/rhema-sanctuary.mp3
 #EXTINF:-1,Ski FM
 https://s2.radio.co/s6436891bc/listen
+#EXTINF:-1,Sleep Radio
+https://cast4.my-control-panel.com/proxy/sleeprad/stream?1721309187745
 #EXTINF:-1,sleep radio
 http://65.109.81.84:9851/stream
 #EXTINF:-1,Sleep Radio
@@ -369,6 +369,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_71AAC.m3u
 http://gordon.mostfm.com:8000/high
 #EXTINF:-1,The Most FM 104.4
 http://gordon.mostfm.com:8000/high
+#EXTINF:-1,The Platform Kiwi
+https://streaming.shoutcast.com/the-platformlive
 #EXTINF:-1,The Platform Kiwi
 https://hls.exiledkiwi.nz/theplatform.m3u8
 #EXTINF:-1,The Rhythm 89FM

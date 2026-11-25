@@ -72,8 +72,6 @@ http://stream.34bit.net/ar.mp3
 #EXTINF:-1,Apacik Radyo
 http://stream.34bit.net/ar.aac
 #EXTINF:-1,Arabesk FM
-https://yayin.radyodurak.com/8016/stream
-#EXTINF:-1,Arabesk FM
 http://yayin.arabeskfm.biz:8042/
 #EXTINF:-1,Arkadas Radyo
 http://yayin2.yayindakiler.com:4134/;stream.nsv
@@ -157,6 +155,8 @@ https://ciner-live.ercdn.net/bloombergradyo/bloombergradyo_1.m3u8
 https://live.bodrumfm.org/stream.mp3
 #EXTINF:-1,BOĞAZ FM
 https://radyo.yayin.com.tr:5938/
+#EXTINF:-1,Borusan Klasik
+http://29345.live.streamtheworld.com:3690/BORUSAN_KLASIKAAC_SC
 #EXTINF:-1,BRTK
 http://sc.brtk.net:8000/
 #EXTINF:-1,BURSA FM
@@ -447,6 +447,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_ITUNE
 https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_SC?/
 #EXTINF:-1,JoyTürk Akustik
 http://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_AKUSTIK128AAC.aac
+#EXTINF:-1,joytürk fm
+https://29344.live.streamtheworld.com/JOY_TURK_SC
 #EXTINF:-1,JoyTürk Rock
 http://23613.live.streamtheworld.com/JOYTURK_ROCK128AAC.aac
 #EXTINF:-1,JoyTürk Rock
@@ -843,6 +845,8 @@ https://icecast.netmedya.net/rbasaksehir
 https://playerservices.streamtheworld.com/api/livestream-redirect/BASKA.mp3
 #EXTINF:-1,Radyo Bilkent
 https://stream.netradyom.com/listen/radyobilkent/radio.mp3
+#EXTINF:-1,Radyo Bi̇tli̇s Eren
+https://sslyayin.netyayin.net/1313/stream
 #EXTINF:-1,RADYO BLACK
 https://anadolu.liderhost.com.tr:10966/
 #EXTINF:-1,RADYO BLACK LOVE
@@ -959,6 +963,8 @@ https://anadolu.liderhost.com.tr:10994/;
 https://radyo.radyoimza.com:8016/
 #EXTINF:-1,Radyo izmir fm
 https://usa4.fastcast4u.com/proxy/radyoizmirfm?mp=/mp3stream128
+#EXTINF:-1,Radyo Karadeniz
+https://radyomar.80.yayin.com.tr/;
 #EXTINF:-1,Radyo Karakoçan
 https://radyokarakocan.ozelip.com/8006/stream
 #EXTINF:-1,Radyo Kent
@@ -1009,6 +1015,8 @@ https://anadolu.liderhost.com.tr/9404/stream
 https://radyo.yayin.com.tr:4262/stream
 #EXTINF:-1,RADYO MOOD
 https://radyo.yayin.com.tr:5862/;
+#EXTINF:-1,Radyo Mori
+https://amed.ozelip.com/8040/stream
 #EXTINF:-1,RADYO MUĞLA
 https://radyo.yayindakiler.com:3006/
 #EXTINF:-1,Radyo Munzur 97.7

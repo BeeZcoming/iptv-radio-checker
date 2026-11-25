@@ -121,8 +121,6 @@ https://ch01.cdn.eurozet.pl/CHILAD.mp3?t=1709721264195?redirected=01
 http://panel.nadaje.com:9004/
 #EXTINF:-1,Cmp3
 http://s.radiocmp3.eu/stream256
-#EXTINF:-1,CoSTa's Ambient Radio
-https://pc.costa-server.info.pl:11020/listen/costas_ambient_radio/radio.mp3
 #EXTINF:-1,CYBERStacja.PL
 https://sc.cyberstacja.pl:8000/radio.mp3
 #EXTINF:-1,Damismania Dj Radio
@@ -543,6 +541,12 @@ http://shot4.inten.pl:8888/rcfm.mp3
 https://stream12.hosterion.pl/stream/akademickieradiocentrum
 #EXTINF:-1,Radio Chrystusa Króla
 http://radiochrystusakrola.pl:8080/;stream.mp3
+#EXTINF:-1,Radio Chrześcijanin
+http://s1.slotex.pl:7002/mountpoint
+#EXTINF:-1,Radio Chrzescijanin - 2
+http://s1.slotex.pl:7002/;
+#EXTINF:-1,Radio Chrześcijanin (Jakość dźwięku (MP3))
+http://s1.slotex.pl:7002/mountpoint
 #EXTINF:-1,Radio Chrzescijanin Biblia
 http://s1.slotex.pl:7116/;
 #EXTINF:-1,Radio Chrzescijanin Dzieci
@@ -565,8 +569,6 @@ http://maggie.torontocast.com:8100/stream/3/
 https://radiodht.com/stream_main/
 #EXTINF:-1,Radio DHT (Pepis)
 https://radiodht.com/stream_pepis/
-#EXTINF:-1,Radio Dimash
-http://29327.live.streamtheworld.com/SAM02AAC364_SC
 #EXTINF:-1,Radio Diminet
 https://eu4.fastcast4u.com/proxy/bondpley/stream
 #EXTINF:-1,Radio Disco Party - Club

@@ -201,14 +201,16 @@ http://evcast.mediacp.eu:1480/stream
 http://93.103.130.12:8080/tomi.mp3
 #EXTINF:-1,Radio Triglav
 http://live.radiotriglav.si/Triglav
-#EXTINF:-1,Radio Veseljak
-http://195.95.158.131:9060/
 #EXTINF:-1,Radio Veseljak-Pumpa
 http://live.radio.si/VeseljakPumpa
 #EXTINF:-1,Radio Zica
 http://live.1chi.si/zica
 #EXTINF:-1,Radio1
 https://live.radio1.si/Radio80
+#EXTINF:-1,Retro Radio
+https://zvok.ragla.si/gr
+#EXTINF:-1,Retro Radio
+https://zvok.ragla.si/gr?1670057106819
 #EXTINF:-1,Rock Maribor
 http://live.rockmaribor.si/RockMB
 #EXTINF:-1,Rock Maribor

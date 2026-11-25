@@ -15,12 +15,12 @@ https://halo.streamerr.co/listen/avet/radio.mp3
 http://s9.myradiostream.com:47470/listen.mp3
 #EXTINF:-1,Breeze FM Zambia
 https://stream-163.zeno.fm/pwythexn1v8uv
-#EXTINF:-1,Byta FM
-https://s13.myradiostream.com/38946/listen.mp3
 #EXTINF:-1,Chikuni Community Radio Station
 https://chikunir.radioca.st/live
 #EXTINF:-1,Chimfwembe FM
 https://stream.zeno.fm/welaq7p7d1buv
+#EXTINF:-1,Choma Maanu Radio Station
+https://s26.myradiostream.com:22860/listen.mp3/;
 #EXTINF:-1,Christian Nation FM 106.5
 https://stream.zeno.fm/dcvyegbhys6uv
 #EXTINF:-1,Classic Woods 98.9 FM
@@ -99,6 +99,8 @@ https://stream.zeno.fm/51107ezabzzuv
 http://41.60.195.11:8000/stream.ogg
 #EXTINF:-1,Q FM Zambia
 https://s3.myradiostream.com:7620/listen.mp3
+#EXTINF:-1,Radio Christian Voice
+https://streaming.shoutcast.com/rcv
 #EXTINF:-1,Radio Delight Kwitonta 89.7 FM
 https://s43.myradiostream.com:23820/listen.mp3/
 #EXTINF:-1,Radio Mano 89.3FM

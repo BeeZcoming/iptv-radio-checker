@@ -29,6 +29,8 @@ https://eu8.fastcast4u.com/proxy/eddie08?mp=/stream
 https://stream.zeno.fm/udhh2v1itqxtv
 #EXTINF:-1,Aires De Timbio FM 88.9 "La Gente con la Radio"
 https://stream.integracionvirtual.com/proxy/airesdetimbio?mp=/stream
+#EXTINF:-1,Alegría y Gozo Radio Católica
+https://server2.ejeserver.com:8890/stream
 #EXTINF:-1,Alerta Bogotá 104.4 fm
 http://179.1.139.84:8000/play/a041/index.m3u8
 #EXTINF:-1,alerta Paisa 94.4 Medellín
@@ -71,8 +73,6 @@ https://radiohd.streaminghd.co:7226/live
 https://cp.sonicpanel.stream/8266/stream
 #EXTINF:-1,Areito Stéreo
 https://virtual3.emisorasvirtuales.com:8220/live
-#EXTINF:-1,Arjona stereo 93.5
-https://accplus.tecnohost.ec/8160/stream
 #EXTINF:-1,Armenia Stereo 89.4 FM
 https://stream-288.surfernetwork.com/wz4hzqtkh5zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3ejRoenF0a2g1enV2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjM4Z1BsS3VMUktxZXd1RU8yZmcyc3ciLCJpYXQiOjE3OTUzMzA2MDUsImV4cCI6MTc5NTMzMDY2NX0.r_mdeBSoPM5sSBwpJ2bTQ3n2oa5GrgeouUO2BlviYWU
 #EXTINF:-1,armero fm stereo 92.7
@@ -123,6 +123,8 @@ https://stream.zeno.fm/8u9dmttw0ceuv
 http://radio.yaservers.com:8197/;stream.mp3
 #EXTINF:-1,Barranquilla Estéreo
 https://radio.yaservers.com:6060/stream/1/
+#EXTINF:-1,BBC 80s
+https://18093.live.streamtheworld.com/SAM03AAC226_SC?Bravo?Bogota?Colombia&80s
 #EXTINF:-1,BELEN STEREO 95.3 FM
 https://server2.ejeserver.com:9976/stream
 #EXTINF:-1,Bésame
@@ -221,8 +223,6 @@ http://24223.live.streamtheworld.com/CANDELAESTEREO_SC
 https://playerservices.streamtheworld.com/api/livestream-redirect/CANDELA_CALI_SC
 #EXTINF:-1,Candela Estéreo FM (Bogotá)
 https://24223.live.streamtheworld.com/CANDELAESTEREO_SC
-#EXTINF:-1,candela stereo 104.7 ipiales
-https://radiohd.streaminghd.co:7652/stream?ver=781755
 #EXTINF:-1,Canela Estereo 99.4 FM 
 https://sv2.globalhostlive.com/proxy/canela/stream
 #EXTINF:-1,CANUTAL ESTEREO
@@ -249,6 +249,8 @@ https://stream.zeno.fm/gq47fz6ewg0uv
 https://play14.tikast.com:22048/
 #EXTINF:-1,carmen stereo 89.0 el carmen de bolívar
 https://streaming.radiosenlinea.com.ar:10893/;
+#EXTINF:-1,Carnavalxsiempre
+https://streaming.radiosenlinea.com.ar/8880/stream
 #EXTINF:-1,Cartago Stereo 89.0 FM
 http://radio40.virtualtronics.com:8584/;
 #EXTINF:-1,Cartago Stereo Colombia
@@ -289,6 +291,8 @@ http://tupanel.info:8018/stream/
 https://stream.zeno.fm/2g1qkn4cbpeuv
 #EXTINF:-1,Class FM
 http://stream4.mcvhost.com/classfm
+#EXTINF:-1,Colmundo Radio 1040 AM
+https://streaming.shoutcast.com/colmundo-radio-bogota
 #EXTINF:-1,Colmundo Radio Bogota
 http://master.shoutcast.com:8000/colmundo-radio-bogota
 #EXTINF:-1,Colombia Crossover
@@ -425,6 +429,8 @@ http://68.233.236.92:8006/;
 https://securestreams3.autopo.st:1404/stream/1/
 #EXTINF:-1,Estrella FM 
 http://radiolatina.info:7084/;
+#EXTINF:-1,Exitosa Stereo 107.8 FM
+https://stream.zeno.fm/zx3zzt5vvjdtv
 #EXTINF:-1,Fanática Stereo
 http://stream-179.surfernetwork.com/virlugnz0nmvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2aXJsdWduejBubXZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InR0RVV4YWZmUVctcFlaRWpHR2ZEa3ciLCJpYXQiOjE3OTUzMTIwNzUsImV4cCI6MTc5NTMxMjEzNX0.vpN5gkvPsGYnIVmc4j5lVfXo8bYy9X47wfnRYKrAMdQ
 #EXTINF:-1,Fiesta 102.7 FM 
@@ -449,8 +455,6 @@ http://88.198.9.174:8854/stream?icy=https
 https://radiolatina.info/9326/stream
 #EXTINF:-1,Frecuencia U 940 AM
 https://radiolatina.info/9988/stream
-#EXTINF:-1,FRONTERA STEREO 89.1 FM
-https://stream.zeno.fm/kgbucu5a0tzuv
 #EXTINF:-1,Fuego AM
 https://radio35.virtualtronics.com:20017/stream
 #EXTINF:-1,fuego stereo 101.9 santa marta
@@ -489,6 +493,8 @@ https://stream-50.zeno.fm/8smiwwvtfxxvv?zs=NsXtZkTESOS8WG3fMfF0hQ
 http://stream.zeno.fm/8smiwwvtfxxvv
 #EXTINF:-1,Impacto Radio
 https://radiolatina.info/8080/stream
+#EXTINF:-1,Impacto Stereo 98.2 FM
+https://stream.zeno.fm/ezes9wd0ag8uv
 #EXTINF:-1,Improvisando Radio
 https://radio25.virtualtronics.com/proxy/improvisandoradio?mp=/stream
 #EXTINF:-1,Inci Radio
@@ -523,8 +529,6 @@ https://stream.zeno.fm/hf24gpx2p0quv
 https://mdstrm.com/audio/627c1c39637d89088290f64d/live.m3u8
 #EXTINF:-1,La Carrangoza 90.6 FM
 https://lacarrangozafm.com/escuchar
-#EXTINF:-1,La Ciento 7 Digital - FM 107.8
-https://radiohd.streaminghd.co:7190/live
 #EXTINF:-1,LA CLÁSICA
 https://stream-284.surfernetwork.com/vbp236a2qzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2YnAyMzZhMnF6enV2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IllxOVNwQTR4UnN5b1hDYXp6WE53NXciLCJpYXQiOjE3OTUzMDA3MDIsImV4cCI6MTc5NTMwMDc2Mn0.JMFxFCxsKQmh9uWGYgkt7Y25cHoLlP3kuCQkh5ZPjrs
 #EXTINF:-1,la cometa 107.2 san gil
@@ -665,6 +669,8 @@ https://radiohd3.streaminghd.co:8082/stream
 https://stream.zeno.fm/2wyefrmuruhvv
 #EXTINF:-1,La Voz de la Patria Celestial (Barranquilla)
 http://cast5.my-control-panel.com:8478/stream/1/
+#EXTINF:-1,La Voz de los Llaneros 106.3FM 
+https://1063.meta.gov.co/
 #EXTINF:-1,la voz de marquezote 103.9 la jagua del pilar
 https://streaming.radiosenlinea.com.ar/8016/stream
 #EXTINF:-1,La voz de mi tierrita 94.1 FM
@@ -681,6 +687,12 @@ https://radiolatina.info/7438/stream/
 https://play10.tikast.com:20021/stream
 #EXTINF:-1,La Voz del Rio Grande 910 AM
 https://tupanel.info:8410/stream
+#EXTINF:-1,la Voz del Tao 4
+http://mediacp15.rootservers.co:18068/stream
+#EXTINF:-1,La Voz del Tao 5
+http://mediacp15.rootservers.co:18070/stream
+#EXTINF:-1,la Voz del Tao 6
+http://mediacp15.rootservers.co:18136/stream
 #EXTINF:-1,La X 96.5
 https://tupanel.info/stream/2digitalradioHDsslLIVE040
 #EXTINF:-1,LA X 96.5 Cali
@@ -699,8 +711,6 @@ http://stream.latinastereo.com:8000/stream/1/
 https://stream.zeno.fm/2y8ebb4x6hhvv
 #EXTINF:-1,lider stereo 106.4 pijiño del carmen magdalena
 https://stream.zeno.fm/695x0n62rfeuv
-#EXTINF:-1,linda stereo 95.1 el doncello caquetá
-https://sh1.radioonlinehd.com:8042/stream
 #EXTINF:-1,lloró stereo 88.3
 https://play10.tikast.com/proxy/llorostereo?mp=/stream%E2%80%A8/;type=mp3
 #EXTINF:-1,Los 40 Principales (Barranquilla)
@@ -931,12 +941,8 @@ https://radiohd4.streaminghd.co:8190/stream
 https://radiohd4.streaminghd.co:8190/stream?nocache=1787248771285
 #EXTINF:-1,Radio La Mega (Barranquilla)
 https://mdstrm.com/audio/632c9ae6660fef03fe3855fe/live.m3u8
-#EXTINF:-1,radio las lajas 103.9 ipiales
-https://radiohd.streaminghd.co:7826/stream?ver=445779
 #EXTINF:-1,radio Libertad 600 am Barranqilla
 https://stream.zeno.fm/k0e7wktw0ceuv
-#EXTINF:-1,radio magdalena 1420 am
-https://server1.intermediacolombia.com/8130/stream
 #EXTINF:-1,Radio María (Bogotá)
 https://dreamsiteradiocp2.com/proxy/rmcolombia2?mp=/stream/1/
 #EXTINF:-1,Radio María Colombia
@@ -1047,16 +1053,12 @@ https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/632ce1416197360894629a
 https://mdstrm.com/audio/632cea145b9b38085221d5e1/live.m3u8
 #EXTINF:-1,radio uno Valledupar 100.7
 https://mdstrm.com/audio/69ca82282eb98b3410aad7d9/live.m3u8?_=1776720627418&dnt=true&player=6865fe1cb8f25d7257c85a93&uid=sNRVJu8ra1Gtv4rEC8P5XdCTw0wbYabl&sid=dd5rvfetTioiExm3wtnq14E34J2E5Vvt&pid=TB8KYyUNUNbY0HDFw2bgBYVdjFJ2Xljb&an=player-audio-ott-rcn&at=web-app&av=v1.0.62&sc=0&ref=www.rcnradio.com&res=1920x1080&CMCD=cid%3D%2269ca82282eb98b3410aad7d9%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22TB8KYyUNUNbY0HDFw2bgBYVdjFJ2Xljb%22%2Csu
-#EXTINF:-1,radio uno villavicencio 98.3 fm
-https://radiounovillavo.com.co/stream
 #EXTINF:-1,Radio Urantia
 https://colombiawebs.com.co/proxy/radiour2?mp=/;
 #EXTINF:-1,Radio Vida Nueva (Barranquilla)
 https://stream10.usastreams.com/8040/stream/1/
 #EXTINF:-1,Radio Viva Fenix Ipiales (HJB29, 89.1 MHz FM)
 https://radiolatina.info/8170/stream
-#EXTINF:-1,Radio Viva Fenix Ipiales (HJNM, 1220 kHz AM)
-https://radiolatina.info/8172/stream
 #EXTINF:-1,Radio Viva Fenix Pasto (HJFV, 780 kHz AM)
 https://radiolatina.info/8166/stream
 #EXTINF:-1,Radio Voces del Pacífico (106.6 FM)
@@ -1147,8 +1149,6 @@ https://supresenciaradio.out.airtime.pro/supresenciaradio_a
 http://usa19.fastcast4u.com:6210/live
 #EXTINF:-1,Super Clásica
 http://77.73.69.238:8000/stream
-#EXTINF:-1,Super Clásica
-http://sclasica-stream.sytes.net:8012/;
 #EXTINF:-1,Super clasicos del rock
 https://stream-287.surfernetwork.com/ay2nalxvxtotv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJheTJuYWx4dnh0b3R2IiwiaG9zdCI6InN0cmVhbS0yODcuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJ1S3FhbjNlU1NVV29VbzFxN19zYWRBIiwiaWF0IjoxNzkwNjk4MzQyLCJleHAiOjE3OTA2OTg0MDJ9.ZuHkrQRaHvqHUxjSDOvLP1aYB1umTMOVbVnC6nKIlLc
 #EXTINF:-1,Super Estación 88.9

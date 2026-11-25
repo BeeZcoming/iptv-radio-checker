@@ -275,6 +275,8 @@ http://www.radioking.com/play/radio-zodiac-ireland
 https://liveaudio.rte.ie/hls-radio/rnag/chunklist.m3u8
 #EXTINF:-1,Raidió na Life
 http://beryl.streamguys.com:5010/live
+#EXTINF:-1,Raidió Rí-Rá
+http://icy-zurich.mpbnl.nl/rrr
 #EXTINF:-1,Raídío Rí-Rá
 https://uksoutha.streaming.broadcast.radio/ri-ra?1728850589472=
 #EXTINF:-1,Rana Sundi
@@ -325,8 +327,6 @@ https://live-bauerie.sharp-stream.com/SP
 http://uk2.streamingpulse.com:8042/stream
 #EXTINF:-1,St. Ita’s Hospital Radio
 https://de2.streamingpulse.com/ssl/8042
-#EXTINF:-1,St. Itas Hospital Radio
-http://uk1.streamingpulse.com:7022/stream
 #EXTINF:-1,Storm North East Ireland
 https://stormnortheast.com:8443/storm
 #EXTINF:-1,Sunshine 106.8

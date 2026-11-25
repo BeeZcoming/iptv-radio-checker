@@ -7,20 +7,6 @@ https://radio.aiplaylist.io/radio.mp3
 https://auralis-radio.com/radio.mp3
 #EXTINF:-1,BANANRADION
 https://lyssna.bananradion.se/listen/bananradion/128aac
-#EXTINF:-1,Bandit Alternative
-http://wr05-ice.stream.khz.se/wr05_mp3
-#EXTINF:-1,Bandit Ballads
-https://wr21-ice.stream.khz.se/wr21_aac
-#EXTINF:-1,Bandit Classic Rock
-https://wr11-ice.stream.khz.se/wr11_mp3
-#EXTINF:-1,Bandit ÍRock
-https://fm02-ice.stream.khz.se/fm02_mp3
-#EXTINF:-1,Bandit Metal
-https://wr03-ice.stream.khz.se/wr03_mp3
-#EXTINF:-1,Bandit Metal
-http://wr03-ice.stream.khz.se/wr03_mp3
-#EXTINF:-1,Bandit Rock
-http://fm02-ice.stream.khz.se/fm02_mp3
 #EXTINF:-1,Banjalučki Sevdah Radio Šeherčani
 https://stream-172.zeno.fm/wazhcyi9ak5vv?zs=tApDLixiTGuqRhXqTfctZQ&1709234440014
 #EXTINF:-1,Best of ericade.radio
@@ -83,8 +69,6 @@ https://stream.linkopingsnarradio.se:8005/radioprogram
 http://live.litefm.se:8000/stream_mp3
 #EXTINF:-1,Lórien
 https://play.radiorivendell.com/radio/8020/radio.mp3
-#EXTINF:-1,Lugna Favoriter Stockholm
-http://fm03-ice.stream.khz.se/fm03_mp3?
 #EXTINF:-1,Magic Radio
 http://stream.magicradio.se/magic
 #EXTINF:-1,Mix Megapol 104,3
@@ -197,8 +181,6 @@ https://n25-eu.rcs.revma.com/qp6w2wzrruhvv?rj-ttl=5&amp
 https://streaming.943.se/radio45
 #EXTINF:-1,Radioapans knattekanal (aac-320)
 https://live1.sr.se/knattekanalen-aac-320
-#EXTINF:-1,Redback Radio
-https://redback.mywire.org/stream.mp3
 #EXTINF:-1,REPLAY NEWS - Svenska
 https://replaynewsse.ice.infomaniak.ch/replaynewsse-128.mp3
 #EXTINF:-1,Retreat Radio

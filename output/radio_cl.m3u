@@ -47,8 +47,6 @@ https://unlimited4-us.dps.live/beethovenfm/aac/icecast.audio
 https://unlimited3-cl.dps.live/beethovenfm/go/audio/now/livestream1.m3u8
 #EXTINF:-1,BeethovenFM
 http://unlimited3-cl.dps.live/beethovenfm/gotardis/audio/now/livestream1.m3u8
-#EXTINF:-1,Belén FM
-https://archi-us.digitalproserver.com/nueva-belen-fm.aac
 #EXTINF:-1,Bio Bio Valparaíso
 http://unlimited11-cl.dps.live/biobiovalparaiso/aac/icecast.audio
 #EXTINF:-1,Bío-Bío Concepción 98.1
@@ -263,8 +261,6 @@ https://sonic.portalfoxmix.club/8478/stream
 https://audio3.tustreaming.cl/7050/stream
 #EXTINF:-1,La Mexicana 95.3 San Vicente
 http://audio0.tustreaming.cl:7160/aire
-#EXTINF:-1,La Mexicana Chile
-https://audio0.tustreaming.cl/7170/casablanca
 #EXTINF:-1,La Palabra
 https://sonic.streamingchilenos.com/8126/stream:8000
 #EXTINF:-1,La Retro 80s Chile
@@ -327,8 +323,6 @@ https://stream.zeno.fm/vtzf1dppgxiuv
 https://sonic.portalfoxmix.club/8072/stream
 #EXTINF:-1,Ni Tan Retro FM
 https://sonic.portalfoxmix.cl/8090/;
-#EXTINF:-1,Nocturne Vault Radio
-https://semi-pillow-covers-rose.trycloudflare.com/listen/nocturne-radio/radio.mp3
 #EXTINF:-1,Nostálgica 2026
 https://video.mediawebchile.com/stream/8032
 #EXTINF:-1,Océano FM
@@ -351,10 +345,6 @@ http://curiosity.shoutca.st:6451/autodj
 https://poesiaycumbia.duckdns.org/listen/poesia_y_cumbia_radio/radio.mp3
 #EXTINF:-1,Portal 90 Radio
 https://sonic.mallocohosting.cl/8046/stream
-#EXTINF:-1,Positiva
-https://unlimited4-us.dps.live/positiva/aac/icecast.audio
-#EXTINF:-1,Positiva FM
-http://unlimited4-us.dps.live/positiva/aac/icecast.audio
 #EXTINF:-1,Principios Radio 
 https://stream.zeno.fm/i5darmt2oi7tv
 #EXTINF:-1,Pudahuel
@@ -453,8 +443,6 @@ https://streaming.comunicacioneschile.net/8010/stream
 https://jireh-1-hls-audio-cl-isp.dps.live/hls-audio/716888c72e2079612211a7130f67a27d/candela/playlist/manifest/gotardisz/audio/now/livestream1.m3u8?dpssid=29655ee97d58fc6cbb68acea3ab0dbfc&sid=ba5t1l1xb21323264718688affc0e6864&ndvc=0
 #EXTINF:-1,Radio Caramelo San Vicente
 https://cast.radioservicios.cl:8316/sanvicente
-#EXTINF:-1,Radio Caribe FM 95.5
-http://149.56.241.149:8118/stream
 #EXTINF:-1,RADIO CARICIA FM
 https://sonic.portalfoxmix.club/8244/stream/
 #EXTINF:-1,Radio Cariñosa
@@ -465,8 +453,6 @@ https://cp2.streamchileno.cl//listen//radiocarnaval//radio.mp3
 http://stream.zeno.fm/sri2de2qdlivv
 #EXTINF:-1,Radio Cassette
 https://sonic.mistreamingtv.uno/8020/stream
-#EXTINF:-1,Radio Catalina
-https://streaming.comunicacioneschile.net/8034/stream
 #EXTINF:-1,Radio Catalina 106.3 FM
 https://streaming.comunicacioneschile.net/9398/stream
 #EXTINF:-1,Radio Central Clasista de Trabajadores
@@ -555,6 +541,8 @@ http://us9.maindigitalstream.com:7258/stream
 https://sonic-cl.arkeo.cl:9330/;mp3
 #EXTINF:-1,Radio Electro
 https://stream.zeno.fm/ywnrindjwxjtv
+#EXTINF:-1,Radio Encanto 88.5 FM
+https://archi-us.digitalproserver.com/encanto_ovalle.aac
 #EXTINF:-1,Radio Energía
 https://sonic.mistreamingtv.uno/8016/stream
 #EXTINF:-1,Radio Estallido Tuitero
@@ -859,6 +847,8 @@ https://stream.zeno.fm/pdlp0sxtdjkvv
 https://audio3.tustreaming.cl/7080/stream
 #EXTINF:-1,RadioMiX
 https://video.mediawebchile.com:2000/stream/radiomixsc/stream
+#EXTINF:-1,radiorara
+https://sonicpanel.chileservidores.cl/8004/stream
 #EXTINF:-1,Radioroins
 https://stream.zeno.fm/dd3rxeuxznhvv
 #EXTINF:-1,Raudal FM97.1
@@ -887,8 +877,6 @@ https://stream3.mcvhost.com/ritmourbano25/
 http://sonando.us.digitalproserver.com/ritoquefm_aac
 #EXTINF:-1,Ritoque FM
 https://archi-us.digitalproserver.com/ritoquefm_aac
-#EXTINF:-1,Rock & Pop m
-http://23243.live.streamtheworld.com/ROCK_AND_POP_SC
 #EXTINF:-1,Rock and Pop
 http://26453.live.streamtheworld.com:3690/ROCK_AND_POPAAC_SC
 #EXTINF:-1,Rock En Español Chile

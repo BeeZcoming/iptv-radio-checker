@@ -91,6 +91,8 @@ http://220.247.227.20:8000/RSLstream
 http://220.247.227.6:8000/Snsstream
 #EXTINF:-1,SLBC -Welanda Sewaya
 http://220.247.227.6:8000/Scomstream
+#EXTINF:-1,SLBC Asia Service
+http://220.247.227.6:8000/Asiastream
 #EXTINF:-1,SLBC Pirai FM
 http://220.247.234.207:8000/piraistream
 #EXTINF:-1,SLBC Tamil National Service

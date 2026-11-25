@@ -229,6 +229,8 @@ http://stream.countryradio.ch/crs-64.mp3
 https://countryradioswitzerland.ice.infomaniak.ch/crs-128.mp3
 #EXTINF:-1,Country Radio Switzerland (CRS)
 http://stream.countryradio.ch/crs-128.mp3
+#EXTINF:-1,DBC radio
+http://dbc.ice.infomaniak.ch/dbc-96.mp3?1775297507656
 #EXTINF:-1,DIKS ДИКС 
 https://icecast.correctiv.net/sacharow
 #EXTINF:-1,Dream Sequence
@@ -483,16 +485,10 @@ http://stream.radio1.ch/128k.m3u
 https://stream.radio1.ch/128k
 #EXTINF:-1,Radio 1 Zürich
 https://stream.radio1.ch/128k?utm_source=chatgpt.com
-#EXTINF:-1,Radio 24
-https://stream.streambase.ch/radio24/mp3-192/direct/
 #EXTINF:-1,Radio 2Go
 https://uksoutha.streaming.broadcast.radio/radio2go
 #EXTINF:-1,Radio 2Go
 https://uksoutha.streaming.broadcast.radio:15830/radio2go
-#EXTINF:-1,Radio 32
-https://stream.streambase.ch/radio32/mp3-192/chmedia-today-web
-#EXTINF:-1,Radio 32 Goldies
-https://stream.streambase.ch/r32goldies/mp3-192/direct/
 #EXTINF:-1,Radio 3FACH
 https://stream01.3fach.ch/live
 #EXTINF:-1,Radio 3FACH

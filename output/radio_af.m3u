@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,(عشق) تمام چیزی که شما نیاز دارید عشق است
+http://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/66a01759c5aa2b85d66b5933
 #EXTINF:-1,0-24 2000ER POP ROCK
 https://0-242000erpoprock.stream.laut.fm/0-24_2000er_pop_rock
 #EXTINF:-1,121212121
@@ -187,3 +189,5 @@ http://194.58.122.69:8000/rrvl
 http://glzwizzlv.bynetcdn.com/glglz_classicil_mp3?awCollectionId=misc&awEpisodeId=glglz_classicil
 #EXTINF:-1,גלגלצ להיטים חמים
 http://glzwizzlv.bynetcdn.com/glglz_hits_mp3?awCollectionId=misc&awEpisodeId=glglz_hits
+#EXTINF:-1,香港电台第一台
+https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8

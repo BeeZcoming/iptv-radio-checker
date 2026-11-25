@@ -625,12 +625,10 @@ http://212.200.230.50:1935/rns1/prviprogram/livestream/stream.m3u8
 http://212.200.230.50:1935/rns2/drugiprogram/livestream/stream.m3u8
 #EXTINF:-1,RTV - Radio Novi Sad 3
 http://212.200.230.50:1935/rns3/treciprogram/livestream/stream.m3u8
-#EXTINF:-1,SKC
-https://skc.fm/hls/skc_radio/live.m3u8
-#EXTINF:-1,skc slobodni
-https://skc.fm/hls/skc_radio/aac_hifi.m3u8
 #EXTINF:-1,Spa 105
 https://stream.it4radio.com/listen/spa105/radio.mp3
+#EXTINF:-1,Starica Radio
+https://stream.radiojar.com/z31unp2afepwv.m4a
 #EXTINF:-1,Su-Data Radio
 https://radio.su-data.com/listen/su-data/radio.mp3
 #EXTINF:-1,Sun Radio Novi Sad

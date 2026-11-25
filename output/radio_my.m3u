@@ -141,8 +141,6 @@ https://stream.zeno.fm/mq0pxfsf0chvv
 https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC_SC
 #EXTINF:-1,Vision.FM
 http://cloud.tujuh.my:8018/stream?type=.mp3/
-#EXTINF:-1,Wadah FM
-https://19183.live.streamtheworld.com/WARNA942FMAAC.aac
 #EXTINF:-1,WAI FM Bidayuh
 http://playerservices.streamtheworld.com/api/livestream-redirect/WAI_FM_BK.mp3
 #EXTINF:-1,WAI FM IBAN

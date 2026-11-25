@@ -9,16 +9,12 @@ http://c16.radioboss.fm:8115/autodj
 https://c16.radioboss.fm:18115/stream?icecast
 #EXTINF:-1,987
 https://playerservices.streamtheworld.com/api/livestream-redirect/987FM_PREM.aac
-#EXTINF:-1,987
-https://14033.live.streamtheworld.com/987FM_SC
 #EXTINF:-1,987FM
 https://22393.live.streamtheworld.com/987FM_PREM.aac
 #EXTINF:-1,AXR Manila
 https://playerservices.streamtheworld.com/api/livestream-redirect/AXR_MANILA.mp3
 #EXTINF:-1,AXR Singapore
 http://singaporestream.axr.online/
-#EXTINF:-1,AXR Singapore
-http://27223.live.streamtheworld.com:3690/AXR_SINGAPORE_SC
 #EXTINF:-1,Beam FM
 https://beamfm.streeemer.com/listen/beam_fm/radio.aac
 #EXTINF:-1,Bible Witness Web Radio
