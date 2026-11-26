@@ -133,8 +133,6 @@ https://streamingecuador.com:7030/stream?1657848016283
 http://190.57.161.179:8000/stream
 #EXTINF:-1,Radio Andina
 https://grupomundodigital.com:8580/stream
-#EXTINF:-1,RADIO ANTENA SUR 89.5FM (LA SEñAL DE ORO DESDE PONCE ENRIQUEZ(
-https://grupomundodigital.com:8504/antenashd
 #EXTINF:-1,Radio Armonía 100.1 FM
 https://radiohdstreaming.com/radio/8040/armonia
 #EXTINF:-1,Radio Atenas
@@ -249,8 +247,6 @@ https://streamingecuador.net:8078/radiorumbanetwork
 https://streamingecuador.net:8078/RadioRumba
 #EXTINF:-1,Radio Samantha 89.3 FM
 http://5.135.183.124:8153/stream
-#EXTINF:-1,Radio Son De Manta 93.3 FM
-http://grupomundodigital.com:8649/live
 #EXTINF:-1,Radio Sucesos 101.7 FM
 https://icecast.radiosucesos.fm/radiosucesos
 #EXTINF:-1,Radio Sucumbíos 105.3 FM

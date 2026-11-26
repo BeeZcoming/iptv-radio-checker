@@ -519,6 +519,8 @@ http://stream.radiofabrik.at/rf_low.mp3
 http://mp3.radioypsilon.at:8000/mp3-160
 #EXTINF:-1,Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1,ReplayScape
+https://radio.replayscape.com:8443/128k.mp3
 #EXTINF:-1,RES.RADIO
 https://edge.mixlr.com/channel/zwtuo
 #EXTINF:-1,Revisited
@@ -607,5 +609,7 @@ https://live.welle1.at:18256/stream
 https://live.welle1.at:19000/live
 #EXTINF:-1,XXXLutz Radio
 https://liferadio.streamabc.net/lfr_w97ylbvwcps_45m7-mp3-192-1637662?sABC=6n48o2p1%230%234s3p7qo16pq27op446q453s9s431o7q7%23jrofrvgr&1783149421175=&aw_0_1st.playerid=webseite&amsparams=playerid:webseite
+#EXTINF:-1,Yeshua.at Radio
+https://yeshua.at:8443/stream
 #EXTINF:-1,Yu Radio
 https://stream.radiotechnikum.at:80/YURADIO

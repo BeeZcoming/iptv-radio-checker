@@ -37,6 +37,8 @@ https://icecasthd.net/proxy/fmcaraguatalavoz/stream
 https://streamingcasazorrilla.innovanexo.com:8000/carvedeportiva.mp3
 #EXTINF:-1,Carve Deportiva
 https://streamingcasazorrilla.innovanexo.com:8000/radiocarve850.mp3
+#EXTINF:-1,Casupá FM 94.1
+https://stm1.ifantasy.com.br:7256/;
 #EXTINF:-1,Causes FM 89.1
 https://streaming.radiosenlinea.com.ar/8870/stream
 #EXTINF:-1,Celestial Fm 90.7
@@ -121,8 +123,8 @@ https://radios.iwstreaming.uy/8012/stream
 https://stream-30.zeno.fm/bf4gt1pem0quv
 #EXTINF:-1,Horizonte - FM 106.3
 http://1063fm.ddns.net:8025/online
-#EXTINF:-1,Indie Pop en Español
-https://radioandres.mooo.com/stream
+#EXTINF:-1,Indie Pop
+https://listen.radioking.com/radio/960246/stream/1032271
 #EXTINF:-1,INOLVIDABLE FM
 https://inolvidable-1.nty.uy/
 #EXTINF:-1,Kairos FM Uruguay

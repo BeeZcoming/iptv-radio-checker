@@ -31,8 +31,6 @@ https://14223.live.streamtheworld.com/CFJO_FM.mp3
 https://18213.live.streamtheworld.com/CFJO_FM.mp3
 #EXTINF:-1,1 Pure Alternative Radio
 https://kathy.torontocast.com:2475/stream
-#EXTINF:-1,100 BEST IBIZA DEEP HOUSE
-https://stream.zeno.fm/lwv6zqgtv1dtv
 #EXTINF:-1,100 GREATEST JAZZ LOUNGE BAR
 https://cast1.torontocast.com:4640/stream
 #EXTINF:-1,100.1 BayFM
@@ -113,6 +111,8 @@ https://66.23.226.85/proxy/cfahd1/stream
 https://stream.zeno.fm/97qzdqafuqzuv
 #EXTINF:-1,96.5 "The Ranch" Olds, AB
 https://vistaradio.streamb.live/SB00385
+#EXTINF:-1,97.7 htz-fm
+https://29318.live.streamtheworld.com/CHTZFMAAC.aac?tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=909a491d-9ba0-49d0-f692-b63f1c429553
 #EXTINF:-1,98.5 CKWR Real Community Radio
 https://stream2.statsradio.com:8150/stream
 #EXTINF:-1,98.5 FM Montreal
@@ -215,6 +215,8 @@ https://18503.live.streamtheworld.com/CFTXFMAAC.aac
 https://18103.live.streamtheworld.com/CKLXFMAAC.aac
 #EXTINF:-1,BPM 96.5 Gatineau
 https://26383.live.streamtheworld.com/CFTXFMAAC.aac
+#EXTINF:-1,Business News Network Audio Channel
+http://29324.live.streamtheworld.com/TV_BNNAAC_SC
 #EXTINF:-1,CA-Afterhours.fm - 064-2-44-AAC
 http://fr.ah.fm:8000/mobile
 #EXTINF:-1,Cabin Radio
@@ -249,6 +251,8 @@ http://streams.calmradio.com:13028/stream
 http://streams.calmradio.com:19328/stream
 #EXTINF:-1,Calm Radio - Schubert
 http://streams.calmradio.com:8228/stream
+#EXTINF:-1,Calm Radio - Solo Piano
+http://streams.calmradio.com:1228/
 #EXTINF:-1,Calm Radio - Symphony
 http://streams.calmradio.com:1028/stream
 #EXTINF:-1,Calm Radio - Tchaikovsky
@@ -297,6 +301,8 @@ https://cbcradiolive.akamaized.net/hls/live/2041058/ES_R2MED/master.m3u8
 https://cbcradiolive.akamaized.net/hls/live/2041059/ES_R2PVC/master.m3u8
 #EXTINF:-1,CBC Music Pacific (Vancouver) MP3 Stream
 https://26733.live.streamtheworld.com/CBUFM_CBC_SC
+#EXTINF:-1,CBC North - Iqaluit, NU
+https://22983.live.streamtheworld.com/CFFBAM_CBC_SC
 #EXTINF:-1,CBC Radio 1 Calgary (CBR - 1010 AM, 99.1 FM)
 https://cbcradiolive.akamaized.net/hls/live/2041039/ES_R1MCG/master.m3u8
 #EXTINF:-1,CBC Radio 1 Halifax
@@ -327,6 +333,8 @@ https://17813.live.streamtheworld.com/CBGAM_CBC_SC
 https://26733.live.streamtheworld.com/CBHA_CBC_SC
 #EXTINF:-1,CBC Radio One - Happy Valley-Goose Bay, NL (MP3 stream)
 https://26733.live.streamtheworld.com/CFGB_CBC_SC
+#EXTINF:-1,CBC Radio One - Inuvik, NT (MP3 stream)
+https://22983.live.streamtheworld.com/CHAK_CBC_SC
 #EXTINF:-1,CBC Radio One - Kamloops, BC (MP3 stream)
 https://27033.live.streamtheworld.com/CBYKFM_CBC_SC
 #EXTINF:-1,CBC Radio One - Kelowna, BC (MP3 stream)
@@ -367,12 +375,18 @@ https://26733.live.streamtheworld.com/CBIS_CBC_SC
 https://17813.live.streamtheworld.com/CBQTFM_CBC_SC
 #EXTINF:-1,CBC Radio One - Toronto, ON (MP3 stream)
 https://17813.live.streamtheworld.com/CBLAFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Vancouver, BC (MP3 stream)
+https://22983.live.streamtheworld.com/CBU2FM_CBC_SC
 #EXTINF:-1,CBC Radio One - Victoria, BC (MP3 stream)
 https://26373.live.streamtheworld.com/CBCVFM_CBC_SC
 #EXTINF:-1,CBC Radio One - Whitehorse (MP3 Stream)
 https://26373.live.streamtheworld.com/CFWH_CBC_SC
 #EXTINF:-1,CBC Radio One - Windsor, ON (MP3 stream)
 https://17813.live.streamtheworld.com/CBEWFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Winnipeg, MB (MP3 stream)
+https://22983.live.streamtheworld.com/CBWAM_CBC_SC
+#EXTINF:-1,CBC Radio One - Yellowknife, NT (MP3)
+https://22983.live.streamtheworld.com/CFYKFM_CBC_SC
 #EXTINF:-1,CBC Radio One Edmonton 
 https://26373.live.streamtheworld.com/CBXAM_CBC_SC
 #EXTINF:-1,CBC Radio One London 93.5
@@ -393,6 +407,8 @@ https://goldenwest.leanstream.co/goldenwest/CFAMAM.stream/playlist.m3u8
 http://mbsradio.leanstream.co/CFANFM-MP3
 #EXTINF:-1,CFAR 102.9 FM & 590 AM "Arctic Radio" Flin Flon, MB 
 https://us2.maindigitalstream.com/ssl/CFAR
+#EXTINF:-1,CFAX 1070 (Victoria, BC)
+http://14013.live.streamtheworld.com:3690/CFAXAMAAC_SC
 #EXTINF:-1,CFBC 930 Saint John, NB
 https://mbsradio-ais.leanstream.co/CFBCAM-MP3
 #EXTINF:-1,CFBG 99.5 "Moose FM" Bracebridge, ON 
@@ -517,6 +533,8 @@ http://mbsradio.leanstream.co/CFQMFM-MP3
 https://stream.jpbgdigital.com/CFQX.m3u8
 #EXTINF:-1,CFRA "News Talk Radio 580" Ottawa, ON
 http://15693.live.streamtheworld.com/CFRAAMAAC_SC
+#EXTINF:-1,CFRB News/Talk 1010 (Toronto, ON)
+http://29324.live.streamtheworld.com:3690/CFRBAMAAC_SC
 #EXTINF:-1,CFRK "New Country 92.3" Fredericton, NB
 http://newcap.leanstream.co/CFRKFM
 #EXTINF:-1,CFRM-FM 100.7 "Hits 100" Little Current, ON
@@ -631,12 +649,6 @@ http://72.139.27.130:100/broadwave.mp3?src=1&rate=1
 http://newcap.leanstream.co/CHHIFM
 #EXTINF:-1,CHHR-FM 94.7 MHz
 https://sheetharbour.out.airtime.pro/sheetharbour_a
-#EXTINF:-1,CHIN Radio 100.7
-https://ice7.securenetsystems.net/CHINFM
-#EXTINF:-1,CHIN-AM 1540 Toronto, ON
-http://ice7.securenetsystems.net/CHINAM
-#EXTINF:-1,CHIN-FM 100.7 Toronto, ON
-http://ice7.securenetsystems.net/CHINFM
 #EXTINF:-1,CHIR FM Gulf Islands Community Radio
 https://stream-02.aiir.com/iirwxwmjurkuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJpaXJ3eHdtanVya3V2IiwiaG9zdCI6InN0cmVhbS0wMi5haWlyLmNvbSIsInJ0dGwiOjUsImp0aSI6IkRQbUpiX1hsUURHcTVkRkZITTlkVGciLCJpYXQiOjE3OTA3NDI0MTEsImV4cCI6MTc5MDc0MjQ3MX0.W0sRVhN5Zhahnc600AX-Te8o5V45d7dCTEgJDXaBi2Y
 #EXTINF:-1,CHIR.com "Greek Radio Station" (alternate stream) Toronto, ON 
@@ -675,8 +687,6 @@ https://securestreams6.autopo.st:2111/?1731303876903=
 http://chma-nicecast.mta.ca:8000/listen
 #EXTINF:-1,CHMB AM1320 Mainstream Broadcasting Corporation
 http://n05.radiojar.com/nugqupcv8qzuv?1611015943=&rj-tok=AAABdxgRmqYARTfy-oDrHGtfeA&rj-ttl=5
-#EXTINF:-1,CHMB FM1320华侨之声网络音乐台
-https://stream.radiojar.com/60sqadqu97zuv.mp3
 #EXTINF:-1,CHME-FM 94.9 Les Escoumins, QC
 http://149.56.234.138:8278/stream
 #EXTINF:-1,CHMK 93.1 Manawan
@@ -729,8 +739,6 @@ http://live.leanstream.co/CHOKAM-MP3
 https://rogers-hls.leanstream.co/rogers/chomfm.stream/playlist.m3u8
 #EXTINF:-1,CHOO-FM "Boom 99.5" Drumheller, AB
 https://newcap.leanstream.co/CHOOFM
-#EXTINF:-1,CHOP FM 102.7 Pickering College, Newmarket 
-https://ice9.securenetsystems.net/CHOP
 #EXTINF:-1,CHOW 105.3 "Radio Boreale" Amos, QC
 http://stream.statsradio.com:8022/stream
 #EXTINF:-1,CHOX-FM  97.5 La Pocatiere, QC   
@@ -763,16 +771,12 @@ http://cheetah.streemlion.com:1050/stream
 http://newcap.leanstream.co/CHRKFM
 #EXTINF:-1,CHRM-FM "Plaisir105.3"  Matane, QC 
 https://26313.live.streamtheworld.com/CHRM_FM_SC
-#EXTINF:-1,CHRN 1610 "Radio Humsafar" Montreal. QC
-http://ice2.securenetsystems.net/HUMSAFAR
 #EXTINF:-1,ChroniX Radio - Aggression
 http://usa19.fastcast4u.com:5720/
 #EXTINF:-1,chronix radio metalcore
 http://usa17.fastcast4u.com:5508/
 #EXTINF:-1,ChroniX Radio Metalcore
 http://usa17.fastcast4u.com:5508/stream
-#EXTINF:-1,CHRY "Vibe 105.5" York University Toronto, ON
-http://ice7.securenetsystems.net/CHRY
 #EXTINF:-1,CHSJ-FM 94.1 "Country 94" Saint John, NB 
 https://ais-sa1.streamon.fm/7230_128k.aac/playlist.m3u8
 #EXTINF:-1,CHSL-FM "Boom 92.7"" Slave Lake , AB
@@ -897,12 +901,6 @@ https://lax-live2-ais-relay1.leanstream.co/goldenwest/CIMGFM.stream/playlist.m3u
 https://stream2.statsradio.com:8068/stream
 #EXTINF:-1,CIMY-FM 104.9 "MyFM" Pembroke, ON
 https://mybroadcasting.streamb.live/SB00305
-#EXTINF:-1,CINA 1650 AM Mississauga, ON
-http://ice8.securenetsystems.net/CINA
-#EXTINF:-1,Cina radio
-https://ice8.securenetsystems.net/CINA
-#EXTINF:-1,CINA-FM 102.3 (Radio CINA Arabic Hits Stream)  Windsor, ON
-https://ice9.securenetsystems.net/CINAFM3
 #EXTINF:-1,CINB-FM "Oldies96" - Saint John, NB
 https://us9.streamingpulse.com/ssl/oldies96
 #EXTINF:-1,CIND 88.1 FM Toronto, ON
@@ -919,18 +917,14 @@ https://radio01.websavers.ca/proxy/qmyiqygl/stream
 http://s5.voscast.com:10432/stream
 #EXTINF:-1,CIOK 100.5 "K-100" Saint John, NB
 http://mbsradio.leanstream.co/CIOKFM-MP3
+#EXTINF:-1,CION-FM Radio Galilee
+https://cast1.asurahosting.com/proxy/fondatio/stream2
 #EXTINF:-1,CIPU "Shubie FM" Sipekne'katik/Shubencadie, Nova Scotia
 https://listen.radioking.com/radio/626449/stream/688756
 #EXTINF:-1,CIQC-FM "99.7 The River"  Campbell River, BC 
 https://vistaradio.streamb.live/SB00078
-#EXTINF:-1,CIRF-AM 1350 "Radio Humsafar" Brampton, ON
-https://ice66.securenetsystems.net/CIRF
 #EXTINF:-1,CIRK 97.3 "K-97" Edmonton, AB
 http://newcap.leanstream.co/CIRKFM
-#EXTINF:-1,CIRV 88.9 Toronto, ON
-http://ice5.securenetsystems.net/CIRV
-#EXTINF:-1,CIRV-HD2 88.9 (Portuguese Stream) Toronto, ON
-https://ice5.securenetsystems.net/CIRV
 #EXTINF:-1,CIRV-HD3 88.9 "Thaalam FM"(Tamil Stream) Toronto, ON
 http://ec4.yesstreaming.net:1990/stream
 #EXTINF:-1,CIRX-FM 94.3 "The Goat" Prince George, BC 
@@ -973,8 +967,8 @@ https://rogers-hls.leanstream.co/rogers/tor680.stream/icy?environment=tunein&arg
 https://stream.jpbgdigital.com/CIUP.m3u8
 #EXTINF:-1,CIUR-FM "Now Country 104.7" Winnipeg, MB
 http://178.obj.netromedia.com:8000/5
-#EXTINF:-1,CIUT 89.5FM
-https://ice23.securenetsystems.net/CIUT
+#EXTINF:-1,CIUX-FM "Hits 105.5" Uxbridge, ON  
+https://torres-media.streamb.live/SB00161
 #EXTINF:-1,CIVH "95.9 FM The Goat" Vanderhoof, BC 
 https://vistaradio.streamb.live/SB00076
 #EXTINF:-1,CIVL Radio
@@ -995,12 +989,12 @@ http://newcap.leanstream.co/CIXFFM
 http://bayshore.leanstream.co/CIXKFM
 #EXTINF:-1,CIXM-FM 105.3 "XM105FM" Whitecourt, AB  
 https://stream.jpbgdigital.com/CIXM.m3u8
-#EXTINF:-1,CIXX 106.9 "The X" Fanshawe College, London, ON
-https://ice23.securenetsystems.net/CIXXFM
 #EXTINF:-1,CIZL 98.9 "Z99" Regina, SK
 http://rawlco.leanstream.co/CIZLFM
 #EXTINF:-1,CIZZ "Z 98.9" Red Deer, AB
 http://newcap.leanstream.co/CIZZFM
+#EXTINF:-1,CJAB-FM "Energie Saguenay-Lac-Saint-Jean 94.5"  Saguenay, QC
+http://22983.live.streamtheworld.com/CJABFMAAC_SC
 #EXTINF:-1,CJAD 800
 https://26303.live.streamtheworld.com/CJADAM_SC
 #EXTINF:-1,CJAI 101.3 "Island Radio" - Stella, Ontario
@@ -1017,8 +1011,6 @@ https://stream.jpbgdigital.com/CJAV.m3u8
 https://goldenwest.leanstream.co/goldenwest/CJAWFM.stream/playlist.m3u8
 #EXTINF:-1,CJAX "Jack 96.9"  Vancouver, BC
 https://rogers-hls.leanstream.co/rogers/van969.stream/playlist.m3u8
-#EXTINF:-1,CJBB 103.1 "Ranch Country" Englehart, ON
-https://ice10.securenetsystems.net/CJBB
 #EXTINF:-1,CJBP-FM "CJ 97.1"  Neepawa, MB
 http://dns4.83north.ca:8000/cjbp.mp3
 #EXTINF:-1,CJBQ 800 Belleville, ON
@@ -1059,8 +1051,6 @@ https://stream2.statsradio.com:8096/stream
 https://rogers-hls.leanstream.co/rogers/ott1011.stream/playlist.m3u8
 #EXTINF:-1,CJET-FM Country 92.3
 https://rogers-hls.leanstream.co/rogers/ott923.stream/48k/playlist.m3u8
-#EXTINF:-1,CJFN 102.7 "Country Rock Radio" Peguis, Manitoba
-https://cast4.my-control-panel.com/proxy/peguis1/stream
 #EXTINF:-1,CJFO 94.5 "Unique FM" Ottawa, ON
 http://stream2.statsradio.com:8038/stream
 #EXTINF:-1,CJGB-FM "LITE 99.3" Meaford, ON 
@@ -1087,12 +1077,12 @@ https://redirect.jpbgdigital.com/CJJR?player_type=mytuner
 http://newcap.leanstream.co/CJKCFM-MP3?args=mobile_03
 #EXTINF:-1,CJKL-FM 101.5  Kirkland Lake, ON  
 https://connelly.radioca.st/cjkl
+#EXTINF:-1,CJKX 95.9 "KX96 New Country FM" - Ajax, ON
+http://29306.live.streamtheworld.com/CJKXFMAAC_SC
 #EXTINF:-1,CJLF "LIFE 100.3" Barrie, ON
 https://netstream.lifeonline.fm/CJLF/ogg_high
 #EXTINF:-1,CJLI am700 The Light 
 https://shinefm.streamguys1.com/cjli
-#EXTINF:-1,CJLL 97.9 "CHIN Radio Ottawa", ON
-http://ice7.securenetsystems.net/CJLLFM
 #EXTINF:-1,CJLM-FM "O 103.5" Joliette, QC
 https://18213.live.streamtheworld.com/CJLM_FM_SC
 #EXTINF:-1,CJLO 1690 Concordia University, Montreal, QC
@@ -1127,8 +1117,6 @@ http://18863.live.streamtheworld.com/CJMRAMAAC_SC
 https://rogers-hls.leanstream.co/rogers/sud1053.stream/playlist.m3u8
 #EXTINF:-1,CJNB 1050 "Saskatchewan Country" North Battleford, SK 
 https://redirect.jpbgdigital.com/CJNB.m3u8
-#EXTINF:-1,CJNC 97.9 Norway House, MB
-https://ais-sa1.streamon.fm/7036_24k.aac/playlist.m3u8
 #EXTINF:-1,CJNI "News 95.7" Halifax, NS
 https://rogers-hls.leanstream.co/rogers/hal957.stream/playlist.m3u8
 #EXTINF:-1,CJNS-FM 102.3  Meadow Lake, SK
@@ -1243,6 +1231,8 @@ https://mbsradio.leanstream.co/CJYCFM-MP3
 http://newcap.leanstream.co/CJYQAM
 #EXTINF:-1,CJZN 91.3 FM Victoria, BC
 http://stream.jpbgdigital.com/CJZN/HEAAC/48k/playlist.m3u8
+#EXTINF:-1,CKAC 730 "Radio Circulation"  Montreal 
+https://29319.live.streamtheworld.com/CKACAMAAC_SC
 #EXTINF:-1,CKAC Montréal
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKACAMAAC_SC.aac
 #EXTINF:-1,CKAJ 92.5 & 99.7 Saguenay, QC
@@ -1381,6 +1371,8 @@ https://stream.jpbgdigital.com/CKKQ/HEAAC/48k/playlist.m3u8
 https://rogers-hls.leanstream.co/rogers/van1049.stream/playlist.m3u8
 #EXTINF:-1,CKKS-FM 107.5 "Sonic" Chilliwack, BC
 https://rogers-hls.leanstream.co/rogers/van1049.stream/48k/playlist.m3u8
+#EXTINF:-1,CKKX 106.1 "KIX 106" Peace River, AB
+http://29327.live.streamtheworld.com/CKKXFMAAC_SC
 #EXTINF:-1,CKKY "Boom 101.9" Wainwright, AB
 http://newcap.leanstream.co/CKKYFM
 #EXTINF:-1,CKLB 101.9 Yellowknife, NT
@@ -1455,6 +1447,8 @@ https://18503.live.streamtheworld.com/CKOFFMAAC_SC
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKOIFMAAC_SC.aac
 #EXTINF:-1,CKOM News/Talk 650 (Saskatoon, SK)
 http://rawlco.leanstream.co/CKOMAM
+#EXTINF:-1,CKON 97.3 "Akwesasne Mohawk Radio" Akwesasne/Cornwall, Ontario
+http://29308.live.streamtheworld.com:3690/CKONFM_SC
 #EXTINF:-1,CKOT-FM "Easy 101.3"  Tillsonburg, ON
 https://rogers-hls.leanstream.co/rogers/til1013.stream/playlist.m3u8
 #EXTINF:-1,CKOT-FM 101.3 Giant FM classic rock
@@ -1575,8 +1569,6 @@ http://mbsradio.leanstream.co/CKWMFM-MP3
 http://184.71.87.162:8000/
 #EXTINF:-1,CKWV-FM 102.3 "The Wave" Nanaimo, BC 
 https://stream.jpbgdigital.com/CKWV.m3u8
-#EXTINF:-1,CKWW 
-https://ice25.securenetsystems.net/CKWW
 #EXTINF:-1,CKWX "News 1130" Vancouver, BC
 https://rogers-hls.leanstream.co/rogers/van1130.stream/playlist.m3u8
 #EXTINF:-1,CKWY-FM "Hot 93.7"  Wainwright, AB
@@ -1601,8 +1593,6 @@ http://bayshore.leanstream.co/CKYCFM
 http://13683.live.streamtheworld.com/CKYLFMAAC_SC
 #EXTINF:-1,CKYQ "Hit Country 95.7 Centre-du-Quebec" Plessisville, QC 
 https://18213.live.streamtheworld.com/CKYQ_FM_SC
-#EXTINF:-1,CKYR-FM 106.7 "Red FM" Calgary, AB
-https://ice10.securenetsystems.net/CKYR
 #EXTINF:-1,CKYX "97.9 Rock" Fort McMurray, AB
 http://rogers-hls.leanstream.co:8000/rogers/for979.stream/48k/playlist.m3u8
 #EXTINF:-1,CKZZ "Z95.3" Vancouver, BC
@@ -1639,6 +1629,8 @@ https://bayshore-ais.leanstream.co/CJMUFM-MP3
 https://rogers.leanstream.co/rogers/kit1067.stream/icy?environment=tunein&args=tunein_01
 #EXTINF:-1,Country 94.1
 https://ais-sa1.streamon.fm/7230_128k.aac
+#EXTINF:-1,CP24 Audio Channel - Toronto, ON
+http://29324.live.streamtheworld.com/TV_CP24AAC_SC
 #EXTINF:-1,CRIK - The Lynx Classic Rock - Calgary, Alberta, Canada
 https://rock-lynxradio.radioca.st/stream
 #EXTINF:-1,Crucial Velocity Radio
@@ -1711,14 +1703,8 @@ https://streaming.exclusive.radio/er/erasure/icecast.audio
 https://streaming.exclusive.radio/er/eurythmics/icecast.audio
 #EXTINF:-1,fairchildren radio
 http://icecast01.eseenet.com:8000/am1430
-#EXTINF:-1,FAITH 99.9 CHJX
-https://ice7.securenetsystems.net/CHJXFM
 #EXTINF:-1,Fallout '26 radio
 https://radio.greenwoodlabs.ca/listen/fallout26/radio.mp3
-#EXTINF:-1,Flow 98 7 CKFG-FM - Toronto
-https://ice64.securenetsystems.net:80/CKFG
-#EXTINF:-1,Flow 98 7 CKFG-FM Toronto
-https://ice64.securenetsystems.net:80/CKFG
 #EXTINF:-1,FM 93 Québec
 https://playerservices.streamtheworld.com/api/livestream-redirect/CJMFFMAAC.aac
 #EXTINF:-1,FM93 Québec
@@ -1771,6 +1757,8 @@ https://radio.nimaarki.com/lofi/stream?_ic2=1
 https://radio.nimaarki.com/retro/stream?_ic2=1
 #EXTINF:-1,Hang 10 Rock Radio - Tofino, BC
 http://158.69.227.214:8113/stream
+#EXTINF:-1,Happy Christmas Radio
+https://stream.halloweenradio.net/listen/happy_christmas_radio/mp3
 #EXTINF:-1,Happy Christmas Radio (AAC)
 http://radio1.streamserver.link/radio/8070/hcr-aac
 #EXTINF:-1,Harmony Beautiful Music
@@ -1923,6 +1911,8 @@ https://stream.kracradio.com/listen/rock/radio.mp3
 https://streams.radiomast.io/517bd02e-89a3-46aa-83ec-a49122a08c4a
 #EXTINF:-1,KX 94.7
 http://17653.live.streamtheworld.com:3690/CHKXFMAAC_SC
+#EXTINF:-1,KX96
+http://29306.live.streamtheworld.com:3690/CJKXFMAAC_SC
 #EXTINF:-1,KYK 95.7 Saguenay
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKYKFMAAC.aac
 #EXTINF:-1,La Bonita X101
@@ -2087,8 +2077,6 @@ https://stream-cjpx-rr01.leclerccom.com/cjpx.aac
 http://26293.live.streamtheworld.com/QUB_RADIOAAC_SC
 #EXTINF:-1,r-a-d
 https://relay1.r-a-d.io/main.mp3
-#EXTINF:-1,Radio 42° North (R42N) [AAC+ 64kbps]
-http://ice66.securenetsystems.net/R42N
 #EXTINF:-1,Radio 854
 https://jenny.torontocast.com:8034/stream
 #EXTINF:-1,Radio Addictive 50s
@@ -2167,6 +2155,8 @@ https://rcavliveaudio.akamaized.net/hls/live/2006953/P-2QQUE0_QUE/master.m3u8
 https://rcavliveaudio.akamaized.net/hls/live/2006973/P-2OTOR0_TOR/master.m3u8
 #EXTINF:-1,Radio Canada Ici Première Windsor, ON
 https://rcavliveaudio.akamaized.net/hls/live/2006976/P-2OWDR0_WDR/master.m3u8
+#EXTINF:-1,Radio Comet
+https://streaming.live365.com/a62709
 #EXTINF:-1,Radio Country Acadienne
 https://shout.radiocountryacadienne.com:8004/
 #EXTINF:-1,Radio Country Acadienne 
@@ -2261,10 +2251,6 @@ https://stream3.hosting-quebec.ca/radio/rcmv-radio/stream
 https://maggie.torontocast.com:2020/stream/rdmixitalianvintage
 #EXTINF:-1,RDMIX LOVE SONGS
 http://maggie.torontocast.com:8022/stream
-#EXTINF:-1,RED FM
-https://ice24.securenetsystems.net/CKYE?playSessionID=FEC6C3A5-AAAF-839F-F4F9CC684849AEA6
-#EXTINF:-1,Red FM 88.9
-https://ice9.securenetsystems.net/CIRVFM
 #EXTINF:-1,REGGAE CHILL CAFE
 https://maggie.torontocast.com:2020/stream/reggaechillcafe
 #EXTINF:-1,Relay Radio
@@ -2351,6 +2337,8 @@ https://stream.rcast.net/68024
 https://ais-sa1.streamon.fm/7676_48k.aac
 #EXTINF:-1,SLOWLY RADIO
 http://stream.slowlyradio.com/
+#EXTINF:-1,Smooth Jazz - Downtempo.Radio
+http://streaming.coolmusicradio.com:8040/stream-MP3-Smooth
 #EXTINF:-1,SMOOTH JAZZ DELUXE
 https://cast1.torontocast.com:4490/;?type=http&nocache=1745925758
 #EXTINF:-1,SMOOTH JAZZ DELUXE
@@ -2487,12 +2475,16 @@ https://streaming.coolmusicradio.com/listen/cool_music/radio.mp3
 https://stream.triplec.fm/stream.mp3
 #EXTINF:-1,Tripletail FM
 https://radio.blueberry.coffee/listen/tripletail/radio.mp3
+#EXTINF:-1,trixfm
+https://fm.trix.quest/desu
 #EXTINF:-1,Truck Stop Quebec
 http://canada1.reliastream.com:8052/live
 #EXTINF:-1,TruSkOOlBreAkz
 https://ec2.yesstreaming.net:4450/stream
 #EXTINF:-1,TSN 690
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKGMAMAAC_SC
+#EXTINF:-1,Tuff City Radio
+https://stream.aiir.com/zzrrqgywgaptv
 #EXTINF:-1,Tuneria
 https://tuneria.fm/flux/tuneria.mp3
 #EXTINF:-1,UMFM 101.5 (CJUM)
@@ -2513,8 +2505,6 @@ http://radio.pixelinmedia.com/vallamai
 http://178.obj.netromedia.com:8000/6?type=http
 #EXTINF:-1,Valley Heritage Radio 98.7 CJHR
 http://178.obj.netromedia.com:8000/6
-#EXTINF:-1,Vibe 105
-https://ice7.securenetsystems.net/CHRY
 #EXTINF:-1,Vinyl Voyage Radio
 https://jenny.torontocast.com:8018/stream2
 #EXTINF:-1,Virgin Most Powerful Radio
@@ -2547,6 +2537,8 @@ https://azura-3892.az-streamingserver.com/listen/vybz_rewind_radio/radio.mp3
 https://azura-3892.az-streamingserver.com/listen/vybz_up_and_up_radio/radio.mp3
 #EXTINF:-1,Wave 80
 http://jenny.torontocast.com:9006/
+#EXTINF:-1,WAVE.FM
+http://14623.live.streamtheworld.com:3690/CIWVFM_SC
 #EXTINF:-1,Wave80
 http://listen.wave80hits.com/
 #EXTINF:-1,WEFUNK

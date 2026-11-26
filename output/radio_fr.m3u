@@ -169,10 +169,6 @@ https://live.afrionde.fr/afrionde9
 https://live.afrionde.fr/afrionde3
 #EXTINF:-1,Agnes B Radio Europe
 https://listen.radioking.com/radio/131488/stream/171370
-#EXTINF:-1,Agora Côte d’Azur
-http://agoracotedazur.ice.infomaniak.ch/agoracotedazur.mp3
-#EXTINF:-1,AGORA CÔTE D’AZUR
-https://agoracotedazur.ice.infomaniak.ch/agoracotedazur.mp3
 #EXTINF:-1,AI WAVE RADIO 
 https://stream.miblradio.com.au/live/ai-wave-radio
 #EXTINF:-1,Aïoli Radio
@@ -721,8 +717,6 @@ https://streaming.nrjaudio.fm/ougocfrb92oc
 https://streaming.nrjaudio.fm/ousgzkm4z85f
 #EXTINF:-1,Chérie FM Marseille
 https://streaming.nrjaudio.fm/ouy57k36zcw2
-#EXTINF:-1,Chérie FM Martinique
-http://2stream.dyndns.org:8000/cheriefmmq
 #EXTINF:-1,Chérie FM Metz
 https://streaming.nrjaudio.fm/ou5kjbirv93h
 #EXTINF:-1,Chérie FM Montbelliard
@@ -853,8 +847,6 @@ http://collineslaradio.ice.infomaniak.ch/collineslaradio-128.mp3
 http://www.radioking.com/play/supag
 #EXTINF:-1,Comète FM
 http://str0.creacast.com/cometefm
-#EXTINF:-1,Comtoise Radio
-https://stream.tiennot.net/comtoise.aac
 #EXTINF:-1,Cool radio
 http://icecast.radiofrance.fr/fip-hifi.aac
 #EXTINF:-1,Cool Radio
@@ -883,8 +875,6 @@ https://direct.croonerradio.fr/croonerradio-midfi.mp3
 https://croonerradio_movies.ice.infomaniak.ch/croonerradio-movies-midfi.mp3
 #EXTINF:-1,Crooner Radio 192/48
 https://croonerradio.ice.infomaniak.ch/croonerradio-hifi.mp3
-#EXTINF:-1,Crooner Radio American
-http://croonerradio_american.ice.infomaniak.ch/croonerradio-american-midfi.mp3
 #EXTINF:-1,Crooner Radio Barbra Streisand
 http://croonerradio_barbrastreisand.ice.infomaniak.ch/croonerradio-barbrastreisand-midfi.mp3
 #EXTINF:-1,Crooner Radio Celine Dion
@@ -1271,6 +1261,8 @@ http://direct.fipradio.fr/live/fip-webradio5.mp3
 https://stream.musiquose.fr/proxy/fixelysta?mp=/stream
 #EXTINF:-1,Flor FM Colmar
 https://florfm.ice.infomaniak.ch/webcolmar.mp3
+#EXTINF:-1,Flor FM Mulhouse
+https://florfm.ice.infomaniak.ch/webmulhouse.mp3
 #EXTINF:-1,Fly Foot Selecta
 https://manager5.streamradio.fr:1185/stream
 #EXTINF:-1,FM 80
@@ -1505,6 +1497,8 @@ http://direct.francemusique.fr/live/francemusiquelacontemporaine-hifi.mp3
 http://direct.francemusique.fr/live/francemusiquelajazz-hifi.mp3
 #EXTINF:-1,France Musique | Ocora - Musiques du monde
 http://direct.francemusique.fr/live/francemusiqueocoramonde-hifi.mp3
+#EXTINF:-1,France musique B.O. films
+https://stream.radiofrance.fr/francemusiquelabo/francemusiquelabo_hifi.m3u8
 #EXTINF:-1,France Musique Classique Easy
 http://icecast.radiofrance.fr/francemusiqueeasyclassique-hifi.aac
 #EXTINF:-1,France Musique Classique Plus
@@ -1523,6 +1517,8 @@ http://icecast.radiofrance.fr/francemusiquelacontemporaine-hifi.aac
 http://radio-metadata.fr:8000/francemusiquelacontemporaine
 #EXTINF:-1,France Musique La Jazz
 http://icecast.radiofrance.fr/francemusiquelajazz-hifi.aac
+#EXTINF:-1,France musique La Jazz hifi sans pub
+https://stream.radiofrance.fr/francemusiquelajazz/francemusiquelajazz_hifi.m3u8
 #EXTINF:-1,France Musique OCORA
 http://icecast.radiofrance.fr/francemusiqueocoramonde-hifi.aac
 #EXTINF:-1,France Musique Ocora
@@ -1873,8 +1869,6 @@ https://s5.citrus3.com:2020/stream/hitampkitsch
 https://azura.hit53.fr/hit128.mp3
 #EXTINF:-1,HitFM
 https://stream10.vestaradio.com/HitFM?_r=67lxoknd&_t=1787733726873
-#EXTINF:-1,hitfm reunion 974
-http://hitfm.ice.infomaniak.ch/hitfm-192.mp3
 #EXTINF:-1,Hits 1
 https://hits1-audiomediaradio.radioca.st/hits1
 #EXTINF:-1,Hits 1
@@ -2387,6 +2381,8 @@ https://webradiostream.eu/radio/8070/stream
 https://kohina.duckdns.org/icecast/stream.ogg
 #EXTINF:-1,Kohina
 https://player.kohina.com/icecast/stream.aac
+#EXTINF:-1,Kolectiv'
+https://listen.radioking.com/radio/480/stream/1844
 #EXTINF:-1,KTO Radio
 https://liveradiokto.akamaized.net/hls/live/20000054/ktoradio/master.m3u8
 #EXTINF:-1,Kurd1 Radyo
@@ -2397,6 +2393,8 @@ https://radio.ekodesgarrigues.com/eko-des-garrigues-128k.mp3
 https://radio.ekodesgarrigues.com/eko-des-garrigues-256k.ogg
 #EXTINF:-1,La 1ère musique
 http://outremer.ice.infomaniak.ch/outremer-192.aac?aw_0_1st.rpfr=1
+#EXTINF:-1,La Baroque-sans pub
+https://stream.radiofrance.fr/francemusiquebaroque/francemusiquebaroque_hifi.m3u8
 #EXTINF:-1,La grande évasion
 https://radio.lagrandeevasion.fr/evasion
 #EXTINF:-1,LA GRANDE MUSIQUE
@@ -2561,6 +2559,8 @@ https://a13.my-control-panel.com/listen/lithium_radio/radio.mp3
 https://littoralfmperpignan.ice.infomaniak.ch/littoralfmperpignan.mp3
 #EXTINF:-1,Live Nation Radio
 https://livenationradio.ice.infomaniak.ch/livenationradio-midfi.mp3
+#EXTINF:-1,Long Tracks Radio
+https://n0d.radiojar.com/z21997mep5nwv?rj-ttl=5&rj-tok=AAABohO2E8cAKU1JAHW_J9G9HQ
 #EXTINF:-1,LOR'FM
 http://lorfm.ice.infomaniak.ch/lorfm-128.mp3
 #EXTINF:-1,Lounge ABC Jazz Chill
@@ -3227,8 +3227,6 @@ https://streaming.nrjaudio.fm/oumrcj8fnozc
 https://streaming.nrjaudio.fm/ouv6ipoarp52
 #EXTINF:-1,NRJ Bordeaux
 https://streaming.nrjaudio.fm/ou3i72uizv6i
-#EXTINF:-1,NRJ Boulogne-sur-Mer
-https://streaming.nrjaudio.fm/ouvf9uoarp52
 #EXTINF:-1,NRJ Bourg-en-Bresse
 https://streaming.nrjaudio.fm/oujyosnxeb5p
 #EXTINF:-1,NRJ Brest
@@ -3525,10 +3523,6 @@ https://streaming.nrjaudio.fm/our79kvukkaq
 https://streaming.nrjaudio.fm/oubqooj25zuw
 #EXTINF:-1,NRJ Saint-Nazaire
 https://streaming.nrjaudio.fm/oumrke8fnozc
-#EXTINF:-1,NRJ Saint-Omer
-https://streaming.nrjaudio.fm/ousgc5m4z85f
-#EXTINF:-1,NRJ Saint-Pol-sur-Ternoise
-https://streaming.nrjaudio.fm/ou5k2dirv93h
 #EXTINF:-1,NRJ Shakira
 https://streaming.nrjaudio.fm/ou8754gk7oiu
 #EXTINF:-1,NRJ Sport Motivation
@@ -3731,8 +3725,6 @@ http://str30.creacast.com/pharefm_worship
 http://stream.phauneradio.com/phaune_256
 #EXTINF:-1,Phaune radio
 http://stream.phauneradio.com/phaune_128
-#EXTINF:-1,Pi ano FLAC+meta
-http://stream.p-node.org/piano
 #EXTINF:-1,Pinata
 https://listen.radioking.com/radio/96031/stream/134656
 #EXTINF:-1,Pistache La Radio
@@ -4005,10 +3997,6 @@ https://stream.radiobroussaille.fr:8443/broussaille-lofi
 https://www.radioking.com/play/brume-campus-lyon/546695
 #EXTINF:-1,radio cactus
 http://51.68.228.156:8000/cactus
-#EXTINF:-1,Radio Cagnac
-http://2stream.dyndns.org:8000/cagnac_sd.mp3
-#EXTINF:-1,Radio Cagnac
-https://go.2stream.net/cagnac_sd.mp3
 #EXTINF:-1,Radio Calade
 https://live.aurafm.org/Radio-Calade
 #EXTINF:-1,Radio Calvi Citadelle
@@ -4825,8 +4813,6 @@ http://live02.rfi.fr/rfienrusse-64.mp3
 https://rfiukraine.ice.infomaniak.ch/rfiukraine-96.mp3
 #EXTINF:-1,RFI Tieng Viet
 http://live02.rfi.fr/rfivietnamien-96k.mp3
-#EXTINF:-1,RFI-Afrique
-http://live02.rfi.fr/rfiafrique-96k.mp3
 #EXTINF:-1,RFI-Chinese
 https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
 #EXTINF:-1,RFM
@@ -4943,8 +4929,6 @@ https://rockfolk.ice.infomaniak.ch/rockfolk.mp3
 https://listen.radioking.com/radio/176026/stream/218008
 #EXTINF:-1,Rock STation 
 https://listen.radioking.com/radio/7551/stream/385141
-#EXTINF:-1,Rock&Folk Radio
-https://rockfolk.ice.infomaniak.ch/rockfolk.mp3?t=1641651522250
 #EXTINF:-1,Rockenfolie
 https://player.rockenfolie.com/
 #EXTINF:-1,Roots Legacy
@@ -5170,8 +5154,6 @@ https://start-adofm.ice.infomaniak.ch/start-adofm-high.mp3
 https://swingfm.ice.infomaniak.ch/swingfm-128.mp3?time=1778860049303
 #EXTINF:-1,Swing FM
 http://swingfm.ice.infomaniak.ch/swingfm-128.mp3
-#EXTINF:-1,SYNO RADIO
-https://radiosyno.ddns.net/radio
 #EXTINF:-1,TBM06.FR
 https://listen.radioking.com/radio/806511/stream/875226
 #EXTINF:-1,Teenage Kicks Radio

@@ -375,6 +375,8 @@ https://radioinnis-naxinacional.streaming.rs:8622/;
 https://radioinnis-naxinacional.streaming.rs:8622/;stream.nsv
 #EXTINF:-1,Radio IN Beograd
 https://radio3-64ssl.streaming.rs:9212/;*.mp3
+#EXTINF:-1,Radio Istocnik
+https://streaming.shoutcast.com/radioistocnik-
 #EXTINF:-1,Radio JAT
 https://streaming.tdiradio.com/radiojat.mp3
 #EXTINF:-1,Radio Karolina
@@ -445,6 +447,8 @@ https://radio.dukahosting.com:7033/
 http://213.239.205.210:8001/stream
 #EXTINF:-1,Radio Ritam Srca
 https://s4.radio.co/s0f65dad2d/listen
+#EXTINF:-1,Radio Ruf
+http://77.46.153.156:8000/;
 #EXTINF:-1,Radio S
 https://53be5ef2d13aa.streamlock.net/asmedia/radios/playlist.m3u8
 #EXTINF:-1,Radio S 2000-e
@@ -527,6 +531,8 @@ http://edge-rs-01.maksnet.tv/asmedia/radios/chunklist_w2049618642.m3u8
 https://stream.radios.rs:9000/;
 #EXTINF:-1,Radio S2
 https://53be5ef2d13aa.streamlock.net/asmedia/index/playlist.m3u8
+#EXTINF:-1,Radio S2
+https://stream.radios.rs:9002/;
 #EXTINF:-1,Radio S3
 https://53be5ef2d13aa.streamlock.net/asmedia/pingvin/playlist.m3u8
 #EXTINF:-1,Radio S3

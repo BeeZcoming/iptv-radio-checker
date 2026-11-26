@@ -21,8 +21,6 @@ https://stream.zeno.fm/tf79rp6qg48uv
 http://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FM.mp3
 #EXTINF:-1,BFM 89.9
 https://22253.live.streamtheworld.com/BFM_SC
-#EXTINF:-1,BIGCOWFM大牛网络电台 | 马来西亚中文网络电台
-https://a.tunzilla.com/http://onairnow.ddns.net:8000/chinese.mp3
 #EXTINF:-1,Cats FM
 https://stream.rcs.revma.com/51qe53rv0y3vv.m4a
 #EXTINF:-1,Ceritera FM
@@ -127,8 +125,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SABAH_FMAAC.aa
 https://playerservices.streamtheworld.com/api/livestream-redirect/SABAH_VFMAAC.aac
 #EXTINF:-1,Sinar FM
 https://n08a-eu.rcs.revma.com/azatk0tbv4uvv/8_1ksmof3jo7vso02/playlist.m3u8
-#EXTINF:-1,SkyChatzFM
-http://java.skychatz.org:8080/;stream/1
 #EXTINF:-1,Slow Rock 90'
 https://stream.zeno.fm/hiut6cwfoneuv
 #EXTINF:-1,Stay.FM
@@ -141,6 +137,8 @@ https://stream.zeno.fm/mq0pxfsf0chvv
 https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC_SC
 #EXTINF:-1,Vision.FM
 http://cloud.tujuh.my:8018/stream?type=.mp3/
+#EXTINF:-1,Wadah FM
+https://19183.live.streamtheworld.com/WARNA942FMAAC.aac
 #EXTINF:-1,WAI FM Bidayuh
 http://playerservices.streamtheworld.com/api/livestream-redirect/WAI_FM_BK.mp3
 #EXTINF:-1,WAI FM IBAN

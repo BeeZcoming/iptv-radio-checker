@@ -27,6 +27,8 @@ https://c6.radioboss.fm/stream/234/
 http://79.120.77.11:8000/punkru
 #EXTINF:-1, диполь
 https://icecast-sibinformburo.cdnvideo.ru/dipolfm
+#EXTINF:-1, Комета - Ретро
+https://listen8.myradio24.com/8415
 #EXTINF:-1, радио сердце Хакасии 
 http://s0.radioheart.ru:8000/RH63227
 #EXTINF:-1, Чапаевский Гостиный двор
@@ -37,12 +39,62 @@ http://ic4.101.ru:8000/stream/air/aac/64/200
 https://deti.amgradio.ru/Deti
 #EXTINF:-1,(( RES ))
 https://res.lirz.ru/listen/res/radio.mp3
+#EXTINF:-1,[GTA IV] Electro Choc [GTARadio.net]
+https://audio.gtaradio.net/4/dance_mix
+#EXTINF:-1,[GTA IV] Fusion FM [GTARadio.net]
+https://audio.gtaradio.net/4/fusion_fm
+#EXTINF:-1,[GTA IV] International Funk 99 [GTARadio.net]
+https://audio.gtaradio.net/4/afro_beat
+#EXTINF:-1,[GTA IV] Jazz Nation Radio 108.5 [GTARadio.net]
+https://audio.gtaradio.net/4/jazz_nation
+#EXTINF:-1,[GTA IV] K109 The Studio [GTARadio.net]
+https://audio.gtaradio.net/4/k109_the_studio
+#EXTINF:-1,[GTA IV] Liberty City Hardcore [GTARadio.net]
+https://audio.gtaradio.net/4/hardcore
+#EXTINF:-1,[GTA IV] Liberty Rock Radio 97.8 [GTARadio.net]
+https://audio.gtaradio.net/4/liberty_rock
+#EXTINF:-1,[GTA IV] Massive B Soundsystem 96.9 [GTARadio.net]
+https://audio.gtaradio.net/4/bobby_konders
+#EXTINF:-1,[GTA IV] Radio Broker [GTARadio.net]
+https://audio.gtaradio.net/4/dance_rock
+#EXTINF:-1,[GTA IV] Ram Jam FM [GTARadio.net]
+https://audio.gtaradio.net/4/ramjamfm
+#EXTINF:-1,[GTA IV] San Juan Sounds [GTARadio.net]
+https://audio.gtaradio.net/4/san_juan_sounds
+#EXTINF:-1,[GTA IV] Self Actualization FM [GTARadio.net]
+https://audio.gtaradio.net/4/meditation
+#EXTINF:-1,[GTA IV] The Beat 102.7 [GTARadio.net]
+https://audio.gtaradio.net/4/beat_95
+#EXTINF:-1,[GTA IV] The Classics 104.1 [GTARadio.net]
+https://audio.gtaradio.net/4/ny_classics
+#EXTINF:-1,[GTA IV] The Journey [GTARadio.net]
+https://audio.gtaradio.net/4/classical_ambient
+#EXTINF:-1,[GTA IV] The Vibe 98.8 [GTARadio.net]
+https://audio.gtaradio.net/4/the_vibe
 #EXTINF:-1,[GTA IV] Tuff Gong Radio [GTARadio.net]
 https://audio.gtaradio.net/4/babylon
+#EXTINF:-1,[GTA IV] Vice City FM [GTARadio.net]
+https://audio.gtaradio.net/4/vcfm
+#EXTINF:-1,[GTA:III] Chatterbox FM [GTARadio.net]
+https://audio.gtaradio.net/3/chat
+#EXTINF:-1,[GTA:III] Double Cleff FM [GTARadio.net]
+https://audio.gtaradio.net/3/class
+#EXTINF:-1,[GTA:III] Flashback 95.6 [GTARadio.net]
+https://audio.gtaradio.net/3/flash
+#EXTINF:-1,[GTA:III] Game Radio [GTARadio.net]
+https://audio.gtaradio.net/3/game
+#EXTINF:-1,[GTA:III] Head Radio [GTARadio.net]
+https://audio.gtaradio.net/3/head
+#EXTINF:-1,[GTA:III] K-JAH [GTARadio.net]
+https://audio.gtaradio.net/3/kjah
+#EXTINF:-1,[GTA:III] Lips 106 [GTARadio.net]
+https://audio.gtaradio.net/3/lips
+#EXTINF:-1,[GTA:III] MSX FM [GTARadio.net]
+https://audio.gtaradio.net/3/msx
+#EXTINF:-1,[GTA:III] Rise FM [GTARadio.net]
+https://audio.gtaradio.net/3/rise
 #EXTINF:-1,[RockTime-Radio]
 http://a9.radioheart.ru:8049/rocktime
-#EXTINF:-1,∏ANO
-https://stream.p-node.org/piano
 #EXTINF:-1,1
 https://stream.0nlineradio.com/schlager?ref=crystalmissions
 #EXTINF:-1,100.3 FM
@@ -175,8 +227,6 @@ http://79.120.39.202:8000/afrobeat
 http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 #EXTINF:-1,Alex
 https://myradio24.org/walcon
-#EXTINF:-1,Alex - Best Lounge Music
-https://listen7.myradio24.com/avmarushak
 #EXTINF:-1,AlexFM Lets Rock
 http://myradio24.org/2411
 #EXTINF:-1,Alfa.FM Lounge
@@ -547,6 +597,10 @@ https://dfm-dancegold10.hostingradio.ru/dancegold1096.aacp
 https://dfm-dancegold20.hostingradio.ru/dancegold2096.aacp
 #EXTINF:-1,DFM DISCO
 https://dfm-disco.hostingradio.ru/disco96.aacp
+#EXTINF:-1,DFM Emotion 98.3
+https://turbo-stream.ru/t/gta-emotion-98-3/256k.m3u8
+#EXTINF:-1,DFM Flash FM
+https://turbo-stream.ru/t/gta-flash-fm/256k.m3u8
 #EXTINF:-1,Dfm Hands Up
 https://hls-01-dfm.hostingradio.ru/handsup/playlist.m3u8?n=d2b9415be72edcb20ce0
 #EXTINF:-1,Dfm Ibiza
@@ -615,6 +669,8 @@ https://listen7.myradio24.com/discovery
 https://listen7.myradio24.com/53756
 #EXTINF:-1,Disco House Radio
 https://radiorecord.hostingradio.ru/discofunk96.aacp
+#EXTINF:-1,Discothec 80-90
+https://listen4.myradio24.com/dance80
 #EXTINF:-1,DiscoverTranceRadio (MP3 HQ stereo 192kBit/s)
 http://uk01.discovertrance.com//
 #EXTINF:-1,Django Manouche
@@ -1283,10 +1339,6 @@ https://icecast.nstation.ru:8443/nstation_192_mp3
 http://icecast.nstation.ru:8000/nstation_192_mp3
 #EXTINF:-1,Nui Radio
 https://a2.radioheart.ru:9003/nuiradio
-#EXTINF:-1,null fm
-http://nullfm.dedyn.io:8000/radio.mp3
-#EXTINF:-1,o0o0.online
-https://o0o0.online/stream/_
 #EXTINF:-1,Oceania, Australia ... - Radio Caprice
 http://213.141.131.10:8004/oceania
 #EXTINF:-1,Office
@@ -1371,6 +1423,8 @@ https://a8.radioheart.io:9023/RH78131
 http://79.120.12.130:8000/progelectronic
 #EXTINF:-1,provodach
 https://station.waveradio.org/provodach
+#EXTINF:-1,Psy Radio
+http://cast.ru.eu.org/psy
 #EXTINF:-1,Pub Rock - Caprice Radio
 http://79.120.12.130:8000/pubrock
 #EXTINF:-1,Pump
@@ -2317,6 +2371,8 @@ http://radiorecord.hostingradio.ru/ambient96.aacp
 https://radiorecord.hostingradio.ru/jackin96.aacp
 #EXTINF:-1,Radio Record Breaks
 https://radiorecord.hostingradio.ru/brks96.aacp
+#EXTINF:-1,Radio Record Disco Funk
+https://hls-01-radiorecord.hostingradio.ru/record-discofunk/112/playlist.m3u8
 #EXTINF:-1,Radio Record Electro
 https://radiorecord.hostingradio.ru/elect96.aacp
 #EXTINF:-1,Radio Record Future Bass
@@ -2365,6 +2421,8 @@ http://radio.radioshansonplus.com:8050/radio
 http://spb.radioshock.ru/radioshock
 #EXTINF:-1,Radio Shok
 https://spb.radioshock.ru/radioshock64
+#EXTINF:-1,Radio Sibir
+https://stream.radiosibir.ru:8093/om2
 #EXTINF:-1,Radio Sol FM
 http://solfm.ru:8000/online128
 #EXTINF:-1,Radio Sova
@@ -2639,6 +2697,8 @@ http://segenswelle.de:8000/russisch
 https://seva.ru/radio/stream
 #EXTINF:-1,Sevastopol FM
 http://air6.amgradio.ru/SFM
+#EXTINF:-1,Shanson TV / Шансон ТВ
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 #EXTINF:-1,Shoot`em Up Radio Station
 https://stream.shmupradio.com/320
 #EXTINF:-1,Sideline FM
@@ -2987,6 +3047,8 @@ https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_64kbps
 http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_64kbps
 #EXTINF:-1,вести фм (Кузбасс)
 http://icecast.vgtrk.cdnvideo.ru/vestifm_aac_64kbps
+#EXTINF:-1,Вести ФМ Киров 105.3 FM
+http://cast-vestifm.gtrk-vyatka.ru/
 #EXTINF:-1,Вести ФМ Липецк 90.3 FM
 https://icecast-vgtrk.cdnvideo.ru/vesti_lipetsk
 #EXTINF:-1,Вести ФМ Нижний Новгород 98.6 FM
@@ -3175,6 +3237,8 @@ http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
 http://emgregion.hostingradio.ru:8064/nnovgorod.dorognoe.mp3
 #EXTINF:-1,Дорожное радио НН
 https://dorognoe.hostingradio.ru/dorognoe_acc
+#EXTINF:-1,Дорожное радио Подпорожье 102.9 FM
+http://78.140.197.238:9877/DR-Podporogie
 #EXTINF:-1,Дорожное радио Приозерск 107.6 FM
 http://78.140.197.238:9877/DR-Priozersk
 #EXTINF:-1,Дорожное радио Самара 97.3 FM
@@ -3225,6 +3289,8 @@ http://emgregion.hostingradio.ru:8064/vladivostok.europaplus.mp3
 http://broadcast.osetiafm.ru/europa.mp3
 #EXTINF:-1,Европа Плюс Владимир 102.9 FM
 http://radio.vladregion.ru:8000/live
+#EXTINF:-1,Европа Плюс Вологда 100.2 FM
+http://emgregion.hostingradio.ru:8064/vologda.europaplus.mp3
 #EXTINF:-1,Европа Плюс Воронеж 100.3 FM
 http://emgregion.hostingradio.ru:8064/voronezh.europaplus.mp3
 #EXTINF:-1,Европа Плюс Калуга 102.6 FM
@@ -3427,8 +3493,6 @@ https://listen1.myradio24.com/23737
 https://a7.radioheart.ru:8005/RH24945
 #EXTINF:-1,Лихие 90-е
 https://stream03.pcradio.app/lihie90epcradio-hi
-#EXTINF:-1,Луки ФМ
-https://s.fmplay.ru/e4becb3f
 #EXTINF:-1,Любовь Успенская
 https://stream03.pcradio.app/Ljubov_Uspenskaja-hi
 #EXTINF:-1,Любэ
@@ -3495,8 +3559,6 @@ https://stream03.pcradio.app/Mumyi_Trol-hi
 https://stream03.pcradio.app/Muslim_Magomaev-hi
 #EXTINF:-1,Мята Gold
 https://drh-connect.dline-media.com/gold
-#EXTINF:-1,Н-Радио 
-https://s.fmplay.ru/fc6fcf8a
 #EXTINF:-1,На шашлыки!
 https://hls-01-radiorecord.hostingradio.ru/record-nashashlyki/playlist.m3u8
 #EXTINF:-1,нафталин fm
@@ -3585,8 +3647,6 @@ https://channels.fonotron.ru:8000/Chan_67_256.mp3
 https://channels.fonotron.ru:8000/Chan_73_256.mp3
 #EXTINF:-1,Открытие
 https://stream.discoveryfm.ru/discovery256.mp3
-#EXTINF:-1,Открытое Слово
-https://rt.radioslovo.net:4395/radio
 #EXTINF:-1,Первое радио Краснодар 102.7 FM
 http://stream.pervoe.fm:8000/
 #EXTINF:-1,Первое радио Кубани
@@ -3667,6 +3727,8 @@ http://84.242.241.66:8000/;stream.nsv
 http://91.202.68.50:8000/;stream.mp3
 #EXTINF:-1,Радио 7 Великий Новгород 99.4 FM
 http://hls-01-regions.emgsound.ru/13_vnovgorod/playlist.m3u8
+#EXTINF:-1,Радио 7 Липецк 106.2 FM
+http://onair.lipetskfm.ru:8000/radio7_lipetsk
 #EXTINF:-1,Радио 7 на семи холмах
 http://radio7server.streamr.ru:8040/radio7256.mp3
 #EXTINF:-1,Радио 7 на семи холмах - Настроение счастья
@@ -3833,8 +3895,6 @@ http://online.radio-megapolis.ru:8000/megapolis
 http://online.radio-megapolis.ru:8000/megapolis_mp3
 #EXTINF:-1,Радио Мегаполис Самара 103.6 FM
 http://online2.radio-megapolis.ru:8000/megapolis
-#EXTINF:-1,Радио Мелодия
-http://stream64.melodiafm.spb.ru:8000/melodia64
 #EXTINF:-1,Радио Мелодия Воронеж 106.8 FM
 http://icecast.mediaalliance.cdnvideo.ru/mediaalliance
 #EXTINF:-1,Радио МИР
@@ -4156,6 +4216,8 @@ https://online.radioc.ru/radioc
 https://online.radioc.ru/radioc_aacplus?v=1702736359326
 #EXTINF:-1,Радио Сибирь
 https://stream.radiosibir.ru:8093/HQ
+#EXTINF:-1,Радио Сибирь Абакан 103.7 FM
+https://ctv7.ru/radio/
 #EXTINF:-1,Радио Сигма Новый Уренгой 102.3 FM
 http://radio.sigma-ktv.ru:8000/sigma
 #EXTINF:-1,Радио Сиртаки / Radio Sirtaki
@@ -4221,6 +4283,8 @@ http://online2.gkvr.ru:8000/chanson_kaz_64.aac
 http://185.76.147.85:8000/chanson_kirov
 #EXTINF:-1,Радио Шансон Костомукша 105.5 FM
 http://93.190.204.101:8000/live_105_5.mp3
+#EXTINF:-1,Радио Шансон Липецк 105.6 FM
+http://onair.lipetskfm.ru:8000/chanson
 #EXTINF:-1,Радио Шансон Нижний Новгород 106.9 FM
 http://online2.gkvr.ru:8000/chanson_nno_64.aac
 #EXTINF:-1,Радио Шансон Самара 96.3 FM
@@ -4243,8 +4307,6 @@ http://icecast-vgtrk.cdnvideo.ru/unost_mp3_192kbps
 https://icecast-vgtrk.cdnvideo.ru/unost_mp3_192kbps
 #EXTINF:-1,Радио333
 https://listen1.myradio24.com/63361
-#EXTINF:-1,Радиоканал Мелодия
-http://stream128.melodiafm.spb.ru:8000/melodia128
 #EXTINF:-1,РадиоКанск
 https://azura-cast.radiokansk.ru/listen/radiokansk/live
 #EXTINF:-1,РадиоЛАМПА.FM
@@ -4273,8 +4335,6 @@ http://emgspb.hostingradio.ru/retrofmspb128.mp3
 https://listen2.myradio24.com/1458
 #EXTINF:-1,Ретро ФМ
 http://retroserver.streamr.ru:8043/retro128
-#EXTINF:-1,ретро фм 96.4 FM
-https://online2.gkvr.ru:8001/retro_che_64.aac
 #EXTINF:-1,Ретро ФМ Великий Новгород 101.8 FM
 http://hls-01-regions.emgsound.ru/12_vnovgorod/playlist.m3u8
 #EXTINF:-1,Ретро ФМ Владикавказ 105.9 FM
@@ -4381,6 +4441,8 @@ http://stream.ivpromedia.ru:8000/Russkoe-radio.mp3
 http://online2.gkvr.ru:8000/rusradio_klg_64.aac
 #EXTINF:-1,Русское радио Кострома 104.8 FM
 http://s0.radioheart.ru:8000/rr_44
+#EXTINF:-1,Русское радио Липецк 100.5 FM
+http://onair.lipetskfm.ru:8000/rusradio_lipetsk
 #EXTINF:-1,Русское радио Нижний Новгород 102.9 FM
 https://online2.gkvr.ru:8000/rusradio_nno_64.aac
 #EXTINF:-1,Русское радио Ростов-на-Дону 103.0 FM

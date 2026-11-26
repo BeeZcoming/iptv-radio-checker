@@ -19,8 +19,6 @@ https://stream-163.zeno.fm/pwythexn1v8uv
 https://chikunir.radioca.st/live
 #EXTINF:-1,Chimfwembe FM
 https://stream.zeno.fm/welaq7p7d1buv
-#EXTINF:-1,Choma Maanu Radio Station
-https://s26.myradiostream.com:22860/listen.mp3/;
 #EXTINF:-1,Christian Nation FM 106.5
 https://stream.zeno.fm/dcvyegbhys6uv
 #EXTINF:-1,Classic Woods 98.9 FM
@@ -95,8 +93,6 @@ https://stream.zeno.fm/83nnq9ntgzzuv
 https://stream.zeno.fm/bjltduumvpouv
 #EXTINF:-1,Poetic Juice FM
 https://stream.zeno.fm/51107ezabzzuv
-#EXTINF:-1,Power FM Zambia
-http://41.60.195.11:8000/stream.ogg
 #EXTINF:-1,Q FM Zambia
 https://s3.myradiostream.com:7620/listen.mp3
 #EXTINF:-1,Radio Christian Voice
@@ -129,6 +125,8 @@ http://live.rcast.net:8768/;stream.mp3
 http://11233.cloudrad.io:9102/live
 #EXTINF:-1,Supreme Sports Radio
 https://custom-azura1.asurahosting.com/listen/ssradio_channel_2/radio.mp3
+#EXTINF:-1,Tuta Radio
+https://s11.myradiostream.com/24282/;?type=http&nocache=1791494215
 #EXTINF:-1,Urban FM Zambia
 https://stream.zeno.fm/b9angvotehftv
 #EXTINF:-1,Utuntu FM

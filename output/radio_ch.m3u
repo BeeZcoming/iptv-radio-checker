@@ -485,10 +485,16 @@ http://stream.radio1.ch/128k.m3u
 https://stream.radio1.ch/128k
 #EXTINF:-1,Radio 1 Zürich
 https://stream.radio1.ch/128k?utm_source=chatgpt.com
+#EXTINF:-1,Radio 24
+https://stream.streambase.ch/radio24/mp3-192/direct/
 #EXTINF:-1,Radio 2Go
 https://uksoutha.streaming.broadcast.radio/radio2go
 #EXTINF:-1,Radio 2Go
 https://uksoutha.streaming.broadcast.radio:15830/radio2go
+#EXTINF:-1,Radio 32
+https://stream.streambase.ch/radio32/mp3-192/chmedia-today-web
+#EXTINF:-1,Radio 32 Goldies
+https://stream.streambase.ch/r32goldies/mp3-192/direct/
 #EXTINF:-1,Radio 3FACH
 https://stream01.3fach.ch/live
 #EXTINF:-1,Radio 3FACH
@@ -953,8 +959,6 @@ http://stream.srg-ssr.ch/m/regi_zh_sh/aacp_96
 http://stream.srg-ssr.ch/srgssr/srf3/aac/192
 #EXTINF:-1,SRF4
 https://stream.srg-ssr.ch/srgssr/srf4news/mp3/128
-#EXTINF:-1,Sunshine Radio (Switzerland)
-https://stream.streambase.ch/rsunshine/mp3-192/chmedia-radio-web/1699795900047_8633080
 #EXTINF:-1,Superyachtradio
 https://stream.radio.co/s43a403d3a/listen
 #EXTINF:-1,Swiss Country Radio
@@ -963,6 +967,8 @@ https://streaming.swisscountryradio.ch/scr/aac_128
 https://relay1.swissgroove.ch/
 #EXTINF:-1,SWISS GROOVE
 https://relay2.swissgroove.ch/;
+#EXTINF:-1,Swiss Jazz HQ
+https://livestreaming-node-4.srg-ssr.ch/srgssr/rsj/aac/96
 #EXTINF:-1,Swiss Jazz Room
 https://stream.srg-ssr.ch/m/rsj/mp3_128
 #EXTINF:-1,Swiss Pop

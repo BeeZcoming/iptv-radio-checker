@@ -63,8 +63,6 @@ https://radio.dominiserver.com/proxy/estelar106?mp=/stream
 https://stream.zenolive.com/wxehhgq4ququv
 #EXTINF:-1,Estrella 92.3 FM
 https://c13.radioboss.fm:18187/stream
-#EXTINF:-1,ESTUDIO 97.9 FM
-http://paginas.moisespaulino.com:8067/stream
 #EXTINF:-1,Exaltación FM
 https://exaltacionfm.net:8070/stream
 #EXTINF:-1,Exclusive Radio
@@ -155,8 +153,6 @@ https://cast5.my-control-panel.com/proxy/radioete/stream?type=.mp3?ver=286200
 https://radio.radiord.net/8008/;
 #EXTINF:-1,Radio fm103 (RD)
 https://radio.radiord.net/8008/;stream.mp3
-#EXTINF:-1,Radio Santa Maria
-https://paginas.moisespaulino.com/proxy/rsantamaria/stream?type=.mp3
 #EXTINF:-1,Radio Util 102.9 FM
 https://shoutcast.tmcreativos.com/proxy/radioutil?mp=/stream
 #EXTINF:-1,RD 700am Radio Gosen

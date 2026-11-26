@@ -47,6 +47,8 @@ https://ais-sa1.streamon.fm/7358_128k.aac/playlist.m3u8
 https://ais-sa1.streamon.fm/7100_128k.aac
 #EXTINF:-1,Brian FM 91.4 Wanaka
 https://ais-sa1.streamon.fm/7657_128k.aac?playerid=esPlayer&cb=481952.m4ahttps://brianfm.com
+#EXTINF:-1,Burn 729 
+https://23093.live.streamtheworld.com/NZME_226AAC/HLS/playlist.m3u8
 #EXTINF:-1,Cave FM Southland
 https://stream.velocitynet.co.nz:8000/stream
 #EXTINF:-1,CFM Coromandel
@@ -265,14 +267,14 @@ https://stream.zeno.fm/rhscse2a41zuv
 http://radiosamoa.stream.broadcast.co.nz:8000/rsamoa48k
 #EXTINF:-1,Radio Sangeet Masti
 https://servidor19-4.brlogic.com:7304/live?source=website
-#EXTINF:-1,Radio Southland
-https://live.accessmedia.nz/Southland.stream/chunklist_w1501837953.m3u8
 #EXTINF:-1,Radio Spice (Auckland, New Zealand)
 http://stream9.broadcast.co.nz:8000/radiospicewebsiteaudio.mp3
 #EXTINF:-1,Radio Te Aroha 88FM
 https://c2.radioboss.fm:18440/stream
 #EXTINF:-1,Radio Universo FM
 https://stationplaylist.com:7140/listen.aac
+#EXTINF:-1,Radio Wanaka
+https://27273.live.streamtheworld.com/NZME_83AAC/HLS/playlist.m3u8
 #EXTINF:-1,RadioActive.FM | 88.6FM
 https://radio123-gecko.radioca.st/radioactivefm
 #EXTINF:-1,Radiowave NZ

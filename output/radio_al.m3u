@@ -113,6 +113,8 @@ https://cp1.sednastream.com/proxy/shqipfolk/live
 https://onlineradio.cfd/listen/radio_iliria/radio.mp3
 #EXTINF:-1,Radio Jehona
 https://stream.iradio.pro/proxy/radiojehona?mp=/1
+#EXTINF:-1,Radio Klea
+http://uk21freenew.listen2myradio.com:23300/;
 #EXTINF:-1,Radio KLINA
 https://live.radiostreaming.al:8002/stream;
 #EXTINF:-1,Radio Koha

@@ -81,12 +81,6 @@ https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio
 https://live.novoeradio.by:444/live/novoeradio_fresh_aac128/icecast.audio
 #EXTINF:-1,Новое радио - MegaMix
 https://live.novoeradio.by:444/live/novoeradio_megamix_aac128/icecast.audio
-#EXTINF:-1,Открытое Слово Авто Радио
-https://rt.radioslovo.net:4145/stream
-#EXTINF:-1,Открытое Слово Братские встречи
-https://rt.radioslovo.net:4135/stream
-#EXTINF:-1,Открытое Слово Инструментальная музыка
-https://rt.radioslovo.net:4275/stream
 #EXTINF:-1,Радио 123
 http://de1.internet-radio.com:8173/stream
 #EXTINF:-1,Радио Брест 104.8 Fm

@@ -5,12 +5,16 @@ https://stream.zeno.fm/0n4tnx3wd5zuv
 https://us9.maindigitalstream.com/ssl/latop102
 #EXTINF:-1,1 FM Hits Radio 
 https://stream.zeno.fm/yg1gkzwabzzuv
-#EXTINF:-1,94 SU FM 94.1 Tegucigalpa
-http://ice42.securenetsystems.net/94SUFM
 #EXTINF:-1,ABC Radio AM 550 FM 89.7
 http://137.184.101.169:8000/radio.mp3
+#EXTINF:-1,BBN en vivo
+https://audio-edge-ey5nr.ams.s.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f
+#EXTINF:-1,Cadena Radial del Centro 89.7 FM
+https://sonic.portalfoxmix.cl/8442/stream
 #EXTINF:-1,Cortes FM 
 https://cortesfm-zikoxweb.radioca.st/stream/1/
+#EXTINF:-1,Cristianos Radios en vivo
+https://stream.zeno.fm/m7xdghv3dfytv
 #EXTINF:-1,Dee Jay
 https://stream.zeno.fm/6wpxyt9htg0uv
 #EXTINF:-1,Encuentro Digital 104.3 FM
@@ -33,8 +37,6 @@ https://securestreams7.autopo.st/?uri=http://216.152.154.134/HRN?=hrn670khz
 http://online.radiodifusion.net:1935/panam-hn/panam.stream/master.m3u8
 #EXTINF:-1,LA RADIO GLOBAL
 https://sonicpanel.us/8022/stream
-#EXTINF:-1,LHT FM 104.1
-https://ice26.securenetsystems.net/LHTFM
 #EXTINF:-1,Musiquera 93.3 FM
 https://stream.zeno.fm/83h238tqsceuv
 #EXTINF:-1,Musiquera 93.3 FM
@@ -45,14 +47,18 @@ http://neformatnoe.ru:8777/live
 http://159.69.43.96:9304/;
 #EXTINF:-1,Otoro Radio
 https://stream.playerlive.info:8089/live.aac
+#EXTINF:-1,Planes Radio Getsemani
+https://panel.yupistream.com/proxy/ysplanes/stream
+#EXTINF:-1,Power FM
+https://stream-04.surfernetwork.com/q2bkey2937zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxMmJrZXkyOTM3enV2IiwiaG9zdCI6InN0cmVhbS0wNC5zdXJmZXJuZXR3b3JrLmNvbSIsInJ0dGwiOjUsImp0aSI6Ijd3Q0JSdW1sUzZTck1TcEdaWFY2ZUEiLCJpYXQiOjE3OTU2NDExNDAsImV4cCI6MTc5NTY0MTIwMH0.v2fNEAP2YLgIWT3Lng0bfOPaXeHmEEnqLhJK5rtSkMc
 #EXTINF:-1,Radio America  94.7 Tegucigalpa
 http://27573.live.streamtheworld.com/AMERICA_SC
+#EXTINF:-1,Radio Cristiana Honduras
+https://stream-148.zeno.fm/cbcfptwxcfhvv
 #EXTINF:-1,RADIO FÉNIX INTERNACIONAL
 http://listen.usuarios.space:8036/live
 #EXTINF:-1,RADIO GLOBO 88.5 MHZ
 https://api.condoristream.com/stream/radioglobo
-#EXTINF:-1,Radio HRN 670 AM
-https://ice42.securenetsystems.net/HRN
 #EXTINF:-1,Radio Pais
 https://rad-net.com/Pais/123/icecast.audio
 #EXTINF:-1,Radio Progreso HN
@@ -63,19 +69,13 @@ https://stream.zeno.fm/fh8qfg75puquv
 https://stream.zeno.fm/6n7fp9t2pceuv
 #EXTINF:-1,RNH
 https://stream.zeno.fm/mb5f69fk0d0uv
-#EXTINF:-1,ROCK N' POP
-https://ice42.securenetsystems.net/ROCKNPOP
 #EXTINF:-1,Stereo Ceiba 99.9 - La Ceiba
 http://24493.live.streamtheworld.com:3690/RADIO_CEIBAAAC_SC
 #EXTINF:-1,Stereo Dimensión - La 96
 https://rr5100.globalhost1.com:7328/stream
-#EXTINF:-1,Stereo Exitos 88.1 Tegucigalpa
-http://ice42.securenetsystems.net/EXITOS
 #EXTINF:-1,Stereo Mass - 98.5fm
 https://radio.fiberstreams.com:2000/stream/8432
-#EXTINF:-1,Suave FM 102.5 Tegucigalpa
-http://ice42.securenetsystems.net/SUAVE
 #EXTINF:-1,Super 100 Tegucigalpa 100.1
 http://27413.live.streamtheworld.com/SUPER100_SC
-#EXTINF:-1,XY 90.5 FM Tegucigalpa
-http://ice42.securenetsystems.net/XY905
+#EXTINF:-1,W 103.7 FM
+https://sonicpanel.us/8138/stream

@@ -72,6 +72,8 @@ http://stream.34bit.net/ar.mp3
 #EXTINF:-1,Apacik Radyo
 http://stream.34bit.net/ar.aac
 #EXTINF:-1,Arabesk FM
+https://yayin.radyodurak.com/8016/stream
+#EXTINF:-1,Arabesk FM
 http://yayin.arabeskfm.biz:8042/
 #EXTINF:-1,Arkadas Radyo
 http://yayin2.yayindakiler.com:4134/;stream.nsv
@@ -119,8 +121,6 @@ https://wowza3.radyotvonline.com/best/bestkina.stream/playlist.m3u8
 https://ssldyg2.radyotvonline.com/live/bestofyabanci.stream/chunklist_w273426829.m3u8
 #EXTINF:-1,BEST RAP
 https://wowza3.radyotvonline.com/best/bestgicir.stream/playlist.m3u8
-#EXTINF:-1,BEST SLOW
-https://hepsibest.radyotvonline.net/bestslow
 #EXTINF:-1,BesteFM
 https://stream.zeno.fm/tnvnovtgozstv
 #EXTINF:-1,BesteFM Mix
@@ -829,8 +829,6 @@ https://alevifm.80.yayin.com.tr/
 https://sslyayin.netyayin.net:8036/
 #EXTINF:-1,RADYO ARMONİ
 https://radyo.yayindakiler.com:4084/stream
-#EXTINF:-1,RADYO ATILIM
-https://listen.powerapp.com.tr/radyoatilim/mpeg/icecast.audio
 #EXTINF:-1,RADYO AVARE
 https://anadolu.liderhost.com.tr:10980/;
 #EXTINF:-1,RADYO B
@@ -959,6 +957,8 @@ https://radyo.yayin.com.tr:8286/
 https://radio.mihr.com/radio/8000/radio.mp3
 #EXTINF:-1,Radyo İlahi
 https://anadolu.liderhost.com.tr:10994/;
+#EXTINF:-1,Radyo ilef
+https://radyoilef.ankara.edu.tr/live
 #EXTINF:-1,RADYO İMZA
 https://radyo.radyoimza.com:8016/
 #EXTINF:-1,Radyo izmir fm
@@ -1270,7 +1270,7 @@ https://radio-trtvotworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT3
 http://rd-trtradyo3.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,Tüm Zamanların En İyileri
-https://25553.live.streamtheworld.com:443/GHOAT_TR128AAC.aac
+https://22183.live.streamtheworld.com:443/GHOAT_TR128AAC.aac
 #EXTINF:-1,Türk Rock FM
 https://yayin5.radyohizmeti.com/8090/stream;
 #EXTINF:-1,Türkiyem FM

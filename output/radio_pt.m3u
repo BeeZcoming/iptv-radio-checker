@@ -33,6 +33,8 @@ http://centova.radio.com.pt:8547/;
 https://smartmedia.stmxp.net:8068/stream
 #EXTINF:-1,Alto Tamega FM
 http://188.93.231.97:9300/;
+#EXTINF:-1,Alvor FM
+http://centova.radio.com.pt:8469/;
 #EXTINF:-1,Antena 1 - Main
 https://radiocast.rtp.pt/antena180a.mp3
 #EXTINF:-1,Antena 1 (Portugal)

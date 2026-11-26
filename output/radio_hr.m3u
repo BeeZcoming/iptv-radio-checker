@@ -445,8 +445,6 @@ https://ec2s.crolive.com.hr:2315/stream
 https://cast5.asurahosting.com/proxy/tvornica_main/stream
 #EXTINF:-1,Radio Velika Gorica
 https://s8.iqstreaming.com:2020/stream/rvg
-#EXTINF:-1,Radio Vinkovci
-https://onlineradiobox.com/json/hr/vinkovci/play?platform=web
 #EXTINF:-1,Radio Zagora
 https://azuracast.myautodj.com/listen/radio_zagora/radio.mp3
 #EXTINF:-1,Radio Zelina

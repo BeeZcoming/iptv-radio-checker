@@ -85,8 +85,6 @@ https://broadcasting.enlacestic.com/radio/8020/radio.mp3
 http://62.210.38.137:8132/stream
 #EXTINF:-1,as radio 690 am
 https://26643.live.streamtheworld.com/AS_COLAAC.aac
-#EXTINF:-1,auténtica radio 97.1 el copey cesar
-https://radio35.virtualtronics.com/proxy/autenticaradio?mp=/stream
 #EXTINF:-1,Avance Estereo 99.2 FM
 https://a.tunzilla.com/http://uk19freenew.listen2myradio.com:16308/;
 #EXTINF:-1,Aviva2
@@ -249,8 +247,6 @@ https://stream.zeno.fm/gq47fz6ewg0uv
 https://play14.tikast.com:22048/
 #EXTINF:-1,carmen stereo 89.0 el carmen de bolívar
 https://streaming.radiosenlinea.com.ar:10893/;
-#EXTINF:-1,Carnavalxsiempre
-https://streaming.radiosenlinea.com.ar/8880/stream
 #EXTINF:-1,Cartago Stereo 89.0 FM
 http://radio40.virtualtronics.com:8584/;
 #EXTINF:-1,Cartago Stereo Colombia
@@ -367,8 +363,6 @@ http://s30.myradiostream.com:32622/listen.mp3
 https://sonic.paulatina.co/7128/stream
 #EXTINF:-1,Eco Stereo
 http://149.56.22.27:8022/stream
-#EXTINF:-1,Ecos 1360 Radio
-https://conectadosmultimedia.com.co/proxy/ecos/stream
 #EXTINF:-1,Ecos Bellezanos
 https://cloud.livescast.com:2020/stream/ecosbellezanos
 #EXTINF:-1,Ecos Prensa Radio La Calera Cundinamarca
@@ -455,6 +449,8 @@ http://88.198.9.174:8854/stream?icy=https
 https://radiolatina.info/9326/stream
 #EXTINF:-1,Frecuencia U 940 AM
 https://radiolatina.info/9988/stream
+#EXTINF:-1,FRONTERA STEREO 89.1 FM
+https://stream.zeno.fm/kgbucu5a0tzuv
 #EXTINF:-1,Fuego AM
 https://radio35.virtualtronics.com:20017/stream
 #EXTINF:-1,fuego stereo 101.9 santa marta
@@ -493,8 +489,6 @@ https://stream-50.zeno.fm/8smiwwvtfxxvv?zs=NsXtZkTESOS8WG3fMfF0hQ
 http://stream.zeno.fm/8smiwwvtfxxvv
 #EXTINF:-1,Impacto Radio
 https://radiolatina.info/8080/stream
-#EXTINF:-1,Impacto Stereo 98.2 FM
-https://stream.zeno.fm/ezes9wd0ag8uv
 #EXTINF:-1,Improvisando Radio
 https://radio25.virtualtronics.com/proxy/improvisandoradio?mp=/stream
 #EXTINF:-1,Inci Radio
@@ -529,6 +523,8 @@ https://stream.zeno.fm/hf24gpx2p0quv
 https://mdstrm.com/audio/627c1c39637d89088290f64d/live.m3u8
 #EXTINF:-1,La Carrangoza 90.6 FM
 https://lacarrangozafm.com/escuchar
+#EXTINF:-1,La Ciento 7 Digital - FM 107.8
+https://radiohd.streaminghd.co:7190/live
 #EXTINF:-1,LA CLÁSICA
 https://stream-284.surfernetwork.com/vbp236a2qzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2YnAyMzZhMnF6enV2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IllxOVNwQTR4UnN5b1hDYXp6WE53NXciLCJpYXQiOjE3OTUzMDA3MDIsImV4cCI6MTc5NTMwMDc2Mn0.JMFxFCxsKQmh9uWGYgkt7Y25cHoLlP3kuCQkh5ZPjrs
 #EXTINF:-1,la cometa 107.2 san gil
@@ -711,6 +707,8 @@ http://stream.latinastereo.com:8000/stream/1/
 https://stream.zeno.fm/2y8ebb4x6hhvv
 #EXTINF:-1,lider stereo 106.4 pijiño del carmen magdalena
 https://stream.zeno.fm/695x0n62rfeuv
+#EXTINF:-1,linda stereo 95.1 el doncello caquetá
+https://sh1.radioonlinehd.com:8042/stream
 #EXTINF:-1,lloró stereo 88.3
 https://play10.tikast.com/proxy/llorostereo?mp=/stream%E2%80%A8/;type=mp3
 #EXTINF:-1,Los 40 Principales (Barranquilla)
@@ -941,8 +939,12 @@ https://radiohd4.streaminghd.co:8190/stream
 https://radiohd4.streaminghd.co:8190/stream?nocache=1787248771285
 #EXTINF:-1,Radio La Mega (Barranquilla)
 https://mdstrm.com/audio/632c9ae6660fef03fe3855fe/live.m3u8
+#EXTINF:-1,radio las lajas 103.9 ipiales
+https://radiohd.streaminghd.co:7826/stream?ver=445779
 #EXTINF:-1,radio Libertad 600 am Barranqilla
 https://stream.zeno.fm/k0e7wktw0ceuv
+#EXTINF:-1,radio magdalena 1420 am
+https://server1.intermediacolombia.com/8130/stream
 #EXTINF:-1,Radio María (Bogotá)
 https://dreamsiteradiocp2.com/proxy/rmcolombia2?mp=/stream/1/
 #EXTINF:-1,Radio María Colombia
@@ -991,8 +993,6 @@ https://sp4.colombiatelecom.com.co/8098/stream
 https://stream-284.surfernetwork.com/fzddg2ybssuuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmemRkZzJ5YnNzdXV2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InlvUFo3Vlp1UlV5Q05xMlp0T3JUVEEiLCJpYXQiOjE3OTUzNDAyMTAsImV4cCI6MTc5NTM0MDI3MH0.l5o3wvjgSXFCyf7uZl4GqkyfxBEgounujjIa5TdsZuY
 #EXTINF:-1,Radio Policia Nacional 96.4 FM Medellín
 https://radio35.virtualtronics.com/proxy/radiopolicia964?mp=/stream
-#EXTINF:-1,RADIO POLICÍA NACIONAL" "106.0 FM (CARTAGENA)
-https://stream.zeno.fm/7uec7b5ukm0uv
 #EXTINF:-1,Radio Power
 https://stream.zeno.fm/dlvtl3hthyxvv.mp3
 #EXTINF:-1,Radio Power
@@ -1005,8 +1005,6 @@ https://streamingned.com:7138/stream
 https://radio35.virtualtronics.com/proxy/radiorecuerdos?mp=/;
 #EXTINF:-1,Radio Rock Colombia
 https://stream-164.zeno.fm/cbw0z9hzy68uv
-#EXTINF:-1,radio rodadero 1480 am
-https://server1.intermediacolombia.com:8132/stream
 #EXTINF:-1,Radio Santa Barbara 1310 AM
 https://stream.zeno.fm/2a68q1cr0c9uv
 #EXTINF:-1,radio suroeste 1280 am concordia antioquia
@@ -1053,12 +1051,16 @@ https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/632ce1416197360894629a
 https://mdstrm.com/audio/632cea145b9b38085221d5e1/live.m3u8
 #EXTINF:-1,radio uno Valledupar 100.7
 https://mdstrm.com/audio/69ca82282eb98b3410aad7d9/live.m3u8?_=1776720627418&dnt=true&player=6865fe1cb8f25d7257c85a93&uid=sNRVJu8ra1Gtv4rEC8P5XdCTw0wbYabl&sid=dd5rvfetTioiExm3wtnq14E34J2E5Vvt&pid=TB8KYyUNUNbY0HDFw2bgBYVdjFJ2Xljb&an=player-audio-ott-rcn&at=web-app&av=v1.0.62&sc=0&ref=www.rcnradio.com&res=1920x1080&CMCD=cid%3D%2269ca82282eb98b3410aad7d9%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22TB8KYyUNUNbY0HDFw2bgBYVdjFJ2Xljb%22%2Csu
+#EXTINF:-1,radio uno villavicencio 98.3 fm
+https://radiounovillavo.com.co/stream
 #EXTINF:-1,Radio Urantia
 https://colombiawebs.com.co/proxy/radiour2?mp=/;
 #EXTINF:-1,Radio Vida Nueva (Barranquilla)
 https://stream10.usastreams.com/8040/stream/1/
 #EXTINF:-1,Radio Viva Fenix Ipiales (HJB29, 89.1 MHz FM)
 https://radiolatina.info/8170/stream
+#EXTINF:-1,Radio Viva Fenix Ipiales (HJNM, 1220 kHz AM)
+https://radiolatina.info/8172/stream
 #EXTINF:-1,Radio Viva Fenix Pasto (HJFV, 780 kHz AM)
 https://radiolatina.info/8166/stream
 #EXTINF:-1,Radio Voces del Pacífico (106.6 FM)
@@ -1149,6 +1151,8 @@ https://supresenciaradio.out.airtime.pro/supresenciaradio_a
 http://usa19.fastcast4u.com:6210/live
 #EXTINF:-1,Super Clásica
 http://77.73.69.238:8000/stream
+#EXTINF:-1,Super Clásica
+http://sclasica-stream.sytes.net:8012/;
 #EXTINF:-1,Super clasicos del rock
 https://stream-287.surfernetwork.com/ay2nalxvxtotv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJheTJuYWx4dnh0b3R2IiwiaG9zdCI6InN0cmVhbS0yODcuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJ1S3FhbjNlU1NVV29VbzFxN19zYWRBIiwiaWF0IjoxNzkwNjk4MzQyLCJleHAiOjE3OTA2OTg0MDJ9.ZuHkrQRaHvqHUxjSDOvLP1aYB1umTMOVbVnC6nKIlLc
 #EXTINF:-1,Super Estación 88.9
@@ -1223,6 +1227,8 @@ https://www.utp.edu.co/stream/
 https://stream.zeno.fm/08qxk717fd0uv
 #EXTINF:-1,Veracruz Estereo Medellín
 https://radio.veracruzstereo.com:8000/live
+#EXTINF:-1,Veracruz Stereo Digital
+https://radio.veracruzstereo.com:8000/live
 #EXTINF:-1,Verdad y Vida Radio 100.1 FM
 https://stream.zeno.fm/vvon5xkmvhwvv
 #EXTINF:-1,Verdad y Vida Radio AM 870 En Vivo Medellín
@@ -1239,8 +1245,6 @@ https://radio35.virtualtronics.com:20152/;?type=http&nocache=107036
 https://sp2.servidorrprivado.com:10859/stream?type=http&nocache=9
 #EXTINF:-1,Vida
 https://playerservices.streamtheworld.com/api/livestream-redirect/VIDA_BOGOTA_SC
-#EXTINF:-1,VIDA STEREO 94.5 FM
-http://radio40.virtualtronics.com:8044/;
 #EXTINF:-1,Viejitas Pero Bonitas Radio
 https://stream.zeno.fm/t4pj1qaktrwtv
 #EXTINF:-1,Viejitas pero Bonitas Radio

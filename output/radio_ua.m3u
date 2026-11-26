@@ -101,6 +101,8 @@ https://cast.mediaonline.net.ua/loungefm320
 https://cast.mediaonline.net.ua/chillout320
 #EXTINF:-1,Lounge FM Acoustic
 https://cast.mediaonline.net.ua/acoustic320
+#EXTINF:-1,Lounge Fm Chill Out
+https://cast.mediaonline.net.ua/chillout
 #EXTINF:-1,Lounge FM Terrace
 https://cast.mediaonline.net.ua/terrace320
 #EXTINF:-1,Lounge Music
@@ -121,6 +123,8 @@ https://cast.brg.ua/business_main_public_mp3_hq
 https://myradio24.org/7934
 #EXTINF:-1,Megapolis FM 105.2 Kryvyi Rih
 https://cast.megapolis.fm/listen/kryvyi_rih/radio.mp3
+#EXTINF:-1,MFM Ukraine
+https://radio.mfm.ua/online128
 #EXTINF:-1,Minatrix.FM: Независимое онлайн-радио и сообщество артистов для публикации музыки.
 https://minatrix.fm:8002/play
 #EXTINF:-1,Misto FM Juda

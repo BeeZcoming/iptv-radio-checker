@@ -569,6 +569,8 @@ http://maggie.torontocast.com:8100/stream/3/
 https://radiodht.com/stream_main/
 #EXTINF:-1,Radio DHT (Pepis)
 https://radiodht.com/stream_pepis/
+#EXTINF:-1,Radio Dimash
+http://29327.live.streamtheworld.com/SAM02AAC364_SC
 #EXTINF:-1,Radio Diminet
 https://eu4.fastcast4u.com/proxy/bondpley/stream
 #EXTINF:-1,Radio Disco Party - Club
@@ -1109,8 +1111,6 @@ http://ic1.smcdn.pl/6260-1.mp3
 https://stream.super.fm:8443/superfm.mp3?1703660705890
 #EXTINF:-1,Radio Świnoujści
 https://play.radioswinoujscie.pl/live
-#EXTINF:-1,Radio Swinoujscie
-https://free.rcast.net/62853
 #EXTINF:-1,Radio Synteza
 https://stream.radio-synteza.pl/synteza
 #EXTINF:-1,Radio Szczecin (128K MP3)
@@ -1633,6 +1633,8 @@ https://bcast.vigormultimedia.com:48888/sjcompl64aac
 http://s1.slotex.pl:7494/
 #EXTINF:-1,Spinacz
 http://cinemamovies.pl:8563/
+#EXTINF:-1,Stacja EsaidFM
+https://smartstream.myautodj.com:8092/stream
 #EXTINF:-1,Strefa FM
 http://play.strefa.fm:8000/strefa.mp3
 #EXTINF:-1,Studenckie Radio Żak Politechniki Łódzkiej

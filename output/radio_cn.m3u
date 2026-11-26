@@ -695,8 +695,6 @@ https://lhttp.qtfm.cn/live/20533/64k.mp3
 https://lhttp.qtfm.cn/live/20537/64k.mp3
 #EXTINF:-1,义安电台
 https://lhttp.qingting.fm/live/5021979/64k.mp3
-#EXTINF:-1,之江记录
-https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1,乌海交通音乐广播
 https://lhttp.qingting.fm/live/15318704/64k.mp3
 #EXTINF:-1,乌海综合广播
@@ -733,6 +731,8 @@ https://lhttp.qtfm.cn/live/20212210/64k.mp3
 https://lhttp.qtfm.cn/live/5022648/64k.mp3
 #EXTINF:-1,习水综合广播
 https://lhttp-hw.qtfm.cn/live/15318201/64k.mp3
+#EXTINF:-1,乾安综合广播
+http://stream7.jlntv.cn/qagb/playlist.m3u8
 #EXTINF:-1,云南交通之声
 https://gbw.ynradio.cn/radio/jtgb.stream/playlist.m3u8
 #EXTINF:-1,云南交通之声
@@ -781,6 +781,8 @@ http://zbbf2.ahbztv.com/live/41a.m3u8
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 #EXTINF:-1,仁寿人民广播电台
 https://lhttp-hw.qtfm.cn/live/5021453/64k.mp3
+#EXTINF:-1,仙桃综合广播
+https://lhttp-hw.qtfm.cn/live/20211562/64k.mp3
 #EXTINF:-1,仪征人民广播电台
 https://lhttp.qingting.fm/live/15318182/64k.mp3
 #EXTINF:-1,任丘人民广播电台
@@ -939,8 +941,6 @@ https://lhttp.qingting.fm/live/336/64k.mp3
 https://piccpndali.v.myalicdn.com/audio/btv1_2.m3u8
 #EXTINF:-1,北京古典音乐广播
 https://stream.zeno.fm/qa9punk6ynhvv
-#EXTINF:-1,北京延庆之声
-https://videoplaynew.yanqingrmzx.com/yq/gb.m3u8
 #EXTINF:-1,北京文艺广播
 https://lhttp.qtfm.cn/live/333/64k.mp3
 #EXTINF:-1,北京新闻广播
@@ -957,6 +957,8 @@ https://live.ximalaya.com/radio-first-page-app/live/2767/64.m3u8?transcode=ts
 https://lhttp.qtfm.cn/live/20211621/64k.mp3
 #EXTINF:-1,北海广播电视台新闻综合广播
 https://lhttp.qtfm.cn/live/20861/64k.mp3
+#EXTINF:-1,北碚综合广播·重庆嘉陵之声FM88.7
+https://lhttp-hw.qtfm.cn/live/20211692/64k.mp3
 #EXTINF:-1,北部湾之声
 https://stream.bbrtv.com:10443/hls/_6ax4Y1MR/_6ax4Y1MR_live.m3u8
 #EXTINF:-1,北部湾之声 The Voice of Beibu Gulf
@@ -983,8 +985,6 @@ http://hls.njgb.com/live_hls/2/playlist.m3u8
 http://live.xmcdn.com/live/70/64.m3u8
 #EXTINF:-1,南京体育广播
 http://live.xmcdn.com/live/88/64.m3u8
-#EXTINF:-1,南京体育广播
-http://hls.njgb.com/live_hls/3/playlist.m3u8
 #EXTINF:-1,南京新闻综合广播
 http://hls.njgb.com/live_hls/1/playlist.m3u8
 #EXTINF:-1,南京经济广播
@@ -1419,6 +1419,8 @@ https://lhttp-hw.qtfm.cn/live/5022063/64k.mp3
 https://lhttp-hw.qtfm.cn/live/5022064/64k.mp3
 #EXTINF:-1,孝昌964电台
 https://lhttp-hw.qtfm.cn/live/15318546/64k.mp3
+#EXTINF:-1,孟村综合广播 沧州1058汽车音乐广播
+https://lhttp-hw.qtfm.cn/live/5021914/64k.mp3
 #EXTINF:-1,宁夏交通广播
 https://lhttp.qtfm.cn/live/1840/64k.mp3
 #EXTINF:-1,宁夏卫视伴音
@@ -1501,8 +1503,12 @@ https://lhttp.qtfm.cn/live/1947/64k.mp3
 http://satellitepull.cnr.cn/live/wxahyygb/playlist.m3u8?wsSession=a919bd0baf31a1a6f3966f08-174830359776346&wsIPSercert=cd39a342afce39d82188ebae3a31d1b8
 #EXTINF:-1,安溪FM946茶频率
 https://lhttp.qtfm.cn/live/5022135/64k.mp3
+#EXTINF:-1,安阳交通广播
+https://lhttp-hw.qtfm.cn/live/2138/64k.mp3
 #EXTINF:-1,安阳县Top Radio 88.1
 https://lhttp-hw.qtfm.cn/live/20209339/64k.mp3
+#EXTINF:-1,安阳综合新闻广播
+https://lhttp-hw.qtfm.cn/live/15318224/64k.mp3
 #EXTINF:-1,安阳音乐生活广播
 https://lhttp-hw.qtfm.cn/live/2123/64k.mp3
 #EXTINF:-1,安顺综合广播
@@ -1783,6 +1789,8 @@ http://lhttp.qingting.fm/live/20211678/64k.mp3
 https://lhttp.qingting.fm/live/3948/64k.mp3
 #EXTINF:-1,延吉交通之声
 https://lhttp-hw.qtfm.cn/live/15318331/64k.mp3
+#EXTINF:-1,延吉汉语·朝鲜语综合广播
+http://stream7.jlntv.cn/yjgb/playlist.m3u8
 #EXTINF:-1,延安交通音乐广播
 https://srs.yanews.cn/audio/FM98-7/index.m3u8
 #EXTINF:-1,延安综合广播
@@ -1951,6 +1959,8 @@ https://lhttp-hw.qtfm.cn/live/20500096/64k.mp3
 https://lhttp-hw.qtfm.cn/live/20500015/64k.mp3
 #EXTINF:-1,抚州新闻综合广播
 https://lhttp-hw.qtfm.cn/live/20500226/64k.mp3
+#EXTINF:-1,抚松广播
+http://stream7.jlntv.cn/aac_fsgb/sd/live.m3u8
 #EXTINF:-1,抚顺经济交通广播
 https://rscdn.ajmide.com/r_1798/nglive_1798.m3u8
 #EXTINF:-1,抚顺综合广播
@@ -2779,6 +2789,8 @@ https://lhttp-hw.qtfm.cn/live/2789/64k.mp3
 https://lhttp-hw.qtfm.cn/live/20500240/64k.mp3
 #EXTINF:-1,濮阳交通广播
 https://lhttp.qtfm.cn/live/1233/64k.mp3
+#EXTINF:-1,濮阳县FM1053快乐调频
+https://lhttp-hw.qtfm.cn/live/20206/64k.mp3
 #EXTINF:-1,濮阳综合广播
 https://lhttp.qingting.fm/live/20207739/64k.mp3
 #EXTINF:-1,灌南综合广播
@@ -2959,8 +2971,6 @@ http://live.zohi.tv/audio/s10001-FM893/index.m3u8
 https://piccpndali.v.myalicdn.com/audio/dongnan_2.m3u8
 #EXTINF:-1,福建交通广播
 https://lhttp.qtfm.cn/live/1733/64k.mp3
-#EXTINF:-1,福建新闻综合广播
-https://lhttp.qtfm.cn/live/1731/64k.mp3
 #EXTINF:-1,福建海峡之声
 https://lhttp-hw.qtfm.cn/live/1744/64k.mp3
 #EXTINF:-1,福建经济广播
@@ -3349,6 +3359,8 @@ http://stream3.jlntv.cn/thxgb/playlist.m3u8
 http://stream4.jlntv.cn/aac_thjt/playlist.m3u8
 #EXTINF:-1,通化综合广播
 http://stream4.jlntv.cn/aac_thxw/playlist.m3u8
+#EXTINF:-1,通榆综合广播
+http://stream7.jlntv.cn/tygb/playlist.m3u8
 #EXTINF:-1,通渭综合广播
 http://play.kankanlive.com/live/1725005604372021.m3u8
 #EXTINF:-1,遂宁交通旅游广播

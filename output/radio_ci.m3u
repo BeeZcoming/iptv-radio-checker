@@ -25,8 +25,6 @@ https://radio.geyetv.com:8010/radio.mp3
 https://stream.zeno.fm/w9g4bgjcaicvv
 #EXTINF:-1,Hit Radio (Côte d'Ivoire)
 https://hrci.ice.infomaniak.ch/ci-abidjan-128.mp3
-#EXTINF:-1,Horizonfm CI
-https://sky.doscast.com/proxy/firmin/stream
 #EXTINF:-1,Impact FM Sud Ouest
 https://stream.zeno.fm/jqujdjbqvhivv
 #EXTINF:-1,La Voix d'Azaguié
@@ -73,6 +71,8 @@ https://streamer.galcom.org:8443/RadioFrequenceVie
 https://listen.radioking.com/radio/322058/stream/369815
 #EXTINF:-1,Radio Grâce-Espoir
 https://listen.radioking.com/radio/281332/stream/327067
+#EXTINF:-1,Radio Jam
+https://listen.radioking.com/radio/61201/stream/98566
 #EXTINF:-1,Radio Kabadougou FM
 https://stream.zeno.fm/gfvm7pxkv98uv
 #EXTINF:-1,Radio khadim

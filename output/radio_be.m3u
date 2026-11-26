@@ -21,12 +21,12 @@ https://admin.afrikanabestsounds.com/listen/live_african/radio.mp3
 https://radio.afrikanabestsounds.com/listen/live_african/radio.mp3
 #EXTINF:-1,Ajoin Music
 https://play.ajoinmusic.be/ajoinmusic.mp3
+#EXTINF:-1,Antipode Louvain-la-neuve
+https://antipodev2.dev.itsquared.be/antipodestream.mp3
 #EXTINF:-1,Antwerpen FM
 https://streaming.servicehosting.eu/listen/antwerpen_fm/radio.mp3
 #EXTINF:-1,Arabel 106.8 Bruxelles, be
 http://arabelfm.ice.infomaniak.ch/arabelprodcastfm.mp3
-#EXTINF:-1,AudioDrama Radio
-https://fritske.be:8000/stream
 #EXTINF:-1,BE Nieuwsradio
 https://nieuwsradio.nexradio.nl/nieuwsbe/stream
 #EXTINF:-1,Be One - Xmas
@@ -43,8 +43,6 @@ https://s4.radio.co/sf5a880a25/listen
 https://a8.asurahosting.com:8090/radio.mp3
 #EXTINF:-1,Best Oldies Radio 2 THC
 https://custom-azura1.asurahosting.com/listen/best_oldies_radio_2/radio.mp3
-#EXTINF:-1,BNL
-https://stream.bnlradio.be/stream.mp3
 #EXTINF:-1,Boo 105.1 FM - Bilzen, be
 http://stream03.level27.be/;stream.mp3
 #EXTINF:-1,Boutersem On Air
@@ -199,6 +197,8 @@ https://streams.radio.dpgmedia.cloud/redirect/joe_80s_90s/mp3
 https://icecast-qmusicbe-cdp.triple-it.nl/joe_80s_90s.aac?aw_0_1st.skey=1686378273&aw_0_1st.playerid=site-player
 #EXTINF:-1,JOE BE
 https://icecast-qmusicbe-cdp.triple-it.nl/joe.mp3
+#EXTINF:-1,JOE Christmas
+https://audio-streaming.joe.be/joe-christmas.aac
 #EXTINF:-1,joe easy
 https://streams.radio.dpgmedia.cloud/redirect/joe_easy/mp3
 #EXTINF:-1,JOE Gold
@@ -287,10 +287,6 @@ http://icecast.vrtcdn.be/mnm-high.mp3
 http://icecast.vrtcdn.be/mnm_hits-high.mp3
 #EXTINF:-1,Mooi Radio 106.6 FM   Mechelen,be
 http://mooiradio.live-streams.nl/
-#EXTINF:-1,MooyZo
-http://play.mooyzo.be/mooyzo.mp3
-#EXTINF:-1,MOOYZO (MP3)
-https://play.mooyzo.be/mooyzo.mp3
 #EXTINF:-1,Musiq3 Jazz RTBF
 https://radios.rtbf.be/wr-m3-jazz-128.mp3
 #EXTINF:-1,MyNoise Drone Zone
@@ -383,8 +379,12 @@ https://icecast-qmusicbe-cdp.triple-it.nl/q-allstars.aac
 http://serverkw.quran-uni.com:8238/;*.mp3
 #EXTINF:-1,R.O.L Oldies Jukebox Radio - Lanaken, be
 http://listen.openstream.co/4628/audio
+#EXTINF:-1,Radio 1
+https://icecast.vrtcdn.be/radio1-mid.mp3
 #EXTINF:-1,Radio 100%
 http://live2.radiostudio.be:8000/pros
+#EXTINF:-1,RADIO 2
+https://quantumcast.vrtcdn.be/ra2ant/mp3-128/quantumcast.vrtcdn.be/
 #EXTINF:-1,Radio 2 Bene Bene
 http://icecast.vrtcdn.be/radio2_benebene-high.mp3
 #EXTINF:-1,Radio 4910
@@ -415,8 +415,6 @@ https://loa.beheerstream.nl:8004/stream
 http://stream.bahena.be:8000/bahena.mp3
 #EXTINF:-1,Radio Barbier
 https://server6.radio-streams.net/proxy/barbierv/stream
-#EXTINF:-1,Radio Benelux  Beringen, be
-http://remote.radiobenelux.be/MP3
 #EXTINF:-1,Radio Bingo - Roeselaere, Be
 http://audiostreamen.nl:8044/stream/1/
 #EXTINF:-1,Radio Bonheur (BE)
@@ -617,8 +615,6 @@ http://streams.movemedia.eu/rbs
 http://rcf.streamakaci.com/rcfbruxelles.mp3
 #EXTINF:-1,RCF Liège
 https://n04-eu2.rcs.revma.com/w3nwm093h3nwv?rj-ttl=5&rj-tok=AAABoZ2t8TUAqSwSwytjIXBY3Q
-#EXTINF:-1,RCF Sud Belgique
-http://rcf.streamakaci.com/rcfsudbe.mp3
 #EXTINF:-1,RGR classic
 https://media1.hostin.cc/rgr-classic-hits.mp3
 #EXTINF:-1,RGR Classic Hits
@@ -681,8 +677,8 @@ https://caster05.streampakket.com/proxy/8692/stream
 http://cast3.my-control-panel.com:8170/stream
 #EXTINF:-1,The Funky Channel
 https://cast3.asurahosting.com/proxy/breakou1/stream
-#EXTINF:-1,Tipik à l'ancienne (RTBF)
-http://radio.rtbf.be/tipik-al/mp3-128/rb
+#EXTINF:-1,Tip!k
+https://radios.rtbf.be/pure-128.mp3
 #EXTINF:-1,Tomorrowland - Daybreak Sessions
 http://playerservices.streamtheworld.com/api/livestream-redirect/OWR_DAYBREAK_ADP.aac
 #EXTINF:-1,Tomorrowland One World Radio - Anthems

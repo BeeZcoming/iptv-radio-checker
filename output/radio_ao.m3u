@@ -25,6 +25,8 @@ https://stream.zeno.fm/n5r034egx4zuv
 https://paineldj.com.br:20145/stream
 #EXTINF:-1,Rádio Cultura Angola
 https://paineldj5.com.br:20091/stream
+#EXTINF:-1,Rádio Cuquema
+https://radios2.justweb.pt:8034/stream
 #EXTINF:-1,Rádio D'Agosto 92.0
 https://live.paineldj.com.br/proxy/radio1ago?mp=/stream
 #EXTINF:-1,Rádio Ecclésia de Caxito
@@ -58,11 +60,9 @@ https://paineldj5.com.br:20089/stream
 #EXTINF:-1,Radio luanda fm line
 https://stream1.svrdedicado.org:7175/;
 #EXTINF:-1,Rádio Lumbamba
-https://stream-179.surfernetwork.com/l4feq7zw5d2uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJsNGZlcTd6dzVkMnV2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiItU2xfSEppdFFwaVdXOUVoT2YzRHlnIiwiaWF0IjoxNzk1MTg1OTEyLCJleHAiOjE3OTUxODU5NzJ9.FuTRPPK6UHrAvJgNK1gtGEjxzqvgVKms3wv6WbiTI_o
+https://stream-179.surfernetwork.com/l4feq7zw5d2uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJsNGZlcTd6dzVkMnV2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJzX3laY3F2ZVRzV2J0SjgwRm1ua2R3IiwiaWF0IjoxNzk1NjE4MDI5LCJleHAiOjE3OTU2MTgwODl9.dqxMeBIfwOHZ4FJmHQIL5ylF2_AiumPxFTRixZaTeBk
 #EXTINF:-1,Rádio Lunda Norte
 https://paineldj6.com.br:20114/stream
-#EXTINF:-1,Rádio Lunda Sul
-https://paineldj6.com.br:20115/stream
 #EXTINF:-1,Rádio Mais Benguela 96.3 FM
 https://radios.justweb.pt/8046/stream
 #EXTINF:-1,Rádio Mais Huambo
@@ -91,8 +91,6 @@ https://paineldj6.com.br:20118/stream
 https://ssl.srvstm.com:6756/NossoTempo
 #EXTINF:-1,Rádio Nova 102.5 FM
 https://stream.zeno.fm/0k4sknvq1p8uv
-#EXTINF:-1,RÁDIO NXT FM 98.7
-https://stream-179.surfernetwork.com/wnez02wihrevv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3bmV6MDJ3aWhyZXZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJfc2dheHVyX1NxbUpnOWhHaEItSlhnIiwiaWF0IjoxNzk1NTgyMDQ5LCJleHAiOjE3OTU1ODIxMDl9.0at9NOaI4mYNyz_a-YdaMSbNHRcxVLjEuZ1AauwYyE4
 #EXTINF:-1,Rádio Ondjo Yetu
 https://stream-178.surfernetwork.com/my2frbh3wx7vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJteTJmcmJoM3d4N3Z2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkpJTHNEaS05VG11NjQtUnZ5WjlyVEEiLCJpYXQiOjE3OTUzMDA4MDgsImV4cCI6MTc5NTMwMDg2OH0.oUi97TH2Qg9n6uuTCE8KeiS5iugX3AI6mXOZM4TmWGM
 #EXTINF:-1,Rádio Romântica

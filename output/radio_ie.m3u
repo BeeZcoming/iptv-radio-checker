@@ -327,6 +327,8 @@ https://live-bauerie.sharp-stream.com/SP
 http://uk2.streamingpulse.com:8042/stream
 #EXTINF:-1,St. Ita’s Hospital Radio
 https://de2.streamingpulse.com/ssl/8042
+#EXTINF:-1,St. Itas Hospital Radio
+http://uk1.streamingpulse.com:7022/stream
 #EXTINF:-1,Storm North East Ireland
 https://stormnortheast.com:8443/storm
 #EXTINF:-1,Sunshine 106.8
