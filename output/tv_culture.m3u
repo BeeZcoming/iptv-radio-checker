@@ -7,6 +7,8 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 http://91.235.165.117:8001/play/a02f/index.m3u8
 #EXTINF:-1,HTV5 (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=151
+#EXTINF:-1,Imai TV (576i)
+https://jalworldiptv.vercel.app/iptv/imaitv/playlist.m3u8
 #EXTINF:-1,KRT (1080p)
 https://raw.githubusercontent.com/yaskar661-lgtm/stream/refs/heads/main/filbox/krthd.m3u8
 #EXTINF:-1,Nat Geo People (576i)

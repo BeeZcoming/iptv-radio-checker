@@ -61,6 +61,8 @@ http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8
 https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
 #EXTINF:-1,Premier Sports (1080p)
 https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
+#EXTINF:-1,Prima PPV 3 (576p)
+https://rundle.tv/proxy5.php?src=https://pulse1.sanseny001.shop/puki2/usergendxpk2s6utg0l.m3u8
 #EXTINF:-1,Prima Sport 1 (576p)
 http://91.235.165.117:8001/play/a07x/index.m3u8
 #EXTINF:-1,Prima Sport 1 HD
@@ -103,8 +105,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannel
 http://205.235.6.29:8000/play/a0xa/index.m3u8
 #EXTINF:-1,TyC Sports (1080p)
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-#EXTINF:-1,TyC Sports USA
-http://45.170.130.224:8000/play/a020/index.m3u8
 #EXTINF:-1,Voyo Sport 1 (1080p)
 http://89.45.22.101:8011/play/1/index.m3u8
 #EXTINF:-1,Win+ Futbol (1080p)

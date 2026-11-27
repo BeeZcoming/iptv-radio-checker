@@ -61,10 +61,16 @@ http://190.109.2.92:8000/play/a010/index.m3u8
 http://181.119.177.253:8000/play/a03o/index.m3u8
 #EXTINF:-1,Canal 4 (720p)
 http://45.186.106.207:8000/play/a09t/index.m3u8
+#EXTINF:-1,Canal 5 (Mexico) XET-TDT (1080p)
+http://45.5.118.152:8000/play/a03i/index.m3u8
 #EXTINF:-1,Canal 7 (720p)
 http://181.119.177.253:8000/play/a03n/index.m3u8
+#EXTINF:-1,Canal 7 TeleValencia (576p)
+https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
 #EXTINF:-1,Canal 8 (720p) [Not 24/7]
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1,Canal 8 Sincelejo (720p)
+http://181.78.21.38:8000/play/a0df/index.m3u8
 #EXTINF:-1,Canal 11 (Costa Rica) (720p)
 http://45.5.117.188:8000/play/a02w/index.m3u8
 #EXTINF:-1,Canal 11 (Honduras) (1080p) [Not 24/7]
@@ -79,8 +85,6 @@ http://168.196.127.137:6001/play/a064/index.m3u8
 https://calm-forest-3478.cristianbracho904.workers.dev/live/index.m3u8
 #EXTINF:-1,Canal Guia ABE (1080p)
 http://190.181.61.93:8000/play/a00q/index.m3u8
-#EXTINF:-1,Canal Institucional (1080p)
-http://190.61.47.54:8000/play/a00v/index.m3u8
 #EXTINF:-1,Canal RCN (1080p)
 http://38.134.250.110:8000/play/a00i/index.m3u8
 #EXTINF:-1,Caracol HD2 (1080p)
@@ -167,6 +171,8 @@ https://amg00488-foxdigital-fox5atlantawaga-vizious-3m41r.amagi.tv/playlist/amg0
 https://amg00312-amg00312c36-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c36-amgplt0022/playlist.m3u8
 #EXTINF:-1,Fox (United States) WBRC (1080p) [Geo-blocked]
 https://amg00312-amg00312c32-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c32-amgplt0022/playlist.m3u8
+#EXTINF:-1,Fox (United States) WDRB (1080p)
+https://amg00312-amg00312c33-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c33-amgplt0022/playlist.m3u8
 #EXTINF:-1,Fox (United States) WFTX-TV (720p)
 https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8
 #EXTINF:-1,Fox (United States) WFXT (1080p) [Geo-blocked]
@@ -211,6 +217,8 @@ http://200.59.191.177:8000/play/a00j/index.m3u8
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/JeevanTV.m3u8
 #EXTINF:-1,Kanal 32 (720p) [Not 24/7]
 https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8
+#EXTINF:-1,Kanal 33 (720p) [Not 24/7]
+https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8
 #EXTINF:-1,Kocaeli TV (1080p)
 https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8
 #EXTINF:-1,Kuban 24 SD [Geo-blocked]
@@ -267,8 +275,6 @@ https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
 http://45.173.231.22:8000/play/a0cr/index.m3u8
 #EXTINF:-1,Omega Channel (576i)
 https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
-#EXTINF:-1,Paravision
-http://45.170.130.224:8000/play/a032/index.m3u8?hls
 #EXTINF:-1,Polsat 1 [Not 24/7]
 https://kotmruk.github.io/polish-potato/polsat1.m3u8
 #EXTINF:-1,Raajje TV
@@ -291,16 +297,12 @@ https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8
 http://190.181.61.93:8000/play/a00n/index.m3u8
 #EXTINF:-1,Rumbo Minero TV (1080p)
 http://38.87.224.19:2220/play/a049/index.m3u8
-#EXTINF:-1,Siglo XXI TV (576p)
-http://190.181.61.93:8000/play/a00b/index.m3u8
 #EXTINF:-1,Sozcu TV (1080p)
 https://raw.githubusercontent.com/yaskar661-lgtm/stream/refs/heads/main/filbox/szchd.m3u8
 #EXTINF:-1,STV (Belarus) HD (720p)
 https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 #EXTINF:-1,Super Polsat
 http://92.114.85.87:8004/play/a00c/index.m3u8
-#EXTINF:-1,SUR TV Itapua
-http://45.170.130.224:8000/play/a036/index.m3u8?hls
 #EXTINF:-1,T18 (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
 #EXTINF:-1,Teleangol (720p)
@@ -309,12 +311,8 @@ https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3
 http://45.173.231.22:8000/play/a053/index.m3u8
 #EXTINF:-1,Telefuturo (Paraguay) (1080p)
 http://158.172.217.18:8000/play/a0ns/index.m3u8
-#EXTINF:-1,Teleislas (720p)
-http://190.61.47.54:8000/play/a015/index.m3u8
 #EXTINF:-1,Telemedellin (1080p)
 http://181.78.82.130:8000/play/a0ru/index.m3u8
-#EXTINF:-1,Telemedios Canal 8 (1080p) [Not 24/7]
-https://hls.tvabierta.net/hls/008.m3u8
 #EXTINF:-1,Telemundo Internacional (1080p)
 http://45.173.231.22:8000/play/a01h/index.m3u8
 #EXTINF:-1,Televen (1080p)
@@ -323,8 +321,6 @@ http://38.134.250.110:8000/play/a02i/index.m3u8
 http://45.5.57.58:8000/play/a038/index.m3u8
 #EXTINF:-1,The CW KWCH-DT (1080p) [Geo-blocked]
 https://amg00312-amg00312c39-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c39-amgplt0022/playlist.m3u8
-#EXTINF:-1,The CW WAVE (1080p) [Geo-blocked]
-https://amg00312-amg00312c33-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c33-amgplt0022/playlist.m3u8
 #EXTINF:-1,The CW WWBT (1080p) [Geo-blocked]
 https://amg00312-amg00312c35-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c35-amgplt0022/playlist.m3u8
 #EXTINF:-1,TMC HD (1080p) [Geo-blocked]

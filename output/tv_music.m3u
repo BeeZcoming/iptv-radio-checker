@@ -13,6 +13,8 @@ https://30a-tv.com/music.m3u8
 https://atomic.streamnet.ro/academia.m3u8
 #EXTINF:-1,Atomic TV (360p)
 https://atomic.streamnet.ro/atomictv.m3u8
+#EXTINF:-1,Balcan Music TV (1080i)
+https://rundle.tv/proxy5.php?src=https://arwen1.panaka001.cfd/balkmus/usergenko4x0g.m3u8
 #EXTINF:-1,Bandamax (1080p)
 http://181.78.106.127:5000/play/ca064/index.m3u8
 #EXTINF:-1,City Eden Birma Play [Not 24/7]
@@ -25,6 +27,8 @@ https://cityeden.catcast.tv/content/34100/index.m3u8
 https://cityeden.catcast.tv/content/46421/index.m3u8
 #EXTINF:-1,CKNO-FM (616p)
 https://videostream.jpbgdigital.com/NOWTV.m3u8
+#EXTINF:-1,Cool FM 98.9 (720p)
+https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8
 #EXTINF:-1,Dance Television (1080p)
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:-1,DASDING 90.8 (720p)

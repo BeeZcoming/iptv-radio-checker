@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,93.7 KHJ Oldies 
+https://ice26.securenetsystems.net/KKHJHD2
 #EXTINF:-1,Coolfm Dance 90
 https://mediagw.e-tiger.net/stream/zc06
 #EXTINF:-1,Grits Radio
@@ -7,27 +9,3 @@ http://169.61.85.22/grits
 https://radio1.streamserver.link/radio/8020/hro-aac
 #EXTINF:-1,Hard Rock Heaven
 https://ais-sa2.cdnstream1.com/1521_128
-#EXTINF:-1,Minnesota Music Channel
-https://stream-01.aiir.com/vtrrdk83knmuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2dHJyZGs4M2tubXV2IiwiaG9zdCI6InN0cmVhbS0wMS5haWlyLmNvbSIsInJ0dGwiOjUsImp0aSI6ImRZQjlQQXZ4VHZhMjc3Y1ZCMVpGSFEiLCJpYXQiOjE3ODY5MTUyNTMsImV4cCI6MTc4NjkxNTMxM30.1fezl3hfb1bfcJKpN-0Zzh_X-bYb78PDSir0Se7f2oo
-#EXTINF:-1,MXTR FM
-https://streaming.live365.com/a03037
-#EXTINF:-1,PhoenixFireFM
-http://listen.jjhof.com:6969/stream
-#EXTINF:-1,Pop Gold Radio
-https://popgoldradio-libstrm.radioca.st/;
-#EXTINF:-1,Quiet Village Radio
-http://broadcast.shoutcheap.com:8424/streamhttp://broadcast.shoutcheap.com:8424/stream
-#EXTINF:-1,Radio Farda
-https://stream.radiojar.com/cp13r2cpn3quv
-#EXTINF:-1,Rockin' the Suburbs Radio
-https://streaming.radio.co/sca22d43b1/listen
-#EXTINF:-1,The Breeze
-http://65.108.105.26:7617/stream
-#EXTINF:-1,Workout Time
-https://stream-175.surfernetwork.com/60pg6mi67hytv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2MHBnNm1pNjdoeXR2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJrX0dzOEU3Q1JKU0piU2NoZFYwY0NBIiwiaWF0IjoxNzg2OTIwNTgzLCJleHAiOjE3ODY5MjA2NDN9.EVpOGXMTOtGNydRMlQzIUO8rfhG5KYRyBSNaF6kU46s
-#EXTINF:-1,WQNA
-http://ingest.live365.com:8000/a38152_live
-#EXTINF:-1,WSNR.US
-https://www.stepnorthdigitalradio.com:6008/stream
-#EXTINF:-1,X Transmission FM
-http://custom-azura1.my-control-panel.com/listen/x_transmission_fm/radio.mp3

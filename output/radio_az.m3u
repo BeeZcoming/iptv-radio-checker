@@ -41,39 +41,7 @@ https://radio.day.az:9443/aac192
 https://radio.day.az:9443/aac48
 #EXTINF:-1,İctimai Radio – 90 FM
 https://stream.itv.az/rtmp:/radio/playlist.m3u8
+#EXTINF:-1,Kepez FM
+http://85.132.78.122:3344/now
 #EXTINF:-1,KN Music TV
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Max tv Azerbaycan
-https://cdn4.yayin.com.tr/maxtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Media FM Classic
-https://icecast.livetv.az/mediafm
-#EXTINF:-1,Media fm jazz
-http://icecast.livetv.az/mediajazz
-#EXTINF:-1,Media FM Mugam
-http://icecast.livetv.az/mediamugam
-#EXTINF:-1,Media FM Relax
-http://icecast.livetv.az/mediarelax
-#EXTINF:-1,NAZ RADIO
-https://s2.myradiostream.com/5286/listen.mp3
-#EXTINF:-1,PlanetFM 88.7
-https://live.dinle.az/planetfm
-#EXTINF:-1,Radio Enerji 101.1 FM
-https://icecast.livetv.az/antennfm
-#EXTINF:-1,Radio Space 104FM
-https://stream.surfernetwork.com/rxzd8t0l1ivvv
-#EXTINF:-1,Rahat Supermarket Radio
-http://5.191.241.101:8000/rahatmarket
-#EXTINF:-1,Real FM 107
-http://94.20.137.130:8995/realfm?n=1ae9db9ce6bdfe42937a
-#EXTINF:-1,Sağlam Radio
-https://s24.myradiostream.com/:17446/listen.mp3?nocache=1717082000
-#EXTINF:-1,TMB 100.5
-http://s39.myradiostream.com:5458/
-#EXTINF:-1,Vintage Radio Azerbaijan
-https://trucker.autoliferadio.com:1045/stream
-#EXTINF:-1,Xezer FM
-https://s40.myradiostream.com/:22546/listen.mp3?
-#EXTINF:-1,Yurd FM
-https://icecast.livetv.az/yurdfm
-#EXTINF:-1,Yurd fm
-http://icecast.livetv.az/yurdfm
