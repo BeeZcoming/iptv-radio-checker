@@ -5,3 +5,13 @@ https://streamer.mada.ps:8208/ajyal
 https://listen.camp:9000/campradio.ogg
 #EXTINF:-1,Gaza Radio 106.3 FM
 https://c2.radioboss.fm:8961/stream
+#EXTINF:-1,Quran Radio Station-Nablus
+http://www.quran-radio.org:8002/
+#EXTINF:-1,Radio alHara
+https://stream.radioalhara.net/ra
+#EXTINF:-1,Raya FM
+https://rstream.hadara.ps/proxy/raya/stream
+#EXTINF:-1,Sawt El Ghad - Tarab
+https://sawtelghad.org:7007/;
+#EXTINF:-1,seba
+http://213.6.93.254:8000/sebafm

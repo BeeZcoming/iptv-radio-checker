@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,12tv (1080p)
 https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8
-#EXTINF:-1,50 Canale (720p)
-https://load-balancer.azotosolutions.com/cdnedge37/canale50/playlist.m3u8
 #EXTINF:-1,ABC KITV (720p)
 https://fuel-streaming-prod01.fuelmedia.io/v1/sem/c4067ddc-0e67-4928-b7ec-624481f721a6.m3u8
 #EXTINF:-1,ABC KMGH-TV (720p)
@@ -51,8 +49,6 @@ https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
 http://190.181.61.93:8000/play/a001/index.m3u8
 #EXTINF:-1,Bolivision (1080p)
 http://190.181.61.93:8000/play/a00j/index.m3u8
-#EXTINF:-1,Cadena A (576p)
-http://190.181.61.93:8000/play/a00k/index.m3u8
 #EXTINF:-1,CaliTV (1080p)
 https://tdcdigital-streams.github.io/iptv/CaliTV.m3u8
 #EXTINF:-1,Canal 1 (Colombia) (1080p)
@@ -65,8 +61,6 @@ http://45.186.106.207:8000/play/a09t/index.m3u8
 http://45.5.118.152:8000/play/a03i/index.m3u8
 #EXTINF:-1,Canal 7 (720p)
 http://181.119.177.253:8000/play/a03n/index.m3u8
-#EXTINF:-1,Canal 7 TeleValencia (576p)
-https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
 #EXTINF:-1,Canal 8 (720p) [Not 24/7]
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1,Canal 8 Sincelejo (720p)
@@ -207,8 +201,6 @@ https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8
 http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1,hr-fernsehen (1080p)
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
-#EXTINF:-1,HTV1 (1080p)
-https://freem3u.xyz/api/live/play.m3u8?vid=190
 #EXTINF:-1,Hunan Economy Channel
 https://p8.vzan.com/slowlive/415983998730568937/live.m3u8
 #EXTINF:-1,IVC (480p)
@@ -225,8 +217,6 @@ https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
 #EXTINF:-1,La Metro TV (1080p)
 https://jireh-8-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8
-#EXTINF:-1,Line TV (720p) [Not 24/7]
-https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8
 #EXTINF:-1,like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="General",Lux TV (1080p)
 http://777905.live.tvstitch.com/stream.m3u8?channel=431&m=aHR0cHM6Ly9obHMtY2RuMS5keXZ5YXBwLmNvbS9sdXgtdHYvdmlkZW8ubTN1OD90b2tlbj1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKamFHRnVibVZzWDJsa0lqbzBNekVzSW1Ob1lXNXVaV3hmYm1GdFpTSTZJa3hWV0NCVVZpSXNJbWx3SWpvaU1UYzRMakV6Tmk0ME1pNHlNakFpTENKamIzVnVkSEo1SWpvaVZXdHlZV2x1WlNJc0luVnpaWEpmYVdRaU9tNTFiR3dzSW5WelpYSmZjR2h2Ym1VaU9tNTFiR3dzSW5WelpYSmZjbTlzWlhNaU9sdGRMQ0p3Y205bWFXeGxYMmxrSWpwdWRXeHNMQ0p6WlhOemFXOXVYMmxrSWpvaU56ZGpabVUzTkdJdE1USmtaQzAwTTJSbExXSmtNVGt0WVRKaFptUmtabUUwT0RWaElpd2laVzUyYVhKdmJtMWxiblFpT2lKd2NtOWtkV04wYVc5dUlpd2ljR3hoZEdadmNtMGlPaUpFWlhOcmRHOXdJaXdpZFhObGNsOWhaMlZ1ZENJNklrMXZlbWxzYkdGY0x6VXVNQ0FvVjJsdVpHOTNjeUJPVkNBeE1DNHdPeUJYYVc0Mk5Ec2dlRFkwS1NCQmNIQnNaVmRsWWt0cGRGd3ZOVE0zTGpNMklDaExTRlJOVEN3Z2JHbHJaU0JIWldOcmJ5a2dRMmh5YjIxbFhDOHhOVEl1TUM0d0xqQWdVMkZtWVhKcFhDODFNemN1TXpZaUxDSmxlSEFpT2pFM09EZ3hOekk0TnpOOS5GV2NmZDBhOV93dEVONmozWS1GaFNFYzFjbV9uamh1VVZmWjhiZzVLcG84
 #EXTINF:-1,Maxivision Canal 8 (1080p)
@@ -271,10 +261,10 @@ https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
 http://92.114.85.87:8001/play/a013/index.m3u8
 #EXTINF:-1,NTK 21 [Geo-blocked]
 https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
-#EXTINF:-1,Nuestra Tele Internacional (1080p)
-http://45.173.231.22:8000/play/a0cr/index.m3u8
 #EXTINF:-1,Omega Channel (576i)
 https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
+#EXTINF:-1,Paravision
+http://45.170.130.224:8000/play/a032/index.m3u8?hls
 #EXTINF:-1,Polsat 1 [Not 24/7]
 https://kotmruk.github.io/polish-potato/polsat1.m3u8
 #EXTINF:-1,Raajje TV
@@ -303,18 +293,16 @@ https://raw.githubusercontent.com/yaskar661-lgtm/stream/refs/heads/main/filbox/s
 https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 #EXTINF:-1,Super Polsat
 http://92.114.85.87:8004/play/a00c/index.m3u8
+#EXTINF:-1,SUR TV Itapua
+http://45.170.130.224:8000/play/a036/index.m3u8?hls
 #EXTINF:-1,T18 (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
 #EXTINF:-1,Teleangol (720p)
 https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3u8
-#EXTINF:-1,Telefe (1080p)
-http://45.173.231.22:8000/play/a053/index.m3u8
 #EXTINF:-1,Telefuturo (Paraguay) (1080p)
 http://158.172.217.18:8000/play/a0ns/index.m3u8
 #EXTINF:-1,Telemedellin (1080p)
 http://181.78.82.130:8000/play/a0ru/index.m3u8
-#EXTINF:-1,Telemundo Internacional (1080p)
-http://45.173.231.22:8000/play/a01h/index.m3u8
 #EXTINF:-1,Televen (1080p)
 http://38.134.250.110:8000/play/a02i/index.m3u8
 #EXTINF:-1,Television Tarapoto (1080p)
@@ -357,6 +345,8 @@ http://190.181.61.93:8000/play/1910/index.m3u8
 https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/vmaistvi.m3u8
 #EXTINF:-1,Venevision (576p)
 http://181.78.8.199:8000/play/a0if/index.m3u8
+#EXTINF:-1,Venezolana de Television (480p)
+http://200.59.191.177:8000/play/a0l5/index.m3u8
 #EXTINF:-1,WDR Fernsehen Aachen (720p) [Geo-blocked]
 https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
 #EXTINF:-1,WDR Fernsehen Bielefeld (720p) [Geo-blocked]

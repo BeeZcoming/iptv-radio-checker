@@ -151,3 +151,237 @@ http://23.81.35.187:8026/stream
 http://solid24.streamupsolutions.com:8026/live
 #EXTINF:-1,Kfm 97.6
 https://live-bauerie.sharp-stream.com/KFM?_=668840
+#EXTINF:-1,Liffey Sound 96.4 FM
+http://stream.liffeysoundfm.ie:8000/listen.pls.mp3
+#EXTINF:-1,Limerick's Live 95FM
+https://wg.cdn.tibus.net/Live95fm
+#EXTINF:-1,Live95 Limerick
+https://live.onic.ie/stream-live95
+#EXTINF:-1,Live95FM
+https://wg.cdn.tibus.net/Live95fm?aw_0_1st.playerId=wireless-website&listenerid=48213c18339e02bbc93dc6ed298c2192&awparams=companionAds%3Atrue&aw_0_req.gdpr=false&aw_0_req.userConsentV2=undefined&_=796350
+#EXTINF:-1,LiveIreland
+http://lynx.prostreaming.net:8058/;
+#EXTINF:-1,LMFM
+https://wg.cdn.tibus.net/LMFM?aw_0_1st.playerId=wireless-website&listenerid=94d1ac3bf877b65e4e17cd7e9bfec132&awparams=companionAds%3Atrue&aw_0_req.gdpr=false&aw_0_req.userConsentV2=undefined&_=284507
+#EXTINF:-1,Loughrea Community Radio
+http://stream1.hippynet.co.uk/stream/loughrea
+#EXTINF:-1,Midlands 103
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIDLANDS_103.mp3
+#EXTINF:-1,Midwest Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIOAAC.m3u8
+#EXTINF:-1,Midwest Radio [AAC]
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIOAAC.aac
+#EXTINF:-1,Midwest Radio [MP3]
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIO.mp3
+#EXTINF:-1,Midwest Radio [MP3]
+http://direct.sharp-stream.com/midwestfmie.mp3
+#EXTINF:-1,Minimal & Deep-tech on MixLive.net
+https://free.rcast.net/200710
+#EXTINF:-1,Minimal & Techno on MixLive.net
+https://free.rcast.net/200701
+#EXTINF:-1,MixLive - Progressive & Tech-house
+https://strw3.openstream.co/939
+#EXTINF:-1,MixLive.ie - InsomniaFM
+http://635.cloudrad.io:8092/;stream
+#EXTINF:-1,MixLive.net - Psybient Sunset
+https://listen.openstream.co/6517/audio
+#EXTINF:-1,Mixlive.net - Psybient Sunset
+https://strw3.openstream.co/932?aw_0_1st.collectionid%3D6517%26stationId%3D6517%26publisherId%3D956%26k%3D1789010429
+#EXTINF:-1,MixLive.net - Psybient Sunset
+https://listen.openstream.co/6517/audio
+#EXTINF:-1,MPB Radio 2
+https://sc.mpbnl.nl/radio2.mp3
+#EXTINF:-1,MPB Radio 2 90s & 00s
+https://sc.mpbnl.nl/radio2-90s00s.mp3
+#EXTINF:-1,Near FM
+https://nearfm-radiohosting.radioca.st/stream.mp3
+#EXTINF:-1,NEAR FM
+http://stream11.shoutcastsolutions.com:8114/stream
+#EXTINF:-1,Near FM (webcam)
+https://vdo.ssl-stream.com:3550/live/nearfmlive.m3u8
+#EXTINF:-1,Newstalk Ireland
+https://edge.audioxi.com/NT
+#EXTINF:-1,Newstalk Ireland AAC
+https://live-bauerie.sharp-stream.com/NTAAC
+#EXTINF:-1,Northern Sound
+http://19983.live.streamtheworld.com/NORTHERN_SOUND_SC
+#EXTINF:-1,Off The Ball
+https://stream.audioxi.com/OTB?aw_0_1st.playerId=BMIE_GoLoudWeb&aw_0_1st.playerId=BMIE_GoLoudWeb&aw_0_1st.premium=false
+#EXTINF:-1,Onic 80s
+https://live.onic.ie/stream-80s?_=184336
+#EXTINF:-1,Onic Alternative
+https://live.onic.ie/stream-alternative?_=623178
+#EXTINF:-1,Onic Classical
+https://live.onic.ie/stream-classical?_=954716
+#EXTINF:-1,Onic Country
+https://live.onic.ie/stream-country?_=267164
+#EXTINF:-1,Onic Gold
+https://live.onic.ie/stream-gold?_=718030
+#EXTINF:-1,Onic Hits
+https://live.onic.ie/stream-hits?_=408214
+#EXTINF:-1,Onic Kids
+https://live.onic.ie/stream-kids?_=661229
+#EXTINF:-1,Onic Movies
+https://live.onic.ie/stream-movies?_=55552
+#EXTINF:-1,Onic Pride Vibes
+https://live.onic.ie/stream-pride-vibes?_=895437
+#EXTINF:-1,Onic RnB
+https://live.onic.ie/stream-rnb?_=890764
+#EXTINF:-1,Onic Rock
+https://live.onic.ie/stream-rock?_=630901
+#EXTINF:-1,Over the West Online Radio
+https://fast.citrus3.com:8302/stream
+#EXTINF:-1,Phantom Radio Ireland
+https://streaming05.liveboxstream.uk/proxy/prienter?mp=/stream&_=1739569292206
+#EXTINF:-1,Phever Dublin
+http://uk1.internet-radio.com:8200/live
+#EXTINF:-1,PHEVER Radio
+https://uk1.internet-radio.com/proxy/phever?mp=/live
+#EXTINF:-1,Planet Radio ACC
+https://media.planetradio.ie/radio/8000/ACC
+#EXTINF:-1,PlanetRadioie
+https://media.planetradio.ie/radio/8000/OnAir
+#EXTINF:-1,PlayFm Dublin
+https://stream.playfmdublin.com/radio192.mp3
+#EXTINF:-1,PowerFM Dublin 320Kbps Ogg/Vorbis
+https://www.powerfm.org:8443/powerfm.ogg
+#EXTINF:-1,Psybient Sunset on MixLive.net
+https://free.rcast.net/64142
+#EXTINF:-1,Q102
+https://wg.cdn.tibus.net/q102MP3128
+#EXTINF:-1,RabbitHole Radio
+http://stream.zeno.fm/c88dha3fmzzuv
+#EXTINF:-1,Radio Ajay
+https://ajayradio.com/stream/radioajay.m3u8
+#EXTINF:-1,Radio Cenzura
+http://live.radiocenzura.pl:8000/radio.mp3
+#EXTINF:-1,Radio Kerry
+https://27743.live.streamtheworld.com/RADIO_KERRY_SC
+#EXTINF:-1,Radio Leinster 
+http://xt.stream.ie/leinster
+#EXTINF:-1,Radio Maria Ireland
+http://dreamsiteradiocp2.com:8014/live
+#EXTINF:-1,Radio North 846 AM Redcastle, Ireland
+https://usa6.fastcast4u.com/proxy/ljohns03?mp=/stream
+#EXTINF:-1,Radio Nova 100
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIONOVA.mp3
+#EXTINF:-1,Radio Psychobilly
+http://radio-psychobilly.stream.laut.fm/radio-psychobilly
+#EXTINF:-1,Radio Siamsa
+https://cast02.siamsa.ie/radio/8000/radio.mp3
+#EXTINF:-1,Radio Siamsa
+https://main.siamsa.ie:8000/radio.mp3
+#EXTINF:-1,Radio Zodiac Ireland
+http://www.radioking.com/play/radio-zodiac-ireland
+#EXTINF:-1,Raidió na Gaeltachta
+https://liveaudio.rte.ie/hls-radio/rnag/chunklist.m3u8
+#EXTINF:-1,Raidió na Life
+http://beryl.streamguys.com:5010/live
+#EXTINF:-1,Raidió Rí-Rá
+http://icy-zurich.mpbnl.nl/rrr
+#EXTINF:-1,Raídío Rí-Rá
+https://uksoutha.streaming.broadcast.radio/ri-ra?1728850589472=
+#EXTINF:-1,Rana Sundi
+https://base44.app/api/apps/6a1fdf6444e437e5f3a701be/files/mp/public/6a1fdf6444e437e5f3a701be/1189115bf_AmordeAltavoz1.mp3
+#EXTINF:-1,RetroNow
+http://retronow.radioca.st/stream
+#EXTINF:-1,Rewind
+https://christmasfm.cdnstream1.com/2551_128.mp3
+#EXTINF:-1,RTE 2 FM
+https://icecast.rte.ie/2fm
+#EXTINF:-1,RTÉ 2FM
+https://liveaudio.rte.ie/hls-radio/2fm/chunklist.m3u8
+#EXTINF:-1,RTÉ Gold
+https://liveaudio.rte.ie/hls-radio/gold/chunklist.m3u8
+#EXTINF:-1,RTÉ lyric fm
+http://icecast.rte.ie/lyric
+#EXTINF:-1,RTÉ lyric fm
+https://liveaudio.rte.ie/hls-radio/lyric/chunklist.m3u8
+#EXTINF:-1,RTÉ Radio 1
+http://icecast.rte.ie/radio1
+#EXTINF:-1,RTÉ Radio 1
+https://liveaudio.rte.ie/hls-radio/radio1/chunklist.m3u8
+#EXTINF:-1,RTE Radio 1> 
+http://icecast.rte.ie/ieradio1
+#EXTINF:-1,RTÉ Raidio na Gaeltachta
+https://25553.live.streamtheworld.com/RTE_RAIDIO_NA_GAELTACHTA.mp3?tdsdk=rte
+#EXTINF:-1,Scariff Bay Community Radio
+https://s4.radio.co/s87ac5cf5a/listen
+#EXTINF:-1,Shannon Side FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/SHANNONSIDE_FM.mp3
+#EXTINF:-1,SOLID GOLD RADIO IRELAND
+https://a1.asurahosting.com:10000/radio.mp3
+#EXTINF:-1,SOLID GOLD RADIO IRELAND 
+https://az11.yesstreaming.net:8020/radio.mp3
+#EXTINF:-1,SOLID GOLD RADIO IRELAND 1
+https://az10.yesstreaming.net:8620/radio.mp3
+#EXTINF:-1,South East Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/SOUTH_EAST_RADIO.mp3
+#EXTINF:-1,Spin 103.8
+https://live-bauerie.sharp-stream.com/SP?aw_0_1st.playerId=BMIE_GoLoudWeb&aw_0_1st.premium=false&aw_0_1st.bauerie_covatic=9999
+#EXTINF:-1,SPIN South West
+https://live-bauerie.sharp-stream.com/SW
+#EXTINF:-1,SPIN South West
+https://edge.audioxi.com/SW
+#EXTINF:-1,Spin1038
+https://live-bauerie.sharp-stream.com/SP
+#EXTINF:-1,St. Ita's Hospital Radio
+http://uk2.streamingpulse.com:8042/stream
+#EXTINF:-1,St. Ita’s Hospital Radio
+https://de2.streamingpulse.com/ssl/8042
+#EXTINF:-1,St. Itas Hospital Radio
+http://uk1.streamingpulse.com:7022/stream
+#EXTINF:-1,Storm North East Ireland
+https://stormnortheast.com:8443/storm
+#EXTINF:-1,Sunshine 106.8
+https://live-bauerie.sharp-stream.com/SUN?_=808250
+#EXTINF:-1,sunshine soul
+https://live-bauerie.sharp-stream.com/SSOULAAC
+#EXTINF:-1,The 90s Network
+http://uk1.streamingpulse.com:7020/stream
+#EXTINF:-1,The Best Mix WNSR
+https://streams.radiomast.io/7b61283b-ea0b-49d1-8045-1680591e8558
+#EXTINF:-1,The Zone - Dublin
+https://uk1.internet-radio.com/proxy/thezone/stream
+#EXTINF:-1,Timewarp Ireland
+https://broadcast.shoutstream.co.uk:8052/stream
+#EXTINF:-1,Tipp FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/TIPP_FM.mp3
+#EXTINF:-1,Tipperary Hospital Radio Clonmel
+https://de2.streamingpulse.com/ssl/THRCL
+#EXTINF:-1,Tipperary Mid West Community Radio
+https://rsstreaming.com/proxy/tippmwr/stream?type=.mp3
+#EXTINF:-1,Today FM
+https://live-bauerie.sharp-stream.com/TDAAC
+#EXTINF:-1,Today FM
+https://stream.audioxi.com/TD
+#EXTINF:-1,Today FM 80's
+https://edge3.audioxi.com/T80
+#EXTINF:-1,Today FM 80s
+https://live-bauerie.sharp-stream.com/T80
+#EXTINF:-1,Today FM 90s
+https://live-bauerie.sharp-stream.com/T90
+#EXTINF:-1,TodayFm
+https://edge.audioxi.com/TDAAC
+#EXTINF:-1,TodayFm
+https://pri.gocaster.net/td
+#EXTINF:-1,TodayFM 80s
+http://stream.audioxi.com/T80
+#EXTINF:-1,Total Country Inchicore
+https://totalcountry.radioca.st/stream
+#EXTINF:-1,TrancePulse [FLAC]
+http://stream.trance.ie:8000/tpmixes
+#EXTINF:-1,TrancePulse Dublin
+https://stream.trance.ie:8443/stream
+#EXTINF:-1,UCBI WORSHIP
+https://stream.btsstream.com/stream/iworship
+#EXTINF:-1,University College Cork
+https://stream.btsstream.com:8060/ucc.mp3
+#EXTINF:-1,West Cork FM
+http://lyra.shoutca.st:8147/live
+#EXTINF:-1,Wired 99.9
+https://s2.radio.co/sf0986595a/listen
+#EXTINF:-1,XT Alternative
+https://xt.stream.ie:8443/xt
+#EXTINF:-1,XT independent alternate 
+http://xt.stream.ie/xt

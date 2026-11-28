@@ -35,6 +35,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.
 http://38.211.118.56:50002/play/a0fa/index.m3u8
 #EXTINF:-1,ESPN 4 (Brazil) (1080p)
 http://181.78.197.59:8000/play/a07n/index.m3u8
+#EXTINF:-1,ESPN 5 Latin America (1080p)
+http://181.78.12.119:16123/play/ch19/index.m3u8
 #EXTINF:-1,ESPN (Brazil) (1080p)
 http://181.78.197.59:8000/play/a07z/index.m3u8
 #EXTINF:-1,ESPN Latin America Colombia (1080p)
@@ -45,8 +47,6 @@ http://90.183.52.46:4000/play/a06v/index.m3u8
 https://amg26268-amg26268c34-amgplt0018.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg26268-amg26268c34-amgplt0018/playlist.m3u8
 #EXTINF:-1,FightBox Poland (576i)
 http://92.114.85.87:8003/play/a00b/index.m3u8
-#EXTINF:-1,FOX Central (1080p)
-http://181.78.106.127:5000/play/a009/index.m3u8
 #EXTINF:-1,Fox Deportes (720p)
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
 #EXTINF:-1,FUEL TV (1080p)
@@ -79,8 +79,6 @@ https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk3%2F
 http://91.235.165.117:8001/play/a080/index.m3u8
 #EXTINF:-1,Prima Sport 4 HD
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuk4%2Fusergendx3j2x4tqrnd-got.htm
-#EXTINF:-1,Prima Sport 5 HD
-https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuk5%2Fusergen0grnd8l2y6gw-got.htm
 #EXTINF:-1,Prima Sport PPV 1
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuki1%2Fusergendx6kal0r2bsm-got.htm
 #EXTINF:-1,Prima Sport PPV 2
@@ -105,9 +103,11 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannel
 http://205.235.6.29:8000/play/a0xa/index.m3u8
 #EXTINF:-1,TyC Sports (1080p)
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1,TyC Sports USA
+http://45.170.130.224:8000/play/a020/index.m3u8
 #EXTINF:-1,Voyo Sport 1 (1080p)
 http://89.45.22.101:8011/play/1/index.m3u8
 #EXTINF:-1,Win+ Futbol (1080p)
-http://181.78.12.119:16123/play/ch19/index.m3u8
+http://190.61.42.218:9000/play/a01s/index.m3u8
 #EXTINF:-1,World Poker Tour UK (1080p)
 https://amg00477-samsungelectron-worldpokertour-samsunguk-81igb.amagi.tv/playlist/amg00477-samsungelectron-worldpokertour-samsunguk/playlist.m3u8

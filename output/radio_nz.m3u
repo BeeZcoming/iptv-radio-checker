@@ -143,3 +143,279 @@ https://la-ssd.myautodj.com:1160/stream?_=1790929716573
 https://streamer.radio.co/sde527a41e/listen
 #EXTINF:-1,KIX FM
 https://stream.kixfm.co.nz:8178/stream
+#EXTINF:-1,LibertyNZ on The Wireless
+https://stream.zeno.fm/lamr6x1fxrruv
+#EXTINF:-1,Life FM - AAC
+https://rhema-radio.streamguys1.com/rhema-lifefm.aac
+#EXTINF:-1,Life FM - MP3
+https://rhema-radio.streamguys1.com/rhema-lifefm.mp3
+#EXTINF:-1,MAD FM Auckland 106.7
+https://madfm-gecko.radioca.st/stream
+#EXTINF:-1,Magic
+https://digitalstreams.mediaworks.nz/mmusic_net/playlist.m3u8
+#EXTINF:-1,Magic FM
+https://mediaworks.streamguys1.com/magic_net_icy
+#EXTINF:-1,Mai FM
+https://ais-sa1.streamon.fm/7102_128k.aac
+#EXTINF:-1,Mai FM
+https://mediaworks.streamguys1.com/mai_net_icy
+#EXTINF:-1,Maunganui FM
+https://radio.mmc.school.nz/listen/mmc_radio/radio.mp3
+#EXTINF:-1,metalradio.co.nz
+http://curiosity.shoutca.st:9073/stream
+#EXTINF:-1,Mix FM 87.9, Wellington, New Zealand
+https://stream.mixfm.nz/
+#EXTINF:-1,MIX FM Wellington
+https://stream.mixfm.nz/
+#EXTINF:-1,More FM - Bay of Plenty
+https://mediaworks.streamguys1.com/more-tga-high_icy
+#EXTINF:-1,More FM - Nelson
+https://mediaworks.streamguys1.com/more-nsn-high_icy
+#EXTINF:-1,More FM Canterbury
+https://mediaworks.streamguys1.com/more-chc-high_icy
+#EXTINF:-1,More FM Waikato
+https://mediaworks.streamguys1.com/more-ham-high_icy
+#EXTINF:-1,MoreFM
+https://mediaworks.streamguys1.com/more_net_icy
+#EXTINF:-1,Mountainside FM
+http://stream.nrgkits.co.nz:5000/mountainside
+#EXTINF:-1,Mouthfull Radio
+https://mouthfull-radio.radiocult.fm/stream
+#EXTINF:-1,MPR Manawatu People's Radio
+https://live.accessmedia.nz/MPR.stream/playlist.m3u8
+#EXTINF:-1,Mushroom Escape
+https://cast3.my-control-panel.com/proxy/jonatha1/escape?1664781783632
+#EXTINF:-1,Mushroom Escape
+http://65.108.124.70:8676/escape
+#EXTINF:-1,Mushroom FM
+http://65.108.124.70:8676/live
+#EXTINF:-1,My Dee Jay Radio
+https://radio.mydeejayradio.com/listen/my_dee_jay_radio/radio.mp3
+#EXTINF:-1,New Zealand Net Radio
+https://radio.nznetradio.net.nz/stream3
+#EXTINF:-1,Newstalk ZB
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_01AAC.m3u8?aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=9631949606&clientType=web&companionAds=false&deviceName=web-desktop&dist=iheart&host=webapp.NZ&listenerId=&playedFrom=157&pname=live_profile&profileId=9631949606&stationid=6187&terminalId=162&territory=NZ
+#EXTINF:-1,Newstalk ZB
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_41AAC.aac
+#EXTINF:-1,Newstalk ZB Christchurch
+http://playerservices.streamtheworld.com/api/livestream-redirect/NZME_41AAC.m3u8
+#EXTINF:-1,Newstalk ZB Wellington
+http://playerservices.streamtheworld.com/api/livestream-redirect/NZME_31AAC.m3u8
+#EXTINF:-1,Niu FM - AAC
+https://playerservices.streamtheworld.com/api/livestream-redirect/NIUFMAAC_SC
+#EXTINF:-1,Niu FM - MP3
+https://playerservices.streamtheworld.com/api/livestream-redirect/NIUFM_SC
+#EXTINF:-1,Oamaru Heritage Radio
+http://202.9.116.204:8000/ohrweb
+#EXTINF:-1,OAR 105.4FM Dunedin
+https://live.accessmedia.nz/Otago.stream/playlist.m3u8
+#EXTINF:-1,OAR FM - Otago Access Radio
+https://live.accessmedia.nz/Otago.stream_aac/chunklist_w1332745084.m3u8
+#EXTINF:-1,One Christian Radio
+https://radio.wanderingsheep.net:33001/onechristianradio
+#EXTINF:-1,Paekakariki
+http://icecast.groundtruth.co.nz:8000/paekakfm.mp3
+#EXTINF:-1,Paekakariki 88.2FM
+https://icecast.groundtruth.co.nz/paekakfm.aac
+#EXTINF:-1,Plains FM 96.9
+https://live.accessmedia.nz/plains.stream/playlist.m3u8
+#EXTINF:-1,Plains FM 96.9
+http://live.accessmedia.nz/plains.stream_aac/playlist.m3u8
+#EXTINF:-1,Planet FM 104.6 - AAC
+https://live.accessmedia.nz/PlanetFM.stream_aac/playlist.m3u8
+#EXTINF:-1,Planet FM 104.6 - MP3
+https://live.accessmedia.nz/PlanetFM.stream/playlist.m3u8
+#EXTINF:-1,Positively Morrinsville 87.7FM
+https://c16.radioboss.fm:8262/stream?1652324863134
+#EXTINF:-1,Power Hit FM 87.8 - Christchurch, NZ
+http://listen.powerhitfm.co.nz:16100/stream
+#EXTINF:-1,Puketapu Radio 
+https://a.tunzilla.com/http://usa3.fastcast4u.com:1892/;
+#EXTINF:-1,RadiJohan
+http://69.30.214.54:13740/;?type=http&nocache=1708209708?0.5747864581171453
+#EXTINF:-1,Radio - X
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC65_SC?dist=onlineradiobox
+#EXTINF:-1,Radio A
+https://play.radioking.io/radio-a-music
+#EXTINF:-1,Radio Bolly Bop
+http://s3.radio.co/s2f19d44d0/listen
+#EXTINF:-1,Radio Bollybop
+https://s3.radio.co/s2f19d44d0/listen
+#EXTINF:-1,Radio BurgerFuel
+https://s3.radio.co/s9909bd65f/listen
+#EXTINF:-1,Radio Chinese FM90.6
+https://s26.myradiostream.com/:20274/listen.mp3?nocache=1628504081
+#EXTINF:-1,Radio Control 99.4FM
+https://michae14-gecko.radioca.st/stream
+#EXTINF:-1,Radio Ferrymead 1413 AM
+https://s2.stationplaylist.com:9440/listen.aac?1780841789005
+#EXTINF:-1,Radio Hauraki
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_04AAC_SC
+#EXTINF:-1,Radio Hauraki
+https://23163.live.streamtheworld.com/NZME_04AAC/HLS/playlist.m3u8?aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=12121006026&clientType=web&companionAds=false&deviceName=web-desktop&dist=iheart&host=webapp.NZ&listenerId=&playedFrom=157&pname=live_profile&profileId=12121006026&stationid=6191&terminalId=162&territory=NZ
+#EXTINF:-1,Radio Hauraki
+https://23163.live.streamtheworld.com/NZME_04AAC/HLS/playlist.m3u8
+#EXTINF:-1,Radio Hawkes Bay
+https://live.accessmedia.nz/Kidnappers.stream/playlist.m3u8
+#EXTINF:-1,Radio Kidnappers
+https://live.accessmedia.nz/Kidnappers.stream_aac/playlist.m3u8
+#EXTINF:-1,Radio one 91 fm 
+https://play.r1.co.nz/live
+#EXTINF:-1,RADIO PANJABI
+https://s20.reliastream.com/stream/8134
+#EXTINF:-1,Radio Robotic
+https://stream.zeno.fm/x4hneey2vwzuv
+#EXTINF:-1,Radio Robotic
+https://stream.zeno.fm/rhscse2a41zuv
+#EXTINF:-1,Radio Samoa 1593am
+http://radiosamoa.stream.broadcast.co.nz:8000/rsamoa48k
+#EXTINF:-1,Radio Sangeet Masti
+https://servidor19-4.brlogic.com:7304/live?source=website
+#EXTINF:-1,Radio Spice (Auckland, New Zealand)
+http://stream9.broadcast.co.nz:8000/radiospicewebsiteaudio.mp3
+#EXTINF:-1,Radio Te Aroha 88FM
+https://c2.radioboss.fm:18440/stream
+#EXTINF:-1,Radio Universo FM
+https://stationplaylist.com:7140/listen.aac
+#EXTINF:-1,Radio Wanaka
+https://27273.live.streamtheworld.com/NZME_83AAC/HLS/playlist.m3u8
+#EXTINF:-1,RadioActive.FM | 88.6FM
+https://radio123-gecko.radioca.st/radioactivefm
+#EXTINF:-1,Radiowave NZ
+https://stream.radiowavenz.com/stream
+#EXTINF:-1,Radiowave NZ
+https://stream.radiowavenz.com/stream-aac
+#EXTINF:-1,Radiowave NZ
+https://stream.radiowavenz.com/stream-aac-low
+#EXTINF:-1,Radiowave NZ
+https://listen.radioking.com/radio/106324/stream/145267
+#EXTINF:-1,RAG-FM 107.7FM
+https://cast6.asurahosting.com/proxy/ragfmcom/stream
+#EXTINF:-1,Raglan Community Radio
+https://s36.myradiostream.com/20712/;?type=http&nocache=1738237589?0.8271986316497546
+#EXTINF:-1,Raglan Communtiy Radio
+https://s36.myradiostream.com/20712/;?type=http&nocache=1738237956
+#EXTINF:-1,RDU
+https://rdu985fm-gecko.radioca.st/stream
+#EXTINF:-1,RDU 98.5FM
+http://rdu985fm-gecko.radioca.st:8247/stream
+#EXTINF:-1,Real Radio Oamaru 
+https://stream4.themediasite.co.uk:8016/stream
+#EXTINF:-1,Retro Hit Radio
+https://riphel02.radioca.st/;
+#EXTINF:-1,Retro Hit Radio
+http://riphel02.radioca.st/stream
+#EXTINF:-1,Retro Hit Radio
+https://riphel02.radioca.st/stream
+#EXTINF:-1,Rhema - MP3
+https://rhema-radio.streamguys1.com/rhema.mp3
+#EXTINF:-1,RNZ Concert AAC (128kbps)
+http://radionz-ice.streamguys.com/Concert_aac128
+#EXTINF:-1,RNZ Concert MP3
+http://radionz-ice.streamguys.com/concert.mp3
+#EXTINF:-1,RNZ National
+https://radionz.streamguys1.com/national/national/national/national-mainstream/chunks.m3u8
+#EXTINF:-1,RNZ National AAC (128kbps)
+http://radionz-ice.streamguys.com/National_aac128
+#EXTINF:-1,RNZ National MP3
+http://radionz-ice.streamguys.com/national.mp3
+#EXTINF:-1,RNZ Pacific AAC (64kbps)
+http://radionz-ice.streamguys.com/international_aac64
+#EXTINF:-1,RNZ Pacific MP3
+http://radionz-ice.streamguys.com/international.mp3
+#EXTINF:-1,RNZ Parliament MP3 (Sanctuary outside Parliament hours)
+http://radionz-ice.streamguys.com/parliament.mp3
+#EXTINF:-1,Robot Radio
+http://148.113.168.115:9001/
+#EXTINF:-1,ROVA CHILL HOP 
+https://playerservices.streamtheworld.com/api/livestream-redirect/ROVA_CHILLHOP_S01AAC.aac?dist=?n=de33099414fdd83859df
+#EXTINF:-1,Sanctuary - AAC
+https://rhema-radio.streamguys1.com/rhema-sanctuary.aac
+#EXTINF:-1,Sanctuary - MP3
+https://rhema-radio.streamguys1.com/rhema-sanctuary.mp3
+#EXTINF:-1,Ski FM
+https://s2.radio.co/s6436891bc/listen
+#EXTINF:-1,Sleep Radio
+https://cast4.my-control-panel.com/proxy/sleeprad/stream?1721309187745
+#EXTINF:-1,sleep radio
+http://65.109.81.84:9851/stream
+#EXTINF:-1,Sleep Radio
+http://65.109.81.84:9851/stream
+#EXTINF:-1,Smooth 105.6FM
+https://servidor26.brlogic.com:7110/live
+#EXTINF:-1,Sport Nation - AAC
+https://sen.streamguys1.com/SENZ-AAC/playlist.m3u8
+#EXTINF:-1,Sub FM
+https://fmsub.radioca.st/stream?type=http&nocache=140
+#EXTINF:-1,Switch FM Gisborne
+http://s8.myradiostream.com:56886/listen.m4a
+#EXTINF:-1,Tahu FM
+https://icast1.streamcom.net/TahuFM
+#EXTINF:-1,Tautoko FM
+https://icast1.streamcom.net/J_Tautoko.aac
+#EXTINF:-1,Te Hiku Radio
+http://libreice.tehiku.radio:8000/tehikufm_ogg
+#EXTINF:-1,The Breeze 93.4
+https://mediaworks.streamguys1.com/breeze-akl-high_icy
+#EXTINF:-1,The Cheese
+https://station.thecheese.co.nz/hls/the_cheese/live.m3u8
+#EXTINF:-1,The Cheese
+https://station.thecheese.co.nz/listen/the_cheese/128.mp3
+#EXTINF:-1,The Cheese FLAC
+https://station.thecheese.co.nz/listen/the_cheese/flac
+#EXTINF:-1,The Edge
+https://digitalstreams.mediaworks.nz/edge_net/playlist.m3u8
+#EXTINF:-1,The Generator
+https://s1.myradiostream.com/:14268/;?type=http&nocache=1608640718?0.7458407789862892
+#EXTINF:-1,The Generator FM
+https://s1.myradiostream.com/14268/stream/1/
+#EXTINF:-1,The Hawk NZ 
+https://cast5.asurahosting.com/proxy/thehawkf/stream
+#EXTINF:-1,The Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_71AAC.m3u8?aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=9774168307&clientType=web&companionAds=false&deviceName=web-desktop&dist=iheart&host=webapp.NZ&listenerId=&playedFrom=157&pname=live_profile&profileId=9774168307&stationid=6204&terminalId=162&territory=NZ
+#EXTINF:-1,The Most Fm
+http://gordon.mostfm.com:8000/high
+#EXTINF:-1,The Most FM 104.4
+http://gordon.mostfm.com:8000/high
+#EXTINF:-1,The Platform Kiwi
+https://hls.exiledkiwi.nz/theplatform.m3u8
+#EXTINF:-1,The Rhythm 89FM
+http://stream.zeno.fm/7v9aaqeqhs8uv
+#EXTINF:-1,The Rock
+https://digitalstreams.mediaworks.nz/rock_net/playlist.m3u8
+#EXTINF:-1,The Rock - NZ's #1 rock radio station
+https://digitalstreams.mediaworks.nz/rock_net_icy
+#EXTINF:-1,The Sound
+https://digitalstreams.mediaworks.nz/sound_net/playlist.m3u8
+#EXTINF:-1,The Wireless (Today's Best Country)
+https://stream.zeno.fm/lamr6x1fxrruv
+#EXTINF:-1,Tiri 2
+https://servidor34-4.brlogic.com:7138/live?source=website
+#EXTINF:-1,TLC Radio Northland
+http://203.118.136.79:88/broadwave.mp3
+#EXTINF:-1,True Light FM
+http://stream.truelightfm.co.nz:8000/stream
+#EXTINF:-1,UP FM 107.5
+https://stream.upfm.live/radio/8000/radio.mp3
+#EXTINF:-1,Vinyl Radio NZ
+https://s40.myradiostream.com:17794/listen.aac?
+#EXTINF:-1,Wandering Sheep Radio - Christian Smooth Jazz
+http://radio.wanderingsheep.tv:8021/christianjazz
+#EXTINF:-1,Wandering Sheep Radio - Hope Alive
+http://radio.wanderingsheep.tv:8012/hopealive
+#EXTINF:-1,WCR 87.6 FM
+http://stream2.nrgkits.co.nz:5000/wcrfm
+#EXTINF:-1,Wellington Access Radio
+https://live.accessmedia.nz/Wellington.stream/playlist.m3u8
+#EXTINF:-1,West FM Swing Radio
+http://westfm.freeddns.org:8000/westfm
+#EXTINF:-1,World FM Tawa 88.2
+http://www.worldfm.co.nz:8882/worldfm.aac
+#EXTINF:-1,XS80s
+http://s1.myradiostream.com:12508/listen.mp3
+#EXTINF:-1,ZFM Global
+http://nebula.shoutca.st:8545/stream/1/
+#EXTINF:-1,ZM Wellington (new)
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_33AAC.m3u8
+#EXTINF:-1,新西兰中文广播电台 FM90.6 Radio Chinese
+https://s26.myradiostream.com:20274/listen.mp3

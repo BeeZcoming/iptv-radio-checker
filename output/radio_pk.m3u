@@ -53,6 +53,8 @@ https://whmsonic.radio.gov.pk:8036/relay
 http://n0a.radiojar.com/htnudfgugm8uv?rj-ttl=5&rj-tok=AAABjGvN8wYArmabhGP5SLHW1A
 #EXTINF:-1,fm.92
 http://s33.myradiostream.com:13872/listen.m4a
+#EXTINF:-1,FriendChatZone Radio
+https://radio.friendchatzone.com/listen/friendchatzone/radio.mp3
 #EXTINF:-1,Highrise 24/7 Radio - PAKISTAN
 http://78.154.103.2:9326/stream
 #EXTINF:-1,Hot FM 105
@@ -63,3 +65,51 @@ http://172.93.237.106:8000/
 https://stream.zeno.fm/t961q1d0vp6vv/
 #EXTINF:-1,Hum FM 106.2
 https://server.mediacast4u.stream/8002/stream
+#EXTINF:-1,live 
+http://live.mp3quran.net:9752/
+#EXTINF:-1,Love-Islam-Radio
+https://stream-52.zeno.fm/f9h69cgbu68uv
+#EXTINF:-1,Mera FM 107.4
+https://samaakhi107-itelservices.radioca.st/stream
+#EXTINF:-1,Mera FM 107.4 Lahore 
+https://samaalhr107-itelservices.radioca.st/stream
+#EXTINF:-1,Papa John's Pizza Pakistan
+http://162.252.85.85:7086/
+#EXTINF:-1,Radio Mirpur 
+https://whmsonic.radio.gov.pk:8074/?type=http&nocache=9
+#EXTINF:-1,Radio One FM 91
+https://cc.vmakerhost.com/proxy/karachi?mp=/stream
+#EXTINF:-1,Radio One FM 91 Gwadar
+http://cc.vmakerhost.com:8147/stream
+#EXTINF:-1,Radio Pakistan D.I. Khan MW 711
+https://whmsonic.radio.gov.pk:7000/Dikhan
+#EXTINF:-1,Radio Pakistan Hyderabad MW 1008 KHz
+https://whmsonic.radio.gov.pk:8042/stream
+#EXTINF:-1,Radio Pakistan Islamabad
+https://whmsonic.radio.gov.pk:7003/stream
+#EXTINF:-1,Radio Pakistan Lahore 
+https://whmsonic.radio.gov.pk:8026/relay?type=http&nocache=9
+#EXTINF:-1,Radio Pakistan Lahore News and Current Affair AM 1332 KHZ
+https://whmsonic.radio.gov.pk:7004/stream?type=http&nocache=12
+#EXTINF:-1,Radio Pakistan Multan 
+https://whmsonic.radio.gov.pk:8034/stream?type=http&nocache=12
+#EXTINF:-1,Radio Pakistan Multan MW
+https://whmsonic.radio.gov.pk:8034/stream
+#EXTINF:-1,Radio Pakistan Peshawar
+https://whmsonic.radio.gov.pk:8072/relay?type=http&nocache=9](https://whmsonic.radio.gov.pk:8072/relay?type=http&nocache=9
+#EXTINF:-1,Radio Pakistan Peshawar MW
+https://whmsonic.radio.gov.pk:8072/relay
+#EXTINF:-1,Radio Pakistan Quetta MW
+https://whmsonic.radio.gov.pk:8060/relay
+#EXTINF:-1,Radio Pakistan World Service
+https://whmsonic.radio.gov.pk:7005/stream
+#EXTINF:-1,Radio Pakistan WS
+https://whmsonic.radio.gov.pk:7005/stream?type=http&nocache=12
+#EXTINF:-1,Shopen Anime Radio
+https://s97.radiolize.com:8040/radio.mp3
+#EXTINF:-1,Sindh fm
+http://167.114.131.90:2758/
+#EXTINF:-1,SOUTUL QURAN PBC FM 93.4 ISLAMABAD
+https://whmsonic.radio.gov.pk:7002/stream?type=http&nocache=12
+#EXTINF:-1,Universal Health Radio (اردو)
+https://radio.universalhealthradio.org/uhr-ur.mp3

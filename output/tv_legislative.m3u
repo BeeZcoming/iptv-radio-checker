@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,TV Camara (Paraguay) (1080p)
+http://45.170.130.224:8000/play/a03x/index.m3u8?hls
 #EXTINF:-1,TV from the Danish Parliament (1080p) [Not 24/7]
 https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1,TV NRSR (720p) [Not 24/7]

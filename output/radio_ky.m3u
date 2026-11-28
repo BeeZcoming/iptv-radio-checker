@@ -1,7 +1,15 @@
 #EXTM3U
-#EXTINF:-1,Big Fish 95.5FM
-https://ice41.securenetsystems.net/BIGFISH
-#EXTINF:-1,Bobo 103.1 FM
-https://ice23.securenetsystems.net/BOBO891
 #EXTINF:-1,Island FM - The Rhythm Of Cayman
 https://iriefm-hurleysmedia.radioca.st/stream?_=912521
+#EXTINF:-1,NRG Radio345
+https://streaming.live365.com/a95088
+#EXTINF:-1,Paradise Radio
+https://radiostreamcast.com/listen/paradise_radio/radio.mp3
+#EXTINF:-1,Paradise Radio
+https://www.radiostreamcast.com/listen/paradise_radio/radio.mp3
+#EXTINF:-1,Rewind 94.9
+https://stream.aiir.com/u1txyphty98uv
+#EXTINF:-1,Rooster 101
+https://rooster101-hurleysmedia.radioca.st/stream
+#EXTINF:-1,Z99 Grand Cayman
+https://z99-hurleysmedia.radioca.st/stream

@@ -1,62 +1,62 @@
 # 流媒体源检测报告
 
-生成时间: 2026-11-27 10:38:10 UTC
-耗时: 22.8 分钟
+生成时间: 2026-11-28 10:15:26 UTC
+耗时: 41.7 分钟
 
 ## 摘要
-- 电视源总数: **11542**
-- 电视有效源 (含 CORS): **815**
-- 电视因 CORS 被拦截: 78
-- 电台总数: **22000**
-- 电台有效源: **21122**
+- 电视源总数: **11555**
+- 电视有效源 (含 CORS): **789**
+- 电视因 CORS 被拦截: 79
+- 电台总数: **53388**
+- 电台有效源: **50678**
 
 ## 电视按分类统计 (Top 20)
 | 分类 | 数量 | 文件 |
 | :--- | ---: | :--- |
-| General | 191 | `tv_general.m3u` |
-| Undefined | 83 | `tv_undefined.m3u` |
-| News | 67 | `tv_news.m3u` |
-| Music | 60 | `tv_music.m3u` |
+| General | 186 | `tv_general.m3u` |
+| Undefined | 85 | `tv_undefined.m3u` |
+| News | 66 | `tv_news.m3u` |
 | Sports | 56 | `tv_sports.m3u` |
-| Movies | 54 | `tv_movies.m3u` |
-| Entertainment | 46 | `tv_entertainment.m3u` |
+| Music | 55 | `tv_music.m3u` |
+| Movies | 46 | `tv_movies.m3u` |
+| Entertainment | 45 | `tv_entertainment.m3u` |
 | Religious | 33 | `tv_religious.m3u` |
 | Kids | 28 | `tv_kids.m3u` |
-| Series | 26 | `tv_series.m3u` |
+| Series | 25 | `tv_series.m3u` |
 | Documentary | 23 | `tv_documentary.m3u` |
-| Animation;Kids | 17 | `tv_animation_kids.m3u` |
-| Lifestyle | 14 | `tv_lifestyle.m3u` |
+| Animation;Kids | 15 | `tv_animation_kids.m3u` |
+| Lifestyle | 13 | `tv_lifestyle.m3u` |
 | Culture | 10 | `tv_culture.m3u` |
 | Business | 10 | `tv_business.m3u` |
-| Education | 9 | `tv_education.m3u` |
+| Education | 8 | `tv_education.m3u` |
 | Outdoor | 7 | `tv_outdoor.m3u` |
 | Movies;Series | 7 | `tv_movies_series.m3u` |
-| General;Public | 6 | `tv_general_public.m3u` |
+| General;Public | 7 | `tv_general_public.m3u` |
 | Shop | 5 | `tv_shop.m3u` |
 
 ## 电台按分类统计 (Top 20)
 | 分类 | 数量 | 文件 |
 | :--- | ---: | :--- |
-| US | 3377 | `radio_us.m3u` |
-| DE | 2550 | `radio_de.m3u` |
-| FR | 1252 | `radio_fr.m3u` |
-| MX | 1096 | `radio_mx.m3u` |
-| CA | 1003 | `radio_ca.m3u` |
-| GB | 980 | `radio_gb.m3u` |
-| AU | 925 | `radio_au.m3u` |
-| GR | 618 | `radio_gr.m3u` |
-| RU | 565 | `radio_ru.m3u` |
-| General | 561 | `radio_general.m3u` |
-| ES | 516 | `radio_es.m3u` |
-| AE | 493 | `radio_ae.m3u` |
-| NL | 446 | `radio_nl.m3u` |
-| AR | 407 | `radio_ar.m3u` |
-| BR | 372 | `radio_br.m3u` |
-| CO | 353 | `radio_co.m3u` |
-| PH | 340 | `radio_ph.m3u` |
-| IN | 332 | `radio_in.m3u` |
-| TR | 262 | `radio_tr.m3u` |
-| IT | 251 | `radio_it.m3u` |
+| US | 6284 | `radio_us.m3u` |
+| DE | 5367 | `radio_de.m3u` |
+| FR | 2765 | `radio_fr.m3u` |
+| RU | 2342 | `radio_ru.m3u` |
+| CN | 1930 | `radio_cn.m3u` |
+| GB | 1892 | `radio_gb.m3u` |
+| GR | 1875 | `radio_gr.m3u` |
+| IT | 1572 | `radio_it.m3u` |
+| AU | 1552 | `radio_au.m3u` |
+| MX | 1537 | `radio_mx.m3u` |
+| BR | 1526 | `radio_br.m3u` |
+| CA | 1302 | `radio_ca.m3u` |
+| ES | 1187 | `radio_es.m3u` |
+| NL | 1150 | `radio_nl.m3u` |
+| General | 1059 | `radio_general.m3u` |
+| AR | 945 | `radio_ar.m3u` |
+| PL | 886 | `radio_pl.m3u` |
+| RO | 800 | `radio_ro.m3u` |
+| IN | 697 | `radio_in.m3u` |
+| TR | 669 | `radio_tr.m3u` |
 
 ## 电视源详细结果 (前 50 条)
 | 频道 | 状态 | 原因 | UA |

@@ -15,3 +15,17 @@ https://campusfm.radioca.st/campusfm_live
 http://philae.shoutca.st:8402/stream?type=http&nocache=165
 #EXTINF:-1,GrungInRadio
 https://stream.grunginradio.com/listen/grunginradio/radio.mp3
+#EXTINF:-1,Magic
+https://s46.myradiostream.com:6076/stream
+#EXTINF:-1,Malta's Lite Radio
+http://s3.voscast.com:9258/default
+#EXTINF:-1,MALTIN BISS
+https://s4.voscast.com:8837/default
+#EXTINF:-1,One Radio
+http://s10.voscast.com:8202/stream
+#EXTINF:-1,Radju Maria Malta
+http://dreamsiteradiocp.com:8102/
+#EXTINF:-1,Radju Marija
+https://dreamsiteradiocp2.com/proxy/rmmalta2?mp=/stream
+#EXTINF:-1,RADJU MARIJA MALTA
+http://dreamsiteradiocp.com:8102/stream

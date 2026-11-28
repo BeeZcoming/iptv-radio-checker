@@ -79,3 +79,175 @@ https://icecast.err.ee/klaranostalgia.mp3
 http://icecast.err.ee/klaranostalgia.opus
 #EXTINF:-1,Klassikaraadio (128 kbps Ogg Opus) | Eesti Rahvusringhääling | klassikaraadio.err.ee
 http://icecast.err.ee/klassikaraadio.opus
+#EXTINF:-1,Legendaarne Raadio
+https://edge01.cdn.bitflip.ee:8888/Legendaarne?_i=52831a92
+#EXTINF:-1,Legendaarne Raadio
+https://stream.skymedia.ee/live/Legendaarne
+#EXTINF:-1,MyHits
+http://le305.euddn.net/6ee8517a2a4d806a1e465a0506aefe253e1c338d5f4d6a5fda747fb7b11b8bc813206152292aa2d7b62c6d249beef22ba30ba4400a65121734545351d739402ad2164910627526e1c6fb21aedd19400cdc553199adbaafa631f747272eb0e1e5a02faf9a5bf91152a7c934a4d15e4ca31688a8d93c3261873d70c0624b767b0af3a93ddb640cc6ae63e96ce3d9b1f8fe2249a5552178fe56bcaa00e213ba0347aceb2553c02c8d104041f6ac3db682b7/myhits.aac
+#EXTINF:-1,MyHits Dance
+https://le305.euddn.net/84e09681b716924ccde849c834cdd511acb6b8b5de8f41f6a069d0d43f6ce0243892b4c48450960c1fba95f30b893b851b25b15c21004114bad99f54c7aa71884f7ea4074af71409d27b02f702261730bd59848d2c38dcacba3203db01a0bf52c1882c52cd7867186a698adc8cd71314954d557b8e5385b0e2b10966080dbdb9acbe5d6e88ac1726b03dd1238f0d498d1aa703464ff09e519850bd55f989d289199a0129bba6404dbb17984c42ee72fa/md_mhdance.aac
+#EXTINF:-1,MyHits Rock
+https://le306.euddn.net/5302013fb2ddbf6bce8b71d5a0f9decb6edca52cd199493bc55e32da64ce9618e34c528240dddf5dc2b931e34b73dc191d8745d66e898d66e0923ed6de7c6e96b9dd9ac3d96fc37e1c120998efa0ebca874c1e10ccdf5e4668f380753a369a03dfa13a09229719b5216b362ef79f197ba1bf24fd9a142287e576348f5bc6a7b69923923e96a631f145a4af926d889161b9c2ce04fc8b46b2e1b5e67019b1a73f78f8c02750a25d2a872472509c31e10601fc17c4ab253ac916880429f3e90257/MHR_myhitsrock.aac
+#EXTINF:-1,NEUROSCOPE FM
+https://a13.asurahosting.com/listen/neuroscope_fm/radio.mp3
+#EXTINF:-1,NEUROSCOPE FM (mobile 128k)
+https://a13.asurahosting.com/listen/neuroscope_fm/mobile.mp3
+#EXTINF:-1,NRJ
+https://edge01.cdn.bitflip.ee:8888/NRJ?_i=5b8169cb
+#EXTINF:-1,NRJ DnB
+https://stream.skymedia.ee/live/NRJdnb
+#EXTINF:-1,NRJ Estonia
+https://stream.skymedia.ee/live/NRJ
+#EXTINF:-1,NRJ Tallinn
+https://edge03.cdn.bitflip.ee:8888/NRJ
+#EXTINF:-1,PCR.FM (Parnu Club Radio)
+https://pcrfm.radiocult.fm/stream
+#EXTINF:-1,Pereraadio Kuressaare
+http://icecast.pereraadio.ee:8000/Kuressaare
+#EXTINF:-1,Pereraadio Tallinn
+http://icecast.pereraadio.ee:8000/Tallinn
+#EXTINF:-1,Pereraadio Tartu
+http://icecast.pereraadio.ee:8000/Tartu
+#EXTINF:-1,Power Hit Radio
+https://ice.leviracloud.eu/phr96-aac?
+#EXTINF:-1,PUNK FM
+https://sapircast.caster.fm:11309/OsZpV
+#EXTINF:-1,R2 Eesti
+https://icecast.err.ee/r2eestikorge.mp3
+#EXTINF:-1,R2 Pop
+http://icecast.err.ee/r2pop.opus
+#EXTINF:-1,R2 Rock
+http://icecast.err.ee/r2rock.mp3
+#EXTINF:-1,R2Altpop
+http://icecast.err.ee/r2alternatiiv.opus
+#EXTINF:-1,r2chill
+http://icecast.err.ee/r2chill.opus
+#EXTINF:-1,R2Extra - AltPop
+https://live.err.ee/live/r2alt.m3u8?short=true
+#EXTINF:-1,R2Extra - Chill
+https://sb.err.ee/live/r2chill.m3u8?short=true
+#EXTINF:-1,R2Extra - Rap
+http://icecast.err.ee/r2pkorge.mp3
+#EXTINF:-1,R2Extra - Rock
+https://sb.err.ee/live/r2rock.m3u8
+#EXTINF:-1,R2Extra Pop
+https://live.err.ee/live/r2pop.m3u8?short=true
+#EXTINF:-1,R2p
+https://icecast.err.ee/r2p.opus
+#EXTINF:-1,R2Rock
+http://icecast.err.ee/r2rock.opus
+#EXTINF:-1,Raadio 2 (128 kbps Ogg Opus) | Eesti Rahvusringhääling | r2.err.ee
+http://icecast.err.ee/raadio2.opus
+#EXTINF:-1,Raadio 2 (HQ)
+http://icecast.err.ee/raadio2korge.mp3
+#EXTINF:-1,Raadio 2 HQ
+http://icecast.err.ee/raadio2korge.mp3
+#EXTINF:-1,Raadio 4
+http://icecast.err.ee/r4retro.mp3
+#EXTINF:-1,Raadio 7
+https://edge05.cdn.bitflip.ee:8888/R7
+#EXTINF:-1,Raadio Duo
+https://le03.euddn.net/643e1d6549b37ef476e9291c8a2416f4c7a26fd8c57720075bfc75e9f8989cec756cd63e9bedeab335cb6d27c3cf06643a3b5e57c811be0e6789ef0d2b81e1d1a37bb18b37f32cd4af628f7044d43fa5f323de0c4edf8f1019b07a3fdeb4bac2410fbbe27a31a7c3f9c3d63da38af0935a770bf4447693219bf8317e70ab02c958b988455d7b1b47dc0715c9eaf503c9ecccde7213c5b4c9a328e2377aeac41517a186c7148f9b516b9cd799b32b8d8c/radioduo.aac
+#EXTINF:-1,Raadio Elmar
+https://le303.euddn.net/56203a1d0d4121e3c10744ba878fe204d8dc6f3889bf7130658cab23b868de83a6d33f4e4a181c93ef82390303773289084401416f7ff1d725d8c2f7e8321030eb3695968ff0691bab695e90a79c1f6f561602aa8333faf14c46f1f466dff96645a9bc1678d681fb21d9648430dd57dc6969ad8149b242f761e44f4ac5ba14de4a91c4bc602daf04b03346e4118a50cab6b31624be3b99a9c9500abe94bf363fd8feb5d8318e78d3cfe045fd28820547/elmar.aac
+#EXTINF:-1,Raadio Kadi
+https://edge06.cdn.bitflip.ee:8888/kadi
+#EXTINF:-1,Raadio Kidzone
+https://le301.euddn.net/d2c858d7128e7ec9d9b23397b5bcece92ce37e2b1514f0bf980cb835ad8fffb41681a5d0eaad6acc35caf9cf6c931a940dbdbf9ae63361abc9e63da86630e6630395f5e540402134582ce923a25c37d0c5f9575ab737752825ba983243fed8111fc819f53598779da82f59fba74c71d4ba2ded2abdf4ea5be0d213fe5343d96af40e3b563c962a1357963262cc528a601879a532a94fe3667f4bbd5e26c2e8a949b858384703221dcf5191b8bef79788/kidzone.aac
+#EXTINF:-1,Raadio KUKU
+http://le301.euddn.net/4c412f7840aaa1aa9236433d74f756d8d45fe72f0ff71c8940d7171b61dc1ad03a6ed5cc3ba8d13444a782379d30772d35218ffe5d97a05e48fa1b85ff3b466a260afdc00f4f47167b54702cb4b76d53c80d841c16965a3937df18bc0eb005eed0bfb871c240a672a887d2e3d358e27a7576e4166f4fa59dbbbce71a94c1df2e9c4e07a189d4750449c7f4ac42ffdb5ce1a19131b9c4bc78f3fa824a800fc05528c732374776101c0dc436251de87c00/kuku_low.mp3
+#EXTINF:-1,Raadio Kuku
+https://le305.euddn.net/bffbc72317ed9b4fb5ed6718d7b05b4b55a0975fc98be00e5d7b4fd52ee16b20d5ab14dabc12901731d72fc645a1ebd97bed2ddeb25a8893ecc732a6143f52ef9f44b9962c630691c9f3a2abe2a641806dc4463e04594a956128f47df4508ee010c488062f5ba127768893842aeb80532bd15e47d71b932a4760b2e0caa6e85611e5589f07597a2010e2afb83a334fc8f08cf89cb8e2d6da13653b1fd24b65942184f12d3fc6676fd910db02b9f7e1cf/kuku_high.mp3
+#EXTINF:-1,Raadio Tallinn
+http://icecast.err.ee/raadiotallinn.mp3
+#EXTINF:-1,Raadio Tallinn
+http://icecast.err.ee/raadiotallinn.mp3?type=.mp3/;stream.mp3
+#EXTINF:-1,Raadio Tallinn (128 kbps Ogg Opus) | Eesti Rahvusringhääling | raadiotallinn.err.ee
+http://icecast.err.ee/raadiotallinn.opus
+#EXTINF:-1,Radio Azathoth Revival
+https://cast4.asurahosting.com/proxy/aadu/stream
+#EXTINF:-1,Radio DRUZI
+https://stream.druzi.media/192mp3
+#EXTINF:-1,Radio Eli
+http://icecast.pereraadio.ee:8000/RadioEli
+#EXTINF:-1,Radio Maximum
+https://stream.radiomaximum.ee/stream
+#EXTINF:-1,Radio Nostalgia Estonia
+https://c16.radioboss.fm:8327/stream
+#EXTINF:-1,Radio Olematu
+https://radio.olematu.ee/listen/radio_olematu/radio.mp3
+#EXTINF:-1,Rahvaraadio
+http://streamer.tt.ee:8000/rahvaraadio
+#EXTINF:-1,Relax cafe
+https://stream.relaxfm.ee/cafe
+#EXTINF:-1,Relax FM Eesti
+https://stream.relaxfm.ee/relax
+#EXTINF:-1,Relax Instrumental
+https://stream.relaxfm.ee/instrumental
+#EXTINF:-1,Retro FM
+https://stream.skymedia.ee/live/RETRO
+#EXTINF:-1,Retro FM - Jõulud
+https://stream.skymedia.ee/live/RetroJ6ulud
+#EXTINF:-1,Retro FM Eestikas
+https://stream.skymedia.ee/live/retro2.mp3
+#EXTINF:-1,Retro FM Estonia
+https://stream.skymedia.ee/live/RETRO_AAC
+#EXTINF:-1,Rock FM
+https://edge02.cdn.bitflip.ee:8888/rck?_i=5f5ab186
+#EXTINF:-1,RUUT FM
+https://a1.asurahosting.com/listen/ruut_fm/radio.mp3
+#EXTINF:-1,Semeinoje Radio
+http://icecast.pereraadio.ee:8000/Semeinoje
+#EXTINF:-1,Sky Plus
+https://skymedia-live.bitflip.ee/SKYPLUS
+#EXTINF:-1,Sky Plus
+https://stream.skymedia.ee/live/SKYPLUS
+#EXTINF:-1,Sky-Radio
+https://stream.skymedia.ee/live/SKY
+#EXTINF:-1,Space FM
+https://stream.spacefm.ee/live
+#EXTINF:-1,SSS-Radio
+https://uvn-67-97.tll01.zonevs.eu/sss-radio
+#EXTINF:-1,Star Fm
+https://ice.leviracloud.eu/star96-aac
+#EXTINF:-1,Star FM
+https://ice.leviracloud.eu/star320-mp3
+#EXTINF:-1,Star FM Eesti
+https://ice.leviracloud.eu/starFMEesti96-aac
+#EXTINF:-1,Super Ретро
+https://stream.skymedia.ee/live/rrretro
+#EXTINF:-1,Super Рок
+https://stream.skymedia.ee/live/rrock
+#EXTINF:-1,Tagatuba FM
+https://mcr.streams.gr:10416/stream
+#EXTINF:-1,Taifuun FM
+https://eagle.streemlion.com/proxy/taifuunfm?mp=/stream
+#EXTINF:-1,Tre Raadio Põhja-Eesti
+http://cdn.treraadio.ee/pohja-tre
+#EXTINF:-1,Tre Raadio Ring FM
+https://cdn.treraadio.ee/ringfm
+#EXTINF:-1,Tunitemusic
+https://stream.radiojar.com/6x51bmzpfy3vv
+#EXTINF:-1,VIKERRAADIO
+http://icecast.err.ee/vikerraadiokorge.mp3
+#EXTINF:-1,Vikerraadio
+http://icecast.err.ee/vikerraadio.mp3
+#EXTINF:-1,Vikerraadio
+http://icecast.err.ee/vikerraadio.mp3
+#EXTINF:-1,Vikerraadio
+https://icecast.err.ee/vikerraadiokorge.mp3
+#EXTINF:-1,Vikerraadio (128 kbps Ogg Opus) | Eesti Rahvusringhääling | vikerraadio.err.ee
+http://icecast.err.ee/vikerraadio.opus
+#EXTINF:-1,Võmba FM
+https://c4.radioboss.fm:18123/stream
+#EXTINF:-1,XFM Eesti
+https://sc2.treraadio.ee/xfm-tallinn
+#EXTINF:-1,XL Radio Estonia
+https://stream.rcast.net/69794
+#EXTINF:-1,Пирамида FM
+https://listen9.myradio24.com/93928
+#EXTINF:-1,Радио 4 / Raadio 4 (128 kbps Ogg Opus) | Eesti Rahvusringhääling | r4.err.ee
+http://icecast.err.ee/raadio4.opus
+#EXTINF:-1,Радіо DrUzi
+https://druzi.fm:8443/192mp3

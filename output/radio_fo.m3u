@@ -13,3 +13,15 @@ http://netvarp.kringvarp.fo:443/uvhm
 http://netvarp.kringvarp.fo:4443/tingvarp
 #EXTINF:-1,KVF2
 http://netvarp.kringvarp.fo:4443/kvf2_2
+#EXTINF:-1,Lindin: Kristiligt Kringvarp
+https://high.lindin.fo/
+#EXTINF:-1,Norðlýsið
+https://liveradio.stream.fo/listen/nordlysid/web
+#EXTINF:-1,Rás 2
+http://stream.midlar.fo/ras2
+#EXTINF:-1,Sjey: Kristiligt Radio
+https://lurta.sjey.fo/high_aac
+#EXTINF:-1,VoxPop
+http://stream.midlar.fo/voxpop
+#EXTINF:-1,VoxPop
+https://stream-secure.midlar.fo/voxpop-128

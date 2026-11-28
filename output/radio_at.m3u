@@ -243,3 +243,371 @@ http://onair-ha1.krone.at/kronehit64.aac
 http://onair-ha1.krone.at/kronehit.aac
 #EXTINF:-1,Kronehit TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1,LCR Radio
+https://streaming.radio.co/sba5c95896/listen
+#EXTINF:-1,Life Radio
+http://stream1.liferadio.at/
+#EXTINF:-1,Life Radio 80er
+https://stream.liferadio.at/80er/mp3-192/stream.liferadio.at/
+#EXTINF:-1,Life Radio 90er
+http://stream3.liferadio.at/;
+#EXTINF:-1,Life Radio Chill Out
+https://stream8.liferadio.at/
+#EXTINF:-1,Life Radio Chill Out Hits
+https://stream.liferadio.at/chillout/mp3-192/stream.liferadio.at/
+#EXTINF:-1,Life Radio Classic Rock 
+https://stream11.liferadio.at/
+#EXTINF:-1,Life Radio ClassicRock
+https://stream.liferadio.at/clrock/mp3-192/stream.liferadio.at/
+#EXTINF:-1,Life Radio Greatest Hits
+https://stream.liferadio.at/greatest-hits/mp3-192/stream.liferadio.at/
+#EXTINF:-1,Life Radio Oberösterreich
+https://stream1.liferadio.at/
+#EXTINF:-1,Life Radio Sommersongs
+https://stream.liferadio.at/sommer/mp3-192/stream.liferadio.at/
+#EXTINF:-1,Life Radio Tirol
+http://stream.liferadio.tirol/live/aac-256/SHQ
+#EXTINF:-1,Life Radio Tirol
+https://stream.liferadio.tirol/live/mp3-192/link
+#EXTINF:-1,Life Radio Tirol
+https://stream.liferadio.tirol/oldies/acc-128/link
+#EXTINF:-1,Life Radio Tirol - ITALO
+https://stream.liferadio.tirol/italo/mp3-192/link
+#EXTINF:-1,Life Radio Tirol - Schlagerpuls
+https://stream.liferadio.tirol/schlager/mp3-192/link
+#EXTINF:-1,Life Radio Tirol- Alles Malle
+https://stream.liferadio.tirol/malle/mp3-192/link
+#EXTINF:-1,Lounge.FM - 100% Austria
+https://s35.derstream.net/100austria.mp3
+#EXTINF:-1,Lounge.FM Kanal 2 - Wien
+https://s35.derstream.net/ukwwien.mp3
+#EXTINF:-1,LoungeFM
+http://188.138.9.183/digital.mp3
+#EXTINF:-1,Medex ExYu Balkan
+https://a5.asurahosting.com:7350/radio.mp3
+#EXTINF:-1,Metal Radio
+https://stream.radiotechnikum.at:80/METALRadio
+#EXTINF:-1,Metal Radio
+https://stream.radiotechnikum.at/METALRadio
+#EXTINF:-1,Modular Station
+https://broadcast.modular-station.com/listen/modular_station/radio.aac
+#EXTINF:-1,Mountain Reggae Radio
+https://mountainreggaeradio.stream.laut.fm/mountainreggaeradio
+#EXTINF:-1,museumsradio
+https://museum.streamserver24.com:8080/stream
+#EXTINF:-1,NJoy Radio 88.2 Steiermark
+http://live.njoyradio.at/njoy
+#EXTINF:-1,Now Radio 128k
+http://stream.erf.at:8000/nowradio_128
+#EXTINF:-1,Now Radio 192k
+http://stream.erf.at/nowradio_192
+#EXTINF:-1,Now Radio 192k
+http://stream.erf.at:8000/nowradio_192
+#EXTINF:-1,Now Radio 320k
+http://stream.erf.at:8000/nowradio_320
+#EXTINF:-1,Now Radio 96k
+http://stream.erf.at:8000/nowradio_96
+#EXTINF:-1,Now Radio 96k
+http://stream.erf.at/nowradio_96
+#EXTINF:-1,Ö1 | ORF
+http://orf-live.ors-shoutcast.at/oe1-q1a
+#EXTINF:-1,Ö1 | ORF | HQ
+http://orf-live.ors-shoutcast.at/oe1-q2a
+#EXTINF:-1,oe24
+https://edge69.streamonkey.net/oe24-live
+#EXTINF:-1,Oldie Party
+http://streams.norawebstreams.de/oldieparty/mp3-192/vtuner/
+#EXTINF:-1,ORANGE 94.0
+https://securestream.o94.at/live.mp3
+#EXTINF:-1,ORF - Radio Salzburg
+https://orf-live.ors-shoutcast.at/sbg-q1a
+#EXTINF:-1,ORF Hitradio Ö3
+https://ors-sn03.ors-shoutcast.at/oe3-q1a
+#EXTINF:-1,ORF Hitradio Ö3 (128k HLS)
+https://orf-live-oe3.mdn.ors.at/out/u/oe3/q3a/manifest.m3u8
+#EXTINF:-1,ORF Hitradio Ö3 (290k HLS)
+https://orf-live-oe3.mdn.ors.at/out/u/oe3/q4a/manifest.m3u8
+#EXTINF:-1,ORF Hitradio Ö3 | HQ
+https://orf-live.ors-shoutcast.at/oe3-q2a
+#EXTINF:-1,ORF Ö1 (128k HLS)
+https://orf-live-oe1.mdn.ors.at/out/u/oe1/q3a/manifest.m3u8
+#EXTINF:-1,ORF Ö1 (290k HLS)
+https://orf-live-oe1.mdn.ors.at/out/u/oe1/q4a/manifest.m3u8
+#EXTINF:-1,ORF Ö1 Campus
+https://orf-live.ors-shoutcast.at/campus-q1a
+#EXTINF:-1,ORF Ö1 Campus | HQ
+https://orf-live.ors-shoutcast.at/campus-q2a
+#EXTINF:-1,ORF ö3 Pop Radio http
+http://orf-live.ors-shoutcast.at/oe3-q2a
+#EXTINF:-1,ORF Radio Burgenland
+https://orf-live.ors-shoutcast.at/bgl-q1a
+#EXTINF:-1,ORF Radio Kärnten
+http://ors-sn02.ors-shoutcast.at/ktn-q1a
+#EXTINF:-1,ORF Radio Kärnten HQ
+https://orf-live.ors-shoutcast.at/ktn-q2a
+#EXTINF:-1,ORF Radio Niederösterreich
+https://orf-live.ors-shoutcast.at/noe-q1a
+#EXTINF:-1,ORF Radio Niederösterreich | HQ
+http://orf-live.ors-shoutcast.at/noe-q2a
+#EXTINF:-1,ORF Radio Oberösterreich
+https://orf-live.ors-shoutcast.at/ooe-q1a
+#EXTINF:-1,ORF Radio Oberösterreich | HQ
+https://orf-live.ors-shoutcast.at/ooe-q2a
+#EXTINF:-1,ORF Radio Salzburg HQ
+https://orf-live.ors-shoutcast.at/sbg-q2a
+#EXTINF:-1,ORF Radio Steiermark
+http://orf-live.ors-shoutcast.at/stm-q1a
+#EXTINF:-1,ORF Radio Steiermark | HQ
+http://orf-live.ors-shoutcast.at/stm-q2a
+#EXTINF:-1,ORF Radio Tirol (128k)
+https://orf-live.ors-shoutcast.at/tir-q1a
+#EXTINF:-1,ORF Radio Tirol (192k)
+https://orf-live.ors-shoutcast.at/tir-q2a
+#EXTINF:-1,ORF Radio Wien
+http://orf-live.ors-shoutcast.at/wie-q1a
+#EXTINF:-1,ORF Radio Wien (128k HLS)
+https://orf-live-wie.mdn.ors.at/out/u/wie/q3a/manifest.m3u8
+#EXTINF:-1,ORF Radio Wien (290k HLS)
+https://orf-live-wie.mdn.ors.at/out/u/wie/q4a/manifest.m3u8
+#EXTINF:-1,ORF Radio Wien | HQ
+http://orf-live.ors-shoutcast.at/wie-q2a
+#EXTINF:-1,ORF Slovenski spored | HQ
+http://ors-sn03.ors-shoutcast.at/slo-q2a
+#EXTINF:-1,ORF Tirol
+http://orf-live.ors-shoutcast.at/tir-q1a
+#EXTINF:-1,ORF Tirol HQ
+http://orf-live.ors-shoutcast.at/tir-q2a
+#EXTINF:-1,ÖsterreichRadio
+http://oesterreichradio.stream.laut.fm/oesterreichradio?uuid=37957d87-692b-254d-7357-d4e1ecabb897&t302=2026-11-27_04-40-01
+#EXTINF:-1,Peters Plattenthek
+http://server7524.streamplus.de/stream.mp3
+#EXTINF:-1,PetersPlattentek
+https://server7524.streamplus.de/stream.mp3
+#EXTINF:-1,Pfarr-Radio Enzersfeld
+http://server4.streamserver24.com:43615/stream
+#EXTINF:-1,Pirate Radio Austria
+https://secureonair.krone.at/pirate.aac
+#EXTINF:-1,Popwelle Wörthersee,AutoDJ
+https://popwellezwei.sp.radio.fm/stream
+#EXTINF:-1,Popwelle. Das Musikradio,AutoDJ
+https://popwelle.sp.radio.fm/stream
+#EXTINF:-1,Power FM Dublin
+https://www.powerfm.org:8443/powerfm.mp3
+#EXTINF:-1,Proton - das freie Radio
+https://radioproton.at:8443/proton
+#EXTINF:-1,Purzelradio
+https://s5.radio.co/sa760ba7af/listen
+#EXTINF:-1,Radi
+https://edge22.streamonkey.net/oe24-live
+#EXTINF:-1,Radino - Mein Kinderradio Wien 103,2
+http://stream01.zogl.net:8906/stream
+#EXTINF:-1,Radio 3: The DJ Johnson Somerset Remixes
+https://radio.eduneu.eu:8020/radio.mp3
+#EXTINF:-1,radio 88.6
+http://radio886.at/streams/radio_88.6/mp3
+#EXTINF:-1,Radio Alpenstar
+http://streamplus62.leonex.de:22674/;
+#EXTINF:-1,Radio Arabella Oberösterreich
+https://frontend.streams.arabella.at/arabella-oberoesterreich?aggregator=tunein
+#EXTINF:-1,Radio B138
+https://webstream.radiob138.at/
+#EXTINF:-1,Radio B138
+https://73713.streamerr.co:8443/main?.mp3
+#EXTINF:-1,Radio Balkan EU
+http://cast2.name.ba:8185/
+#EXTINF:-1,Radio Braunau am Inn AT
+https://stream.zeno.fm/ec0tpqnxqsbvv
+#EXTINF:-1,Radio Burgenland HQ
+http://orf-live.ors-shoutcast.at/bgl-q2a
+#EXTINF:-1,Radio Flamingo
+http://live.antenne.at/rf
+#EXTINF:-1,Radio Flamingo
+https://live.antenne.at/rf
+#EXTINF:-1,Radio Flamingo + Golden Hits
+https://live.radioflamingo.at/rfplusgoldenhits
+#EXTINF:-1,Radio Flamingo + Kultschlager
+https://live.radioflamingo.at/rfpluskultschlager
+#EXTINF:-1,Radio Flamingo + Volksmusik
+https://live.radioflamingo.at/rfplusvolksmusik
+#EXTINF:-1,Radio Flamingo Christkindl
+https://live.radioflamingo.at/rfchristkindl
+#EXTINF:-1,Radio Flamingo Hoamat
+https://live.radioflamingo.at/rfhoamat
+#EXTINF:-1,Radio Flamingo Partyschlager
+https://live.radioflamingo.at/rfpartyschlager
+#EXTINF:-1,Radio Freequenns
+http://livestream.freequenns.at/live
+#EXTINF:-1,Radio FRO
+https://stream.fro.at/fro320.mp3
+#EXTINF:-1,Radio GÖD
+https://radiogoed.securestream.kapper.net/stream
+#EXTINF:-1,Radio Grün Weiß
+http://live.gruen-weiss.at/rgw.mp3
+#EXTINF:-1,Radio Grün Weiß - HQ
+http://live.gruen-weiss.at/rgw.aac
+#EXTINF:-1,Radio Helsinki
+https://live.helsinki.at:8088/live160.mp3
+#EXTINF:-1,Radio Helsinki 92,6 MHz (128 kbps)
+http://live.helsinki.at:8088/live128.mp3
+#EXTINF:-1,Radio Helsinki 92,6 MHz (160 kbps)
+http://live.helsinki.at:8088/live160.mp3
+#EXTINF:-1,Radio Helsinki 92.6 FM
+http://live.helsinki.at:8088/live160.ogg
+#EXTINF:-1,Radio Himmelberg
+http://stream.laut.fm/radio-himmelberg
+#EXTINF:-1,Radio Klassik Stephansdom
+http://radioklassikstephansdom.ice.infomaniak.ch/radioklassikstephansdom.mp3
+#EXTINF:-1,Radio Maria Austria
+http://live.radiomaria.at:8000/rma
+#EXTINF:-1,Radio Maria Austria (56 kbps)
+http://live.radiomaria.at:8000/rma2
+#EXTINF:-1,Radio Max Billa
+http://listen.radiomax.technology/billa
+#EXTINF:-1,Radio Max Bipa
+http://listen.radiomax.technology/bipa
+#EXTINF:-1,Radio Max Penny
+http://listen.radiomax.technology/penny
+#EXTINF:-1,Radio MORA
+https://server4.streamserver24.com:26250/stream?1655820557881
+#EXTINF:-1,Radio MORA - HQ
+http://server4.streamserver24.com:26253/stream
+#EXTINF:-1,Radio Nachtvogel
+https://stream.tramp-cast.ch/8012/stream
+#EXTINF:-1,Radio OP
+https://server4.streamserver24.com:26250/stream
+#EXTINF:-1,Radio Osttirol
+http://streamplus20.leonex.de:28768/
+#EXTINF:-1,Radio Rot Weiß Rot
+https://secureonair.krone.at/rwr.aac
+#EXTINF:-1,Radio Rudina
+https://azuracast.datea.services:8000/radio.mp3
+#EXTINF:-1,Radio Steiermark
+https://orf-live.ors-shoutcast.at/stm-q2a
+#EXTINF:-1,Radio Steiermark 80er POP
+https://live.antenne.at/80s
+#EXTINF:-1,Radio Studio Enns
+https://server4.streamserver24.com:61414/
+#EXTINF:-1,Radio Surprise The Live DJ Radio
+https://a12.asurahosting.com/listen/radio_surprise/radio.mp3
+#EXTINF:-1,Radio U1 Tirol
+https://live.u1-radio.at/
+#EXTINF:-1,Radio Uno Kärnten
+https://radiouno.stream24.net/live.mp3
+#EXTINF:-1,Radio VM1
+https://radiovm1.fluidstream.eu/radiovm1.mp3
+#EXTINF:-1,Radio VM1 - Steiermark
+https://radiovm1.fluidstream.eu/radiovm1_a1.mp3
+#EXTINF:-1,Radio VM1 - Wien
+https://radiovm1.fluidstream.eu/radiovm1_a2.mp3
+#EXTINF:-1,Radio Vorarlberg
+https://orf-live.ors-shoutcast.at/vbg-q1a
+#EXTINF:-1,Radio Vorarlberg HQ
+https://orf-live.ors-shoutcast.at/vbg-q2a
+#EXTINF:-1,Radio Weanerisch gspielt
+https://radiovm1.fluidstream.eu/weanarisch
+#EXTINF:-1,Radio X-MAS
+http://www.radio-xmas.at:443/xmas?type=http
+#EXTINF:-1,Radio Xmas
+http://www.radio-xmas.at:443/xmas?1512905036085
+#EXTINF:-1,Radio-M1
+https://stream.laut.fm/m1
+#EXTINF:-1,Radio886
+https://frontend.streamonkey.net/radio886-onair/stream/mp3
+#EXTINF:-1,Radiofabrik
+http://stream.radiofabrik.at/rf_low.mp3
+#EXTINF:-1,radioYpsilon - Wir hör'n uns!
+http://mp3.radioypsilon.at:8000/mp3-160
+#EXTINF:-1,Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1,ReplayScape
+https://radio.replayscape.com:8443/128k.mp3
+#EXTINF:-1,RES.RADIO
+https://edge.mixlr.com/channel/zwtuo
+#EXTINF:-1,Revisited
+https://revisited.stream.laut.fm/revisited
+#EXTINF:-1,Rock Antenne (Austria)
+https://s6-webradio.webradio.de/rockantenne-oesterreich
+#EXTINF:-1,Rock Antenne Österreich
+http://s2-webradio.webradio.de/rockantenne-oesterreich
+#EXTINF:-1,Rock Antenne Österreich
+https://s2-webradio.rockantenne.at/rockantenne-oesterreich/stream/mp3
+#EXTINF:-1,Rockantenne Österreich live
+https://s2-webradio.rockantenne.at/rockantenne-oesterreich/stream/aacp
+#EXTINF:-1,Rockantenne Vorarlberg
+https://web.radio.antennevorarlberg.at/av-rock/stream/mp3
+#EXTINF:-1,Rockhuhn
+http://stream.laut.fm/rockhuhn
+#EXTINF:-1,RRTH Austria
+https://rrth.stream.laut.fm/rrth
+#EXTINF:-1,RTV Unirea International
+https://s1.bcmsol.ro/8002/stream
+#EXTINF:-1,Schlager Antenne Österreich
+https://edge68.streamonkey.net/antschlager-live
+#EXTINF:-1,Servus Radio
+https://streams.radio.co/sd1bcd1376/listen
+#EXTINF:-1,Sinfonia Radio - Sinfonia Technica
+https://sinfonia.ruthner.at/radio
+#EXTINF:-1,Sinfonia Technica – Rewiring Classics Radio
+https://sinfonia-technica.com/radio
+#EXTINF:-1,Sinnfunk
+https://radio.sinnfunk.live/listen/sinnfunk/radio.mp3
+#EXTINF:-1,Soundportal
+https://rs8.stream24.net/radio-soundportal.mp3?ref=soundportal.at
+#EXTINF:-1,Soundportal (MP3, 128 kBit)
+http://rs8.stream24.net/radio-soundportal.mp3
+#EXTINF:-1,Soundstorm Radio
+http://stream.soundstorm-radio.com/listen/soundstorm/radio.mp3
+#EXTINF:-1,Soundweave Revisited
+https://sndwvr.site/love.mp3
+#EXTINF:-1,Spirit Live Radio
+http://server7606.streamplus.de/;
+#EXTINF:-1,Super80s
+https://secureonair.krone.at/super80s.aac?aggregator=konsole-hp&1755065290412
+#EXTINF:-1,Superfly Radio
+https://web.stream.superfly.fm/superfly-live?aggregator=Website
+#EXTINF:-1,Superfly webradio Easy
+https://edge81.stream.superfly.fm/superfly-easy
+#EXTINF:-1,Superfly Webradio Pure
+https://edge81.stream.superfly.fm/superfly-pure
+#EXTINF:-1,Superfly.fm
+https://edge66.stream.superfly.fm/superfly-live
+#EXTINF:-1,Technikum City
+https://stream.radiotechnikum.at/TECHCITY
+#EXTINF:-1,Technikum CITY
+http://technikumsmoothjazz.macjingle.at:8206/;stream/1
+#EXTINF:-1,Technikum Gold
+https://stream.radiotechnikum.at/TECHGOLD
+#EXTINF:-1,Technikum ONE
+http://radiotechnikum.macjingle.at:8200/;stream/1
+#EXTINF:-1,Technikum One
+https://stream.radiotechnikum.at/TECHONE
+#EXTINF:-1,Technikum Rock
+https://stream.radiotechnikum.at/TECHROCK
+#EXTINF:-1,Techno Music Radio
+https://hearthis.at/technolivesets/live/stream.mp3?referer=https%3A%2F%2Fwww.techno-livesets.com%2F&s=Yjy&t=1783864478
+#EXTINF:-1,transhits
+http://radiorecord.hostingradio.ru/trancehits96.aacp
+#EXTINF:-1,U1 Tirol
+https://u1-tirol-stream07.radiohost.de/u1-tirol-live_mp3-192
+#EXTINF:-1,U1 Tirol
+https://live.u1-radio.at/u1-tirol-live/mp3-192/?ref=u1-website
+#EXTINF:-1,UP THE IRONS
+https://uptheirons.stream.laut.fm/up_the_irons
+#EXTINF:-1,Viyana FM
+https://radyo.viyanafm.at/1453/stream
+#EXTINF:-1,Vorarlberg 80s
+https://edge63.radio.antennevorarlberg.at/av-live?listenerId=%5BIFA%5D&aw_0_req.userConsentV2=%5BPLAYER_TC_STRING%5D&aggregator=Webplayer
+#EXTINF:-1,WEL 105,5
+https://wel105point5.stream.laut.fm/wel105point5
+#EXTINF:-1,WELLE 1 - Oberöstereich
+https://live.welle1.at:17128/stream
+#EXTINF:-1,Welle 1 - Salzburg
+https://live.welle1.at:18128/stream
+#EXTINF:-1,Welle 1 - Salzburg - HQ
+https://live.welle1.at:18256/stream
+#EXTINF:-1,WELLE 1 Wien & DAB+ – WELLE 1
+https://live.welle1.at:19000/live
+#EXTINF:-1,XXXLutz Radio
+https://liferadio.streamabc.net/lfr_w97ylbvwcps_45m7-mp3-192-1637662?sABC=6n48o2p1%230%234s3p7qo16pq27op446q453s9s431o7q7%23jrofrvgr&1783149421175=&aw_0_1st.playerid=webseite&amsparams=playerid:webseite
+#EXTINF:-1,Yeshua.at Radio
+https://yeshua.at:8443/stream

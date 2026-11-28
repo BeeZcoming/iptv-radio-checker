@@ -55,3 +55,107 @@ https://audio.jurnalfm.md/hq
 https://dc.digi.live.kissfm.ro/kissfm.chisinau
 #EXTINF:-1,Kiss FM Moldova
 https://live.kissfm.md/kissfm.chisinau
+#EXTINF:-1,LOVE PRO Dj Radio Chisinau
+http://live.prodjradio.net:8000/;
+#EXTINF:-1,Love Radio Moldova
+http://37.233.41.76:8000/lovefm
+#EXTINF:-1,Master Class FM (MD)
+https://listen3.myradio24.com/master1
+#EXTINF:-1,Megapolis Fm
+https://megapolisfm.md:8443/886
+#EXTINF:-1,Muz FM Moldova
+https://live.muzfm.md/muzfm
+#EXTINF:-1,Nebula-Radio
+http://myradio24.org/donsergio
+#EXTINF:-1,Radio Ai Noștri
+https://s5.radio.co/sfd9f42d1d/listen
+#EXTINF:-1,Radio Chișinău
+https://radiochisinau.md/hls/RChisinau.m3u8
+#EXTINF:-1,Radio Fresh MD
+https://stream-151.zeno.fm/ttofovumhg1vv?zs=3vmFlLhiROOIFik2GUoxgw
+#EXTINF:-1,Radio Moldova
+http://radiolive.trm.md:8000/RC-Actualitati
+#EXTINF:-1,Radio Moldova Comrat
+https://radiolive.trm.md/hls_comrat/comrat.m3u8
+#EXTINF:-1,Radio Moldova Muzical
+http://radiolive.trm.md:8000/RM-muzical-256
+#EXTINF:-1,Radio Moldova Tineret
+https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8
+#EXTINF:-1,RADIO MUZFM
+https://live.muzfm.md//muzfmhd
+#EXTINF:-1,Radio Noroc Moldova
+https://stream.noroc.tv/radionoroc_aac
+#EXTINF:-1,Radio Plai
+https://stream.radioplai.md/live
+#EXTINF:-1,Radio Record Moldova
+http://212.56.220.74:8000/RecordMD
+#EXTINF:-1,Radio Relax - Funk & Soul
+https://radio1.dixi.md/listen/relax_funk_soul/relaxfunkandsoul128.aac
+#EXTINF:-1,Radio Relax - Jazz & Blues
+https://radio2.dixi.md/listen/relax_jazz__blues/relaxjazzblues128.aac
+#EXTINF:-1,Radio Relax - lo-fi
+https://radio8.dixi.md/listen/relax_lofi/relax_lofi128.aac
+#EXTINF:-1,Radio Relax - Nature
+https://radio8.dixi.md/listen/relax_ice_arena/relaxicearena128.aac
+#EXTINF:-1,Radio Relax - SanRemo
+https://radio8.dixi.md/listen/relax_sanromero/relax_sanromero128.aac
+#EXTINF:-1,Radio Relax - Sweet Dreams
+https://radio1.dixi.md/listen/sweet_dreams/radio.aac
+#EXTINF:-1,Radio Relax - Tricolor
+https://radio1.dixi.md/listen/relax_tricolor/relaxtricolor128.aac
+#EXTINF:-1,Radio Relax - Versiuni Acustice
+https://radio8.dixi.md/listen/relax_acoustic_version/relax_acousticversion128.aac
+#EXTINF:-1,Radio Relax - VinoPizza
+https://radio2.dixi.md/listen/relax_vinopizza/vinopizza.aac
+#EXTINF:-1,Radio Relax - Weekend fără griji
+https://radio8.dixi.md/listen/relax_weekend/relax_weekend.aac
+#EXTINF:-1,Radio RFI Moldova
+https://asculta.radiorfi.ro/live.mp3
+#EXTINF:-1,Radio ROKS - Acoustic Rock
+https://radio6.dixi.md/listen/acoustic/radio.aac
+#EXTINF:-1,Radio ROKS (Moldova) - Classic Rock
+https://radio5.dixi.md/listen/classic_rock/roks_classic_rock128.aac
+#EXTINF:-1,Radio ROKS (Moldova) - Hard'n'Heavy
+https://radio5.dixi.md/listen/roks_hardnheavy/roks_hardnheavy.aac
+#EXTINF:-1,Radio ROKS (Moldova) - Indie Rock
+https://radio6.dixi.md/listen/indie_rock/indie_rock.aac
+#EXTINF:-1,Radio ROKS (Moldova) - New Rock
+https://radio6.dixi.md/listen/new_rock/new_rock128.aac
+#EXTINF:-1,Radio ROKS (Moldova) - Pop Rock
+https://radio6.dixi.md/listen/pop_rock/pop_rock.acc
+#EXTINF:-1,Radio ROKS (Moldova) - Rock Ballads
+https://radio6.dixi.md/listen/rock_ballads/rockballads128.aac
+#EXTINF:-1,Radio ROKS (Moldova) - Rock Tricolor
+https://radio5.dixi.md/listen/roks_tricolor/roks_tricolor128.aac
+#EXTINF:-1,Radio ROKS (Moldova) - Workout
+https://radio6.dixi.md/listen/workout_rock/workout.aac
+#EXTINF:-1,Radio ROKS Moldova
+https://stream.dixi.md:9443/Roks
+#EXTINF:-1,Radio Studentus
+http://radiolive.studentus.md:8000/live
+#EXTINF:-1,Radio Vintage
+https://live.radiovintage.md/vintage_main
+#EXTINF:-1,Radio ZUM 1
+https://streams.radiozum.md/listen/zum1/ZUM1
+#EXTINF:-1,Radio ZUM 2
+https://streams.radiozum.md/listen/zum2/ZUM2
+#EXTINF:-1,Radio ZUM4
+https://streams.radiozum.md/listen/zum4/ZUM4
+#EXTINF:-1,RadioBEAT
+https://ssl.omegahost.ro/9998/stream
+#EXTINF:-1,Realitatea FM
+https://radio.realitatea.group/realitatea
+#EXTINF:-1,Retro FM Moldova
+https://efir.retrofm.md:8000/retro
+#EXTINF:-1,Sex Sound Radio
+https://sexsoundradio.com:8000/radio.mp3
+#EXTINF:-1,Smile FM
+https://sonicssl.namehost.ro/8050/;
+#EXTINF:-1,SoundAds
+https://radio-soundads.webdelo.com/listen/soundads/radio.mp3
+#EXTINF:-1,VibeFM
+https://stream.radio.co/s6a544f6c9/listen
+#EXTINF:-1,Vocea Basarabiei
+https://stream.noroc.tv/radiovb_aac
+#EXTINF:-1,Первое радио в вашем мобильном
+https://cdn.cybercdn.live/Pervoia/Audio/icecast.audio
